@@ -31,22 +31,16 @@ const HomePage = ({ data, location }) => {
         from Singapore 🇸🇬.
       </p>
       <p>
-        I am currently building{" "}
-        <a href="https://youtionary.com" target="_blank" rel="noreferrer">
-          Youtionary
+        I also help local businesses get found and loved online through{" "}
+        <a href="https://services.nickang.com" target="_blank" rel="noreferrer">
+          blazing-fast, SEO-optimised websites
         </a>
-        , an AI language learning app that doesn't suck.
+        .
       </p>
       <p>
         I write and publish regularly my learnings on living a calm, joyful life
         through consistent and kind introspection that I make public as
         dispatches to my newsletter subscribers.
-      </p>
-      <p>
-        The most active part of me is the writer. And as a writer, I can't bear
-        the thought of scattering my writing all over the internet. So, here
-        they are, in one place. Despite being a less discoverable place, it is a
-        more durable place. Like a home should be.
       </p>
       <p>
         <iframe
