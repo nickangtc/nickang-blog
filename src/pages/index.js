@@ -31,13 +31,6 @@ const HomePage = ({ data, location }) => {
         from Singapore 🇸🇬.
       </p>
       <p>
-        I also help local businesses get found and loved online through{" "}
-        <a href="https://services.nickang.com" target="_blank" rel="noreferrer">
-          blazing-fast, SEO-optimised websites
-        </a>
-        .
-      </p>
-      <p>
         I write and publish regularly my learnings on living a calm, joyful life
         through consistent and kind introspection that I make public as
         dispatches to my newsletter subscribers.
