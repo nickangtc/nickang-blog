@@ -2,7 +2,7 @@
 title: "2026 is the year you can't afford to ignore AI"
 date_published: "2026-02-26"
 date_updated: "2026-02-26"
-excerpt: 10 minutes talking head video about this + more
+excerpt: "10 minutes talking head video about this + more"
 tags: ["Substack"]
 fav: false
 backlinks:
@@ -40,9 +40,7 @@ My idea is to look through Google Maps, find restaurants whose websites are eith
 
 I’m charging 500 euros per project at the moment, which is very, very low, to be completely honest, compared to other design agencies — or any sort of agency. Even a one-person shop usually charges upwards of 1,000 to 2,000 euros, based on my market research here in Germany. So 500 is a steal, and I’ve already done the upfront work for them. I’m just asking them to basically hand over the money and they can get the site right away.
 
-[![image](./images/image-02.png)
-
-](https://substackcdn.com/image/fetch/$s_!F7uA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ed10b69-66ae-43f0-ab44-80adbd841bfa_4332x2346.png)One of the websites I’ve made unsolicited for an actual restaurant in Düsseldorf:D
+[![image](./images/image-02.png)](https://substackcdn.com/image/fetch/$s_!F7uA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ed10b69-66ae-43f0-ab44-80adbd841bfa_4332x2346.png)One of the websites I’ve made unsolicited for an actual restaurant in Düsseldorf:D
 
 So that’s my thing at the moment this week. It’s not very sexy — I wish I was building a product and people would be paying me on a subscription basis or something like that, which is the typical success story you see online.
 

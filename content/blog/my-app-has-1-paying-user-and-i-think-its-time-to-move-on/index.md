@@ -2,7 +2,7 @@
 title: "My app has 1 paying user and I think it's time to move on"
 date_published: "2026-02-17"
 date_updated: "2026-02-17"
-excerpt: What's the next hare-brained scheme to make money then?
+excerpt: "What's the next hare-brained scheme to make money then?"
 tags: ["Substack"]
 fav: false
 backlinks:
@@ -34,17 +34,13 @@ The truth about language learners is that they’re a finicky bunch, and in this
 
 So, as I was saying, I’m at a crossroad: **find another potential money making app to build, or just go off and tinker whatever tickles my fancy?**
 
-[![image](./images/image-02.jpg)
-
-](./images/image-01.jpg)This morning’s journal entry in the hotel lobby
+[![image](./images/image-02.jpg)](./images/image-01.jpg)This morning’s journal entry in the hotel lobby
 
 I journaled about this question this morning and ended up channelling Naval Ravikant, as I often do when I’m at a fork. I asked myself: what would Naval do if he were a software engineer with 10 years of experience, freshly independent, with a product that isn’t gaining traction – plus he’s already feeling weary?
 
 His answer, or at least the version of it that came through my journal and a very long Claude session: tinker. Follow the obsession, not the market.
 
-[![image](./images/image-03.png)
-
-](https://substackcdn.com/image/fetch/$s_!NMM0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99fa5f07-9921-4a65-ad77-23ca95d66f86_2338x1470.png)Channeling Naval through Claude Opus 4.6 with ‘extended thinking’, exactly what I needed
+[![image](./images/image-03.png)](https://substackcdn.com/image/fetch/$s_!NMM0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99fa5f07-9921-4a65-ad77-23ca95d66f86_2338x1470.png)Channeling Naval through Claude Opus 4.6 with ‘extended thinking’, exactly what I needed
 
 Here’s what I think I’m going to do: I’ll tinker.
 

@@ -2,7 +2,7 @@
 title: "How Instagram became my unexpected growth engine"
 date_published: "2026-04-06"
 date_updated: "2026-04-06"
-excerpt: 23 reflections about virality
+excerpt: "23 reflections about virality"
 tags: ["Substack"]
 fav: false
 backlinks:
@@ -42,9 +42,7 @@ No more ado, let’s go!
 
 ## My Instagram account and stats
 
-[![image](./images/image-03.png)
-
-](./images/image-01.png)
+[![image](./images/image-03.png)](./images/image-01.png)
 
 - [@suddenprompts](https://www.instagram.com/suddenprompts) - sharing this in case you’re curious to sample the sauce
 

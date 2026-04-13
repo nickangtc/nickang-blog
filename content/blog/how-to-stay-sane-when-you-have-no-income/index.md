@@ -2,15 +2,13 @@
 title: "How to stay sane when you have no income."
 date_published: "2026-03-06"
 date_updated: "2026-03-06"
-excerpt: Don't take damage when you're moving through life at a steady clip
+excerpt: "Don't take damage when you're moving through life at a steady clip"
 tags: ["Substack"]
 fav: false
 backlinks:
 ---
 
-[![image](./images/image-02.jpg)
-
-](./images/image-01.jpg)Working from the car in between shuttling the kid to classes after kindergarten
+[![image](./images/image-02.jpg)](./images/image-01.jpg)Working from the car in between shuttling the kid to classes after kindergarten
 
 I have a confession: I hate Fridays now.
 

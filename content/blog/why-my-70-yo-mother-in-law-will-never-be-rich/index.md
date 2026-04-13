@@ -2,7 +2,7 @@
 title: "Why my 70 y/o mother-in-law will never be rich"
 date_published: "2026-02-15"
 date_updated: "2026-02-15"
-excerpt: The lesson my 4-year-old may have learned that her grandmother missed in 70 years
+excerpt: "The lesson my 4-year-old may have learned that her grandmother missed in 70 years"
 tags: ["Substack"]
 fav: false
 backlinks:
@@ -20,9 +20,7 @@ Charlane and I are both starting our own businesses right now, burning cash. We 
 
 ---
 
-[![image](./images/image-02.png)
-
-](./images/image-01.png)
+[![image](./images/image-02.png)](./images/image-01.png)
 
 Later that evening, our daughter Charlotte comes home from kindergarten. The first thing she sees when she enters the living room was her mum’s notebook.
 
@@ -74,9 +72,7 @@ I feel like I’m making inroads, so I say,
 
 This time, thankfully, she puts the Moleskine down. Then goes straight to her workstation and pulls out a piece of paper and starts sketching something.
 
-[![image](./images/image-03.png)
-
-](https://substackcdn.com/image/fetch/$s_!Ra2S!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a89e248-6fd9-4339-903f-01e5e3b1a84c_2753x1537.png)
+[![image](./images/image-03.png)](https://substackcdn.com/image/fetch/$s_!Ra2S!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a89e248-6fd9-4339-903f-01e5e3b1a84c_2753x1537.png)
 
 As for my mother-in-law, Charlane and I have chosen to adopt the mental model of hauling a burden. It’s like our bodies are heavier than they were, so we’d better strengthen it to be able to pull that weight.
 

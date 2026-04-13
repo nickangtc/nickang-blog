@@ -2,7 +2,7 @@
 title: "5 Unexpected benefits of building your own AI assistant"
 date_published: "2026-03-02"
 date_updated: "2026-03-02"
-excerpt: Field notes from a week of using NanoClaw as my personal productivity layer
+excerpt: "Field notes from a week of using NanoClaw as my personal productivity layer"
 tags: ["Substack"]
 fav: false
 backlinks:
@@ -133,21 +133,13 @@ But if you look at the previous 4 benefits, you’ll realise that it’s still a
 
 Here are some of the screenshots from my early days with Grogu:)
 
-[![image](./images/image-02.png)
+[![image](./images/image-02.png)](./images/image-01.png)Since we spoke to so much, and this post is about what I’ve learned with Grogu, I asked it for insights and it delivered, with style.
 
-](./images/image-01.png)Since we spoke to so much, and this post is about what I’ve learned with Grogu, I asked it for insights and it delivered, with style.
+[![image](./images/image-03.png)](https://substackcdn.com/image/fetch/$s_!YrDy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b1273e6-96da-4f2f-8d84-cd9a093ff8cc_1170x2532.png)Brainstorming a new feature for Grogu - to extract and archive pieces of YouTube videos based on timestamped links and my annotations to build a library of these that will last forever
 
-[![image](./images/image-03.png)
+[![image](./images/image-04.png)](https://substackcdn.com/image/fetch/$s_!RAR9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5588eed7-711c-4ae3-a7dc-ca61a1530766_1170x2532.png)Second day, I was very close to shutting down Grogu because of some very basic implementation problems. Early products have these I guess. I gave an ultimatum and Grogu made hail mary PR that fixed all the issues! Made me trust it much more.
 
-](https://substackcdn.com/image/fetch/$s_!YrDy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b1273e6-96da-4f2f-8d84-cd9a093ff8cc_1170x2532.png)Brainstorming a new feature for Grogu - to extract and archive pieces of YouTube videos based on timestamped links and my annotations to build a library of these that will last forever
-
-[![image](./images/image-04.png)
-
-](https://substackcdn.com/image/fetch/$s_!RAR9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5588eed7-711c-4ae3-a7dc-ca61a1530766_1170x2532.png)Second day, I was very close to shutting down Grogu because of some very basic implementation problems. Early products have these I guess. I gave an ultimatum and Grogu made hail mary PR that fixed all the issues! Made me trust it much more.
-
-[![image](./images/image-05.png)
-
-](https://substackcdn.com/image/fetch/$s_!BALY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64714f85-5d96-43f2-84e2-898575523757_952x1222.png)We’re definitely headed in the direction where UIs are going away because of possibilities like this.
+[![image](./images/image-05.png)](https://substackcdn.com/image/fetch/$s_!BALY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64714f85-5d96-43f2-84e2-898575523757_952x1222.png)We’re definitely headed in the direction where UIs are going away because of possibilities like this.
 
 ---
 

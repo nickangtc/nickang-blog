@@ -2,7 +2,7 @@
 title: "I now have a product, 50 users, and zero certainty"
 date_published: "2026-02-12"
 date_updated: "2026-02-12"
-excerpt: What it's really like to be a solo developer
+excerpt: "What it's really like to be a solo developer"
 tags: ["Substack"]
 fav: false
 backlinks:
@@ -86,9 +86,7 @@ So **I pivoted the app** I was building from auto-flashcards as the core learnin
 
 The rebuild here took **three months** while I was attending German classes. Three whole months! In hindsight that was absolutely a mistake. If i were to do it again I’d cut scope dramatically and ship the iOS app with just the core learning loop and nothing else, perhaps even without onboarding, to gauge if I was heading down the right path earlier.
 
-[![image](./images/image-02.png)
-
-](./images/image-01.png)Demoing the 1-1 chat with a natural-sounding AI feature in Youtionary. It’s wild how natural it feels now to talk to AI by voice
+[![image](./images/image-02.png)](./images/image-01.png)Demoing the 1-1 chat with a natural-sounding AI feature in Youtionary. It’s wild how natural it feels now to talk to AI by voice
 
 So here we are at present day – **my first iOS app ever went live on the App Store about three weeks ago. It’s called Youtionary ([App Store](https://apps.apple.com/us/app/youtionary-ai-language-tutor/id6756575480))** and I’m proud of what it is, what it can do, and what it’ll be able to do in the coming weeks.
 

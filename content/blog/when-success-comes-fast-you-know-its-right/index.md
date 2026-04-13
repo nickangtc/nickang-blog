@@ -22,9 +22,7 @@ How’s all that going?
 
 Well, I sent a total of 45 email pitches with custom websites (already hosted) to German restaurants, cafes, and salons. One replied, and they didn’t convert because they had already sold the business.
 
-[![image](./images/image-02.png)
-
-](./images/image-01.png)Translated from German, she replied: “That is lovely, but I sold my cafe in January 2025” 😅
+[![image](./images/image-02.png)](./images/image-01.png)Translated from German, she replied: “That is lovely, but I sold my cafe in January 2025” 😅
 
 I also sent a total of 20 custom website email pitches to Singapore restaurants, cafes, salons, tuition centers, and fitness studios. Zero replied.
 
@@ -77,9 +75,7 @@ For even more context: she has cycled through 5 different IG accounts over the l
 
 And now I’m going to try and replicate her playbook, but in the AI space rather than the culture/lifestyle space. We even sat down for a “teach me sensei” session where she taught me everything she’s learned in the last month – where she grew her most recent IG account from 0 to 310k views, 550 followers with 57 reels (+12 trial reels) in exactly 1 month – to help me get started:
 
-[![image](./images/image-03.png)
-
-](https://substackcdn.com/image/fetch/$s_!0ZEN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e512149-e6e2-4231-9d22-0054e7f50fa6_2400x1680.png)My notes from the teach me sensei sit-down with Charlane (this app is [Granola](https://join.granola.ai/t/uf74c2s37p))
+[![image](./images/image-03.png)](https://substackcdn.com/image/fetch/$s_!0ZEN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e512149-e6e2-4231-9d22-0054e7f50fa6_2400x1680.png)My notes from the teach me sensei sit-down with Charlane (this app is [Granola](https://join.granola.ai/t/uf74c2s37p))
 
 Here’s how I’m thinking about this:
 

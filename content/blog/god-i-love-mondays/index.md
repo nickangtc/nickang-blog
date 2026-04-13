@@ -2,7 +2,7 @@
 title: "God I love mondays"
 date_published: "2026-03-31"
 date_updated: "2026-03-31"
-excerpt: The one thing that turned my relationship with the workweek completely upside down
+excerpt: "The one thing that turned my relationship with the workweek completely upside down"
 tags: ["Substack"]
 fav: false
 backlinks:
@@ -25,9 +25,7 @@ Now when Sunday night comes around, I’m actually happy, not sad. When I put Ch
 - I’d ideally like to also add in-app notifications to Album (my app) so I can see when friends put a new post up. An alpha tester asked for this and I want it too
 - For lunch I want to try that new Chinese place that my wife Charlane cycled past yesterday
 
-[![image](./images/image-02.png)
-
-](./images/image-01.png)The IG account I’m trying to grow with useful tutorials. This is a source of great joy these past few days as I’m learning more about how to ride the algorithm for growth.
+[![image](./images/image-02.png)](./images/image-01.png)The IG account I’m trying to grow with useful tutorials. This is a source of great joy these past few days as I’m learning more about how to ride the algorithm for growth.
 
 I wrote a really detailed list there not to show you the exact thought process, but to show the **powerful drive that underlies everything**. There’s curiosity, passion, interest, and energy. After quitting my job and going solo, that drive has grown and waned, but it’s trending generally upwards. I’d even describe it sometimes as exhilarating.
 

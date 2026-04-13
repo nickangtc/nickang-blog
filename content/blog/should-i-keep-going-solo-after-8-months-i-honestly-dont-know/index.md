@@ -2,7 +2,7 @@
 title: "Should I keep going solo after 8 months? (I honestly don't know)"
 date_published: "2026-03-19"
 date_updated: "2026-03-19"
-excerpt: The question I'm asking myself after cancelling a co-founder call
+excerpt: "The question I'm asking myself after cancelling a co-founder call"
 tags: ["Substack"]
 fav: false
 backlinks:
@@ -12,9 +12,7 @@ Today I was supposed to have a third call with an old friend to talk about Ancho
 
 We were going to talk about the partnership model and next steps for incorporation. And instead of showing up, I plunged into confusion and swam in an ocean of uncertainty and messaged this to my old friend and would-be partner:
 
-[![image](./images/image-02.png)
-
-](./images/image-01.png)My message read: “Hey (name), I’m having cold feet about going into a partnership. Need a day to think it over - I’ll give you an update by EOD?”
+[![image](./images/image-02.png)](./images/image-01.png)My message read: “Hey (name), I’m having cold feet about going into a partnership. Need a day to think it over - I’ll give you an update by EOD?”
 
 I’ve been an employee in the startup world for long enough to know that becoming a co-founder with someone is effectively a work marriage for 3-5 years, if not much longer. Since I was already feeling unsure before we began, I had to take a step back to re-evaluate. So I told him straight to buy myself some time to think.
 
@@ -22,9 +20,7 @@ This post is me thinking out loud for you to see.
 
 ---
 
-[![image](./images/image-03.png)
-
-](https://substackcdn.com/image/fetch/$s_!6kMI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4350edbb-5e54-4a75-8a6e-53e15536b909_2692x1550.png)The best distillation machinery I know is a whiteboard and a locked in mind
+[![image](./images/image-03.png)](https://substackcdn.com/image/fetch/$s_!6kMI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4350edbb-5e54-4a75-8a6e-53e15536b909_2692x1550.png)The best distillation machinery I know is a whiteboard and a locked in mind
 
 Once I’d sent that WhatsApp message, I opened up Excalidraw and started putting some structure to my messy thoughts and feelings. The wobbly table above is what I ended up with.
 
@@ -54,9 +50,7 @@ Some time this week, a recruiter based in Australia reached out to me. In usual 
 
 But then our call didn’t happen. This happened instead:
 
-[![image](./images/image-04.png)
-
-](https://substackcdn.com/image/fetch/$s_!520B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb43be674-8994-49e4-8084-91f20e2208b6_2691x2691.png)The recruiter bailed last minute, on a slot that was in his bookable calendar.
+[![image](./images/image-04.png)](https://substackcdn.com/image/fetch/$s_!520B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb43be674-8994-49e4-8084-91f20e2208b6_2691x2691.png)The recruiter bailed last minute, on a slot that was in his bookable calendar.
 
 This recruiter reopened some wounds that I’ve suffered when working in the corporate world. Working with people can be either extremely fun and rewarding or extremely annoying and unpleasant.
 
@@ -83,8 +77,6 @@ The question remains unresolved. I’ll continue to work it out in my head and i
 
 For now, I’m taking heed of Naval Ravikant’s advice:
 
-[![image](./images/image-05.png)
-
-](https://substackcdn.com/image/fetch/$s_!MYmH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6edc66c1-a3a8-4cf5-8391-aeb4d9c67881_2408x1830.png)Source: Perplexity
+[![image](./images/image-05.png)](https://substackcdn.com/image/fetch/$s_!MYmH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6edc66c1-a3a8-4cf5-8391-aeb4d9c67881_2408x1830.png)Source: Perplexity
 
 Basically: major life decisions – like partnering up with someone for the next 3-5 or more years – should be given more time. I’m giving myself more time.
