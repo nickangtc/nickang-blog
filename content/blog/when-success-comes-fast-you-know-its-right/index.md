@@ -2,7 +2,7 @@
 title: "When success comes fast, you know it's right"
 date_published: "2026-03-09"
 date_updated: "2026-03-09"
-excerpt: [Update] Why I'm pivoting (again) from building products to building distribution
+excerpt: "[Update] Why I'm pivoting (again) from building products to building distribution"
 tags: ["Substack"]
 fav: false
 backlinks:
