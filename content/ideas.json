@@ -1,0 +1,17 @@
+[
+  {
+    "id": "gatsby-performance-tips",
+    "title": "Gatsby Performance Tips I Learned the Hard Way",
+    "description": "Build-time optimizations, image handling pitfalls, and caching strategies from running a 500+ post Gatsby blog."
+  },
+  {
+    "id": "writing-habit-daily-streak",
+    "title": "How I Maintained a Daily Writing Streak for a Year",
+    "description": "The systems, tools, and mindset shifts that helped me write and publish something every single day."
+  },
+  {
+    "id": "senior-engineer-lessons",
+    "title": "What I Wish I Knew Before Becoming a Senior Engineer",
+    "description": "The non-technical skills and perspective shifts that matter more than code at the senior level."
+  }
+]
