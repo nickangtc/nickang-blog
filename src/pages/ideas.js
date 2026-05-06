@@ -47,6 +47,14 @@ const IdeaCard = ({ idea, initialVoteCount, hasVoted: alreadyVoted }) => {
   const [error, setError] = useState("")
   const [showForm, setShowForm] = useState(false)
 
+  useEffect(() => {
+    setCount(initialVoteCount)
+  }, [initialVoteCount])
+
+  useEffect(() => {
+    setHasVoted(alreadyVoted)
+  }, [alreadyVoted])
+
   const handleVote = async e => {
     e.preventDefault()
     setError("")

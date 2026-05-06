@@ -68,16 +68,16 @@ async function handlePost(store, event) {
       }
     }
 
+    const normalizedEmail = email.toLowerCase().trim()
+
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
-    if (!emailRegex.test(email)) {
+    if (!emailRegex.test(normalizedEmail)) {
       return {
         statusCode: 400,
         headers,
         body: JSON.stringify({ error: "Invalid email address" }),
       }
     }
-
-    const normalizedEmail = email.toLowerCase().trim()
 
     let data = await store.get(ideaId, { type: "json" })
     if (!data) {
