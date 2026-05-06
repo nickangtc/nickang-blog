@@ -78,6 +78,7 @@ const IdeaCard = ({ idea, initialVoteCount, hasVoted: alreadyVoted }) => {
         if (response.status === 409) {
           markAsVoted(idea.id)
           setHasVoted(true)
+          setCount(data.voteCount)
         } else {
           setError(data.error || "Something went wrong. Please try again.")
         }
