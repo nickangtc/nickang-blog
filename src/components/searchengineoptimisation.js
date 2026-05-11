@@ -57,6 +57,7 @@ const SearchEngineOptimisation = ({ title, description, pathname }) => {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
       <meta name="msapplication-TileColor" content="#da532c" />
+      <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
     </>
   )
 }
