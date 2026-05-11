@@ -1,4 +1,5 @@
-@import '../styles/variables';
+@use 'sass:color';
+@use '../styles/variables' as *;
 
 .meta {
   font-family: $serif;
@@ -35,7 +36,7 @@
 }
 
 @function reduce-opacity($color, $opacity) {
-  @return rgba(red($color), green($color), blue($color), $opacity);
+  @return rgba(color.channel($color, "red", $space: rgb), color.channel($color, "green", $space: rgb), color.channel($color, "blue", $space: rgb), $opacity);
 }
 
 .card1 {
