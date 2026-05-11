@@ -11,38 +11,32 @@ const SubscribePage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SearchEngineOptimisation title="Subscribe" location={location} />
       <h1>Subscribe</h1>
-      <blockquote>
-        I want to thank you for helping me down this path of facing the finite
-        nature of my time and abilities (trying to internalise that that's okay)
-        and figuring out what a meaningful life truly means for me (an answer
-        that needs to come from me)
-      </blockquote>
-      <blockquote>
-        I just wanted to drop you a note to tell you that you write very well -
-        as in I'm, not saying in the literary sense but in a straightforward and
-        straight to the heart kind of writing. No bullshit and unnecessary
-        preamble.
-      </blockquote>
-      <blockquote>
-        I really like your style of writing, hence I subscribed! I have been off
-        social media ever since my child was born and have been searching for
-        non-influencer types blogs to read, so it was a pleasant discovery.{" "}
-      </blockquote>
-      <blockquote>
-        I used to follow many blogs, but then I realized they're becoming too
-        formulaic and inauthentic. Your blog is the opposite. I love it for
-        being raw, for being honest.
-      </blockquote>
-
-      <iframe
-        src="https://nickang.substack.com/embed"
-        width="100%"
-        height="320"
-        style={{ border: "1px solid #EEE", background: "white" }}
-        frameborder="0"
-        scrolling="no"
-        title="Subscribe to In the End newsletter"
-      ></iframe>
+      <p>
+        Sometimes I'll send out a newsletter including updates of what I'm
+        doing, what I've found interesting, etc. If you want me to send that to
+        you periodically, drop your email below.
+      </p>
+      <form
+        name="subscribe"
+        method="POST"
+        data-netlify="true"
+        netlify-honeypot="bot-field"
+      >
+        <input type="hidden" name="form-name" value="subscribe" />
+        <p hidden>
+          <label>
+            Don&apos;t fill this out if you&apos;re human: <input name="bot-field" />
+          </label>
+        </p>
+        <p>
+          <label htmlFor="email">Email</label>
+          <br />
+          <input id="email" type="email" name="email" required />
+        </p>
+        <p>
+          <button type="submit">Subscribe</button>
+        </p>
+      </form>
     </Layout>
   )
 }

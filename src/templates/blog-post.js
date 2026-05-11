@@ -159,17 +159,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </p>
       </section>
 
-      <hr />
-
-      <iframe
-        src="https://nickang.substack.com/embed"
-        width="100%"
-        height="320"
-        style={{ border: "1px solid #EEE", background: "white" }}
-        frameborder="0"
-        scrolling="no"
-        title="Subscribe to In the End newsletter"
-      ></iframe>
     </Layout>
   )
 }

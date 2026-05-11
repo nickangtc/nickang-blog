@@ -32,18 +32,7 @@ const HomePage = ({ data, location }) => {
       </p>
       <p>
         I write and publish regularly my learnings on living a calm, joyful life
-        through consistent and kind introspection that I make public as
-        dispatches to my newsletter subscribers.
-      </p>
-      <p>
-        <iframe
-          src="https://nickang.substack.com/embed"
-          width="100%"
-          height="320"
-          style={{ border: "1px solid #EEE", background: "white" }}
-          frameborder="0"
-          title="Subscribe to In the End newsletter"
-        ></iframe>
+        through consistent and kind introspection.
       </p>
       <p>
         For a structured walk around this place, browse{" "}

@@ -52,14 +52,6 @@ const Bio = () => {
         </div>
         <small>
           <Link to="/contact">contact</Link>
-          <span>&nbsp; | &nbsp;</span>
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href={`https://nickang.substack.com/subscribe`}
-          >
-            subscribe
-          </a>
         </small>
       </div>
     </div>
