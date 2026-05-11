@@ -9,7 +9,6 @@ const TeachingBioPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Teaching Bio" location={location} />
       <h1>
         I've helped over 60 people level-up their tech literacy. Now I'm looking
         to reach more people.
@@ -132,6 +131,10 @@ const TeachingBioPage = ({ data, location }) => {
 }
 
 export default TeachingBioPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Teaching Bio" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

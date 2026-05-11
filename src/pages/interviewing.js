@@ -26,10 +26,6 @@ const InterviewingPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation
-        title="Interviewing Articles"
-        location={location}
-      />
       <h1>Interviewing articles</h1>
       <p>Articles about job searching and preparing for interviews.</p>
       <ul>{interviewingPosts}</ul>
@@ -38,6 +34,10 @@ const InterviewingPage = ({ data, location }) => {
 }
 
 export default InterviewingPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Interviewing Articles" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

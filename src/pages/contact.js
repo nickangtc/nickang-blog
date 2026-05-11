@@ -9,7 +9,6 @@ const ContactPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Now" location={location} />
       <h1>Contact</h1>
       <p>Drop your email to: heynickang at gmail dot com</p>{" "}
     </Layout>
@@ -17,6 +16,10 @@ const ContactPage = ({ data, location }) => {
 }
 
 export default ContactPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Contact" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

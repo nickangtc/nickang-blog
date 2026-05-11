@@ -1,22 +1,15 @@
 /**
- * SEO component relies on React Helmet package to insert head meta to every page
+ * SEO component using Gatsby Head API to insert head meta to every page.
+ * Used via exported Head functions in page/template components.
  */
 
 import React from "react"
 import PropTypes from "prop-types"
-import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-// import profilePic from '../../content/assets/nick-ang-profile-photo-square-jun-2018-min.jpg'
 import twitterCardPic from "../../content/assets/nickang-twitter-large-card.png"
 
-const SearchEngineOptimisation = ({
-  description,
-  lang,
-  meta,
-  title,
-  location,
-}) => {
+const SearchEngineOptimisation = ({ title, description, pathname }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -24,6 +17,7 @@ const SearchEngineOptimisation = ({
           siteMetadata {
             title
             description
+            siteUrl
             social {
               twitter
             }
@@ -34,119 +28,48 @@ const SearchEngineOptimisation = ({
   )
 
   const metaDescription = description || site.siteMetadata.description
+  const siteUrl = site.siteMetadata.siteUrl
+  const url = `${siteUrl}${pathname || ""}`
+  const imageUrl = `${siteUrl}${twitterCardPic}`
 
   return (
-    <Helmet
-      htmlAttributes={{
-        lang,
-      }}
-      title={title}
-      titleTemplate={`%s | ${site.siteMetadata.title}`}
-      link={[
-        {
-          rel: `apple-touch-icon`,
-          sizes: `180x180`,
-          href: `/apple-touch-icon.png`,
-        },
-        {
-          rel: `icon`,
-          type: `image/png`,
-          sizes: `32x32`,
-          href: `/favicon-32x32.png`,
-        },
-        {
-          rel: `icon`,
-          type: `image/png`,
-          sizes: `16x16`,
-          href: `/favicon-16x16.png`,
-        },
-        {
-          rel: `mask-icon`,
-          href: `/safari-pinned-tab.svg`,
-          color: `#5bbad5`,
-        },
-      ]}
-      meta={[
-        {
-          name: `title`,
-          content: title,
-        },
-        {
-          name: `description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:title`,
-          content: title,
-        },
-        {
-          property: `og:description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:type`,
-          content: `website`,
-        },
-        {
-          property: `og:image`,
-          content: twitterCardPic,
-        },
-        {
-          property: `og:site_name`,
-          content: `Nick Ang`,
-        },
-        {
-          property: `og:url`,
-          content: location.href,
-        },
-        {
-          name: `twitter:url`,
-          content: location.href,
-        },
-        {
-          name: `twitter:card`,
-          content: `summary_large_image`,
-        },
-        {
-          name: `twitter:creator`,
-          content: `@${site.siteMetadata.social.twitter}`,
-        },
-        {
-          name: `twitter:site`,
-          content: `@${site.siteMetadata.social.twitter}`,
-        },
-        {
-          name: `twitter:image`,
-          content: twitterCardPic,
-        },
-        {
-          name: `twitter:title`,
-          content: title,
-        },
-        {
-          name: `twitter:description`,
-          content: metaDescription,
-        },
-        {
-          name: `msapplication-TileColor`,
-          content: `#da532c`,
-        },
-      ].concat(meta)}
-    />
+    <>
+      <title>{`${title} | ${site.siteMetadata.title}`}</title>
+      <meta name="title" content={title} />
+      <meta name="description" content={metaDescription} />
+      <meta property="og:title" content={title} />
+      <meta property="og:description" content={metaDescription} />
+      <meta property="og:type" content="website" />
+      <meta property="og:image" content={imageUrl} />
+      <meta property="og:site_name" content="Nick Ang" />
+      <meta property="og:url" content={url} />
+      <meta name="twitter:url" content={url} />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta
+        name="twitter:creator"
+        content={`@${site.siteMetadata.social.twitter}`}
+      />
+      <meta
+        name="twitter:site"
+        content={`@${site.siteMetadata.social.twitter}`}
+      />
+      <meta name="twitter:image" content={imageUrl} />
+      <meta name="twitter:title" content={title} />
+      <meta name="twitter:description" content={metaDescription} />
+      <meta name="msapplication-TileColor" content="#da532c" />
+      <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+    </>
   )
 }
 
 SearchEngineOptimisation.defaultProps = {
-  lang: `en`,
-  meta: [],
   description: ``,
 }
 
 SearchEngineOptimisation.propTypes = {
   description: PropTypes.string,
-  lang: PropTypes.string,
-  meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
+  pathname: PropTypes.string,
 }
 
 export default SearchEngineOptimisation

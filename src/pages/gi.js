@@ -28,7 +28,6 @@ const GoodIntentionsPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Good intentions" location={location} />
       <h1>Good intentions</h1>
       <p>
         Where I track all my good intentions and whether they play out as
@@ -40,6 +39,10 @@ const GoodIntentionsPage = ({ data, location }) => {
 }
 
 export default GoodIntentionsPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Good intentions" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

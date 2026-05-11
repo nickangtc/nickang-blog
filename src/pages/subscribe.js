@@ -9,7 +9,6 @@ const SubscribePage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Subscribe" location={location} />
       <h1>Subscribe</h1>
       <p>
         Sometimes I'll send out a newsletter including updates of what I'm
@@ -42,6 +41,10 @@ const SubscribePage = ({ data, location }) => {
 }
 
 export default SubscribePage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Subscribe" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

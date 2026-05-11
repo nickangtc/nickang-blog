@@ -9,7 +9,6 @@ const RecommendationsPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Recommendations" location={location} />
       <h1>Recommendations</h1>
       <p>Be.</p>
       <hr />
@@ -19,6 +18,10 @@ const RecommendationsPage = ({ data, location }) => {
 }
 
 export default RecommendationsPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Recommendations" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

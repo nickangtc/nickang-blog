@@ -26,7 +26,6 @@ const TechPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Tech Articles" location={location} />
       <h1>Tech articles</h1>
       <p>Articles about software engineering and web development.</p>
       <ul>{techPosts}</ul>
@@ -35,6 +34,10 @@ const TechPage = ({ data, location }) => {
 }
 
 export default TechPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Tech Articles" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

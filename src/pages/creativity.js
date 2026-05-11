@@ -26,10 +26,6 @@ const CreativityPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation
-        title="Creativity Articles"
-        location={location}
-      />
       <h1>Creativity articles</h1>
       <p>
         Articles about writing, blogging, visual thinking, problem solving, and
@@ -41,6 +37,10 @@ const CreativityPage = ({ data, location }) => {
 }
 
 export default CreativityPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Creativity Articles" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

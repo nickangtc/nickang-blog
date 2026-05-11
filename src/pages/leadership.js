@@ -26,10 +26,6 @@ const LeadershipPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation
-        title="Leadership Articles"
-        location={location}
-      />
       <h1>Leadership articles</h1>
       <p>Articles about being a leader.</p>
       <ul>{leadershipPosts}</ul>
@@ -38,6 +34,10 @@ const LeadershipPage = ({ data, location }) => {
 }
 
 export default LeadershipPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Leadership Articles" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {
