@@ -28,7 +28,9 @@ const SearchEngineOptimisation = ({ title, description, pathname }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const url = `${site.siteMetadata.siteUrl}${pathname || ""}`
+  const siteUrl = site.siteMetadata.siteUrl
+  const url = `${siteUrl}${pathname || ""}`
+  const imageUrl = `${siteUrl}${twitterCardPic}`
 
   return (
     <>
@@ -38,7 +40,7 @@ const SearchEngineOptimisation = ({ title, description, pathname }) => {
       <meta property="og:title" content={title} />
       <meta property="og:description" content={metaDescription} />
       <meta property="og:type" content="website" />
-      <meta property="og:image" content={twitterCardPic} />
+      <meta property="og:image" content={imageUrl} />
       <meta property="og:site_name" content="Nick Ang" />
       <meta property="og:url" content={url} />
       <meta name="twitter:url" content={url} />
@@ -51,28 +53,10 @@ const SearchEngineOptimisation = ({ title, description, pathname }) => {
         name="twitter:site"
         content={`@${site.siteMetadata.social.twitter}`}
       />
-      <meta name="twitter:image" content={twitterCardPic} />
+      <meta name="twitter:image" content={imageUrl} />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
       <meta name="msapplication-TileColor" content="#da532c" />
-      <link
-        rel="apple-touch-icon"
-        sizes="180x180"
-        href="/apple-touch-icon.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="32x32"
-        href="/favicon-32x32.png"
-      />
-      <link
-        rel="icon"
-        type="image/png"
-        sizes="16x16"
-        href="/favicon-16x16.png"
-      />
-      <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
     </>
   )
 }
