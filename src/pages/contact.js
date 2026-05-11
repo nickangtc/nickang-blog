@@ -18,7 +18,7 @@ const ContactPage = ({ data, location }) => {
 export default ContactPage
 
 export const Head = ({ location }) => (
-  <SearchEngineOptimisation title="Now" pathname={location.pathname} />
+  <SearchEngineOptimisation title="Contact" pathname={location.pathname} />
 )
 
 export const pageQuery = graphql`
