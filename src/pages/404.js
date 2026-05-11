@@ -9,7 +9,6 @@ const NotFoundPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Oops, not found!" location={location} />
       <h1>Not Found</h1>
       <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
       <p><Link to="/">Go home</Link></p>
@@ -18,6 +17,10 @@ const NotFoundPage = ({ data, location }) => {
 }
 
 export default NotFoundPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Oops, not found!" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

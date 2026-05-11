@@ -9,7 +9,6 @@ const SubscribePage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Subscribe" location={location} />
       <h1>Subscribe</h1>
       <blockquote>
         I want to thank you for helping me down this path of facing the finite
@@ -48,6 +47,10 @@ const SubscribePage = ({ data, location }) => {
 }
 
 export default SubscribePage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Subscribe" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

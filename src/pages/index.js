@@ -18,7 +18,6 @@ const HomePage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Home" location={location} />
       <h1 id="my-digital-garden">
         Hey, I'm Nick.{" "}
         <span role="img" aria-label="hand wave emoji">
@@ -64,6 +63,10 @@ const HomePage = ({ data, location }) => {
 }
 
 export default HomePage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Home" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

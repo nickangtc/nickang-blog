@@ -26,7 +26,6 @@ const LivingPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Living Articles" location={location} />
       <h1>Living articles</h1>
       <p>Articles about living a meaningful life.</p>
       <ul>{livingPosts}</ul>
@@ -35,6 +34,10 @@ const LivingPage = ({ data, location }) => {
 }
 
 export default LivingPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Living Articles" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

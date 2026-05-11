@@ -25,7 +25,6 @@ const EverythingPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Everything" location={location} />
       <h1>Everything</h1>
       <p>
         Literally every post that exists on this blog, listed in reverse
@@ -37,6 +36,10 @@ const EverythingPage = ({ data, location }) => {
 }
 
 export default EverythingPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Everything" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

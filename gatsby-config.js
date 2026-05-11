@@ -64,7 +64,6 @@ module.exports = {
         icon: `content/assets/favicon-round.png`,
       },
     },
-    `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {

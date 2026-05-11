@@ -34,7 +34,6 @@ const BlogList = ({ data, location, pageContext }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Blog posts" location={location} />
       <p>
         Want to see a full list instead of pages of results? Click{" "}
         <Link to="/e">here</Link>.
@@ -88,6 +87,10 @@ const BlogList = ({ data, location, pageContext }) => {
 }
 
 export default BlogList
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Blog posts" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query pageQuery($skip: Int!, $limit: Int!) {

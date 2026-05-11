@@ -105,7 +105,6 @@ const TopicsPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Topics" location={location} />
       <h1>Articles by Topic</h1>
       <p>
         This blog is plenty messy since I write about anything that I find
@@ -124,6 +123,10 @@ const TopicsPage = ({ data, location }) => {
 }
 
 export default TopicsPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Topics" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

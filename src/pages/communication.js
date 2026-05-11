@@ -26,10 +26,6 @@ const CommunicationPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation
-        title="Communication Articles"
-        location={location}
-      />
       <h1>Communication articles</h1>
       <p>Articles about mastering the art of communication.</p>
       <ul>{communicationPosts}</ul>
@@ -38,6 +34,10 @@ const CommunicationPage = ({ data, location }) => {
 }
 
 export default CommunicationPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Communication Articles" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

@@ -47,11 +47,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation
-        title={post.frontmatter.title}
-        description={post.frontmatter.excerpt || post.excerpt}
-        location={location}
-      />
       <article>
         <header>
           <h1 className={title}>{post.frontmatter.title}</h1>
@@ -175,6 +170,17 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 }
 
 export default BlogPostTemplate
+
+export const Head = ({ data, location }) => {
+  const post = data.markdownRemark
+  return (
+    <SearchEngineOptimisation
+      title={post.frontmatter.title}
+      description={post.frontmatter.excerpt || post.excerpt}
+      pathname={location.pathname}
+    />
+  )
+}
 
 // Get a single blog post with specified $slug
 // $slug is passed in when createPages Gatsby API is called in gatsby-node.js

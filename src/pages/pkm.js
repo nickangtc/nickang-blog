@@ -26,7 +26,6 @@ const PkmPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="PKM Articles" location={location} />
       <h1>PKM articles</h1>
       <p>Articles about Personal Knowledge Management (PKM).</p>
       <p>
@@ -41,6 +40,10 @@ const PkmPage = ({ data, location }) => {
 }
 
 export default PkmPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="PKM Articles" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

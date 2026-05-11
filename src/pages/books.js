@@ -26,7 +26,6 @@ const BooksPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation title="Books list" location={location} />
       <h1>Books list</h1>
       <p>Below are the notes for some of the books I've read.</p>
       <ul>{booksPosts}</ul>
@@ -35,6 +34,10 @@ const BooksPage = ({ data, location }) => {
 }
 
 export default BooksPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="Books list" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {

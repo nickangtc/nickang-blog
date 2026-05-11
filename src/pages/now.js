@@ -9,10 +9,6 @@ const NowPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SearchEngineOptimisation
-        title="What I'm doing now"
-        location={location}
-      />
       <h1>What I'm doing now</h1>
       <h2>Trying my best to be a good parent & partner</h2>
       <p>
@@ -64,6 +60,10 @@ const NowPage = ({ data, location }) => {
 }
 
 export default NowPage
+
+export const Head = ({ location }) => (
+  <SearchEngineOptimisation title="What I'm doing now" pathname={location.pathname} />
+)
 
 export const pageQuery = graphql`
   query {
