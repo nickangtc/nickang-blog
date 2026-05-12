@@ -1,17 +1,24 @@
 @use '../styles/variables' as *;
 
-.container {
-  margin: 0 auto;
+.layout {
   display: flex;
-  flex-direction: column;
   min-height: 100vh;
-  max-width: 50rem;
 }
 
 .content {
-  flex-grow: 1;
+  width: 100%;
+  max-width: $layout-content-max-width;
+  padding: $layout-content-padding-y $layout-content-padding-x;
 }
 
-.body {
-  margin-top: $base-size * 3;
+// On narrow screens, collapse sidebar into the top while keeping page readable.
+@media (max-width: 900px) {
+  .layout {
+    display: block;
+  }
+
+  .content {
+    margin: 0 auto;
+    padding: $layout-content-padding-y $space-2xl;
+  }
 }

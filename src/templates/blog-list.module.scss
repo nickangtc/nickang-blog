@@ -1,71 +1,38 @@
-@use 'sass:color';
 @use '../styles/variables' as *;
 
-.meta {
-  font-family: $serif;
-  font-size: $base-size * 0.8;
-  text-transform: uppercase;
+.entry {
+  margin: 0 0 $space-2xl;
+}
+
+.articleTitle {
+  margin-bottom: $space-md;
+
+  a {
+    color: black;
+    text-decoration: none;
+    box-shadow: none;
+  }
 }
 
 .meta {
   margin-bottom: 0;
+  font-family: $serif;
+  font-size: $space-xs;
+  color: $darkgray;
 }
 
-.cardLink {
-  text-decoration: none;
-  color: black;
+
+.body {
+  margin-bottom: $space-md;
 }
 
-.card {
-  padding: $rhythm * 1.2;
-  border: 1px solid $gray;
-  border-radius: 5px;
-  margin-bottom: $rhythm;
-  box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, 0.2);
+.divider {
+  margin: $space-md 0;
+  border: none;
+  border-top: 1px solid rgba(0, 0, 0, 0.3);
 }
 
-.cardTitle {
-  font-weight: bold;
-  margin-top: 0;
-  margin-bottom: $rhythm;
-
-  &:hover {
-    text-decoration: underline;
-    color: $blue;
-  }
-}
-
-@function reduce-opacity($color, $opacity) {
-  @return rgba(color.channel($color, "red", $space: rgb), color.channel($color, "green", $space: rgb), color.channel($color, "blue", $space: rgb), $opacity);
-}
-
-.card1 {
-  $opacity: 1;
-  border-color: reduce-opacity($blue, $opacity);
-  border-width: 2px;
-  box-shadow: 2px 2px 3px 0 reduce-opacity($blue, $opacity);
-}
-
-.card2 {
-  @extend .card1;
-  $opacity: 0.6;
-  border-color: reduce-opacity($blue, $opacity);
-  box-shadow: 2px 2px 3px 0 reduce-opacity($blue, $opacity);
-}
-
-.card3 {
-  @extend .card1;
-  $opacity: 0.3;
-  border-color: reduce-opacity($blue, $opacity);
-  box-shadow: 2px 2px 3px 0 reduce-opacity($blue, $opacity);
-}
-
-.excerpt {
-  margin-bottom: $rhythm;
-  line-height: $rhythm;
-}
-
-ul.posts-nav {
+.posts-nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -75,12 +42,5 @@ ul.posts-nav {
 
   a {
     color: black;
-  }
-}
-
-// Portrait and Landscape
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
-  .title {
-    margin-top: $base-size * 1.25;
   }
 }

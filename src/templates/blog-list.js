@@ -4,33 +4,28 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
 import {
-  cardTitle,
+  articleTitle,
   meta,
-  card,
-  cardLink,
-  excerpt,
   postsNav,
-  card1,
-  card2,
-  card3,
+  entry,
+  divider,
+  body,
 } from "./blog-list.module.scss"
 
 const BlogList = ({ data, location, pageContext }) => {
-  const pathname = "/blog"
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
 
   const { currentPage, numPages } = pageContext
   const isFirst = currentPage === 1
-  const isSecond = currentPage === 2
   const isLast = currentPage === numPages
 
-  const nextPage = `${pathname}/${(currentPage + 1).toString()}`
-  let prevPage = isFirst ? "/" : `${pathname}/${(currentPage - 1).toString()}`
-  if (isSecond) {
-    // /blog/1 is invalid => /blog is the correct 1st page
-    prevPage = pathname
-  }
+  const nextPage = isLast ? null : `/${(currentPage + 1).toString()}`
+  const prevPage = isFirst
+    ? null
+    : currentPage === 2
+    ? "/"
+    : `/${(currentPage - 1).toString()}`
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -39,25 +34,29 @@ const BlogList = ({ data, location, pageContext }) => {
         <Link to="/e">here</Link>.
       </p>
 
-      {posts.map((post, index) => {
-        const accentedBorder =
-          index === 0 ? card1 : index === 1 ? card2 : index === 2 ? card3 : ""
+      {posts.map(post => {
+        const published = post.node.frontmatter.date_published
+        const edited =
+          post.node.frontmatter.date_updated &&
+          post.node.frontmatter.date_updated !== post.node.frontmatter.date_published
+            ? `, EDITED ${post.node.frontmatter.date_updated}`
+            : ""
+
         return (
-          <Link
-            to={post.node.fields.slug}
-            className={cardLink}
-            key={post.node.fields.title}
-          >
-            <article className={`${card} ${accentedBorder}`}>
-              <h2 className={cardTitle}>{post.node.frontmatter.title}</h2>
-              <p className={excerpt}>{post.node.frontmatter.excerpt}</p>
-              <p className={meta}>
-                {post.node.frontmatter.date_published} |{" "}
-                {post.node.frontmatter.fav ? "[🔥]" : ""}{" "}
-                {post.node.frontmatter.tags?.join(", ")}
-              </p>
-            </article>
-          </Link>
+          <article className={entry} key={post.node.fields.slug}>
+            <h2 className={articleTitle}>
+              <Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link>
+            </h2>
+            <div
+              className={body}
+              dangerouslySetInnerHTML={{ __html: post.node.html }}
+            />
+            <hr className={divider} />
+            <p className={meta}>
+              published: {published}
+              {edited}
+            </p>
+          </article>
         )
       })}
 
@@ -110,16 +109,13 @@ export const pageQuery = graphql`
       edges {
         node {
           html
-          excerpt(pruneLength: 300)
           fields {
             slug
           }
           frontmatter {
             date_published(formatString: "DD MMM YYYY")
+            date_updated(formatString: "DD MMM YYYY")
             title
-            excerpt
-            tags
-            fav
           }
         }
       }

@@ -2,6 +2,12 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
+import {
+  subscribeForm,
+  subscribeInput,
+  subscribeButton,
+  subscribeLabel,
+} from "./subscribe.module.scss"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
 
 const SubscribePage = ({ data, location }) => {
@@ -11,15 +17,16 @@ const SubscribePage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <h1>Subscribe</h1>
       <p>
-        Sometimes I'll send out a newsletter including updates of what I'm
-        doing, what I've found interesting, etc. If you want me to send that to
-        you periodically, drop your email below.
+        Sometimes I send out a newsletter with updates on what I&apos;m working on and
+        what I&apos;ve found interesting. Drop your email below if you want those in your
+        inbox.
       </p>
       <form
         name="subscribe"
         method="POST"
         data-netlify="true"
         netlify-honeypot="bot-field"
+        className={subscribeForm}
       >
         <input type="hidden" name="form-name" value="subscribe" />
         <p hidden>
@@ -27,14 +34,20 @@ const SubscribePage = ({ data, location }) => {
             Don&apos;t fill this out if you&apos;re human: <input name="bot-field" />
           </label>
         </p>
-        <p>
-          <label htmlFor="email">Email</label>
-          <br />
-          <input id="email" type="email" name="email" required />
-        </p>
-        <p>
-          <button type="submit">Subscribe</button>
-        </p>
+        <label htmlFor="email" className={subscribeLabel}>
+          Email
+        </label>
+        <input
+          id="email"
+          className={subscribeInput}
+          type="email"
+          name="email"
+          placeholder="Email address"
+          required
+        />
+        <button className={subscribeButton} type="submit">
+          Subscribe
+        </button>
       </form>
     </Layout>
   )

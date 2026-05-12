@@ -12,3 +12,20 @@ $serif: 'Courier New', Courier, monospace;
 // measurements
 $base-size: 1.1rem;
 $rhythm: $base-size * 1.4;
+
+// layout spacing tokens
+$space-xxs: calc($base-size * 0.25);
+$space-xs: calc($base-size * 0.5);
+$space-sm: calc($base-size * 0.75);
+$space-md: $base-size;
+$space-lg: calc($base-size * 1.25);
+$space-xl: calc($base-size * 1.5);
+$space-2xl: calc($base-size * 2);
+$space-3xl: calc($base-size * 2.5);
+$space-4xl: calc($base-size * 3);
+
+$layout-content-max-width: 54rem;
+$layout-sidebar-width: 16rem;
+$layout-sidebar-divider: 4px;
+$layout-content-padding-y: $space-2xl;
+$layout-content-padding-x: $space-4xl;
