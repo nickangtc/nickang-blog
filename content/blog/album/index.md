@@ -3,7 +3,7 @@ title: "Album"
 date_published: "2026-05-12"
 excerpt: "A placeholder project post to verify the /projects list page and template."
 tags: ["Project"]
-cover: "/project-covers/album-cover.svg"
+cover: "/project-covers/album-og.jpg"
 backlinks:
   - slug: "/album/"
     title: "Album"

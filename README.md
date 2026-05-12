@@ -41,6 +41,7 @@ List of unique topic tags:
 
 List of unique type tags:
 
+- **"Project"**: Project showcase or build log; shown in the dedicated `/projects` index and omitted from the main blog list.
 - **"Book"**
 - **"Tutorial"**
 - **"Raw essays"** - 30 days raw essays project
