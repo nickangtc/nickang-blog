@@ -18,12 +18,78 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   }
 }
 
+const initialPostsPerList = 8
+const postsPerInfiniteLoad = 4
+
+const getPaginatedListConfig = (totalCount, pageIndex) => {
+  const numPages =
+    totalCount <= initialPostsPerList
+      ? 1
+      : 1 + Math.ceil((totalCount - initialPostsPerList) / postsPerInfiniteLoad)
+
+  return {
+    numPages,
+    limit: pageIndex === 0 ? initialPostsPerList : postsPerInfiniteLoad,
+    skip:
+      pageIndex === 0
+        ? 0
+        : initialPostsPerList + (pageIndex - 1) * postsPerInfiniteLoad,
+  }
+}
+
+const topicPages = [
+  {
+    tag: "Tech",
+    title: "Tech",
+    basePath: "/tech",
+    intro: "Articles about software engineering and web development.",
+  },
+  {
+    tag: "Living",
+    title: "Living",
+    basePath: "/living",
+    intro: "Articles about living a meaningful life.",
+  },
+  {
+    tag: "Creativity",
+    title: "Creativity",
+    basePath: "/creativity",
+    intro:
+      "Articles about writing, blogging, visual thinking, problem solving, and just about anything creative.",
+  },
+  {
+    tag: "Annual Review",
+    title: "Annual Review",
+    basePath: "/annual-review",
+    intro: "Yearly reflections on what happened, what changed, and what I learned.",
+  },
+  {
+    tag: "Leadership",
+    title: "Leadership",
+    basePath: "/leadership",
+    intro: "Articles about being a leader.",
+  },
+  {
+    tag: "Communication",
+    title: "Communication",
+    basePath: "/communication",
+    intro: "Articles about mastering the art of communication.",
+  },
+  {
+    tag: "Books",
+    title: "Books",
+    basePath: "/books",
+    intro: "Notes and reflections from books I've read.",
+  },
+]
+
 // createPages: Generate blog post pages
 // Backlinks are now stored in frontmatter and queried directly
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
+  const topicList = path.resolve(`./src/templates/topic-list.js`)
   const result = await graphql(
     `
       {
@@ -38,6 +104,8 @@ exports.createPages = async ({ graphql, actions }) => {
               }
               frontmatter {
                 title
+                status
+                tags
               }
             }
           }
@@ -51,6 +119,13 @@ exports.createPages = async ({ graphql, actions }) => {
   }
 
   const posts = result.data.allMarkdownRemark.edges
+  const blogPosts = posts.filter(post => {
+    const frontmatter = post.node.frontmatter
+    return (
+      frontmatter.status !== "draft" &&
+      !frontmatter.tags?.includes("Personal")
+    )
+  })
 
   // Create individual blog post pages
   posts.forEach((post, index) => {
@@ -68,20 +143,54 @@ exports.createPages = async ({ graphql, actions }) => {
     })
   })
 
-  // Create paginated blog index pages
-  const postsPerPage = 20
-  const numPages = Math.ceil(posts.length / postsPerPage)
+  // Create paginated blog index pages. The first page renders more posts;
+  // subsequent pages are fetched by infinite scroll in smaller batches.
+  const blogNumPages = getPaginatedListConfig(blogPosts.length, 0).numPages
 
-  Array.from({ length: numPages }).forEach((_, i) => {
+  Array.from({ length: blogNumPages }).forEach((_, i) => {
+    const pagination = getPaginatedListConfig(blogPosts.length, i)
+
     createPage({
-      path: i === 0 ? `/blog` : `/blog/${i + 1}`,
+      path: i === 0 ? `/` : `/${i + 1}`,
       component: path.resolve("./src/templates/blog-list.js"),
       context: {
-        limit: postsPerPage,
-        skip: i * postsPerPage,
-        numPages,
+        limit: pagination.limit,
+        skip: pagination.skip,
+        numPages: pagination.numPages,
         currentPage: i + 1,
       },
+    })
+  })
+
+  // Create paginated topic pages
+  topicPages.forEach(topic => {
+    const topicPosts = posts.filter(post => {
+      const frontmatter = post.node.frontmatter
+      return (
+        frontmatter.status !== "draft" &&
+        frontmatter.tags &&
+        frontmatter.tags.includes(topic.tag)
+      )
+    })
+    const topicNumPages = getPaginatedListConfig(topicPosts.length, 0).numPages
+
+    Array.from({ length: topicNumPages }).forEach((_, i) => {
+      const pagination = getPaginatedListConfig(topicPosts.length, i)
+
+      createPage({
+        path: i === 0 ? topic.basePath : `${topic.basePath}/${i + 1}`,
+        component: topicList,
+        context: {
+          tag: topic.tag,
+          title: topic.title,
+          intro: topic.intro,
+          basePath: topic.basePath,
+          limit: pagination.limit,
+          skip: pagination.skip,
+          numPages: pagination.numPages,
+          currentPage: i + 1,
+        },
+      })
     })
   })
 }

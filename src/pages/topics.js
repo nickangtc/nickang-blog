@@ -21,8 +21,7 @@ const TAGS_TO_SHOW_AS_TOPICS = [
   "Annual Review",
   "Leadership",
   "Communication",
-  "Interviewing",
-  "Good intentions",
+  "Books",
 ]
 
 const _groupByTag = (articles = []) => {
@@ -47,8 +46,7 @@ const tagToSectionHeading = tag => {
     "Annual Review": "📆 Annual Review",
     Leadership: "🙇🏻‍♂️ Leadership",
     Communication: "🗣 Communication",
-    Interviewing: "💼 Interviewing",
-    "Good intentions": "🤞 Good intentions (and how they play out)",
+    Books: "📚 Books",
   }
   return map[tag]
 }
@@ -62,8 +60,7 @@ const tagToPageSlug = tag => {
     "Annual Review": "annual-review",
     Leadership: "leadership",
     Communication: "communication",
-    Interviewing: "interviewing",
-    "Good intentions": "gi",
+    Books: "books",
   }
   return map[tag]
 }
@@ -108,14 +105,9 @@ const TopicsPage = ({ data, location }) => {
       <h1>Articles by Topic</h1>
       <p>
         This blog is plenty messy since I write about anything that I find
-        interesting, but over the years a few main topics have emerged. This
-        page organises articles I've written by those emergent topics.
-      </p>
-      <p>
-        Have fun reading!{" "}
-        <span role="img" aria-label="rabbit and hole emojis for fun">
-          🕳️ 🕳️ 🕳️ 🐇
-        </span>
+        interesting, but over the years a few main topics have emerged. Pick a
+        topic from the sidebar to browse the full archive for that theme, or use
+        this page as a quick map.
       </p>
       <div className={twoColumnFlexContainer}>{topicSections}</div>
     </Layout>
@@ -138,6 +130,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       filter: {
         frontmatter: {
+          status: { ne: "draft" }
           tags: {
             in: [
               "Tech"
@@ -146,8 +139,7 @@ export const pageQuery = graphql`
               "Annual Review"
               "Leadership"
               "Communication"
-              "Interviewing"
-              "Good intentions"
+              "Books"
             ]
           }
         }

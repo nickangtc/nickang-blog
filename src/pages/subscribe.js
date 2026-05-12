@@ -11,31 +11,10 @@ const SubscribePage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <h1>Subscribe</h1>
       <p>
-        Sometimes I'll send out a newsletter including updates of what I'm
-        doing, what I've found interesting, etc. If you want me to send that to
-        you periodically, drop your email below.
+        Sometimes I send out a newsletter with updates on what I&apos;m working on
+        and what I&apos;ve found interesting. Use the form in the sidebar to get
+        those in your inbox.
       </p>
-      <form
-        name="subscribe"
-        method="POST"
-        data-netlify="true"
-        netlify-honeypot="bot-field"
-      >
-        <input type="hidden" name="form-name" value="subscribe" />
-        <p hidden>
-          <label>
-            Don&apos;t fill this out if you&apos;re human: <input name="bot-field" />
-          </label>
-        </p>
-        <p>
-          <label htmlFor="email">Email</label>
-          <br />
-          <input id="email" type="email" name="email" required />
-        </p>
-        <p>
-          <button type="submit">Subscribe</button>
-        </p>
-      </form>
     </Layout>
   )
 }

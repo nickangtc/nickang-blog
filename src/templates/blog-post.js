@@ -3,12 +3,14 @@ import { Link, graphql, navigate } from "gatsby"
 
 // import Bio from "../components/bio"
 import Layout from "../components/layout"
+import LightboxableContent from "../components/lightboxable-content"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
 import {
   title,
-  date,
+  meta,
+  divider,
+  postContent,
   postsNav,
-  creationDuration,
 } from "./blog-post.module.scss"
 
 // Destructuring { data, pageContext, location } = props
@@ -40,17 +42,14 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const datesLine =
     post.frontmatter.date_updated &&
     post.frontmatter.date_updated !== post.frontmatter.date_published
-      ? `published: ${post.frontmatter.date_published} | updated: ${post.frontmatter.date_updated}`
-      : `published: ${post.frontmatter.date_published}`
-
-  const creationDurationMinutes = post.frontmatter.creation_duration_minutes
+      ? `Published: ${post.frontmatter.date_published} | Updated: ${post.frontmatter.date_updated}`
+      : post.frontmatter.date_published
 
   return (
     <Layout location={location} title={siteTitle}>
       <article>
         <header>
           <h1 className={title}>{post.frontmatter.title}</h1>
-          <time className={date}>{datesLine}</time>
         </header>
         {post?.frontmatter?.status === "draft" && (
           <p>
@@ -72,8 +71,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <p>
             <strong>
               (This is a growing collection, so it's better to think of it as a
-              wiki page. Check the updated date below the title for last date of
-              update.)
+              wiki page. Check the updated date at the bottom of the article for
+              the last date of update.)
             </strong>
           </p>
         )}
@@ -85,20 +84,13 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             </strong>
           </p>
         )}
-        <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        <LightboxableContent className={postContent} html={post.html} />
+        <hr className={divider} />
+        <time className={meta}>{datesLine}</time>
         {/* <hr /> */}
         {/* <footer>
           <Bio location={location} />
         </footer> */}
-
-        {creationDurationMinutes && (
-          <>
-            <hr />
-            <p className={creationDuration}>
-              Written, edited, and published in {creationDurationMinutes} mins.
-            </p>
-          </>
-        )}
 
         {post?.frontmatter?.backlinks &&
           post.frontmatter.backlinks.length > 0 && (
@@ -139,21 +131,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </ul>
       </nav>
 
-      <section>
-        <p>
-          <strong>Want to comment?</strong> I'm active on{" "}
-          <a
-            href="https://www.linkedin.com/in/nickangtc/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            LinkedIn
-          </a>{" "}
-          and would love to hear from you there. Alternatively, you can{" "}
-          <Link to="/contact">email me</Link>.
-        </p>
-      </section>
-
     </Layout>
   )
 }
@@ -188,8 +165,8 @@ export const pageQuery = graphql`
         status
         title
         tags
-        date_published(formatString: "DD MMM YYYY")
-        date_updated(formatString: "DD MMM YYYY")
+        date_published(formatString: "MMMM D, YYYY")
+        date_updated(formatString: "MMMM D, YYYY")
         excerpt
         creation_duration_minutes
         backlinks {

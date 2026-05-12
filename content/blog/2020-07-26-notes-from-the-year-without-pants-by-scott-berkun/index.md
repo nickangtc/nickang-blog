@@ -1,7 +1,7 @@
 ---
 title: "Notes from The Year Without Pants by Scott Berkun"
 date_published: "2020-07-26"
-tags: ["Book", "Communication"]
+tags: ["Books", "Communication"]
 backlinks:
   - slug: "/2020-07-19-the-magic-of-a-light-touch/"
     title: "The magic of a light touch"

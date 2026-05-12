@@ -3,7 +3,7 @@ title: "Storyworthy by Matthew Dicks"
 date_published: "2024-12-01"
 date_updated: "2024-12-01"
 excerpt: "'Storyworthy' explores the essentials of compelling personal storytelling, focusing on honesty, vulnerability, and emotional impact. With practical advice like 'Homework for Life,' Dicks offers a guide to turning everyday moments into engaging narratives."
-tags: ["Communication", "Book"]
+tags: ["Communication", "Books"]
 fav: false
 backlinks:
 ---

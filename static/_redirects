@@ -348,3 +348,5 @@
 /newsletter                   /subscribe
 /s                   /subscribe
 /email                   /contact
+/blog                   /
+/blog/*                 /:splat

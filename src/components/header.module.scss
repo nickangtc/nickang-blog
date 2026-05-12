@@ -1,29 +1,258 @@
 @use '../styles/variables' as *;
 
-.site-title {
-  font-size: $base-size * 1.5;
-  margin-bottom: calc($base-size / 2);
-  margin-top: 0;
-}
+$sidebar-border: #111;
 
-.nav-list {
+.header {
+  width: $layout-sidebar-width;
+  min-width: $layout-sidebar-width;
+  border-right: $layout-sidebar-divider solid $sidebar-border;
+  padding: 0;
+  background: white;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  overflow-y: auto;
   display: flex;
-  list-style-type: none;
-  margin: 0;
-  a {
-    text-decoration: none;
-    box-shadow: none;
-    color: black;
-  }
+  flex-direction: column;
+  box-sizing: border-box;
+  font-family: $sans-serif;
 }
 
-.nav-item {
-  margin-right: 1rem;
-  margin-bottom: 0;
+.header * {
+  font-family: inherit;
+}
+
+.header a {
+  transition: none;
+}
+
+.header a:hover {
+  box-shadow: none;
+}
+
+.accent {
+  height: $space-lg;
+  background: linear-gradient(
+    180deg,
+    $blue 0%,
+    $blue 50%,
+    rgba($gray, 0.75) 50%,
+    rgba($gray, 0.75) 100%
+  );
+}
+
+.headerInner {
+  padding: $space-lg $space-xl;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-family: $sans-serif;
+  font-size: calc($base-size * 0.9);
+}
+
+.titleLink {
+  color: inherit;
+  display: inline-flex;
+  align-items: center;
+  gap: $space-sm;
+  max-width: 100%;
   text-decoration: none;
   box-shadow: none;
 }
 
+.siteTitle {
+  margin: 0;
+  min-width: 0;
+  font-size: $space-xl;
+  font-weight: 600;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.avatar {
+  width: 68px !important;
+  height: 68px !important;
+  border-radius: 999px;
+  flex: 0 0 auto;
+  transform: scaleX(-1);
+}
+
+.navList {
+  list-style: none;
+  padding: 0;
+  margin: $space-3xl 0 0;
+}
+
+.navItem {
+  margin-bottom: $space-md;
+}
+
+.navLink,
+.sidebarLink {
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+  box-shadow: none;
+  color: black;
+  font-size: $base-size;
+  z-index: 0;
+}
+
 .active {
-  border-bottom: calc($base-size / 8) solid black;
+  color: white;
+  font-weight: inherit;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: -0.32em;
+    right: -0.36em;
+    top: -0.04em;
+    bottom: -0.08em;
+    background: $blue;
+    clip-path: polygon(3% 8%, 100% 0, 96% 92%, 0 100%);
+    transform: rotate(-1.5deg);
+    z-index: -1;
+  }
+}
+
+.sidebarSection {
+  margin-top: $space-2xl;
+}
+
+.sidebarHeading {
+  margin: 0 0 $space-xs;
+  font-size: calc($base-size * 0.9);
+  font-weight: 800;
+  line-height: 1.1;
+}
+
+.sidebarList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebarItem {
+  margin: 0 0 $space-xs;
+  line-height: 1.2;
+}
+
+.sidebarLink {
+  font-size: calc($base-size * 0.9);
+}
+
+.socialList {
+  display: flex;
+  align-items: center;
+  gap: $space-sm;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.socialItem {
+  margin: 0;
+  line-height: 1;
+}
+
+.socialLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6rem;
+  height: 1.6rem;
+  color: black;
+  box-shadow: none;
+}
+
+.socialIcon {
+  width: 1.25rem;
+  height: 1.25rem;
+  fill: currentColor;
+}
+
+.subscribeForm {
+  display: flex;
+  flex-wrap: wrap;
+  margin: $space-2xl 0 0;
+  padding: 0;
+  background: transparent;
+}
+
+.subscribeLabel {
+  display: block;
+  width: 100%;
+  margin-bottom: $space-xxs;
+  font-size: calc($base-size * 0.9);
+  font-weight: 800;
+}
+
+.subscribeInput {
+  flex: 1 1 auto;
+  min-width: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: $space-xs;
+  border: 1px solid black;
+  border-right: 0;
+  border-radius: 0.25rem 0 0 0.25rem;
+  font-size: calc($base-size * 0.8);
+}
+
+.subscribeButton {
+  flex: 0 0 auto;
+  margin: 0;
+  padding: $space-xs;
+  border: 1px solid black;
+  border-radius: 0 0.25rem 0.25rem 0;
+  background: black;
+  color: white;
+  cursor: pointer;
+  font-size: calc($base-size * 0.8);
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.subscribeButton:hover {
+  background: black;
+  border-color: black;
+  color: white;
+}
+
+
+@media (max-width: 900px) {
+  .header {
+    width: 100%;
+    min-width: 0;
+    position: relative;
+    top: auto;
+    bottom: auto;
+    left: auto;
+    overflow-y: visible;
+    border-right: none;
+    border-bottom: $layout-sidebar-divider solid $sidebar-border;
+  }
+
+  .headerInner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: $space-md;
+  }
+
+  .navList,
+  .sidebarSection {
+    display: none;
+  }
+
+  .subscribeForm {
+    width: 100%;
+    margin-top: $space-xl;
+  }
+
+  .subscribeInput,
+  .subscribeButton {
+    font-size: calc($base-size * 0.75);
+  }
 }

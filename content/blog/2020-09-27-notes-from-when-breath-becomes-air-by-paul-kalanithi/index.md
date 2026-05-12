@@ -1,7 +1,7 @@
 ---
 title: "Notes from When Breath Becomes Air by Paul Kalanithi"
 date_published: "2020-09-27"
-tags: ["Book"]
+tags: ["Books"]
 backlinks:
 ---
 

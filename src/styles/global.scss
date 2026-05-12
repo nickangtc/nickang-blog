@@ -7,6 +7,7 @@ body {
     background-color: white;
     font-size: $base-size;
     line-height: $rhythm;
+    color: #111;
 }
 
 a {
@@ -61,12 +62,25 @@ h5,
 h6,
 nav,
 footer,
-form,
+form {
+    font-family: $sans-serif;
+}
+
 p,
 li,
 ul,
 ol {
-    font-family: $sans-serif;
+    font-family: $serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    line-height: 1.08;
+    color: #111;
 }
 
 input {
@@ -115,6 +129,16 @@ input[type="submit"] {
 /**
 * SPACING
 */
+main > h1:first-child,
+main > article:first-child h1:first-child,
+main > article:first-child header:first-child h1:first-child {
+    margin-top: 0;
+}
+
+main > h1:first-child {
+    margin-bottom: $space-xl;
+}
+
 pre {
     margin-top: 0 !important;
     margin-bottom: $rhythm !important;
@@ -135,6 +159,12 @@ li {
     margin-bottom: calc($base-size / 2);
 }
 
+nav li,
+footer li,
+form li {
+    font-family: $sans-serif;
+}
+
 /**
 * EVERYTHING ELSE
 */
@@ -144,4 +174,9 @@ p>img+em {
     padding-top: calc($rhythm / 2);
     border-top: 3px solid $blue;
     font-size: $base-size * 0.9;
+}
+
+.gatsby-resp-image-wrapper {
+    margin-top: $space-xl;
+    margin-bottom: $space-xl;
 }

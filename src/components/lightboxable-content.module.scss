@@ -1,0 +1,52 @@
+@use '../styles/variables' as *;
+
+@media (min-width: 768px) {
+  .content img {
+    cursor: zoom-in;
+  }
+}
+
+.overlay {
+  align-items: center;
+  background: rgba(0, 0, 0, 0.86);
+  bottom: 0;
+  display: none;
+  justify-content: center;
+  left: 0;
+  padding: $space-2xl;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 1000;
+}
+
+.overlayOpen {
+  display: flex;
+}
+
+.lightboxImage {
+  cursor: zoom-out;
+  max-height: 92vh;
+  max-width: 92vw;
+  object-fit: contain;
+}
+
+.closeButton {
+  background: transparent;
+  border: 0;
+  color: white;
+  cursor: pointer;
+  font-family: $sans-serif;
+  font-size: $space-2xl;
+  line-height: 1;
+  padding: $space-sm;
+  position: fixed;
+  right: $space-lg;
+  top: $space-md;
+}
+
+@media (max-width: 767px) {
+  .overlay {
+    display: none;
+  }
+}

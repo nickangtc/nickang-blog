@@ -7,8 +7,26 @@ $darkgray: #404040;
 
 // typography
 $sans-serif: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
-$serif: 'Courier New', Courier, monospace;
+$serif: Georgia, "Times New Roman", Times, serif;
 
 // measurements
 $base-size: 1.1rem;
 $rhythm: $base-size * 1.4;
+
+// layout spacing tokens
+$space-xxs: calc($base-size * 0.25);
+$space-xs: calc($base-size * 0.5);
+$space-sm: calc($base-size * 0.75);
+$space-md: $base-size;
+$space-lg: calc($base-size * 1.25);
+$space-xl: calc($base-size * 1.5);
+$space-2xl: calc($base-size * 2);
+$space-3xl: calc($base-size * 2.5);
+$space-4xl: calc($base-size * 3);
+
+$layout-sidebar-width: 20rem;
+$layout-content-max-width: 800px;
+$layout-sidebar-divider: 2px;
+$layout-rule: 1px solid #111;
+$layout-content-padding-y: $space-lg;
+$layout-content-padding-x: calc($space-4xl * 2.25);
