@@ -22,16 +22,28 @@ const InfinitePostList = ({ initialPosts, initialNextPath }) => {
   const [isLoading, setIsLoading] = useState(false)
   const [hasError, setHasError] = useState(false)
   const triggerRef = useRef(null)
+  const abortControllerRef = useRef(null)
+  const isLoadingRef = useRef(false)
 
   useEffect(() => {
+    abortControllerRef.current?.abort()
+    abortControllerRef.current = null
+    isLoadingRef.current = false
+    setIsLoading(false)
+    setHasError(false)
     setPosts(initialPosts)
     setNextPath(initialNextPath)
   }, [initialPosts, initialNextPath])
 
   useEffect(() => {
+    return () => abortControllerRef.current?.abort()
+  }, [])
+
+  useEffect(() => {
     if (
       !nextPath ||
       isLoading ||
+      isLoadingRef.current ||
       hasError ||
       typeof IntersectionObserver === "undefined"
     ) {
@@ -40,12 +52,15 @@ const InfinitePostList = ({ initialPosts, initialNextPath }) => {
 
     const observer = new IntersectionObserver(
       entries => {
-        if (!entries[0].isIntersecting) return
+        if (!entries[0].isIntersecting || isLoadingRef.current) return
 
+        const abortController = new AbortController()
+        abortControllerRef.current = abortController
+        isLoadingRef.current = true
         setIsLoading(true)
         setHasError(false)
 
-        fetch(pageDataPathFor(nextPath))
+        fetch(pageDataPathFor(nextPath), { signal: abortController.signal })
           .then(response => {
             if (!response.ok) throw new Error("Could not load more posts")
             return response.json()
@@ -56,8 +71,18 @@ const InfinitePostList = ({ initialPosts, initialNextPath }) => {
             setPosts(currentPosts => [...currentPosts, ...newPosts])
             setNextPath(nextPathFromContext(result.pageContext))
           })
-          .catch(() => setHasError(true))
-          .finally(() => setIsLoading(false))
+          .catch(error => {
+            if (error.name !== "AbortError") {
+              setHasError(true)
+            }
+          })
+          .finally(() => {
+            if (abortControllerRef.current === abortController) {
+              abortControllerRef.current = null
+              isLoadingRef.current = false
+              setIsLoading(false)
+            }
+          })
       },
       { rootMargin: "600px 0px" }
     )
