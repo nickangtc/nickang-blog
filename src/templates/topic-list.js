@@ -9,12 +9,19 @@ import SearchEngineOptimisation from "../components/searchengineoptimisation"
 const TopicList = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
-  const { currentPage, numPages, title, intro, basePath } = pageContext
+  const {
+    currentPage,
+    numPages,
+    title,
+    intro,
+    basePath,
+    eyebrow = "Topic",
+  } = pageContext
   const nextPage = currentPage === numPages ? null : `${basePath}/${currentPage + 1}`
 
   return (
     <Layout location={location} title={siteTitle}>
-      <PageIntro title={title}>
+      <PageIntro title={title} label={eyebrow}>
         <p>{intro}</p>
       </PageIntro>
       <InfinitePostList initialPosts={posts} initialNextPath={nextPage} />

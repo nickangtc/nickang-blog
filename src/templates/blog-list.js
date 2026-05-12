@@ -34,7 +34,10 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       filter: {
-        frontmatter: { status: { ne: "draft" }, tags: { ne: "Personal" } }
+        frontmatter: {
+          status: { ne: "draft" }
+          tags: { nin: ["Personal", "Project"] }
+        }
       }
       sort: { frontmatter: { date_published: DESC } }
       limit: $limit

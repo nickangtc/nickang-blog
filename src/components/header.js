@@ -38,6 +38,7 @@ const topics = [
   { label: "Books", path: "/books" },
 ]
 
+
 const socials = [
   {
     label: "GitHub",
@@ -90,6 +91,11 @@ const Header = ({ title }) => {
             <li className={navItem}>
               <Link to="/" activeClassName={active} className={navLink}>
                 Blog
+              </Link>
+            </li>
+            <li className={navItem}>
+              <Link to="/projects" activeClassName={active} className={navLink}>
+                Projects
               </Link>
             </li>
           </ul>

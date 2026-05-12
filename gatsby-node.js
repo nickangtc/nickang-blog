@@ -43,12 +43,14 @@ const topicPages = [
     title: "Tech",
     basePath: "/tech",
     intro: "Articles about software engineering and web development.",
+    eyebrow: "Topic",
   },
   {
     tag: "Living",
     title: "Living",
     basePath: "/living",
     intro: "Articles about living a meaningful life.",
+    eyebrow: "Topic",
   },
   {
     tag: "Creativity",
@@ -56,30 +58,35 @@ const topicPages = [
     basePath: "/creativity",
     intro:
       "Articles about writing, blogging, visual thinking, problem solving, and just about anything creative.",
+    eyebrow: "Topic",
   },
   {
     tag: "Annual Review",
     title: "Annual Review",
     basePath: "/annual-review",
     intro: "Yearly reflections on what happened, what changed, and what I learned.",
+    eyebrow: "Topic",
   },
   {
     tag: "Leadership",
     title: "Leadership",
     basePath: "/leadership",
     intro: "Articles about being a leader.",
+    eyebrow: "Topic",
   },
   {
     tag: "Communication",
     title: "Communication",
     basePath: "/communication",
     intro: "Articles about mastering the art of communication.",
+    eyebrow: "Topic",
   },
   {
     tag: "Books",
     title: "Books",
     basePath: "/books",
     intro: "Notes and reflections from books I've read.",
+    eyebrow: "Topic",
   },
 ]
 
@@ -90,6 +97,14 @@ exports.createPages = async ({ graphql, actions }) => {
 
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
   const topicList = path.resolve(`./src/templates/topic-list.js`)
+  const projectsList = path.resolve(`./src/templates/projects-list.js`)
+
+  const projectsPage = {
+    tag: "Project",
+    title: "Projects",
+    basePath: "/projects",
+    intro: "Project showcases and build notes from things I built.",
+  }
   const result = await graphql(
     `
       {
@@ -123,7 +138,8 @@ exports.createPages = async ({ graphql, actions }) => {
     const frontmatter = post.node.frontmatter
     return (
       frontmatter.status !== "draft" &&
-      !frontmatter.tags?.includes("Personal")
+      !frontmatter.tags?.includes("Personal") &&
+      !frontmatter.tags?.includes("Project")
     )
   })
 
@@ -184,6 +200,7 @@ exports.createPages = async ({ graphql, actions }) => {
           tag: topic.tag,
           title: topic.title,
           intro: topic.intro,
+          eyebrow: topic.eyebrow,
           basePath: topic.basePath,
           limit: pagination.limit,
           skip: pagination.skip,
@@ -191,6 +208,36 @@ exports.createPages = async ({ graphql, actions }) => {
           currentPage: i + 1,
         },
       })
+    })
+  })
+
+  // Create paginated project pages (separate from topics)
+  const projectPosts = posts.filter(post => {
+    const frontmatter = post.node.frontmatter
+    return (
+      frontmatter.status !== "draft" &&
+      frontmatter.tags &&
+      frontmatter.tags.includes(projectsPage.tag)
+    )
+  })
+  const projectNumPages = getPaginatedListConfig(projectPosts.length, 0).numPages
+
+  Array.from({ length: projectNumPages }).forEach((_, i) => {
+    const pagination = getPaginatedListConfig(projectPosts.length, i)
+
+    createPage({
+      path: i === 0 ? projectsPage.basePath : `${projectsPage.basePath}/${i + 1}`,
+      component: projectsList,
+      context: {
+        tag: projectsPage.tag,
+        title: projectsPage.title,
+        intro: projectsPage.intro,
+        basePath: projectsPage.basePath,
+        limit: pagination.limit,
+        skip: pagination.skip,
+        numPages: pagination.numPages,
+        currentPage: i + 1,
+      },
     })
   })
 }

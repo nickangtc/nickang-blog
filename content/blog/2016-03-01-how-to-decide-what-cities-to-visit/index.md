@@ -3,6 +3,8 @@ tags: ["Personal"]
 title: "Travel: How to Decide What Cities to Visit"
 date_published: "2016-03-01"
 backlinks:
+  - slug: "/a-new-look-on-this-blog/"
+    title: "A new look on this blog"
 ---
 
 ![The eagle is landing](images/american-eagle-1024x683.jpeg)

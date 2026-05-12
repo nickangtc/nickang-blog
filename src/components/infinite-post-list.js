@@ -16,7 +16,11 @@ const nextPathFromContext = pageContext => {
   return `/${currentPage + 1}`
 }
 
-const InfinitePostList = ({ initialPosts, initialNextPath }) => {
+const InfinitePostList = ({
+  initialPosts,
+  initialNextPath,
+  renderPosts = PostList,
+}) => {
   const [posts, setPosts] = useState(initialPosts)
   const [nextPath, setNextPath] = useState(initialNextPath)
   const [isLoading, setIsLoading] = useState(false)
@@ -98,7 +102,7 @@ const InfinitePostList = ({ initialPosts, initialNextPath }) => {
 
   return (
     <>
-      <PostList posts={posts} />
+      {renderPosts({ posts })}
       {nextPath && (
         <div className={trigger} ref={triggerRef} aria-live="polite">
           {isLoading && <p className={status}>Loading more posts…</p>}
