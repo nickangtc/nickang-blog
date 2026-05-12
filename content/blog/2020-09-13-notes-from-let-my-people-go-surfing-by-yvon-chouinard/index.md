@@ -1,7 +1,7 @@
 ---
 title: "Notes from Let My People Go Surfing by Yvon Chouinard"
 date_published: "2020-09-13"
-tags: ["Book"]
+tags: ["Books"]
 backlinks:
   - slug: "/2020-10-25-not-interested-in-mastery/"
     title: "Not interested in mastery"

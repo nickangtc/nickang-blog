@@ -2,15 +2,9 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
+import PostList from "../components/post-list"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
-import {
-  articleTitle,
-  meta,
-  postsNav,
-  entry,
-  divider,
-  body,
-} from "./blog-list.module.scss"
+import { postsNav } from "./blog-list.module.scss"
 
 const BlogList = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -29,23 +23,7 @@ const BlogList = ({ data, location, pageContext }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      {posts.map(post => {
-        const published = post.node.frontmatter.date_published
-
-        return (
-          <article className={entry} key={post.node.fields.slug}>
-            <h1 className={articleTitle}>
-              <Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link>
-            </h1>
-            <div
-              className={body}
-              dangerouslySetInnerHTML={{ __html: post.node.html }}
-            />
-            <hr className={divider} />
-            <p className={meta}>{published}</p>
-          </article>
-        )
-      })}
+      <PostList posts={posts} />
 
       <nav>
         <ul className={postsNav}>
@@ -100,7 +78,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date_published(formatString: "DD MMM YYYY")
+            date_published(formatString: "MMMM D, YYYY")
             title
           }
         }

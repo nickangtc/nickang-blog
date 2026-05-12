@@ -6,24 +6,24 @@ import PostList from "../components/post-list"
 import PageIntro from "../components/page-intro"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
 
-const TechPage = ({ data, location }) => {
+const AnnualReviewPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
 
   return (
     <Layout location={location} title={siteTitle}>
-      <PageIntro title="Tech">
-        <p>Articles about software engineering and web development.</p>
+      <PageIntro title="Annual Review">
+        <p>Yearly reflections on what happened, what changed, and what I learned.</p>
       </PageIntro>
       <PostList posts={posts} />
     </Layout>
   )
 }
 
-export default TechPage
+export default AnnualReviewPage
 
 export const Head = ({ location }) => (
-  <SearchEngineOptimisation title="Tech Articles" pathname={location.pathname} />
+  <SearchEngineOptimisation title="Annual Review Articles" pathname={location.pathname} />
 )
 
 export const pageQuery = graphql`
@@ -34,7 +34,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { frontmatter: { status: { ne: "draft" }, tags: { in: "Tech" } } }
+      filter: { frontmatter: { status: { ne: "draft" }, tags: { in: "Annual Review" } } }
       sort: { frontmatter: { date_published: DESC } }
     ) {
       edges {

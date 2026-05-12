@@ -8,6 +8,7 @@ import {
   title,
   meta,
   divider,
+  postContent,
   postsNav,
 } from "./blog-post.module.scss"
 
@@ -82,7 +83,10 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             </strong>
           </p>
         )}
-        <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        <section
+          className={postContent}
+          dangerouslySetInnerHTML={{ __html: post.html }}
+        />
         <hr className={divider} />
         <time className={meta}>{datesLine}</time>
         {/* <hr /> */}
@@ -163,8 +167,8 @@ export const pageQuery = graphql`
         status
         title
         tags
-        date_published(formatString: "DD MMM YYYY")
-        date_updated(formatString: "DD MMM YYYY")
+        date_published(formatString: "MMMM D, YYYY")
+        date_updated(formatString: "MMMM D, YYYY")
         excerpt
         creation_duration_minutes
         backlinks {

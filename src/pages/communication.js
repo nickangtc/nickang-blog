@@ -1,34 +1,21 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
+import PostList from "../components/post-list"
+import PageIntro from "../components/page-intro"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
 
 const CommunicationPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
-  const communicationPosts = data.allMarkdownRemark.edges.map((post, index) => {
-    return (
-      <li key={index}>
-        {post.node.frontmatter.date_published} -{" "}
-        <Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link>
-        {post.node.frontmatter.fav && (
-          <span
-            role="img"
-            aria-label="fire emoji indicating this article is a favourite"
-          >
-            {" "}
-            🔥
-          </span>
-        )}
-      </li>
-    )
-  })
+  const posts = data.allMarkdownRemark.edges
 
   return (
     <Layout location={location} title={siteTitle}>
-      <h1>Communication articles</h1>
-      <p>Articles about mastering the art of communication.</p>
-      <ul>{communicationPosts}</ul>
+      <PageIntro title="Communication">
+        <p>Articles about mastering the art of communication.</p>
+      </PageIntro>
+      <PostList posts={posts} />
     </Layout>
   )
 }
@@ -47,18 +34,18 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { frontmatter: { tags: { in: "Communication" } } }
+      filter: { frontmatter: { status: { ne: "draft" }, tags: { in: "Communication" } } }
       sort: { frontmatter: { date_published: DESC } }
     ) {
       edges {
         node {
+          html
           fields {
             slug
           }
           frontmatter {
             title
-            fav
-            date_published(formatString: "DD MMM YYYY")
+            date_published(formatString: "MMMM D, YYYY")
           }
         }
       }

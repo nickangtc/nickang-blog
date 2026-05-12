@@ -3,7 +3,7 @@ title: "Four Thousand Weeks by Oliver Burkeman"
 date_published: "2024-06-15"
 date_updated: "2024-06-15"
 excerpt: ""
-tags: ["Communication", "Book"]
+tags: ["Communication", "Books"]
 fav: false
 backlinks:
 ---

@@ -20,7 +20,37 @@
 .divider {
   margin: 0 0 $space-xxs;
   border: none;
-  border-top: 1px solid rgba(0, 0, 0, 0.3);
+  border-top: $layout-rule;
+}
+
+.postContent {
+  h2 {
+    margin-top: $space-2xl;
+    margin-bottom: $space-md;
+  }
+
+  h3 {
+    margin-top: $space-xl;
+    margin-bottom: $space-md;
+  }
+
+  pre,
+  .gatsby-highlight {
+    margin-bottom: $space-xl !important;
+  }
+
+  p + h2,
+  ul + h2,
+  ol + h2 {
+    margin-top: $space-2xl;
+  }
+
+  pre + h2,
+  pre + h3,
+  .gatsby-highlight + h2,
+  .gatsby-highlight + h3 {
+    margin-top: $space-2xl;
+  }
 }
 
 .creation-duration {

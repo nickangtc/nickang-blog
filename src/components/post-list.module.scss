@@ -1,0 +1,37 @@
+@use '../styles/variables' as *;
+
+.entry {
+  margin: 0 0 4rem;
+}
+
+.articleTitle {
+  margin-top: 0;
+  margin-bottom: $space-xl;
+
+  a {
+    color: black;
+    text-decoration: none;
+    box-shadow: none;
+  }
+}
+
+.meta {
+  margin-top: 0;
+  margin-bottom: $rhythm;
+  font-family: $sans-serif;
+  font-size: 0.75 * $base-size;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: $darkgray;
+  letter-spacing: 0.02em;
+}
+
+.body {
+  margin-bottom: 0;
+}
+
+.divider {
+  margin: 0 0 $space-xxs;
+  border: none;
+  border-top: $layout-rule;
+}

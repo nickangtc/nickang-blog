@@ -12,6 +12,11 @@ $sidebar-border: #111;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
+  font-family: $sans-serif;
+}
+
+.header * {
+  font-family: inherit;
 }
 
 .accent {
@@ -26,9 +31,11 @@ $sidebar-border: #111;
 }
 
 .headerInner {
-  padding: $space-lg;
+  padding: $space-lg $space-xl;
   box-sizing: border-box;
   max-width: 100%;
+  font-family: $sans-serif;
+  font-size: calc($base-size * 0.9);
 }
 
 .titleLink {
@@ -44,7 +51,7 @@ $sidebar-border: #111;
 .siteTitle {
   margin: 0;
   min-width: 0;
-  font-size: clamp(1.65rem, 2vw, 2rem);
+  font-size: $space-xl;
   font-weight: 600;
   line-height: 1;
   white-space: nowrap;
@@ -68,13 +75,14 @@ $sidebar-border: #111;
   margin-bottom: $space-md;
 }
 
-.navLink {
+.navLink,
+.sidebarLink {
   position: relative;
   display: inline-block;
   text-decoration: none;
   box-shadow: none;
   color: black;
-  font-size: $space-lg;
+  font-size: $base-size;
   z-index: 0;
 }
 
@@ -95,6 +103,81 @@ $sidebar-border: #111;
     z-index: -1;
   }
 }
+
+.sidebarSection {
+  margin-top: $space-2xl;
+}
+
+.sidebarHeading {
+  margin: 0 0 $space-xs;
+  font-size: calc($base-size * 0.9);
+  font-weight: 800;
+  line-height: 1.1;
+}
+
+.sidebarList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebarItem {
+  margin: 0 0 $space-xs;
+  line-height: 1.2;
+}
+
+.sidebarLink {
+  font-size: calc($base-size * 0.9);
+}
+
+.subscribeForm {
+  display: flex;
+  flex-wrap: wrap;
+  margin: $space-2xl 0 0;
+  padding: 0;
+  background: transparent;
+}
+
+.subscribeLabel {
+  display: block;
+  width: 100%;
+  margin-bottom: $space-xxs;
+  font-size: calc($base-size * 0.9);
+  font-weight: 800;
+}
+
+.subscribeInput {
+  flex: 1 1 auto;
+  min-width: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: $space-xs;
+  border: 1px solid black;
+  border-right: 0;
+  border-radius: 0.25rem 0 0 0.25rem;
+  font-size: calc($base-size * 0.8);
+}
+
+.subscribeButton {
+  flex: 0 0 auto;
+  margin: 0;
+  padding: $space-xs;
+  border: 1px solid black;
+  border-radius: 0 0.25rem 0.25rem 0;
+  background: black;
+  color: white;
+  cursor: pointer;
+  font-size: calc($base-size * 0.8);
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.subscribeButton:hover {
+  background: black;
+  border-color: black;
+  color: white;
+}
+
 
 @media (max-width: 900px) {
   .header {

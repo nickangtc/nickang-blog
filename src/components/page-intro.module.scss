@@ -1,0 +1,29 @@
+@use '../styles/variables' as *;
+
+.intro {
+  margin-bottom: $space-3xl;
+  padding-bottom: $space-xl;
+  border-bottom: $layout-rule;
+}
+
+.eyebrow {
+  margin: 0 0 $space-xs;
+  color: $blue;
+  font-family: $sans-serif;
+  font-size: 0.75 * $base-size;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.title {
+  margin: 0 0 $space-md;
+  font-size: $space-2xl;
+}
+
+.body {
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
