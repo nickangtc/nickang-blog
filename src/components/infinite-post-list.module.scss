@@ -1,0 +1,12 @@
+@use '../styles/variables' as *;
+
+.trigger {
+  min-height: $space-2xl;
+}
+
+.status {
+  color: $darkgray;
+  font-family: $sans-serif;
+  font-size: 0.8 * $base-size;
+  text-align: center;
+}

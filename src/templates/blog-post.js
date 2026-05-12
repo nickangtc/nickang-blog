@@ -3,6 +3,7 @@ import { Link, graphql, navigate } from "gatsby"
 
 // import Bio from "../components/bio"
 import Layout from "../components/layout"
+import LightboxableContent from "../components/lightboxable-content"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
 import {
   title,
@@ -83,10 +84,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             </strong>
           </p>
         )}
-        <section
-          className={postContent}
-          dangerouslySetInnerHTML={{ __html: post.html }}
-        />
+        <LightboxableContent className={postContent} html={post.html} />
         <hr className={divider} />
         <time className={meta}>{datesLine}</time>
         {/* <hr /> */}

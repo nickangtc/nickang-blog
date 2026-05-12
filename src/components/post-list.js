@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import LightboxableContent from "./lightboxable-content"
 import {
   articleTitle,
   meta,
@@ -19,7 +20,7 @@ const PostList = ({ posts }) => {
         <h1 className={articleTitle}>
           <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
         </h1>
-        <div className={body} dangerouslySetInnerHTML={{ __html: node.html }} />
+        <LightboxableContent className={body} html={node.html} />
         <hr className={divider} />
         <p className={meta}>{published}</p>
       </article>

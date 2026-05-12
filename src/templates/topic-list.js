@@ -1,41 +1,45 @@
 import React from "react"
 import { graphql } from "gatsby"
 
+import InfinitePostList from "../components/infinite-post-list"
 import Layout from "../components/layout"
-import PostList from "../components/post-list"
 import PageIntro from "../components/page-intro"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
 
-const TechPage = ({ data, location }) => {
+const TopicList = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
+  const { currentPage, numPages, title, intro, basePath } = pageContext
+  const nextPage = currentPage === numPages ? null : `${basePath}/${currentPage + 1}`
 
   return (
     <Layout location={location} title={siteTitle}>
-      <PageIntro title="Tech">
-        <p>Articles about software engineering and web development.</p>
+      <PageIntro title={title}>
+        <p>{intro}</p>
       </PageIntro>
-      <PostList posts={posts} />
+      <InfinitePostList initialPosts={posts} initialNextPath={nextPage} />
     </Layout>
   )
 }
 
-export default TechPage
+export default TopicList
 
-export const Head = ({ location }) => (
-  <SearchEngineOptimisation title="Tech Articles" pathname={location.pathname} />
+export const Head = ({ location, pageContext }) => (
+  <SearchEngineOptimisation title={pageContext.title} pathname={location.pathname} />
 )
 
 export const pageQuery = graphql`
-  query {
+  query TopicListQuery($tag: String!, $skip: Int!, $limit: Int!) {
     site {
       siteMetadata {
         title
       }
     }
     allMarkdownRemark(
-      filter: { frontmatter: { status: { ne: "draft" }, tags: { in: "Tech" } } }
+      filter: { frontmatter: { status: { ne: "draft" }, tags: { in: [$tag] } } }
       sort: { frontmatter: { date_published: DESC } }
+      limit: $limit
+      skip: $skip
     ) {
       edges {
         node {

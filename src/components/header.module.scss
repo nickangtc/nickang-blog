@@ -8,7 +8,11 @@ $sidebar-border: #111;
   border-right: $layout-sidebar-divider solid $sidebar-border;
   padding: 0;
   background: white;
-  position: relative;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
@@ -17,6 +21,14 @@ $sidebar-border: #111;
 
 .header * {
   font-family: inherit;
+}
+
+.header a {
+  transition: none;
+}
+
+.header a:hover {
+  box-shadow: none;
 }
 
 .accent {
@@ -213,6 +225,11 @@ $sidebar-border: #111;
   .header {
     width: 100%;
     min-width: 0;
+    position: relative;
+    top: auto;
+    bottom: auto;
+    left: auto;
+    overflow-y: visible;
     border-right: none;
     border-bottom: $layout-sidebar-divider solid $sidebar-border;
   }
@@ -224,15 +241,18 @@ $sidebar-border: #111;
     gap: $space-md;
   }
 
-  .navList {
-    margin: $space-md 0 0;
-    display: flex;
-    gap: $space-md;
-    width: 100%;
-    flex-wrap: wrap;
+  .navList,
+  .sidebarSection {
+    display: none;
   }
 
-  .navItem {
-    margin-bottom: 0;
+  .subscribeForm {
+    width: 100%;
+    margin-top: $space-xl;
+  }
+
+  .subscribeInput,
+  .subscribeButton {
+    font-size: calc($base-size * 0.75);
   }
 }
