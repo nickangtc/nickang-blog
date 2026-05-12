@@ -29,7 +29,12 @@ const InfinitePostList = ({ initialPosts, initialNextPath }) => {
   }, [initialPosts, initialNextPath])
 
   useEffect(() => {
-    if (!nextPath || isLoading || typeof IntersectionObserver === "undefined") {
+    if (
+      !nextPath ||
+      isLoading ||
+      hasError ||
+      typeof IntersectionObserver === "undefined"
+    ) {
       return undefined
     }
 
@@ -64,7 +69,7 @@ const InfinitePostList = ({ initialPosts, initialNextPath }) => {
       if (node) observer.unobserve(node)
       observer.disconnect()
     }
-  }, [isLoading, nextPath])
+  }, [hasError, isLoading, nextPath])
 
   return (
     <>
