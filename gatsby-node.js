@@ -119,6 +119,13 @@ exports.createPages = async ({ graphql, actions }) => {
   }
 
   const posts = result.data.allMarkdownRemark.edges
+  const blogPosts = posts.filter(post => {
+    const frontmatter = post.node.frontmatter
+    return (
+      frontmatter.status !== "draft" &&
+      !frontmatter.tags?.includes("Personal")
+    )
+  })
 
   // Create individual blog post pages
   posts.forEach((post, index) => {
@@ -138,10 +145,10 @@ exports.createPages = async ({ graphql, actions }) => {
 
   // Create paginated blog index pages. The first page renders more posts;
   // subsequent pages are fetched by infinite scroll in smaller batches.
-  const blogNumPages = getPaginatedListConfig(posts.length, 0).numPages
+  const blogNumPages = getPaginatedListConfig(blogPosts.length, 0).numPages
 
   Array.from({ length: blogNumPages }).forEach((_, i) => {
-    const pagination = getPaginatedListConfig(posts.length, i)
+    const pagination = getPaginatedListConfig(blogPosts.length, i)
 
     createPage({
       path: i === 0 ? `/` : `/${i + 1}`,

@@ -71,8 +71,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <p>
             <strong>
               (This is a growing collection, so it's better to think of it as a
-              wiki page. Check the updated date below the title for last date of
-              update.)
+              wiki page. Check the updated date at the bottom of the article for
+              the last date of update.)
             </strong>
           </p>
         )}
