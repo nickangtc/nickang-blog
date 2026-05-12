@@ -1,7 +1,0 @@
-<svg width="1200" height="675" viewBox="0 0 1200 675" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title>Album</title>
-  <desc>Album project placeholder image</desc>
-  <rect width="1200" height="675" fill="#6ea8fe"/>
-  <rect x="80" y="90" width="1040" height="495" fill="#ffffff" fill-opacity="0.22"/>
-  <text x="600" y="360" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="700" text-anchor="middle">Album</text>
-</svg>
