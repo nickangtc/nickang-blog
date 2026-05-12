@@ -29,11 +29,6 @@ const BlogList = ({ data, location, pageContext }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <p>
-        Want to see a full list instead of pages of results? Click{" "}
-        <Link to="/e">here</Link>.
-      </p>
-
       {posts.map(post => {
         const published = post.node.frontmatter.date_published
 

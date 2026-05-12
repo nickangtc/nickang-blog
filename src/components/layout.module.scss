@@ -11,7 +11,7 @@
   max-width: $layout-content-max-width;
   margin: 0;
   min-width: 0;
-  padding: $layout-content-padding-y $layout-content-padding-x;
+  padding: calc($layout-content-padding-y * 2 + 0.2rem) $layout-content-padding-x $layout-content-padding-y;
   box-sizing: border-box;
 }
 
@@ -24,6 +24,6 @@
   .content {
     max-width: 100%;
     margin: 0;
-    padding: $layout-content-padding-y $space-2xl;
+    padding: $layout-content-padding-y $space-lg;
   }
 }

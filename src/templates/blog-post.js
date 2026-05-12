@@ -6,9 +6,9 @@ import Layout from "../components/layout"
 import SearchEngineOptimisation from "../components/searchengineoptimisation"
 import {
   title,
-  date,
+  meta,
+  divider,
   postsNav,
-  creationDuration,
 } from "./blog-post.module.scss"
 
 // Destructuring { data, pageContext, location } = props
@@ -40,17 +40,14 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const datesLine =
     post.frontmatter.date_updated &&
     post.frontmatter.date_updated !== post.frontmatter.date_published
-      ? `published: ${post.frontmatter.date_published} | updated: ${post.frontmatter.date_updated}`
-      : `published: ${post.frontmatter.date_published}`
-
-  const creationDurationMinutes = post.frontmatter.creation_duration_minutes
+      ? `Published: ${post.frontmatter.date_published} | Updated: ${post.frontmatter.date_updated}`
+      : post.frontmatter.date_published
 
   return (
     <Layout location={location} title={siteTitle}>
       <article>
         <header>
           <h1 className={title}>{post.frontmatter.title}</h1>
-          <time className={date}>{datesLine}</time>
         </header>
         {post?.frontmatter?.status === "draft" && (
           <p>
@@ -86,19 +83,12 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </p>
         )}
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        <hr className={divider} />
+        <time className={meta}>{datesLine}</time>
         {/* <hr /> */}
         {/* <footer>
           <Bio location={location} />
         </footer> */}
-
-        {creationDurationMinutes && (
-          <>
-            <hr />
-            <p className={creationDuration}>
-              Written, edited, and published in {creationDurationMinutes} mins.
-            </p>
-          </>
-        )}
 
         {post?.frontmatter?.backlinks &&
           post.frontmatter.backlinks.length > 0 && (
@@ -138,21 +128,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </li>
         </ul>
       </nav>
-
-      <section>
-        <p>
-          <strong>Want to comment?</strong> I'm active on{" "}
-          <a
-            href="https://www.linkedin.com/in/nickangtc/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            LinkedIn
-          </a>{" "}
-          and would love to hear from you there. Alternatively, you can{" "}
-          <Link to="/contact">email me</Link>.
-        </p>
-      </section>
 
     </Layout>
   )

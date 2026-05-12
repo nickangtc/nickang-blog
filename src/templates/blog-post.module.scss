@@ -1,16 +1,26 @@
 @use '../styles/variables' as *;
 
 .title {
-  margin-bottom: calc($rhythm / 2);
+  margin-top: 0;
+  margin-bottom: $space-xl;
 }
 
-.date {
+.meta {
   display: block;
-  margin-top: calc($rhythm / 2);
+  margin-top: 0;
   margin-bottom: $rhythm;
-  font-size: 0.85 * $base-size;
   font-family: $sans-serif;
+  font-size: 0.75 * $base-size;
+  font-weight: 700;
+  text-transform: uppercase;
   color: $darkgray;
+  letter-spacing: 0.02em;
+}
+
+.divider {
+  margin: 0 0 $space-xxs;
+  border: none;
+  border-top: 1px solid rgba(0, 0, 0, 0.3);
 }
 
 .creation-duration {

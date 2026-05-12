@@ -7,7 +7,7 @@ $darkgray: #404040;
 
 // typography
 $sans-serif: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
-$serif: 'Courier New', Courier, monospace;
+$serif: Georgia, "Times New Roman", Times, serif;
 
 // measurements
 $base-size: 1.1rem;
@@ -24,8 +24,8 @@ $space-2xl: calc($base-size * 2);
 $space-3xl: calc($base-size * 2.5);
 $space-4xl: calc($base-size * 3);
 
-$layout-sidebar-width: 16rem;
-$layout-content-max-width: 768px;
+$layout-sidebar-width: 19rem;
+$layout-content-max-width: 800px;
 $layout-sidebar-divider: 2px;
-$layout-content-padding-y: $space-2xl;
-$layout-content-padding-x: $space-4xl;
+$layout-content-padding-y: $space-lg;
+$layout-content-padding-x: calc($space-4xl * 2.25);
