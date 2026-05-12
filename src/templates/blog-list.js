@@ -36,26 +36,18 @@ const BlogList = ({ data, location, pageContext }) => {
 
       {posts.map(post => {
         const published = post.node.frontmatter.date_published
-        const edited =
-          post.node.frontmatter.date_updated &&
-          post.node.frontmatter.date_updated !== post.node.frontmatter.date_published
-            ? `, EDITED ${post.node.frontmatter.date_updated}`
-            : ""
 
         return (
           <article className={entry} key={post.node.fields.slug}>
-            <h2 className={articleTitle}>
+            <h1 className={articleTitle}>
               <Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link>
-            </h2>
+            </h1>
             <div
               className={body}
               dangerouslySetInnerHTML={{ __html: post.node.html }}
             />
             <hr className={divider} />
-            <p className={meta}>
-              published: {published}
-              {edited}
-            </p>
+            <p className={meta}>{published}</p>
           </article>
         )
       })}
@@ -114,7 +106,6 @@ export const pageQuery = graphql`
           }
           frontmatter {
             date_published(formatString: "DD MMM YYYY")
-            date_updated(formatString: "DD MMM YYYY")
             title
           }
         }

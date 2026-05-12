@@ -69,7 +69,7 @@ exports.createPages = async ({ graphql, actions }) => {
   })
 
   // Create paginated blog index pages
-  const postsPerPage = 20
+  const postsPerPage = 8
   const numPages = Math.ceil(posts.length / postsPerPage)
 
   Array.from({ length: numPages }).forEach((_, i) => {

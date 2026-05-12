@@ -24,8 +24,8 @@ $space-2xl: calc($base-size * 2);
 $space-3xl: calc($base-size * 2.5);
 $space-4xl: calc($base-size * 3);
 
-$layout-content-max-width: 54rem;
 $layout-sidebar-width: 16rem;
+$layout-content-max-width: 960px;
 $layout-sidebar-divider: 4px;
 $layout-content-padding-y: $space-2xl;
 $layout-content-padding-x: $space-4xl;
