@@ -103,7 +103,7 @@ exports.createPages = async ({ graphql, actions }) => {
     tag: "Project",
     title: "Projects",
     basePath: "/projects",
-    intro: "Things I've made. This page in WIP.",
+    intro: "Things I've made.",
   }
   const result = await graphql(
     `
