@@ -1,7 +1,6 @@
 ---
 import { getCollection, render } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import PostList from "../components/PostList.astro";
 import { getPaginatedListConfig } from "../lib/pagination";
 
 const allPosts = await getCollection("blog");

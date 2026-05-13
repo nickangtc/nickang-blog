@@ -102,7 +102,7 @@ const hasMore = config.numPages > 1;
               const article = document.createElement("article");
               article.innerHTML = `
                 <a href="/${post.slug}/" class="project-card">
-                  <img src="${coverImage}" alt="${escapeHtml(post.title)} project" class="project-image" loading="lazy" />
+                  <img src="${escapeHtml(coverImage)}" alt="${escapeHtml(post.title)} project" class="project-image" loading="lazy" />
                   <h2 class="project-title">${escapeHtml(post.title)}</h2>
                   <p class="project-excerpt">${escapeHtml(post.excerpt || "")}</p>
                 </a>
