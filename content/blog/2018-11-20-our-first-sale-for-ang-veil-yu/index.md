@@ -4,7 +4,7 @@ date_published: "2018-11-20"
 backlinks:
 ---
 
-![First sale for ang veil yú](images/ang-veil-yú-first-sale.png)
+![First sale for ang veil yu](images/ang-veil-yu-first-sale.png)
 
 Eleven days after launching our online wedding veil shop, we've made our first sale. What a wonderful day!
 
