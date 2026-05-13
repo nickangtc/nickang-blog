@@ -7,6 +7,17 @@ cover: "/project-covers/album-og.jpg"
 backlinks:
 ---
 
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/sPKehXpLHQA"
+  title="Album"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen
+></iframe>
+
 ![daily instagram posts feed](ig.jpeg)
 
 Documenting our daughter's first 300 days was one of the highest ROI things I've ever done as a parent.
