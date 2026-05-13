@@ -57,6 +57,15 @@ const hasMore = config.numPages > 1;
 </BaseLayout>
 
 <script>
+  function escapeHtml(str) {
+    return str
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+
   function initInfiniteScroll() {
     const trigger = document.getElementById("infinite-trigger");
     const container = document.getElementById("post-list-container");
@@ -90,10 +99,10 @@ const hasMore = config.numPages > 1;
               const article = document.createElement("article");
               article.className = "entry";
               article.innerHTML = `
-                <h1 class="article-title"><a href="/${post.slug}/">${post.title}</a></h1>
-                <section class="body"><p>${post.excerpt}</p><p><a href="/${post.slug}/">Read more →</a></p></section>
+                <h1 class="article-title"><a href="/${post.slug}/">${escapeHtml(post.title)}</a></h1>
+                <section class="body"><p>${escapeHtml(post.excerpt)}</p><p><a href="/${post.slug}/">Read more →</a></p></section>
                 <hr class="divider" />
-                <p class="meta">${post.date_published}</p>
+                <p class="meta">${escapeHtml(post.date_published)}</p>
               `;
               fragment.appendChild(article);
             }
@@ -120,7 +129,7 @@ const hasMore = config.numPages > 1;
   initInfiniteScroll();
 </script>
 
-<style lang="scss">
+<style lang="scss" is:global>
   @use '../styles/variables' as *;
 
   .entry {

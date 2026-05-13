@@ -61,6 +61,15 @@ const hasMore = config.numPages > 1;
 </BaseLayout>
 
 <script>
+  function escapeHtml(str) {
+    return str
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+
   function initInfiniteScroll() {
     const trigger = document.getElementById("infinite-trigger");
     const container = document.getElementById("post-list-container");
@@ -93,9 +102,9 @@ const hasMore = config.numPages > 1;
               const article = document.createElement("article");
               article.innerHTML = `
                 <a href="/${post.slug}/" class="project-card">
-                  <img src="${coverImage}" alt="${post.title} project" class="project-image" loading="lazy" />
-                  <h2 class="project-title">${post.title}</h2>
-                  <p class="project-excerpt">${post.excerpt || ""}</p>
+                  <img src="${coverImage}" alt="${escapeHtml(post.title)} project" class="project-image" loading="lazy" />
+                  <h2 class="project-title">${escapeHtml(post.title)}</h2>
+                  <p class="project-excerpt">${escapeHtml(post.excerpt || "")}</p>
                 </a>
               `;
               grid.appendChild(article);
@@ -122,7 +131,7 @@ const hasMore = config.numPages > 1;
   initInfiniteScroll();
 </script>
 
-<style lang="scss">
+<style lang="scss" is:global>
   @use '../styles/variables' as *;
 
   .project-grid {
