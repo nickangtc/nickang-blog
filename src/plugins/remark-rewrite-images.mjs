@@ -12,7 +12,15 @@ export function remarkRewriteImages() {
     if (!postSlug) return;
 
     visit(tree, "image", (node) => {
-      if (node.url && (node.url.startsWith("images/") || node.url.startsWith("./images/"))) {
+      if (!node.url) return;
+      if (node.url.startsWith("images/") || node.url.startsWith("./images/")) {
+        const normalizedUrl = node.url.replace(/^\.\//, "");
+        node.url = `/blog-images/${postSlug}/${normalizedUrl}`;
+      } else if (
+        !node.url.startsWith("/") &&
+        !node.url.startsWith("http") &&
+        /\.(jpe?g|png|gif|svg|webp)$/i.test(node.url)
+      ) {
         const normalizedUrl = node.url.replace(/^\.\//, "");
         node.url = `/blog-images/${postSlug}/${normalizedUrl}`;
       }
