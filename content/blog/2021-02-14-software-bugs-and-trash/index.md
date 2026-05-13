@@ -51,7 +51,7 @@ All good so far. Now let's add a twist.
 
 ## Bug overflow
 
-![overflowing trash in Berlin](/images/overflowing-trash-berlin-nickang.jpg)
+![overflowing trash in Berlin](./images/overflowing-trash-berlin-nickang.jpg)
 _The bright orange trash bin in Berlin and its overflowing trash at a busy intersection. Oh, and Brownie._
 
 Suppose there is one development team that has a good reason to not like the new workflow.

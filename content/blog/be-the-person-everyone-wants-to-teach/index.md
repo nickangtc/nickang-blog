@@ -10,7 +10,7 @@ backlinks:
 
 I've consciously taken a new approach to learning to do my job, and it's by doing one simple thing very deliberately: to **always teach what I learn**.
 
-![](/images/teach1.webp)
+![](./images/teach1.webp)
 _Not a work setting, but that's me teaching students about a possible career in tech_
 
 Suppose I'm an oldie (in terms of tenure) in a team of new joiners. It's certain that everyone will want or need to ask me questions, because I have the most context of past projects and how the company in general works. This is especially true if I also have more industry experience as a whole.

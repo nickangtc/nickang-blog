@@ -10,7 +10,7 @@ backlinks:
     title: "Why I'm active on Instagram again"
 ---
 
-![Show your work by Austin Kleon book cover](/images/show-your-work-by-austin-kleon.png)
+![Show your work by Austin Kleon book cover](./images/show-your-work-by-austin-kleon.png)
 *Show Your Work by Austin Kleon*
 
 Though a short book, I experienced many moments of inspiration and have plenty of takeaways from reading this book. As someone who feels like he does not qualify as an artist but wants to be one, I'm keeping this book close by.

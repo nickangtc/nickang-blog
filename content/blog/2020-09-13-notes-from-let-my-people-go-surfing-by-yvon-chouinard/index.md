@@ -9,7 +9,7 @@ backlinks:
 
 This books is part memoir, part philosophical manifesto derived from Patagonia's founder's experience in applying them to business, environment, and life.
 
-![The book cover of Let my people go surfing by Yvon Chouinard](/images/let-my-people-go-surfing-yvon-chouinard.png)
+![The book cover of Let my people go surfing by Yvon Chouinard](./images/let-my-people-go-surfing-yvon-chouinard.png)
 
 I skimmed some parts of this book like the parts laying out the design and product philosophies, written in a handbook-style, knowing that I wouldn't be able to fully appreciate their depth at this point in my life. I'd return to it when I'm running my own business, if that day returns!
 

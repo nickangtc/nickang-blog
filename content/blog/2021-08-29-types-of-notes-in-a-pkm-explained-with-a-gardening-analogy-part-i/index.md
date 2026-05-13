@@ -52,7 +52,7 @@ Right, now let's dig in, with a gardening analogy.
 
 ## Atomic note
 
-![PKM garden illustration](/images/personal-knowledge-management-PKM-garden-nickang.png)
+![PKM garden illustration](./images/personal-knowledge-management-PKM-garden-nickang.png)
 
 Let's start with the atomic note. This is the basic building block of a PKM. Each atomic note should contain a single idea written in your own words and it should have a descriptive title (or filename). An atomic note is like a seed that could grow into a great oak.
 
@@ -60,7 +60,7 @@ Writing an atomic note is like writing a single idea on an index card that you c
 
 The idea of the *digital* atomic note came from the immensely effective use of physical index cards by the prolific sociologist [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann), who had a private collection of [over 90,000 index cards](https://sociologica.unibo.it/article/view/8350/8272), which he used to publish 58 books and hundreds of articles, many of which became classics in their respective fields.
 
-![scan of one of Niklas Luhmann's physical index note](/images/niklas-luhmann-zettel.png)
+![scan of one of Niklas Luhmann's physical index note](./images/niklas-luhmann-zettel.png)
 _Luhmann's note entitled "The system as a research tool" (Das System als Forschungsmittel), from [online archives](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_8_1_V)._
 
 Thankfully, we don't need to use physical index cards. A big advantage of working with digital notes is that we can link notes endlessly and effortlessly.
@@ -92,7 +92,7 @@ I will go into details of the process of maturing an atomic note from seed to se
 
 ## All other types of notes
 
-![tools in the garden PKM illustration](/images/personal-knowledge-management-PKM-garden-tools-nickang.png)
+![tools in the garden PKM illustration](./images/personal-knowledge-management-PKM-garden-tools-nickang.png)
 
 Keeping with the analogy of gardening, let's think of all other types of notes as *tools that a serious gardener would need*. A shovel, a spade, a watering can, gloves, scissors, and so on.
 
@@ -139,7 +139,7 @@ In these scenarios, I use my top of mind note to park things that *I know* I wil
 
 This is the first section of the top of mind note, and I put them under the subheading **Inbox**. So the inbox section looks like this in my PKM:
 
-![screenshot of my top of mind note inbox](/images/top-of-mind-inbox.png)
+![screenshot of my top of mind note inbox](./images/top-of-mind-inbox.png)
 
 Just to be clear, when I sit down to process the items in my inbox, I will read, think, create new atomic notes, and link them to existing ones. That's how the inbox in the top of mind note helps me grow my PKM.
 
@@ -161,7 +161,7 @@ At one point I decided to try adding something visual to indicate that this item
 
 Here is how it looks in my PKM:
 
-![screenshot of my top of mind note ongoing section](/images/top-of-mind-ongoing.png)
+![screenshot of my top of mind note ongoing section](./images/top-of-mind-ongoing.png)
 
 Now, time for a short aside. While I've said that all other types of notes should exist only to grow atomic notes, this section of my top of mind note reveals that that is not entirely true. The ongoing items in my PKM have so far included writing original posts like this one.
 

@@ -16,7 +16,7 @@ When I am angry, upset, happy, or disturbed by something, I always try to return
 
 This space exists solely in each of our minds. Nobody can be in this space of yours but you.
 
-![Neo in The Matrix choosing the red pill](/images/blue-red-pill-matrix.png)
+![Neo in The Matrix choosing the red pill](./images/blue-red-pill-matrix.png)
 *Scene from The Matrix where Neo takes the red pill from Morpheus.*
 
 Recognising that this space exists and that one can make use of it anytime to construct a response is probably one of the most impactful revelations one can have. Its profundity is akin to having taken the red pill and being awoken from The Matrix, and all it took to get started was to be aware.

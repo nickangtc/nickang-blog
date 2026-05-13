@@ -8,7 +8,7 @@ backlinks:
 
 Before you know it, your face is greasy, your feet cold, and you wonder, why are you doing this? Nah, that's not representative of life on a campervan, although I've felt all that in my recent week-long campervan trip with my wife and dog.
 
-![My rented campervan from Indie Campers, photographed against the bright sun](/images/indiecampers-campervan-nickang.JPG)
+![My rented campervan from Indie Campers, photographed against the bright sun](./images/indiecampers-campervan-nickang.JPG)
 _Our motor home for a week in September 2020._
 
 Realising that not everyone may have the opportunity to travel in a campervan, I am recounting my experience to try and share what life on a campervan is like. How is it different from the usual hotel and rental car experience? What are the ugly sides that van lifers don't talk about? Would I do it again? As usual with what I publish here, I write this to remind myself and to share my take with you.
@@ -17,7 +17,7 @@ So, what is it like?
 
 A campervan is like a sparrow, small but complete with all the vital organs necessary for living. You can cook, drink cold and hot beverages, wash the dishes, wash yourself, shit, pee, sleep, read, talk privately, talk openly, watch a movie, and play with your dog inside a campervan. It's just like a miniature home, except for two major differences: you take care of everything that goes in and out of it, and it has wheels.
 
-![A larger campervan from my first rental, a Fiat Ducato](/images/larger-campervan-indiecampers-nickang.jpg)
+![A larger campervan from my first rental, a Fiat Ducato](./images/larger-campervan-indiecampers-nickang.jpg)
 _A larger model of the same campervan. We rented this for our first campervan trip in November 2019._
 
 Driving the campervan is very similar to driving a big-sized car. My rental campervan was a manual 2019 Fiat Ducato, which is among the smaller models available. My previous rental was a larger model Fiat Ducato, and it felt much more comfortable because of how spacious it is, but it comes with a penalty in terms of where you can park.  The only real difference in driving is that you need to be careful to turn off the gas valve and secure everything before moving off. Oh, and the higher point of view from the driver's seat makes for, in my opinion, a pleasant "king of the road" type of driving experience.
@@ -46,7 +46,7 @@ Would I do it again? Yes. I think of it as real camping — you know, with a ten
 
 As a new ritual, I invest energy and time to capture, edit, and publish vlogs of my travels because I realised I can never remember the details even though I love reminiscing. You can view these public vlogs on my [YouTube channel](https://www.youtube.com/channel/UCfGK7NLYK22y1ahCh6w9baw):
 
-[![Nick Ang campervan road trip vlog](/images/campervan-youtube-video-nickang.png)](https://www.youtube.com/watch?v=yl3CJ3Wjb6Q)
+[![Nick Ang campervan road trip vlog](./images/campervan-youtube-video-nickang.png)](https://www.youtube.com/watch?v=yl3CJ3Wjb6Q)
 
 ---
 

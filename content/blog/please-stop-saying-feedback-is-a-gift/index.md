@@ -10,7 +10,7 @@ backlinks:
 
 Stop pretending that you like everything about feedback. A gift is something that is meant to be liked. Feedback is not.
 
-![image of a bird standing on a statue full of poop](/images/poop-bird.jpeg)
+![image of a bird standing on a statue full of poop](./images/poop-bird.jpeg)
 _Photo by [Mark König](https://unsplash.com/)_
 
 I once gave feedback in a direct message (always default to 1–1 DMs when giving constructive criticism) to a leader at a company whom I thought was acting in a way that had negative consequences. Let's just say I was at an elevated state of emotion when I wrote that message, although the message that I eventually sent was scrubbed of superlatives and expletives.

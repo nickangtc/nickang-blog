@@ -14,7 +14,7 @@ Edit 23 Feb 2025: A note from me about Elon Musk. He has become very much the ki
 
 Yep, I thought I was going to do something big with my life as Elon Musk has. It was when I believed that doing "something big" was the epitome of a meaningful life.
 
-![](/images/yagbem1.webp)
+![](./images/yagbem1.webp)
 _The internet reproducing a meme that Elon Musk's job is to be badass. (source: The [Joe Rogan Experience podcast](https://www.youtube.com/watch?v=ycPr5-27vSI))_
 
 Nowadays, having gone past that phase, I'm constantly nagged by this feeling that this might be one of the biggest mental hurdles that young people (mostly men) don't know that they will have to learn to jump over. Let's interrogate that feeling.
@@ -25,7 +25,7 @@ Even from the vantage point of being a mature 32-year-old adult, I still don't t
 
 For me, all of this grew out of a bus ride that, for all other purposes, was uneventful.
 
-![](/images/yagbem2.webp)
+![](./images/yagbem2.webp)
 _With friends in London, circa 2011. (I'm the middle guy.)_
 
 Two friends and I were riding a bus somewhere in London. We were university freshmen on vacation at the time, I believe. During the ride, one of my friends reached into his backpack and took out a book with a black and white cover featuring a man with great hair smiling.
@@ -92,7 +92,7 @@ I looked at her and said, "I don't know when my ambition took control of how I t
 
 "Who would I share the joy of achieving anything if you're not around?" I elaborated, the matter-of-fact tone slowly melting away. "I cannot think of anyone else I would like to share the joyful moments of my life with."
 
-![](/images/yagbem3.webp)
+![](./images/yagbem3.webp)
 _Me in a Roadster in a Tesla showroom in San Jose in 2013._
 
 It was then that I chose my relationship with one person over the potential to "change the world." Saying "you are right, I will change" saved our relationship. We got married later and are now happily devoted to co-tackling the new biggest challenge of our lives - raising our daughter together in Europe. I honestly haven't been happier in my life.

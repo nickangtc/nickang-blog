@@ -6,7 +6,7 @@ tags: ["Living"]
 backlinks:
 ---
 
-![screenshot of my Amazon order list](/images/amazon-order-list.jpg)
+![screenshot of my Amazon order list](./images/amazon-order-list.jpg)
 
 We decided to buy many appliances on Amazon Prime Day recently and I felt the need to justify it to myself because, well, we've lived a year and a half in Germany without them. So why do we need them now? Was it just because of the discounts?
 

@@ -6,7 +6,7 @@ tags: ["Living", "Tech"]
 backlinks:
 ---
 
-![A hand drawn illustration with the capture "how am i going to make money?"](/images/how-am-i-going-to-make-money-nickang.PNG)
+![A hand drawn illustration with the capture "how am i going to make money?"](./images/how-am-i-going-to-make-money-nickang.PNG)
 
 I'm going to sound crazy, but I'm imagining my yet-to-be-born daughter asking me this question in a few years, and it plunging me into a mid-life crisis. The timing sounds about right too, me being in my early 30s now.
 

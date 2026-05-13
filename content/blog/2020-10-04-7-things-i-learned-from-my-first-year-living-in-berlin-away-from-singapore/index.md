@@ -17,7 +17,7 @@ backlinks:
 
 In two days, I will mark my first year living away from Singapore in Berlin. I moved here with my wife and dog last year when I managed to get transferred to the Berlin office of my current employer. As you can imagine, life has been different since. 
 
-![Our first day in Berlin at a restaurant with, believe it or not, our dog](/images/first-day-in-berlin.jpg)
+![Our first day in Berlin at a restaurant with, believe it or not, our dog](./images/first-day-in-berlin.jpg)
 _Our first day in Berlin at a restaurant with, believe it or not, our dog._
 
 In this article, I reflect on the lessons I have learned from my first year of living in Berlin.
@@ -35,7 +35,7 @@ In short, I moved with work to Berlin wanting to explore life abroad and life in
 
 ## 1. There is comfort in cultural diversity
 
-![Talking to fellow non-German expats living in Berlin](/images/talking-to-people.JPG)
+![Talking to fellow non-German expats living in Berlin](./images/talking-to-people.JPG)
 
 Looking back, I think picking a cosmopolitan city like Berlin was a good decision for us. A cosmopolitan city provides cultural diversity, and that has made us feel less out of place in our first home away from home.
 
@@ -56,7 +56,7 @@ Incidents like this happen regularly and it is why Charlane and I have been dili
 
 ## 3. Nature has altered my sense of place in the world
 
-![Saxon Switzerland National Park](/images/saxon-switzerland-national-park.JPG)
+![Saxon Switzerland National Park](./images/saxon-switzerland-national-park.JPG)
 
 When you grow up in a city-island-state like Singapore, constantly hearing stories of how its people had overcome the challenges of resource scarcity and neighbouring hostility and other limitations, you grow up with a kind of misplaced pride. In my opinion, this pride has made Singaporeans (including myself) especially prone to thinking we are, each of us, at the centre of the world. And I've found that nature, which we have but a tiny representation of in urbanised Singapore, has helped me to see my place in this world more holistically.
 
@@ -75,7 +75,7 @@ I wrote more about this in a separate article: [From shock to love: How the clos
 
 ## 5. A city's dog-friendliness bestows a sense of belonging
 
-![Our dog Brownie inspecting the area for dogs](/images/brownie-in-berlin.jpg)
+![Our dog Brownie inspecting the area for dogs](./images/brownie-in-berlin.jpg)
 
 Berlin is a very dog-friendly city and it has made life a lot more pleasant for us. This is one of the biggest lessons for my partner. When she realised we could walk Brownie directly onto buses, trams, trains (even long-distance ones), malls and shops, and around 50 percent of restaurants and cafes, she could only describe our life with Brownie in Singapore as "rather stifled." 
 
@@ -106,7 +106,7 @@ In Singapore, the opposite problem exists - we tend to blatantly disregard peopl
 
 ## 7. A society's history determines what its people view as problems
 
-![Picture of my reflection in a mirror on Berliner Allee](/images/mirror-berliner-allee.JPG)
+![Picture of my reflection in a mirror on Berliner Allee](./images/mirror-berliner-allee.JPG)
 
 I've learned that we turn many innocuous things into problems because of the history of the societies we are part of and that leaving is the only way of noticing the many ways this phenomenon manifests in our lives.
 

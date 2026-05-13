@@ -11,7 +11,7 @@ backlinks:
 
 These days there is not a thing that I'm more grateful for than my wife. I have much to say about her, about how much she has influenced who I am today, which I fully expect to write about in this newsletter over time. In this post I want to examine something that I've been thinking about a lot lately - it's about her respecting and granting my need for respite.
 
-![](/images/cannot1.webp)
+![](./images/cannot1.webp)
 _Me having some respite when I cannot. Unseen: 8 month old daughter in the background being taken care of single-handedly by her mum._
 
 The feeling I get when she lets me rest is the same every time: I feel loved, cared for, respected, and supported.

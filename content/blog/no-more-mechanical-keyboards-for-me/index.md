@@ -16,7 +16,7 @@ So I _thought_ it was natural that shortly after I started my first job as a sof
 First, I bought the simple starter mechanical keyboard known as the Ducky One:
 
 
-![](/images/duckyone.png)
+![](./images/duckyone.png)
 
 
 The Ducky One, my first mechanical keyboard (source: google images)
@@ -24,7 +24,7 @@ The Ducky One, my first mechanical keyboard (source: google images)
 Then, I graduated to something a little more serious (and tactile). Whereas the Ducky had quiet "brown" switches, for this new keyboard, the Leopold something, I chose to go with the very clicky "blue" switches:
 
 
-![](/images/clickyblue.jpeg)
+![](./images/clickyblue.jpeg)
 
 
 The Leopold something something (source: google images)
@@ -36,7 +36,7 @@ Those blue switches were proper noisy. They distracted me not only because of th
 So I took a break from mechanical keyboards and for a while, just stuck with the simple company-issued Magic Keyboard:
 
 
-![](/images/applemagickeyboard.jpeg)
+![](./images/applemagickeyboard.jpeg)
 
 The Apple Magic Keyboard. It's technically non-mechanical but it is a workhorse.
 
@@ -49,7 +49,7 @@ The good news is that by now, having typed a lot more, I've come to know my need
 So this time, I knew I needed something with a low profile like the Magic Keyboard. Have you seen the thinness of the thing?
 
 
-![](/images/profile.jpeg)
+![](./images/profile.jpeg)
 
 
 The Magic Keyboard is incredibly thin compared to even a low-profile mechanical keyboard like the Keychron K3 (see also next pic).
@@ -57,7 +57,7 @@ The Magic Keyboard is incredibly thin compared to even a low-profile mechanical 
 With this insight, I bought the Keychron K3, a low profile wireless mechanical keyboard with the smooth and satisfyingly quiet "brown" keys. I also bought a $25 wooden palm rest that is shaped to work nicely with this particular keyboard in anticipation of wanting to alleviate the wrist pain that was about to ensue:
 
 
-![](/images/keychron-mouse.jpeg)
+![](./images/keychron-mouse.jpeg)
 
 Keychron K3 low profile mechanical keyboard and palm rest.
 

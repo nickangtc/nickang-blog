@@ -6,7 +6,7 @@ tags: ["Creativity", "Living"]
 backlinks:
 ---
 
-![Grizzly Man, Timothy Treadwell, in the documentary by Werner Herzog](/images/grizzly-man-werner-herzog-film.png)
+![Grizzly Man, Timothy Treadwell, in the documentary by Werner Herzog](./images/grizzly-man-werner-herzog-film.png)
 _Timothy Treadwell, the Grizzly Man. Screenshot from the documentary by Werner Herzog._
 
 Yesterday night I stayed past my bedtime to watch the 1 hour 40 minutes long autobiographical documentary [Grizzly Man](https://en.m.wikipedia.org/wiki/Grizzly_Man) directed and narrated by Werner Herzog. It's about a man whose life took a dark turn and became obsessed with grizzly bears in the wilderness of Alaska where he spent 13 summers living amongst them. He eventually died at the paws and teeth of one.

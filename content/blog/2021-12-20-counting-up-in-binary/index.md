@@ -17,4 +17,4 @@ If you don't know binary as an application developer, it wouldn't have a big imp
     Sorry, your browser doesn't support embedded videos.
 </video>
 
-![How to count up in binary](/images/2-counting-up-binary.png)
+![How to count up in binary](./images/2-counting-up-binary.png)

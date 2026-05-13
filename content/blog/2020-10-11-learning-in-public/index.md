@@ -22,15 +22,15 @@ So while I have not figured out where to dive-in and commit the productive days 
 
 I recently wrote about [how you are not buying things with money but time](/2020-08-30-you-are-not-buying-that-with-money/) and I did something different - I shared it on Facebook with my friends and acquaintances. A lively discussion (you might call it a debate) gradually unfolded and I learned how my thinking could be improved:
 
-![Screenshot of my blog article 'You are not buying that with money' on Facebook](/images/you-are-not-buying-that-with-money-fb-screenshot.png)
+![Screenshot of my blog article 'You are not buying that with money' on Facebook](./images/you-are-not-buying-that-with-money-fb-screenshot.png)
 
 From then, I started to share new articles on Facebook. Here's another example of a more recent article where I reflected on [7 things I've learned from my first year living in Berlin (away from Singapore)](/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/). Many people replied, some just thanking me for sharing a good read, others pointing out specific things that they agreed about:
 
-![Screenshot of my blog article 'Reflecting on one year living in Berlin' on Facebook](/images/reflecting-one-year-berlin-away-from-singapore.png)
+![Screenshot of my blog article 'Reflecting on one year living in Berlin' on Facebook](./images/reflecting-one-year-berlin-away-from-singapore.png)
 
 Again, you might see this as evidence that "Nick gets it," but consider the many other articles I've written and similarly shared that were greeted by crickets. Here is me sharing an article about [why I love the seasons](/2020-08-23-why-i-love-the-seasons/):
 
-![Screenshot of my blog article 'Why I love the seasons' on Facebook](/images/why-i-love-the-seasons.png)
+![Screenshot of my blog article 'Why I love the seasons' on Facebook](./images/why-i-love-the-seasons.png)
 
 My point isn't to showcase what kind of articles gain the most readership. It's also not to illustrate how we tend to forget the process and judge only based on the results. While both are true, my point is rather that **learning in public is always going to be good for you**.
 

@@ -6,7 +6,7 @@ tags: ["Leadership", "Communication"]
 backlinks:
 ---
 
-![diagram illustrating how repeating the message helps retention](/images/repeat-the-message.png)
+![diagram illustrating how repeating the message helps retention](./images/repeat-the-message.png)
 
 I recently became a manager at work. Now I have a small team of 3 and I measure my success in terms of how big a multiplier effect I can have on our team's collective output. So far, one of the sharpest tools I've found in the shed is to repeat myself.
 

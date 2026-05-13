@@ -13,7 +13,7 @@ For example, our midwife said to me, "it's always nice to see that the father is
 
 Then, many DM-ed my wife when she posted on [her Instagram](https://www.instagram.com/charlane_yu/) a series of photos of confinement meals that I'd cooked to help her with her postpartum recovery, saying things like, "You have the best husband!"
 
-![screenshots of instagram stories with my cooking](/images/instagram-stories-confinement-foods.png)
+![screenshots of instagram stories with my cooking](./images/instagram-stories-confinement-foods.png)
 
 So far, still sounding very much self-congratulatory, I know. Bear with me.
 

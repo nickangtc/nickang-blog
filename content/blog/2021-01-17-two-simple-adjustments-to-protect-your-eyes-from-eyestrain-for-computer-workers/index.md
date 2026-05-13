@@ -6,7 +6,7 @@ tags: ["Living"]
 backlinks:
 ---
 
-![Illustration of two external monitor setups, one with larger font and farther distance - that is recommended for reducing eyestrain!](/images/reduce-eyestrain-increase-screen-distance-enlarge-font-nick-ang.png)
+![Illustration of two external monitor setups, one with larger font and farther distance - that is recommended for reducing eyestrain!](./images/reduce-eyestrain-increase-screen-distance-enlarge-font-nick-ang.png)
 
 As a person who works 9 hours a day on a computer on weekdays and at least another 10 hours over the weekends, I *see* the importance of caring for my eyes.
 

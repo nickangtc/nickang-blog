@@ -24,7 +24,7 @@ What I have found to be effective in helpng me waste less juice is to figure out
 
 When I'm alone and have free time, my preferred default activity is to write. It doesn't have to be writing for publishing; it can be writing for reflecting and clarifying, or writing for fun.
 
-![a glimpse of part of a freewrite](/images/freewrite-nickang.JPG)
+![a glimpse of part of a freewrite](./images/freewrite-nickang.JPG)
 
 I write on my phone if I know that I may be interrupted by someone physically near me. I write on my laptop or my [Freewrite](/2019-12-15-first-impressions-of-the-astrohaus-freewrite/) if I know I won't be interrupted. 
 

@@ -9,7 +9,7 @@ backlinks:
 
 New project. Sharing a new technical learning everyday! Inspired by the tenacious artist [@beeple_crap](https://www.beeple-crap.com/).
 
-![what is a cache? illustrated](/images/1-what-is-cache.png)
+![what is a cache? illustrated](./images/1-what-is-cache.png)
 
 I explain it in a video (the image above is just a screenshot of what I sketched in that video):
 

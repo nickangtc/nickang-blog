@@ -24,7 +24,7 @@ Also, just to put it out there, all of this is slightly ironic given that two mo
 ## Looking back, made simple
 While I disliked the side effects of being active on IG, I loved the fact that I could revisit my memories anytime on any device. I've also on several occasions shared links to specific posts with friends to remind *them* of our shared memories. I have to admit, I visit my profile a lot because I have a terrible memory and my IG profile serves as a digital manifestation of a memory lane, albeit a selective one.
 
-![screenshot of my instagram profile page](/images/instagram-profile-nickang.png)
+![screenshot of my instagram profile page](./images/instagram-profile-nickang.png)
 
 And now, with Charlotte in our lives, I have so much more to look back on. Because children grow up *extremely* fast (way faster than I had realised before I had one), there's much to document and look back on to remember.
 
@@ -46,7 +46,7 @@ Dilbert creator Scott Adams writes well, and he has [this](https://dilbertblog.t
 
 ## Practising visual design
 
-![canva screenshot](/images/canva.png)
+![canva screenshot](./images/canva.png)
 
 The previous point is not just about writing. Since IG is primarily a visual medium, creating an effective hook for someone to pause and do a double-take involves visual design.
 

@@ -21,4 +21,4 @@ I think duck typing relies a lot on trust. Trust that programmers name things we
     Sorry, your browser doesn't support embedded videos.
 </video>
 
-![what is duck typing?](/images/what-is-duck-typing.png)
+![what is duck typing?](./images/what-is-duck-typing.png)

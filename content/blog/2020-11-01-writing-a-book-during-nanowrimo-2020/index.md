@@ -8,7 +8,7 @@ backlinks:
 
 Today I'm setting myself a hairy goal of writing a book in November. I made the decision just now to participate in the [National Novel Writing Month](https://nanowrimo.org/) (NaNoWriMo). So far I've only done minimal preparation like reading [*Take Off Your Pants*](https://www.goodreads.com/book/show/25126763-take-off-your-pants-outline-your-books-for-faster-better-writing) by Libbie Hawker, while many other writers have already finished preparations in October, or *Prep-tober*. I'm not bothered by this since this is a personal challenge, not a competition, but I do feel like I could be more prepared.
 
-![Nanowrimo 2020 poster from the nanowrimo.org store](/images/nanowrimo2020-poster.png)
+![Nanowrimo 2020 poster from the nanowrimo.org store](./images/nanowrimo2020-poster.png)
 *Poster from nanowrimo.org*
 
 It's not easy to write 50,000 words. Or I should say, it's not easy to write something that when read, *if* read, does not make someone roll their eyes or want to bite their tongue. That happens to be my goal now.
@@ -23,7 +23,7 @@ For the record, though, I have to admit that part of me feels like an imposter. 
 
 That said, another part of me feels like I am already a writer. I have a track record of writing and publishing my thoughts on this blog and my [old blog](https://nickang.wordpress.com) quite consistently since 2015. And over the last four months, I've published one post here every week. I have also shown to myself that I enjoy sitting alone at my desk tapping away on [my Freewrite](/2019-12-15-first-impressions-of-the-astrohaus-freewrite/). My regular and hopefully effective use of the written word to communicate gives me a degree of confidence.
 
-![me writing with the Freewrite modern typewriter on my lap](/images/nick-ang-freewrite-typewriter-on-lap.JPG)
+![me writing with the Freewrite modern typewriter on my lap](./images/nick-ang-freewrite-typewriter-on-lap.JPG)
 *I will be making full use of my Freewrite this month, that's for sure!*
 
 So, anyway, that's it! Today is the 1st of November 2020 and I'm participating in NaNoWriMo for the first time. I currently have a story concept that I think still needs a day's work to become a backbone for an outline. Then it's *click-clack-click-clack* time! I will, as someone in the NaNoWriMo community recommends, focus on writing "draft zero." That's the goal this month. Editing will be after November.

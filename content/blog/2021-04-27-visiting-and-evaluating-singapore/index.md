@@ -9,7 +9,7 @@ backlinks:
 > God grant me the serenity to accept the things I cannot change; the courage to change the things I can; and wisdom to know the difference.
 > <cite>Kurt Vonnegut</cite>
 
-![In-flight selfie](/images/in-flight-selfie-nickang.jpg)
+![In-flight selfie](./images/in-flight-selfie-nickang.jpg)
 *Pandemic era in-flight selfie on a KLM flight from Berlin to Singapore, transiting through Amsterdam.*
 
 In late 2019, my wife, dog, and I packed four pieces of luggage and took a one-way flight to Berlin. We've lived here for the last one and a half years and this weekend we are returning to Singapore for the first time to visit.

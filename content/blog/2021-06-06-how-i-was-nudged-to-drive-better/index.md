@@ -6,7 +6,7 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![photo of my Toyota car dashboard showing the fuel efficiency number and eco light indicator](/images/toyota-car-dashboard-nickang.jpg)
+![photo of my Toyota car dashboard showing the fuel efficiency number and eco light indicator](./images/toyota-car-dashboard-nickang.jpg)
 
 I've been driving a lot lately in Singapore as I'm home for a visit, and I've had the privilege of driving several different cars, one from my mum and two of my brother-in-law's (he has a car rental business). As I drove around, I kept subconsciously looking at one thing on the dashboard: the fuel efficiency number.
 
@@ -34,5 +34,5 @@ How could I apply [nudge theory](https://en.wikipedia.org/wiki/Nudge_theory) to 
 
 How can we make use of micro nudges to inform good behaviour? The people at Amsterdam's Schiphol Airport had a clue.
 
-![photo of a sticker of a mosquito pasted on a men's room urinal](/images/schiphol-airport-wikimedia.png)
+![photo of a sticker of a mosquito pasted on a men's room urinal](./images/schiphol-airport-wikimedia.png)
 *Image source: [Stefan Bellini](https://commons.wikimedia.org/wiki/User:Stefan_Bellini)*

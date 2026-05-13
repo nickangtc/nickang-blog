@@ -13,7 +13,7 @@ backlinks:
     title: "Hard work is hard work"
 ---
 
-![Programming bootcamps blog image](/images/programming-bootcamps.png)
+![Programming bootcamps blog image](./images/programming-bootcamps.png)
 
 Between 2016 and 2017, I went from knowing nothing about code to becoming a software engineer at Altitude Labs, a startup that is building an end-to-end data science solution for e-commerce businesses. It went smoother than I could ask for, but that is not to say that I didn't second guess my decisions at every turn.
 

@@ -12,7 +12,7 @@ backlinks:
     title: "Why I chose this to be my word for 2026"
 ---
 
-![a picture of Nick and Charlane in an empty new rental apartment](/images/nickang-new-rental-apartment-berlin.jpg)
+![a picture of Nick and Charlane in an empty new rental apartment](./images/nickang-new-rental-apartment-berlin.jpg)
 _Software engineering has enabled us to live in Berlin. Picture: us on the first day of moving into our new unfurnished rental apartment in Mitte, Berlin._
 
 I graduated in 2015 with a bachelor's degree in environmental studies and no knowledge of how to code. Now, in 2021, I'm leading a team of software engineers based in Singapore and Finland, building internal tools for one of the largest advertising tech companies in the world.

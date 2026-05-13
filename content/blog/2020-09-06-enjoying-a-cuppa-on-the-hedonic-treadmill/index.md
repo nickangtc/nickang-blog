@@ -10,7 +10,7 @@ Last week I wrote about how [we don't buy things with money but with time](/2020
 
 But I also did just write that cautionary tale of an article about buying stuff...
 
-![picture of a cappuccino I made at home with a good coffee setup in Singapore](/images/homemade-cappuccino-nick-ang.jpg)
+![picture of a cappuccino I made at home with a good coffee setup in Singapore](./images/homemade-cappuccino-nick-ang.jpg)
 *A homemade cappuccino from when I still had a great setup at home in Singapore.*
 
 Fact: I am in the market to look for an upgrade from a Moka Pot that will let me make better coffee.

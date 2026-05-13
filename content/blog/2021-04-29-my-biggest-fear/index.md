@@ -22,7 +22,7 @@ If *someone* can juggle this many things and do them so fascinatingly well, I sh
 
 So this brings me to the big question: **am I going to have any time left at all to pursue my creative side when Charlotte, our first child, is born?** I'm afraid that I won't and that by the time I realise my regret it would be too late and the regret would eat me from inside.
 
-![My wife, my dog, and I](/images/nickang-charlane-brownie.jpg)
+![My wife, my dog, and I](./images/nickang-charlane-brownie.jpg)
 _I have around 140 days before this family grows by 1 human headcount._
 
 Weirdly, I see Jarvis Johnson's quitting moment to my Charlotte is born moment - there is a date, something bubbling from it, and I have to use this time that I have left to explore the creative side of me. Like, truly *explore*. Fearlessly explore things, try different things every day. Otherwise, I wouldn't be able to do everything in time!

@@ -12,7 +12,7 @@ backlinks:
     title: "How to know you are a junior developer"
 ---
 
-![Me pulling out an overly steeped teabag with a phone timer showing 7 minutes and 17 seconds](/images/teabag-infusing-stopwatch.jpg)
+![Me pulling out an overly steeped teabag with a phone timer showing 7 minutes and 17 seconds](./images/teabag-infusing-stopwatch.jpg)
 
 Imagine you're trying to make tea. It's your favourite green tea, which needs three minutes of infusion. You put the teabag into 95 degrees water and the steeping begins.
 

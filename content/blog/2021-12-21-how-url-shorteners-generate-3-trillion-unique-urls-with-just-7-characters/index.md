@@ -19,6 +19,6 @@ Turns out, it's by expanding the way we count, from 0-10 to 0-62!
     Sorry, your browser doesn't support embedded videos.
 </video>
 
-![the solution is to count in base62](/images/url-shortener-base-62-counting.png)
+![the solution is to count in base62](./images/url-shortener-base-62-counting.png)
 
 I referred to [this article](https://www.interviewcake.com/question/java/url-shortener) to learn about this.

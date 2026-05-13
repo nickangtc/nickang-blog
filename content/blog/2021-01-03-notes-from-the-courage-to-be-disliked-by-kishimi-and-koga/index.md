@@ -8,7 +8,7 @@ backlinks:
     title: "Focus on understanding, not on what is right"
 ---
 
-![The book cover of The Courage to Be Disliked](/images/the-courage-to-be-disliked-book-cover.jpg)
+![The book cover of The Courage to Be Disliked](./images/the-courage-to-be-disliked-book-cover.jpg)
 
 ## What are the main ideas?
 

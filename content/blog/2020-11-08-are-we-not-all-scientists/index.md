@@ -12,7 +12,7 @@ Let's ask ourselves: What is the scientific method? Well, the unsophisticated an
 
 Don't we seek durable truths all the time?
 
-![my writing setup at home during National Novel Writing Month in November 2020. That's a Freewrite on the desk](/images/writing-my-first-novel-nickang-freewrite.JPG)
+![my writing setup at home during National Novel Writing Month in November 2020. That's a Freewrite on the desk](./images/writing-my-first-novel-nickang-freewrite.JPG)
 *My writing setup. That's a [Freewrite](/2019-12-15-first-impressions-of-the-astrohaus-freewrite/), a distraction-free modern typewriter, if you will.*
 
 For example, right now I'm trying to learn the best way to [write a novel](/2020-11-01-writing-a-book-during-nanowrimo-2020/). To know the answer to that question, I first put it off and narrow it down further: What is the best way *for me* to write a book?

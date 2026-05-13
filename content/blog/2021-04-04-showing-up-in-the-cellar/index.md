@@ -6,7 +6,7 @@ tags: ["Creativity"]
 backlinks:
 ---
 
-![An illustration of the author Steven Pressfield, originally from the Tim Ferriss blog](/images/steve-pressfield-illustration.png)
+![An illustration of the author Steven Pressfield, originally from the Tim Ferriss blog](./images/steve-pressfield-illustration.png)
 *Author Steven Pressfield. Illustration via [99designs](http://99designs.com/tim), credit: [Tim Ferriss blog](https://tim.blog/2021/02/26/steven-pressfield/).*
 
 Over the long Easter weekend, I listened to [Steven Pressfield](https://stevenpressfield.com/about/)'s [interview on the Tim Ferriss Show](https://tim.blog/2021/02/26/steven-pressfield/) while I cooked lunch. I was already familiar and impressed with Steven's work, having read [Turning Pro](https://blackirishbooks.com/product/turning-pro/) and [The War of Art](https://blackirishbooks.com/product/the-war-of-art/), and I was primed for more.
@@ -31,7 +31,7 @@ For the first time, I was writing alone in Berlin, including away from my wife a
 
 I was there for an hour and a half alone, writing. The word tally at the end was something like 800 words. Not bad. But the number honestly doesn't matter to me quite as much as the fact that I found a way to show up and beat what Steven Pressfield calls *The Resistance*.
 
-![Picture of a folding chair propped up against the wall in my basement cellar where I wrote this morning](/images/folding-chair-basement-cellar-nickang-dot-com.JPG)
+![Picture of a folding chair propped up against the wall in my basement cellar where I wrote this morning](./images/folding-chair-basement-cellar-nickang-dot-com.JPG)
 *My new writing room.*
 
 Anyway, I left my chair in the cellar. Tomorrow I shall return to write again.

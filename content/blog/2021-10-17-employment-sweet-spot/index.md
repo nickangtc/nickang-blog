@@ -15,7 +15,7 @@ You need to understand that people want to be useful and they want to grow (some
 
 The best illustration of this is a Venn diagram I saw at Smartly.io. It looks something like this:
 
-![employment sweet spot venn diagram](/images/employment-sweet-spot.png)
+![employment sweet spot venn diagram](./images/employment-sweet-spot.png)
 _The Employment Sweet Spot_
 
 This diagram depicts the employment sweet spot. There are three areas: competitive advantage, true motivation, and impact for the company.

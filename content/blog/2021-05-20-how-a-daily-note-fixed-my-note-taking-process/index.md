@@ -8,7 +8,7 @@ backlinks:
     title: "Types of Notes in a PKM explained with a Gardening Analogy (Part II)"
 ---
 
-![hand-drawn illustration of a Daily Note](/images/daily-note-nickang-blog-illustration.png)
+![hand-drawn illustration of a Daily Note](./images/daily-note-nickang-blog-illustration.png)
 
 Since the days I was in university, I have been a notes freak. I've written and published numerous posts about note-taking: [as a way to augment human memory](/2020-02-23-how-i-think-about-memory/), [as a gadget](/2018-11-02-bear-app-im-ready-for-you/), [as an ecosystem of products](/2018-01-30-wishing-diigo-product-by-evernote/), [as a personal knowledge management system](/2020-07-05-personal-knowledge-management-system/).
 
@@ -26,7 +26,7 @@ Things began to change when I started creating a Daily Note.
 
 Effectively, a Daily Note is just like any other note. I believe the template should depend heavily on what you do. Here's what mine looks like anyway:
 
-![my daily note](/images/nickang-daily-note.png)
+![my daily note](./images/nickang-daily-note.png)
 
 The power of the Daily Note lies not in the structure that it provides me within the note, but the structure it provides me for making notes as a whole.
 

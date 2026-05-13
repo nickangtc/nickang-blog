@@ -8,7 +8,7 @@ backlinks:
     title: "6 Things I've Learned from my Second Year Living in Berlin (away from Singapore)"
 ---
 
-![Box on the street with a sign that says zu verschenken](/images/berlin-verschenken.jpeg)
+![Box on the street with a sign that says zu verschenken](./images/berlin-verschenken.jpeg)
 _Zu verschenken? (Image: [tip-berlin.de](https://www.tip-berlin.de/stadtleben/zu-verschenken-in-berlin/))_
 
 I currently live in Berlin, a city where thrift culture is incredibly strong. It is one of the many reasons why I love this city. I've received a lot of pieces of electronics, kids clothing, and furniture for free or at very low prices. By a lot, I mean more than 30 percent of the things that are currently in my apartment came from thrifting. I'm very proud of this!

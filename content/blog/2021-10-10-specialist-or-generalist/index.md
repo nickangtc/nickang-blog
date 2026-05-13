@@ -9,7 +9,7 @@ backlinks:
     title: "Generalist vs Specialist"
 ---
 
-![photo of black coffee in a mug](/images/black-batch-brew-coffee.jpg)
+![photo of black coffee in a mug](./images/black-batch-brew-coffee.jpg)
 *A nice & warm batch brew. Mmm...*
 
 I realised something this morning when buying coffee at my local café -- the person who pumped the batch brew coffee into my mug was not the barista, and she didn't pre-heat my mug with hot water before pumping coffee into it. It didn't bother me much; it was simply something I noticed. I don't mind my coffee being slightly cooler than piping hot anyway.

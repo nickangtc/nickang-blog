@@ -24,7 +24,7 @@ Anyway, a few teaching stints later, I landed my current job as a "service opera
 
 Rather, I consider myself lucky to have been given the freedom to improve at other skills, like team project management, customer service, interviewing, internal communications, technical writing, and leadership. Now I'm on my way, hopefully far along, to being good enough at those skills too.
 
-![A scene from Jiro dreams of sushi where Jiro talks about the predictable taste of fatty tuna](/images/jiro-dreams-of-sushi.jpg)
+![A scene from Jiro dreams of sushi where Jiro talks about the predictable taste of fatty tuna](./images/jiro-dreams-of-sushi.jpg)
 *A scene from Jiro: Dreams of Sushi (2011)*
 
 When I sit down and rationalise things this way, everything seems okay. But the truth is, I regularly second-guess myself about whether I ought to specialise more. Go deep, like that sushi chef from *[Jiro: Dreams of Sushi](https://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi)*  who has been making sushi his entire life and is darned good at it. Or like a more recent and much closer to home example, my classmate Kenneth Foong, who, after a decade of pursuing his craft as a culinary chef, recently got [appointed as head chef at *Noma*](https://www.straitstimes.com/lifestyle/food/singaporean-is-head-chef-at-two-michelin-starred-noma), the world's top restaurant. I mean, going deep on a single skill -- cooking -- turned out great for these guys.

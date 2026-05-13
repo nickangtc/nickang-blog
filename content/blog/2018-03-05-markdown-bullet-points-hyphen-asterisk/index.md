@@ -18,11 +18,11 @@ Scarce usage is the reason why "TK" is so commonly used by the editorial world t
 
 Since `*` is much less often used than `-` in a markdown file, I now prefer using that because it allows me to do quick multi-selection like this:
 
-![asterisk bullet point converts easily to numbered list with multiselection](/images/asterisks-bullet-markdown-success.gif)
+![asterisk bullet point converts easily to numbered list with multiselection](./images/asterisks-bullet-markdown-success.gif)
 
 Otherwise, if the same list were to be bulleted using `-` hyphens, I would face this problem:
 
-![hyphen bullet point fails because hyphens occur regularly in english text](/images/hyphen-markdown-bullet-fail.gif)
+![hyphen bullet point fails because hyphens occur regularly in english text](./images/hyphen-markdown-bullet-fail.gif)
 
 I know it's not a frequent use case, but changing a list from unordered (bulleted) to ordered (numbered) comes up just enough to give preferential treatment!
 

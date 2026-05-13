@@ -12,7 +12,7 @@ backlinks:
 
 *This is part II of [Types of Notes in a PKM explained with a Gardening Analogy (Part I of II)](/2021-08-29-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-i/).*
 
-![PKM garden illustration](/images/personal-knowledge-management-PKM-garden-nickang.png)
+![PKM garden illustration](./images/personal-knowledge-management-PKM-garden-nickang.png)
 
 In part I, we talked about how everything in a personal knowledge management (PKM) system is focused on building atomic notes through various stages of maturity. We also talked about how other types of notes can help us in that life-long endeavour, discussing in detail the Top of Mind note -- the first type of "other" notes.
 
@@ -62,7 +62,7 @@ Say, 3 months later, someone else mentions the 7 Habits book to you. This time, 
 
 Now, because of your PKM software, you have in your hands an empty note that has two *incoming links*. In Obsidian, one way to view incoming links is using the Graph View, and it would look like this when viewing the newly created book note:
 
-![screenshot of inbound links in Obsidian](/images/inbound-links-obsidian-pkm.png)
+![screenshot of inbound links in Obsidian](./images/inbound-links-obsidian-pkm.png)
 *You can literally see the context unfurling in front of you.*
 
 Being able to look at the note from the specific day you first thought about a book allows you to almost travel back in time to see *who recommended it*, *why*, and *what you thought* when you wrote it in that day's daily note in the first place. 
@@ -91,7 +91,7 @@ In short, use the daily scratchpad for everything transient and for follow-ups t
 
 The third point about adding a timestamp to templates is to automatically create an explicit connection (in the form of a double-bracketed backlink) from any newly created note that uses a template to that day's daily note. This has helped me on several occasions to retrace my steps to the day when I first considered an idea. 
 
-![GIF showing how templates with timestamp helps create an explicit link to a daily note](/images/using-template-with-timestamp-obsidian.gif)
+![GIF showing how templates with timestamp helps create an explicit link to a daily note](./images/using-template-with-timestamp-obsidian.gif)
 
 Using a template that has a macro adds the day's timestamp in the same format as my daily note's title establishes an explicit connection with the day's note.
 
@@ -139,7 +139,7 @@ An outline note has a more rigid structure while a map of content is more fluid 
 
 Here's a snippet of my outline of the book `[[b-How to Take Smart Notes by Sonke Ahrens]]`:
 
-![screenshot of an outline note](/images/outline-external-resource-example-obsidian.png)
+![screenshot of an outline note](./images/outline-external-resource-example-obsidian.png)
 
 Three things are noteworthy in this snippet:
 
@@ -202,7 +202,7 @@ By the end of this process, I have effectively ransacked my PKM for relevant not
 
 Here's what the MOC for this article looked like when it was close to completion, visualised in the Graph View:
 
-![screenshot of the map of content for this article](/images/map-of-content-moc-obsidian-nickang.png)
+![screenshot of the map of content for this article](./images/map-of-content-moc-obsidian-nickang.png)
 
 For me, this use case alone makes knowing when and how to use a MOC worth it. 
 

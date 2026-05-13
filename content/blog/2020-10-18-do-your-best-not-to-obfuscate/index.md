@@ -7,7 +7,7 @@ backlinks:
 
 I recently watched *A Life on Our Planet*, a documentary that David Attenborough called his witness statement. He talked as if he was testifying against humanity for the stupid things we've done collectively to degrade our only inhabitable planet. I enjoyed the cinematography, but I enjoyed even more the crew's skilful execution in making it clear that we are screwing up badly, and the biggest victims are animals, including us.
 
-![A disposable mask on the floor](/images/obfuscation-and-covid19.jpg)
+![A disposable mask on the floor](./images/obfuscation-and-covid19.jpg)
 *Photo by Claudio Schwarz*
 
 In the days after I watched the documentary, I started to see how **many of our environmental and social problems are caused by obfuscated systems**.

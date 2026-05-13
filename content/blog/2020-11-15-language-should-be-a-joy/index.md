@@ -6,7 +6,7 @@ backlinks:
 
 I recently rewatched a short sporting Stephen Fry's wisdom on the English language (as well as his wonderful British accent in the voiceover). I remember being struck by some of the ideas encapsulated in it many years ago when I first watched it, but I didn't fully fathom them. Today, after watching it again, I can safely say that I fathom most of it and that I love it. This short soliloquy is ingenious in prose and format equally.
 
-[![Thumbnail of video on YouTube with Stepehen Fry's narration about language](/images/stephen-fry-language.png)](https://www.youtube.com/watch?v=J7E-aoXLZGY)
+[![Thumbnail of video on YouTube with Stepehen Fry's narration about language](./images/stephen-fry-language.png)](https://www.youtube.com/watch?v=J7E-aoXLZGY)
 
 Simplicity and elegance. The punch it delivered is hard to describe… such precision in choice of words and pace of narration. Not to forget, conciseness in unpacking a sophisticated problem – that language is and should be allowed to evolve and conventions are unnecessarily scripting our writing and speech, and without being hyperbolic, stifling creativity. I remember thinking to myself, "What a wonderful, delicious mess of words that makes a lot of sense!"
 

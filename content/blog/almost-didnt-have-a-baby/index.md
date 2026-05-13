@@ -29,7 +29,7 @@ Thirdly, I want to acknowledge that getting pregnant is not like buying a potato
 
 Lastly, a quick reminder that while I love writing this newsletter, it takes time to write. If you enjoy this post, please consider sharing it with someone who might enjoy it as well, and/or consider becoming a paying subscriber. Your support affords me more time to write, reply to you individually, and continue building this newsletter into the most honest and kind place on the internet (a pipedream).
 
-![](/images/child1.webp)
+![](./images/child1.webp)
 _Here's me trying to stop Charlotte from eating the fascinating grass._
 
 A heads up: I am now a parent and I love it! Keep that in mind as you read this essay, as it's written by a not-sure-before-but-am-sure-now parent.
@@ -50,7 +50,7 @@ I mean, how are we supposed to decide? Doing a pros-and-cons list (or a decision
 
 
 
-![](/images/child2.webp)
+![](./images/child2.webp)
 _What a decision matrix would have looked like…_
 
 In the end, I think we came to our decision to have a kid by reasoning the parts that we could and then leaping out into the clouds of the Unknown, hoping that we'll learn during freefall to deploy our parachutes and land softly.
@@ -75,7 +75,7 @@ The second reason is less controversial: we loved our lifestyle and did not want
 When we started seriously contemplating the decision, we were in our late 20s living in Berlin (having just moved from Singapore), making decent money, and had nobody in our families needing our long-term care. We were living on our terms and it was wonderful!
 
 
-![](/images/child3.webp)
+![](./images/child3.webp)
 _Charlane, frizzy haired Brownie and I at the Saxon-Switzerland Mountains in 2020 just a few months before we found out we were expecting a child._
 
 We had a rough idea of what our next five years in Berlin were going to be like. I was going to deepen my career in tech and Charlane was going to explore a new handmade jewellery business. In our longer breaks, we'd maybe buy a campervan to travel around Europe, and in our pockets of time, we'd go rock climbing, walk in parks and swim in lakes, have meals with friends, work on side projects, or do things spontaneously. (That last bit about spontaneity? Yeah, that's truly gone now as a parent.)
@@ -116,7 +116,7 @@ We have a friend whose partner really wanted to be a parent. That can be a power
 
 Me? I honestly viewed most kids as a nuisance. They all seemed needy, wanting, not very helpful, and they behaved unpredictably. I used to pity parents when I see them, especially those who looked like they hadn't slept in four years, like Frank Buffay Jr.
 
-![](/images/child4.webp)
+![](./images/child4.webp)
 _Charlane has even less affinity with kids. Once, we happened to be eating at a hawker centre by Marina Bay in Singapore when the kid from the next table approached us to pat Brownie, our poodle, who was sitting on one of the red square stools._
 
 "It's so cute! What's its name?" the girl asked.
@@ -158,7 +158,7 @@ So next we asked, "what are some good reasons to _have_ kids?"
 We thought it would be helpful to try and understand the perspectives of people who already wanted to be or were already parents. Luckily for us, we had a perfect group of friends like that to ask. We all hung out in a WhatsApp group, so we posed this question to them: "What are the sweet things about having a kid?"
 
 
-![](/images/child5.webp)
+![](./images/child5.webp)
 
 
 ## The conversation we had with our friends

@@ -36,7 +36,7 @@ Here are some examples of things during my wife's pregnancy in 2021 that have be
 
 I share these examples because they're freshest in my memory, but there are other instances too, and overall, they make me feel like I am living in the most *humane* part of the world. If you are gainfully employed and anyone in your family falls sick, you will be cared for.
 
-![photo of me carrying my newborn daughter at 2 days old](/images/learning-to-be-a-dad.png)
+![photo of me carrying my newborn daughter at 2 days old](./images/learning-to-be-a-dad.png)
 *That's me learning how to carry my two day old daughter at the public hospital!*
 
 It's not just sickness, either! Parents get *Elterngeld* (literally "parent money") from the federal government to cover up to 60% of each of their incomes (capped at 1,800 euros per month) for a combined 14 months.
@@ -49,7 +49,7 @@ Yes, I pay higher taxes here, but as I'm in Berlin, I've learned to not bother c
 
 ## 2. The solution to low reproduction is probably paid parental leave
 
-![me feeding Charlotte a bottle of milk](/images/feeding-charlotte.png)
+![me feeding Charlotte a bottle of milk](./images/feeding-charlotte.png)
 *I have months, not weeks, to learn to be an equal partner in parenting in Germany.*
 
 Related to the first point. The Singapore government has tried to appeal to generations of Singaporeans to have more children and yet the fertility rate has remained solidly under 2.
@@ -58,7 +58,7 @@ Here's a guaranteed solution to low reproduction: provide what Germany provides 
 
 ## 3. The perfect place is completely subjective
 
-![photo of me posing a goofy pose against a glaring sunset](/images/goofing-around-berlin.jpg)
+![photo of me posing a goofy pose against a glaring sunset](./images/goofing-around-berlin.jpg)
 *Berlin for me is the place where I can be completely myself. Exhibit A.*
 
 One thing I learned this year in Berlin that surprised me was how little I understood people. The same place can be viewed from more angles than I can think of.
@@ -79,7 +79,7 @@ So what's the learning here? I think it's this: a place is never bad or good; it
 
 Walking the streets of Berlin, I often stumble on boxes with the words "*Zu verschenken*" scribbled on their sides. It means "to give away" in German.
 
-![photo of one of many boxes I stumble upon when walking the streets of Berlin. It contains things that people are giving away](/images/zu-verschenken-box-berlin.jpg)
+![photo of one of many boxes I stumble upon when walking the streets of Berlin. It contains things that people are giving away](./images/zu-verschenken-box-berlin.jpg)
 *This was a particularly fashionable giveaway, found street-side some five minutes from my apartment.*
 
 Here's a short assortment of items I've picked from these giveaway boxes in the last year:
@@ -96,7 +96,7 @@ I find it wonderful that many people here would take the time to list items that
 
 ## 5. Deposits guarantee recycling behaviour
 
-![photo of two women using a Pfand machine in Germany](/images/pfand-machine.jpeg)
+![photo of two women using a Pfand machine in Germany](./images/pfand-machine.jpeg)
 *Photo from Institute for Advanced Sustainability Studies ([source](https://www.iass-potsdam.de/en/news/opportunities-enhance-packaging-waste-legislation-germany))*
 
 In Germany, many beverages that ship in glass and plastic bottles must be purchased along with a deposit at the supermarket. For example, I bought an isotonic drink that came in a plastic bottle from Edeka the other day and the retail price was 0,89 euros, and at check-out, I had to pay an extra 0,25 euros as a deposit.
@@ -107,7 +107,7 @@ A *Pfand* side effect of this is that you can (and people do) leave your bottles
 
 ## 6. Car-sharing is a game changer
 
-![photo of me inside an Volkswagen ID3 electric car rented from car-sharing app WeShare](/images/volkswagen-id3-weshare-berlin.jpg)
+![photo of me inside an Volkswagen ID3 electric car rented from car-sharing app WeShare](./images/volkswagen-id3-weshare-berlin.jpg)
 *Me sitting inside the VW ID.3 electric car that is part of the all-electric fleet of WeShare in Berlin.*
 
 This one is worth writing about in its own article, but briefly: car-sharing is the future. It works, and it works well.
