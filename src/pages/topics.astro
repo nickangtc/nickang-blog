@@ -1,0 +1,148 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const TAGS_TO_SHOW_AS_TOPICS = [
+  "Tech",
+  "Living",
+  "Creativity",
+  "Annual Review",
+  "Leadership",
+  "Communication",
+  "Books",
+];
+
+const tagToSectionHeading: Record<string, string> = {
+  Tech: "🤖 Tech",
+  Living: "😊 Living",
+  Creativity: "🌌 Creativity",
+  "Annual Review": "📆 Annual Review",
+  Leadership: "🙇🏻‍♂️ Leadership",
+  Communication: "🗣 Communication",
+  Books: "📚 Books",
+};
+
+const tagToPageSlug: Record<string, string> = {
+  Tech: "tech",
+  Living: "living",
+  Creativity: "creativity",
+  "Annual Review": "annual-review",
+  Leadership: "leadership",
+  Communication: "communication",
+  Books: "books",
+};
+
+const allPosts = await getCollection("blog");
+const filteredPosts = allPosts.filter(
+  (post) =>
+    post.data.status !== "draft" &&
+    post.data.tags?.some((tag) => TAGS_TO_SHOW_AS_TOPICS.includes(tag))
+);
+
+const sortedPosts = filteredPosts.sort(
+  (a, b) =>
+    new Date(b.data.date_published).getTime() -
+    new Date(a.data.date_published).getTime()
+);
+
+const articlesByTag: Record<string, typeof sortedPosts> = {};
+sortedPosts.forEach((post) => {
+  post.data.tags?.forEach((tag) => {
+    if (TAGS_TO_SHOW_AS_TOPICS.includes(tag)) {
+      articlesByTag[tag] = articlesByTag[tag]
+        ? [...articlesByTag[tag], post]
+        : [post];
+    }
+  });
+});
+
+const sortedTags = Object.keys(articlesByTag).sort();
+---
+
+<BaseLayout title="Topics" pathname="/topics">
+  <h1>Articles by Topic</h1>
+  <p>
+    This blog is plenty messy since I write about anything that I find
+    interesting, but over the years a few main topics have emerged. Pick a
+    topic from the sidebar to browse the full archive for that theme, or use
+    this page as a quick map.
+  </p>
+  <div class="two-column-flex-container">
+    {sortedTags.map((tag) => {
+      const max = 5;
+      const articles = articlesByTag[tag].slice(0, max);
+      return (
+        <section class="two-column-flex-item">
+          <h3 class="section-heading">
+            <a href={`/${tagToPageSlug[tag]}`} class="hyperlink">
+              {tagToSectionHeading[tag]}
+            </a>
+          </h3>
+          <ul class="list">
+            {articles.map((article) => (
+              <li class="list-item">
+                <a href={`/${article.id}/`} class="hyperlink">
+                  {article.data.title}
+                </a>
+              </li>
+            ))}
+          </ul>
+          <a href={`/${tagToPageSlug[tag]}`} class="hyperlink">
+            <em>
+              Read all {articlesByTag[tag].length} articles on {tag} →
+            </em>
+          </a>
+        </section>
+      );
+    })}
+  </div>
+</BaseLayout>
+
+<style lang="scss">
+  @use '../styles/variables' as *;
+
+  .section-heading {
+    border-bottom: 1px solid $gray;
+    padding: $base-size * 0.7 0;
+    margin-bottom: 0;
+  }
+
+  .list {
+    list-style: none;
+    margin-left: 0;
+    margin-bottom: $base-size * 0.7;
+  }
+
+  .list-item {
+    border-bottom: 1px solid $gray;
+    padding: $base-size * 0.7 0;
+    margin-bottom: 0;
+  }
+
+  .hyperlink {
+    color: black;
+  }
+
+  .two-column-flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: flex-start;
+    align-items: flex-start;
+  }
+
+  .two-column-flex-item {
+    flex-basis: 47%;
+  }
+
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+    .two-column-flex-container {
+      display: block;
+    }
+
+    .two-column-flex-item {
+      width: 100%;
+    }
+  }
+</style>

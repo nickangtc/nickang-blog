@@ -1,46 +1,30 @@
 {
   "name": "nickang-blog-gatsby",
   "private": false,
-  "description": "nickang.com blog powered by Gatsby and Markdown",
+  "description": "nickang.com blog powered by Astro and Markdown",
   "version": "1.0.0",
   "author": "Nick Ang",
   "bugs": {
     "url": "https://github.com/nickangtc/nickang-gatsby/issues"
   },
   "dependencies": {
-    "gatsby": "^5.16.1",
-    "gatsby-plugin-image": "^3.16.0",
-    "gatsby-plugin-manifest": "^5.16.0",
-    "gatsby-plugin-netlify": "^5.1.1",
-    "gatsby-plugin-sass": "^6.16.0",
-    "gatsby-plugin-sharp": "^5.16.0",
-    "gatsby-plugin-typography": "^5.16.0",
-    "gatsby-remark-copy-linked-files": "^6.16.0",
-    "gatsby-remark-images": "^7.16.0",
-    "gatsby-remark-prismjs": "^7.16.0",
-    "gatsby-remark-responsive-iframe": "^6.16.0",
-    "gatsby-remark-smartypants": "^6.16.0",
-    "gatsby-source-filesystem": "^5.16.0",
-    "gatsby-transformer-remark": "^6.16.0",
-    "gatsby-transformer-sharp": "^5.16.0",
+    "@astrojs/netlify": "^7.0.8",
+    "@astrojs/react": "^5.0.4",
+    "astro": "^6.3.1",
     "prismjs": "^1.29.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-typography": "^0.16.19",
     "sass": "^1.99.0",
-    "typeface-inter": "^3.18.1",
-    "typography": "^0.16.19",
-    "typography-theme-wordpress-2016": "^0.16.19"
+    "unist-util-visit": "^5.1.0"
   },
   "devDependencies": {
-    "autoprefixer": "^9.8.6",
-    "env-cmd": "^10.1.0",
     "postcss": "^8.5.14",
     "prettier": "^2.2.1"
   },
   "homepage": "https://github.com/nickangtc/nickang-gatsby",
   "keywords": [
-    "gatsby"
+    "astro",
+    "blog"
   ],
   "license": "MIT",
   "main": "n/a",
@@ -49,13 +33,13 @@
     "url": "git+https://github.com/nickangtc/nickang-gatsby.git"
   },
   "scripts": {
-    "build": "gatsby build",
-    "develop": "env-cmd -f .env.development gatsby develop",
-    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "start": "npm run develop",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "build": "bash scripts/copy-blog-images.sh && astro build",
+    "dev": "astro dev",
+    "format": "prettier --write \"**/*.{js,jsx,json,md,astro}\"",
+    "start": "astro dev",
+    "preview": "astro preview",
+    "check": "astro check",
+    "clean": "rm -rf dist .astro",
     "backlinks": "node scripts/generate-backlinks.js"
   },
   "engines": {

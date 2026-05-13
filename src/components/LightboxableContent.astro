@@ -1,0 +1,144 @@
+---
+interface Props {
+  class?: string;
+}
+
+const className = Astro.props.class || "";
+---
+
+<section class:list={["lightboxable-content", className]} data-lightbox>
+  <slot />
+</section>
+
+<div class="overlay" id="lightbox-overlay" role="dialog" aria-modal="true" aria-label="Image preview">
+  <button class="close-button" type="button" aria-label="Close image preview" id="lightbox-close">×</button>
+  <img class="lightbox-image" id="lightbox-image" src="" alt="" />
+</div>
+
+<script>
+  const MIN_LIGHTBOX_WIDTH = 768;
+
+  function initLightbox() {
+    const contentNodes = document.querySelectorAll("[data-lightbox]");
+    const overlayEl = document.getElementById("lightbox-overlay");
+    const imageEl = document.getElementById("lightbox-image") as HTMLImageElement | null;
+    const closeBtn = document.getElementById("lightbox-close");
+
+    if (!overlayEl || !imageEl) return;
+
+    function openLightbox(src: string, alt: string) {
+      imageEl!.src = src;
+      imageEl!.alt = alt;
+      overlayEl!.classList.add("overlay-open");
+      document.body.style.overflow = "hidden";
+    }
+
+    function closeLightbox() {
+      overlayEl!.classList.remove("overlay-open");
+      document.body.style.overflow = "";
+      imageEl!.src = "";
+    }
+
+    contentNodes.forEach(contentNode => {
+      contentNode.addEventListener("click", (event) => {
+        if (window.innerWidth < MIN_LIGHTBOX_WIDTH) return;
+        const target = event.target as HTMLElement;
+        const image = target.closest("img");
+        if (!image || !contentNode.contains(image)) return;
+
+        event.preventDefault();
+        const wrapperLink = image.closest("a") as HTMLAnchorElement | null;
+        openLightbox(
+          wrapperLink?.href || image.currentSrc || image.src,
+          image.alt || ""
+        );
+      });
+
+      contentNode.addEventListener("keydown", (event) => {
+        const kbEvent = event as KeyboardEvent;
+        if (kbEvent.key === "Enter" || kbEvent.key === " ") {
+          const target = event.target as HTMLElement;
+          const image = target.closest("img");
+          if (image && contentNode.contains(image)) {
+            event.preventDefault();
+            const wrapperLink = image.closest("a") as HTMLAnchorElement | null;
+            openLightbox(
+              wrapperLink?.href || image.currentSrc || image.src,
+              image.alt || ""
+            );
+          }
+        }
+      });
+    });
+
+    overlayEl.addEventListener("click", closeLightbox);
+    closeBtn?.addEventListener("click", closeLightbox);
+
+    imageEl.addEventListener("click", (event) => {
+      event.stopPropagation();
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && overlayEl.classList.contains("overlay-open")) {
+        closeLightbox();
+      }
+    });
+  }
+
+  initLightbox();
+</script>
+
+<style lang="scss">
+  @use '../styles/variables' as *;
+
+  @media (min-width: 768px) {
+    .lightboxable-content :global(img) {
+      cursor: zoom-in;
+    }
+  }
+
+  .overlay {
+    align-items: center;
+    background: rgba(0, 0, 0, 0.86);
+    bottom: 0;
+    display: none;
+    justify-content: center;
+    left: 0;
+    padding: $space-2xl;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+  }
+
+  .overlay-open {
+    display: flex;
+  }
+
+  .lightbox-image {
+    cursor: zoom-out;
+    max-height: 92vh;
+    max-width: 92vw;
+    object-fit: contain;
+  }
+
+  .close-button {
+    background: transparent;
+    border: 0;
+    color: white;
+    cursor: pointer;
+    font-family: $sans-serif;
+    font-size: $space-2xl;
+    line-height: 1;
+    padding: $space-sm;
+    position: fixed;
+    right: $space-lg;
+    top: $space-md;
+  }
+
+  @media (max-width: 767px) {
+    .overlay {
+      display: none;
+    }
+  }
+</style>

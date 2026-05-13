@@ -1,0 +1,172 @@
+---
+import { getCollection, render } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PostList from "../components/PostList.astro";
+import { getPaginatedListConfig } from "../lib/pagination";
+
+const allPosts = await getCollection("blog");
+
+const blogPosts = allPosts
+  .filter((post) => {
+    return (
+      post.data.status !== "draft" &&
+      !post.data.tags?.includes("Personal") &&
+      !post.data.tags?.includes("Project")
+    );
+  })
+  .sort(
+    (a, b) =>
+      new Date(b.data.date_published).getTime() -
+      new Date(a.data.date_published).getTime()
+  );
+
+const config = getPaginatedListConfig(blogPosts.length, 0);
+const initialPosts = blogPosts.slice(0, config.limit);
+const hasMore = config.numPages > 1;
+---
+
+<BaseLayout title="Blog posts" pathname="/">
+  <div id="post-list-container">
+    {initialPosts.map(async (post) => {
+      const { Content } = await render(post);
+      return (
+        <article class="entry">
+          <h1 class="article-title">
+            <a href={`/${post.id}/`}>{post.data.title}</a>
+          </h1>
+          <section class="body">
+            <Content />
+          </section>
+          <hr class="divider" />
+          <p class="meta">
+            {new Date(post.data.date_published).toLocaleDateString("en-US", {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+            })}
+          </p>
+        </article>
+      );
+    })}
+  </div>
+  {hasMore && (
+    <div id="infinite-trigger" data-next-page="2" data-base-path="" data-num-pages={config.numPages}>
+      <p class="loading-status" id="loading-status"></p>
+    </div>
+  )}
+</BaseLayout>
+
+<script>
+  function initInfiniteScroll() {
+    const trigger = document.getElementById("infinite-trigger");
+    const container = document.getElementById("post-list-container");
+    const statusEl = document.getElementById("loading-status");
+    if (!trigger || !container) return;
+
+    let isLoading = false;
+    let nextPage = parseInt(trigger.dataset.nextPage || "2", 10);
+    const numPages = parseInt(trigger.dataset.numPages || "1", 10);
+    const basePath = trigger.dataset.basePath || "";
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (!entries[0].isIntersecting || isLoading || nextPage > numPages) return;
+
+        isLoading = true;
+        if (statusEl) statusEl.textContent = "Loading more posts…";
+
+        const jsonPath = basePath
+          ? `/api/pages${basePath}/${nextPage}.json`
+          : `/api/pages/${nextPage}.json`;
+
+        fetch(jsonPath)
+          .then((res) => {
+            if (!res.ok) throw new Error("Failed to load");
+            return res.json();
+          })
+          .then((data) => {
+            const fragment = document.createDocumentFragment();
+            for (const post of data.posts) {
+              const article = document.createElement("article");
+              article.className = "entry";
+              article.innerHTML = `
+                <h1 class="article-title"><a href="/${post.slug}/">${post.title}</a></h1>
+                <section class="body">${post.html}</section>
+                <hr class="divider" />
+                <p class="meta">${post.date_published}</p>
+              `;
+              fragment.appendChild(article);
+            }
+            container.appendChild(fragment);
+            nextPage++;
+            if (nextPage > numPages) {
+              trigger.remove();
+            }
+          })
+          .catch(() => {
+            if (statusEl) statusEl.textContent = "Could not load more posts.";
+          })
+          .finally(() => {
+            isLoading = false;
+            if (statusEl && nextPage <= numPages) statusEl.textContent = "";
+          });
+      },
+      { rootMargin: "600px 0px" }
+    );
+
+    observer.observe(trigger);
+  }
+
+  initInfiniteScroll();
+</script>
+
+<style lang="scss">
+  @use '../styles/variables' as *;
+
+  .entry {
+    margin: 0 0 4rem;
+  }
+
+  .article-title {
+    margin-top: 0;
+    margin-bottom: $space-xl;
+
+    a {
+      color: black;
+      text-decoration: none;
+      box-shadow: none;
+    }
+  }
+
+  .meta {
+    margin-top: 0;
+    margin-bottom: $rhythm;
+    font-family: $sans-serif;
+    font-size: 0.75 * $base-size;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: $darkgray;
+    letter-spacing: 0.02em;
+  }
+
+  .body {
+    margin-bottom: 0;
+  }
+
+  .divider {
+    margin: 0 0 $space-xxs;
+    border: none;
+    border-top: $layout-rule;
+  }
+
+  .loading-status {
+    color: $darkgray;
+    font-family: $sans-serif;
+    font-size: 0.8 * $base-size;
+    text-align: center;
+  }
+
+  #infinite-trigger {
+    min-height: $space-2xl;
+  }
+</style>
