@@ -60,6 +60,68 @@ const hasMore = config.numPages > 1;
   )}
 </BaseLayout>
 
+<script>
+  function initInfiniteScroll() {
+    const trigger = document.getElementById("infinite-trigger");
+    const container = document.getElementById("post-list-container");
+    const statusEl = document.getElementById("loading-status");
+    if (!trigger || !container) return;
+
+    const grid = container.querySelector(".project-grid");
+    if (!grid) return;
+
+    let isLoading = false;
+    let nextPage = parseInt(trigger.dataset.nextPage || "2", 10);
+    const numPages = parseInt(trigger.dataset.numPages || "1", 10);
+    const basePath = trigger.dataset.basePath || "";
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (!entries[0].isIntersecting || isLoading || nextPage > numPages) return;
+
+        isLoading = true;
+        if (statusEl) statusEl.textContent = "Loading more projects…";
+
+        fetch(`/api/pages${basePath}/${nextPage}.json`)
+          .then((res) => {
+            if (!res.ok) throw new Error("Failed to load");
+            return res.json();
+          })
+          .then((data) => {
+            for (const post of data.posts) {
+              const coverImage = post.cover || "/project-covers/default-project-cover.svg";
+              const article = document.createElement("article");
+              article.innerHTML = `
+                <a href="/${post.slug}/" class="project-card">
+                  <img src="${coverImage}" alt="${post.title} project" class="project-image" loading="lazy" />
+                  <h2 class="project-title">${post.title}</h2>
+                  <p class="project-excerpt">${post.excerpt || ""}</p>
+                </a>
+              `;
+              grid.appendChild(article);
+            }
+            nextPage++;
+            if (nextPage > numPages) {
+              trigger.remove();
+            }
+          })
+          .catch(() => {
+            if (statusEl) statusEl.textContent = "Could not load more projects.";
+          })
+          .finally(() => {
+            isLoading = false;
+            if (statusEl && nextPage <= numPages) statusEl.textContent = "";
+          });
+      },
+      { rootMargin: "600px 0px" }
+    );
+
+    observer.observe(trigger);
+  }
+
+  initInfiniteScroll();
+</script>
+
 <style lang="scss">
   @use '../styles/variables' as *;
 

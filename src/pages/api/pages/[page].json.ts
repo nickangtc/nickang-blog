@@ -1,5 +1,5 @@
 import type { APIRoute, GetStaticPaths } from "astro";
-import { getCollection, render } from "astro:content";
+import { getCollection } from "astro:content";
 import { getPaginatedListConfig } from "../../../lib/pagination";
 
 export const getStaticPaths: GetStaticPaths = async () => {
@@ -40,6 +40,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
             month: "long",
             day: "numeric",
           }),
+          excerpt: post.data.excerpt || "",
         };
       })
     );

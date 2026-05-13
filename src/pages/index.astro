@@ -91,7 +91,7 @@ const hasMore = config.numPages > 1;
               article.className = "entry";
               article.innerHTML = `
                 <h1 class="article-title"><a href="/${post.slug}/">${post.title}</a></h1>
-                <section class="body">${post.html}</section>
+                <section class="body"><p>${post.excerpt}</p><p><a href="/${post.slug}/">Read more →</a></p></section>
                 <hr class="divider" />
                 <p class="meta">${post.date_published}</p>
               `;
