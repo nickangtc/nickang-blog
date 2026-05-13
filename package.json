@@ -43,7 +43,7 @@
     "backlinks": "node scripts/generate-backlinks.js"
   },
   "engines": {
-    "node": ">=18.0.0",
-    "npm": ">=6.0.0"
+    "node": ">=22.12.0",
+    "npm": ">=10.0.0"
   }
 }
