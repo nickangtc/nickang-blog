@@ -1,0 +1,46 @@
+---
+interface Props {
+  label?: string | false;
+  title: string;
+}
+
+const { label = "Topic", title } = Astro.props;
+---
+
+<header class="intro">
+  {label && <p class="eyebrow">{label}</p>}
+  <h1 class="heading">{title}</h1>
+  <div class="body">
+    <slot />
+  </div>
+</header>
+
+<style lang="scss">
+  @use '../styles/variables' as *;
+
+  .intro {
+    margin-bottom: $space-3xl;
+    padding-bottom: $space-xl;
+    border-bottom: $layout-rule;
+  }
+
+  .eyebrow {
+    margin: 0 0 $space-xs;
+    color: $blue;
+    font-family: $sans-serif;
+    font-size: 0.75 * $base-size;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    line-height: 1;
+    text-transform: uppercase;
+  }
+
+  .heading {
+    margin: 0 0 $space-md;
+    font-size: $space-2xl;
+  }
+
+  .body :global(p:last-child) {
+    margin-bottom: 0;
+  }
+</style>

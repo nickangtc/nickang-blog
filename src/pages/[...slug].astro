@@ -1,0 +1,192 @@
+---
+import { getCollection, render } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import LightboxableContent from "../components/LightboxableContent.astro";
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection("blog");
+  const sorted = allPosts.sort(
+    (a, b) =>
+      new Date(b.data.date_published).getTime() -
+      new Date(a.data.date_published).getTime()
+  );
+
+  return sorted.map((post, index) => {
+    const previous = index < sorted.length - 1 ? sorted[index + 1] : null;
+    const next = index > 0 ? sorted[index - 1] : null;
+
+    return {
+      params: { slug: post.id },
+      props: { post, previous, next },
+    };
+  });
+}
+
+const { post, previous, next } = Astro.props;
+const { Content } = await render(post);
+
+const datePublished = new Date(post.data.date_published).toLocaleDateString(
+  "en-US",
+  { year: "numeric", month: "long", day: "numeric" }
+);
+const dateUpdated = post.data.date_updated
+  ? new Date(post.data.date_updated).toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    })
+  : null;
+
+const datesLine =
+  dateUpdated && dateUpdated !== datePublished
+    ? `Published: ${datePublished} | Updated: ${dateUpdated}`
+    : datePublished;
+---
+
+<BaseLayout
+  title={post.data.title}
+  description={post.data.excerpt}
+  pathname={`/${post.id}/`}
+>
+  <article>
+    <header>
+      <h1 class="title">{post.data.title}</h1>
+    </header>
+    {post.data.status === "draft" && (
+      <p>
+        <strong>
+          (This is a public <strong>draft</strong>. It can contain errors or
+          problematic thinking. Read with a teaspoon of salt.)
+        </strong>
+      </p>
+    )}
+    {post.data.status === "revisit" && (
+      <p>
+        <strong>
+          (This post has been marked for revisiting, likely because it needs a
+          follow-up.)
+        </strong>
+      </p>
+    )}
+    {post.data.tags?.includes("Collection") && (
+      <p>
+        <strong>
+          (This is a growing collection, so it's better to think of it as a wiki
+          page. Check the updated date at the bottom of the article for the last
+          date of update.)
+        </strong>
+      </p>
+    )}
+    {post.data.tags?.includes("Strictly 30") && (
+      <p>
+        <strong>
+          (This post was written, edited, and published in under 30 minutes.{" "}
+          <a href="/strictly-30">Learn more</a>.)
+        </strong>
+      </p>
+    )}
+    <LightboxableContent>
+      <Content />
+    </LightboxableContent>
+    <hr class="divider" />
+    <time class="meta">{datesLine}</time>
+
+    {post.data.backlinks && post.data.backlinks.length > 0 && (
+      <>
+        <hr />
+        <section>
+          <p>Posts that link to this one:</p>
+          <ul>
+            {post.data.backlinks.map((backlink) => (
+              <li>
+                <a href={backlink.slug}>{backlink.title}</a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </>
+    )}
+  </article>
+
+  <hr />
+
+  <nav>
+    <ul class="posts-nav">
+      <li>
+        {previous && (
+          <a href={`/${previous.id}/`} rel="prev">
+            ← {previous.data.title}
+          </a>
+        )}
+      </li>
+      <li>
+        {next && (
+          <a href={`/${next.id}/`} rel="next">
+            {next.data.title} →
+          </a>
+        )}
+      </li>
+    </ul>
+  </nav>
+</BaseLayout>
+
+<script>
+  function handleKeyPress(event: KeyboardEvent) {
+    if (event.metaKey || event.ctrlKey) return;
+
+    const prevLink = document.querySelector<HTMLAnchorElement>(
+      'a[rel="prev"]'
+    );
+    const nextLink = document.querySelector<HTMLAnchorElement>(
+      'a[rel="next"]'
+    );
+
+    if (event.key === "ArrowLeft" && prevLink) {
+      window.location.href = prevLink.href;
+    } else if (event.key === "ArrowRight" && nextLink) {
+      window.location.href = nextLink.href;
+    }
+  }
+
+  window.addEventListener("keydown", handleKeyPress);
+</script>
+
+<style lang="scss">
+  @use '../styles/variables' as *;
+
+  .title {
+    margin-top: 0;
+    margin-bottom: $space-xl;
+  }
+
+  .meta {
+    display: block;
+    margin-top: 0;
+    margin-bottom: $rhythm;
+    font-family: $sans-serif;
+    font-size: 0.75 * $base-size;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: $darkgray;
+    letter-spacing: 0.02em;
+  }
+
+  .divider {
+    margin: 0 0 $space-xxs;
+    border: none;
+    border-top: $layout-rule;
+  }
+
+  ul.posts-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+    margin-left: 0;
+
+    a {
+      color: black;
+    }
+  }
+</style>

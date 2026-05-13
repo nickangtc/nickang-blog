@@ -1,0 +1,177 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageIntro from "../components/PageIntro.astro";
+import { getPaginatedListConfig } from "../lib/pagination";
+
+const allPosts = await getCollection("blog");
+const projectPosts = allPosts
+  .filter(
+    (post) =>
+      post.data.status !== "draft" &&
+      post.data.tags?.includes("Project")
+  )
+  .sort(
+    (a, b) =>
+      new Date(b.data.date_published).getTime() -
+      new Date(a.data.date_published).getTime()
+  );
+
+const config = getPaginatedListConfig(projectPosts.length, 0);
+const initialPosts = projectPosts.slice(0, config.limit);
+const hasMore = config.numPages > 1;
+---
+
+<BaseLayout title="Projects" pathname="/projects">
+  <PageIntro title="Projects" label={false}>
+    <p>Things I've made. This page in WIP.</p>
+  </PageIntro>
+
+  <div id="post-list-container">
+    <div class="project-grid">
+      {initialPosts.map((post) => {
+        const coverImage = post.data.cover || "/project-covers/default-project-cover.svg";
+        return (
+          <article>
+            <a href={`/${post.id}/`} class="project-card">
+              <img
+                src={coverImage}
+                alt={`${post.data.title} project`}
+                class="project-image"
+                loading="lazy"
+              />
+              <h2 class="project-title">{post.data.title}</h2>
+              <p class="project-excerpt">{post.data.excerpt}</p>
+            </a>
+          </article>
+        );
+      })}
+    </div>
+  </div>
+  {hasMore && (
+    <div
+      id="infinite-trigger"
+      data-next-page="2"
+      data-base-path="/projects"
+      data-num-pages={config.numPages}
+    >
+      <p class="loading-status" id="loading-status"></p>
+    </div>
+  )}
+</BaseLayout>
+
+<script>
+  function escapeHtml(str) {
+    return str
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+
+  function initInfiniteScroll() {
+    const trigger = document.getElementById("infinite-trigger");
+    const container = document.getElementById("post-list-container");
+    const statusEl = document.getElementById("loading-status");
+    if (!trigger || !container) return;
+
+    const grid = container.querySelector(".project-grid");
+    if (!grid) return;
+
+    let isLoading = false;
+    let nextPage = parseInt(trigger.dataset.nextPage || "2", 10);
+    const numPages = parseInt(trigger.dataset.numPages || "1", 10);
+    const basePath = trigger.dataset.basePath || "";
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (!entries[0].isIntersecting || isLoading || nextPage > numPages) return;
+
+        isLoading = true;
+        if (statusEl) statusEl.textContent = "Loading more projects…";
+
+        fetch(`/api/pages${basePath}/${nextPage}.json`)
+          .then((res) => {
+            if (!res.ok) throw new Error("Failed to load");
+            return res.json();
+          })
+          .then((data) => {
+            for (const post of data.posts) {
+              const coverImage = post.cover || "/project-covers/default-project-cover.svg";
+              const article = document.createElement("article");
+              article.innerHTML = `
+                <a href="/${post.slug}/" class="project-card">
+                  <img src="${escapeHtml(coverImage)}" alt="${escapeHtml(post.title)} project" class="project-image" loading="lazy" />
+                  <h2 class="project-title">${escapeHtml(post.title)}</h2>
+                  <p class="project-excerpt">${escapeHtml(post.excerpt || "")}</p>
+                </a>
+              `;
+              grid.appendChild(article);
+            }
+            if (statusEl) statusEl.textContent = "";
+            nextPage++;
+            if (nextPage > numPages) {
+              trigger.remove();
+            }
+          })
+          .catch(() => {
+            if (statusEl) statusEl.textContent = "Could not load more projects.";
+          })
+          .finally(() => {
+            isLoading = false;
+          });
+      },
+      { rootMargin: "600px 0px" }
+    );
+
+    observer.observe(trigger);
+  }
+
+  initInfiniteScroll();
+</script>
+
+<style lang="scss" is:global>
+  @use '../styles/variables' as *;
+
+  .project-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: $space-xl;
+  }
+
+  .project-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+
+    &:hover,
+    &:focus,
+    &:active {
+      box-shadow: none;
+      text-decoration: none;
+    }
+  }
+
+  .project-image {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    display: block;
+    margin-bottom: $space-sm;
+  }
+
+  .project-title {
+    margin: 0 0 $space-sm;
+  }
+
+  .project-excerpt {
+    margin: 0;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .project-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

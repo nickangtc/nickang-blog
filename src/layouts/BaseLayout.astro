@@ -1,0 +1,88 @@
+---
+import Header from "../components/Header.astro";
+import "../styles/global.scss";
+import "../styles/prism-custom.scss";
+
+interface Props {
+  title: string;
+  description?: string;
+  pathname?: string;
+}
+
+const { title, description, pathname } = Astro.props;
+
+const siteTitle = "Nick Ang";
+const siteDescription = description || "Notes from lifelong learning";
+const siteUrl = "https://nickang.com";
+const url = `${siteUrl}${pathname || ""}`;
+const imageUrl = `${siteUrl}/nickang-twitter-large-card.png`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} | {siteTitle}</title>
+    <meta name="title" content={title} />
+    <meta name="description" content={siteDescription} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={siteDescription} />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content={imageUrl} />
+    <meta property="og:site_name" content="Nick Ang" />
+    <meta property="og:url" content={url} />
+    <meta name="twitter:url" content={url} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@nickang" />
+    <meta name="twitter:site" content="@nickang" />
+    <meta name="twitter:image" content={imageUrl} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={siteDescription} />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+  </head>
+  <body>
+    <div class="layout">
+      <Header />
+      <main class="content">
+        <slot />
+      </main>
+    </div>
+  </body>
+</html>
+
+<style lang="scss">
+  @use '../styles/variables' as *;
+
+  .layout {
+    display: flex;
+    min-height: 100vh;
+  }
+
+  .content {
+    flex: 1;
+    width: 100%;
+    max-width: $layout-content-max-width;
+    margin: 0 0 0 $layout-sidebar-width;
+    min-width: 0;
+    padding: calc($layout-content-padding-y * 2 + 0.2rem) $layout-content-padding-x $layout-content-padding-y;
+    box-sizing: border-box;
+  }
+
+  @media (max-width: 900px) {
+    .layout {
+      display: block;
+    }
+
+    .content {
+      max-width: 100%;
+      margin: 0;
+      padding: $layout-content-padding-y $space-lg;
+    }
+  }
+</style>

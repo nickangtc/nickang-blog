@@ -55,9 +55,13 @@ typings/
 .env
 .env.development
 
-# gatsby files
-.cache/
-public
+# Astro build output
+dist/
+.astro/
+.netlify/
+
+# Blog images (generated at build time from content/)
+public/blog-images/
 
 # Mac files
 .DS_Store
