@@ -12,16 +12,17 @@ export function remarkRewriteImages() {
     if (!postSlug) return;
 
     visit(tree, "image", (node) => {
-      if (node.url && node.url.startsWith("images/")) {
-        node.url = `/blog-images/${postSlug}/${node.url}`;
+      if (node.url && (node.url.startsWith("images/") || node.url.startsWith("./images/"))) {
+        const normalizedUrl = node.url.replace(/^\.\//, "");
+        node.url = `/blog-images/${postSlug}/${normalizedUrl}`;
       }
     });
 
     // Also handle HTML img tags in raw HTML nodes
     visit(tree, "html", (node) => {
-      if (node.value && node.value.includes('src="images/')) {
+      if (node.value && (node.value.includes('src="images/') || node.value.includes('src="./images/'))) {
         node.value = node.value.replace(
-          /src="images\//g,
+          /src="(?:\.\/)?images\//g,
           `src="/blog-images/${postSlug}/images/`
         );
       }
