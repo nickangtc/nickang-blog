@@ -74,10 +74,6 @@ const className = Astro.props.class || "";
     overlayEl.addEventListener("click", closeLightbox);
     closeBtn?.addEventListener("click", closeLightbox);
 
-    imageEl.addEventListener("click", (event) => {
-      event.stopPropagation();
-    });
-
     document.addEventListener("keydown", (event) => {
       if (event.key === "Escape" && overlayEl.classList.contains("overlay-open")) {
         closeLightbox();
