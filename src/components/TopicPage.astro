@@ -111,6 +111,7 @@ const hasMore = config.numPages > 1;
               fragment.appendChild(article);
             }
             container.appendChild(fragment);
+            if (statusEl) statusEl.textContent = "";
             nextPage++;
             if (nextPage > numPages) {
               trigger.remove();
@@ -121,7 +122,6 @@ const hasMore = config.numPages > 1;
           })
           .finally(() => {
             isLoading = false;
-            if (statusEl && nextPage <= numPages) statusEl.textContent = "";
           });
       },
       { rootMargin: "600px 0px" }
