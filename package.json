@@ -33,7 +33,7 @@
     "url": "git+https://github.com/nickangtc/nickang-gatsby.git"
   },
   "scripts": {
-    "build": "bash scripts/copy-blog-images.sh && astro build",
+    "build": "astro build",
     "dev": "astro dev",
     "format": "prettier --write \"**/*.{js,jsx,json,md,astro}\"",
     "start": "astro dev",
