@@ -37,3 +37,10 @@ Thanks to pi.dev, you can see the exact prompt, tool calls, and output from the 
 Being able to do this feels like reaching into a new dimension in reality. A lot of these stories would have been lost had I not blogged about them. But even if I did, most of them wouldn't have properly surfaced for use in this application process if not for affordable LLMs.
 
 In the end, I went with #1 and recorded myself in a 49-seconds video explaining how I created explainer videos with my face on them every time I shipped features or bug fixes and how that helped me get promoted to senior engineer and have my pick at leading bigger projects. That was based on a [blog post](/the-career-ladder-is-a-game) from 2024.
+
+The other recommendations were useful too, even if I did not use them for this application:
+
+- The time I figured out [where to collect a residence permit in Berlin for a child born in Germany](/where-to-collect-residence-permit-in-berlin-for-child-born-in-germany), a very specific bit of bureaucracy that required piecing together unclear signals.
+- What I learned from [selling used stuff on Carousell](/2018-01-27-ive-learned-selling-used-stuff-carousell), which was really about marketing, positioning, and getting people to care (this was my second choice story).
+- The longer-than-necessary route I took to [give away things for free in Berlin](/2021-08-08-why-i-took-the-longer-route-to-give-away-things-for-free), because I wanted the things to end up with someone who would value them.
+- My reflection on [using remote work's meeting dynamics as a superpower](/your-remote-meeting-superpower), which was about noticing a new social affordance and actually using it.
