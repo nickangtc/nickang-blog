@@ -3,6 +3,10 @@ title: "Word rafting"
 date_published: "2020-06-28"
 tags: ["Communication"]
 backlinks:
+  - slug: "/2020-07-10-not-now/"
+    title: "Not now"
+  - slug: "/2020-07-19-the-magic-of-a-light-touch/"
+    title: "The magic of a light touch"
   - slug: "/2020-07-26-notes-from-the-year-without-pants-by-scott-berkun/"
     title: "Notes from The Year Without Pants by Scott Berkun"
   - slug: "/2021-06-21-stop-to-think/"

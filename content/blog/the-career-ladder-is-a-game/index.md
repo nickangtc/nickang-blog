@@ -6,6 +6,8 @@ excerpt: "You have to decide to play it, or you'll be played with anguish."
 tags: ["Career"]
 fav: false
 backlinks:
+  - slug: "/blogs-are-gold-mines-now/"
+    title: "Blogs are gold mines now"
 ---
 
 I was recently spending time with a friend who used to be colleague. We talked about the company we used to work for, about how it had a systemic problem of giving opportunities to lead projects directly to senior engineers.

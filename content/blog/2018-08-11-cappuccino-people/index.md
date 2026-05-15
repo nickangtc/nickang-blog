@@ -4,6 +4,8 @@ date_published: "2018-08-11"
 backlinks:
   - slug: "/2018-08-26-how-to-find-good-food/"
     title: "How to find good food"
+  - slug: "/2020-05-27-be-whacky-and-compel-feedback/"
+    title: "Be whacky and compel feedback"
 ---
 
 ![parts unknown cologne cappuccino people](images/160505132851-02-bourdain-cologne-super-169-1024x576.jpg) Parts Unknown: Cologne, Germany

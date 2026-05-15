@@ -2,6 +2,8 @@
 title: "Moving from Wunderlist to Todoist as my todo list app"
 date_published: "2020-03-25"
 backlinks:
+  - slug: "/2020-07-10-not-now/"
+    title: "Not now"
 ---
 
 ![wunderlist is becoming microsoft to do](images/wunderlist-is-becoming-microsoft-to-do-1024x588.png)

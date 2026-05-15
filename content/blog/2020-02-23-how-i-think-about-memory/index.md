@@ -2,6 +2,8 @@
 title: "How I think about memory"
 date_published: "2020-02-23"
 backlinks:
+  - slug: "/2020-07-05-personal-knowledge-management-system/"
+    title: "What is a Personal Knowledge Management system (PKM)?"
   - slug: "/2021-05-20-how-a-daily-note-fixed-my-note-taking-process/"
     title: "How a Daily Note fixed my note taking process"
 ---

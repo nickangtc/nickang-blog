@@ -20,6 +20,8 @@ backlinks:
     title: "Technical skills are not just for software developers"
   - slug: "/2019-12-29-the-best-approach-to-start-learning-to-code/"
     title: "The best approach to start learning to code"
+  - slug: "/2020-05-24-my-digital-garden/"
+    title: "My digital garden"
   - slug: "/2021-07-04-reflecting-on-my-career-in-tech-5-years-in/"
     title: "Reflecting on my career in tech: 5 years in"
 ---

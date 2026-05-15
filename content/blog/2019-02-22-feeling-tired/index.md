@@ -2,6 +2,8 @@
 title: "Feeling tired"
 date_published: "2019-02-22"
 backlinks:
+  - slug: "/2020-06-03-direct-feedback/"
+    title: "Direct feedback"
 ---
 
 I'm tired and confused and feeling a little depressed. The day didn't start out like this. I was chirpy this morning having done a workout in the gym before heading to work.

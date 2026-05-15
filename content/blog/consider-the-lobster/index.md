@@ -7,6 +7,8 @@ tags: ["Living"]
 fav: false
 creation_duration_minutes: 18
 backlinks:
+  - slug: "/consider-the-lobster/"
+    title: "9 Things I learned reading DFW's Consider the Lobster for the first time"
 ---
 
 Lobsters can feel pain. It's not known if the pain it feels is as intense or less than what humans feel, say, in a pot of boiling water.

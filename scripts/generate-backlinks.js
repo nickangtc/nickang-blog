@@ -55,15 +55,15 @@ function parseFrontmatter(content) {
 function extractInternalLinks(body) {
   const links = [];
 
-  // Match markdown links: [text](/slug/) or plain references /slug/
-  // But NOT external URLs like http://example.com or https://example.com
-  // Pattern: / followed by slug chars, followed by /
-  const internalLinkPattern = /\/([a-z0-9\-]+)\//g;
+  // Match markdown links: [text](/slug) or [text](/slug/) or plain references /slug/.
+  // But NOT external URLs like http://example.com or https://example.com.
+  // Pattern: / followed by slug chars, optionally followed by a trailing slash.
+  const internalLinkPattern = /\/([a-z0-9\-]+)\/?(?=[\s)\]"'.,!?;:]|$)/g;
   let match;
 
   while ((match = internalLinkPattern.exec(body)) !== null) {
     const fullMatch = match[0];
-    const slug = match[0]; // /slug/
+    const slug = `/${match[1]}/`; // Normalize /slug and /slug/ links to /slug/
 
     // Exclude if part of a URL protocol (preceded by :// or similar)
     const beforeMatch = body.substring(Math.max(0, match.index - 10), match.index);

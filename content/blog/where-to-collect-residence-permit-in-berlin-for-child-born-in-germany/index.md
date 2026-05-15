@@ -6,6 +6,8 @@ excerpt: "You applied for a residence permit for your child at a Bürgeramt. Now
 tags: []
 fav: false
 backlinks:
+  - slug: "/blogs-are-gold-mines-now/"
+    title: "Blogs are gold mines now"
 ---
 
 This is one of those public service announcement posts that really needs to be searchable on the internet because bureaucracy is piece of work.

@@ -7,6 +7,8 @@ backlinks:
     title: "Technical or not, the hardest part of blogging is still writing"
   - slug: "/annual-review-2020/"
     title: "My 2020 Annual Review"
+  - slug: "/why-i-removed-dates-from-my-blog-post-urls/"
+    title: "Why I removed dates from my blog post URLs"
 ---
 
 ![blog post banner for post Why I migrated my blog from WordPress to Gatsby](images/wp-to-gatsby-nickang.png)

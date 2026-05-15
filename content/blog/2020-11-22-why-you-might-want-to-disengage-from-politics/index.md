@@ -4,6 +4,8 @@ date_published: "2020-11-22"
 backlinks:
   - slug: "/2020-11-29-the-untouchable-space-between-stimulus-and-response/"
     title: "The Untouchable Space Between Stimulus and Response"
+  - slug: "/2020-12-06-he-said-she-said-but-you-decide/"
+    title: "He said, She said, But You Decide"
   - slug: "/2021-01-10-focus-on-understanding-not-on-what-is-right/"
     title: "Focus on understanding, not on what is right"
   - slug: "/annual-review-2020/"

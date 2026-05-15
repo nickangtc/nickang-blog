@@ -5,6 +5,10 @@ tags: ["PKM"]
 backlinks:
   - slug: "/2020-02-23-how-i-think-about-memory/"
     title: "How I think about memory"
+  - slug: "/2020-07-19-the-magic-of-a-light-touch/"
+    title: "The magic of a light touch"
+  - slug: "/2021-02-21-obsidian-roam-why-i-am-staying-with-bear-as-my-pkm/"
+    title: "Obsidian? Roam? Why I am staying with Bear as my PKM"
   - slug: "/2021-05-20-how-a-daily-note-fixed-my-note-taking-process/"
     title: "How a Daily Note fixed my note taking process"
   - slug: "/2021-08-29-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-i/"

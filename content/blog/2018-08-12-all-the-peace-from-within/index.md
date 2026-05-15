@@ -2,6 +2,10 @@
 title: "All the peace from within"
 date_published: "2018-08-12"
 backlinks:
+  - slug: "/2020-05-27-be-whacky-and-compel-feedback/"
+    title: "Be whacky and compel feedback"
+  - slug: "/2020-07-10-not-now/"
+    title: "Not now"
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
 ---

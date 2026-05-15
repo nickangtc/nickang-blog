@@ -2,6 +2,8 @@
 title: "Not now"
 date_published: "2020-07-10"
 backlinks:
+  - slug: "/2020-08-02-reflecting-on-100-days-of-daily-meditation/"
+    title: "Reflecting on 100 days of daily meditation"
 ---
 
 Today I experienced something I haven't experienced ever before: I spoke to two people I know only from twitter. We are on a [journey to write more regularly together](/2020-06-28-word-rafting), a part writing support group, part "let's try this thing and talk about our blogs and life and whatever comes up" group. I hung up from our 30 minutes chat energised and I wanted to write about it right after it happened, but I had more work to finish and couldn't.

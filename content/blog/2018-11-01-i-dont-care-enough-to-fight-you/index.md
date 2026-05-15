@@ -2,6 +2,8 @@
 title: "I don't care enough to fight you"
 date_published: "2018-11-01"
 backlinks:
+  - slug: "/2020-06-03-direct-feedback/"
+    title: "Direct feedback"
 ---
 
 Recently I was back in the military for training. This time it was in Australia and a handful of us conscripted soldiers coincidentally had a personal book in tow. Just in case there's ever a "rush to wait, wait to rush" situation. There was.

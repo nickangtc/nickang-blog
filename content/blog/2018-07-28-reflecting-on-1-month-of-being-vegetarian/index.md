@@ -2,6 +2,8 @@
 title: "Reflecting on 1 month of being vegetarian"
 date_published: "2018-07-28"
 backlinks:
+  - slug: "/2020-05-27-be-whacky-and-compel-feedback/"
+    title: "Be whacky and compel feedback"
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
 ---

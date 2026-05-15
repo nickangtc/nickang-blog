@@ -6,6 +6,8 @@ excerpt: "I may just be reasoning backwards but I thought I'd try and rationalis
 tags: ["Living"]
 fav: false
 backlinks:
+  - slug: "/white-tesla-interiors/"
+    title: "White Tesla interiors: hell-yeah or oh-no for a family?"
 ---
 
 Why a Tesla?

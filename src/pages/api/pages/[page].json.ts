@@ -1,5 +1,6 @@
 import type { APIRoute, GetStaticPaths } from "astro";
-import { getCollection } from "astro:content";
+import { experimental_AstroContainer as AstroContainer } from "astro/container";
+import { getCollection, render } from "astro:content";
 import { getPaginatedListConfig } from "../../../lib/pagination";
 
 export const getStaticPaths: GetStaticPaths = async () => {
@@ -19,6 +20,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
     );
 
   const config = getPaginatedListConfig(blogPosts.length, 0);
+  const container = await AstroContainer.create();
   const paths = [];
 
   for (let i = 1; i < config.numPages; i++) {
@@ -30,6 +32,8 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
     const renderedPosts = await Promise.all(
       pagePosts.map(async (post) => {
+        const { Content } = await render(post);
+
         return {
           slug: post.id,
           title: post.data.title,
@@ -40,7 +44,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
             month: "long",
             day: "numeric",
           }),
-          excerpt: post.data.excerpt || "",
+          html: await container.renderToString(Content),
         };
       })
     );

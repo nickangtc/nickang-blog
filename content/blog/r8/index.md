@@ -6,6 +6,8 @@ excerpt: "How I feel about attempting to write 30 essays in 30 days"
 tags: ["Fiction"]
 fav: false
 backlinks:
+  - slug: "/2021-11-19-prioritise-regularity-over-quality/"
+    title: "Prioritise regularity over quality"
 ---
 
 *(This is #8 of 30 raw essays in 30 days. It's a poem.)*

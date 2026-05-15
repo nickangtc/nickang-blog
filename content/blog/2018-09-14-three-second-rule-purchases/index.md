@@ -2,6 +2,8 @@
 title: "Three second rule for purchases"
 date_published: "2018-09-14"
 backlinks:
+  - slug: "/2020-08-30-you-are-not-buying-that-with-money/"
+    title: "You are not buying that with money"
 ---
 
 Here's my version of the three second rule applied to purchases: if something puts a stupid little grin on your face for three seconds or more, and it's something money can buy, spend and buy it.

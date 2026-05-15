@@ -2,6 +2,8 @@
 title: "Marketing feels dirty"
 date_published: "2020-05-28"
 backlinks:
+  - slug: "/2018-12-01-is-there-fundamental-goodness-in-marketing/"
+    title: "Is there fundamental goodness in marketing?"
 ---
 
 Marketing feels dirty. When a model poses with a perfect smile, just so happening to be holding a product in her hand... that thought makes me uneasy.

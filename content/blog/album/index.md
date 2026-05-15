@@ -5,6 +5,8 @@ excerpt: "An app to share pics/vids with the people who matter, at original qual
 tags: ["Project"]
 cover: "/project-covers/album-og.jpg"
 backlinks:
+  - slug: "/album/"
+    title: "Album"
 ---
 
 <iframe

@@ -5,6 +5,8 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2020-03-09-whats-one-thing-about-coding-that-excites-you/"
     title: "What's one thing about coding that excites you?"
+  - slug: "/2020-05-07-what-i-learned-teaching-colleagues-how-to-code/"
+    title: "What I learned from teaching colleagues how to code"
 ---
 
 ![why it is useful to learn to use the terminal with example application nick ang](images/why-it-is-usefu-to-learn-to-use-the-terminal-with-example-application-nick-ang.png)

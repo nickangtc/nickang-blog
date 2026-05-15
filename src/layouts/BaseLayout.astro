@@ -1,4 +1,5 @@
 ---
+import { ClientRouter } from "astro:transitions";
 import Header from "../components/Header.astro";
 import "../styles/global.scss";
 import "../styles/prism-custom.scss";
@@ -45,6 +46,7 @@ const imageUrl = `${siteUrl}/nickang-twitter-large-card.png`;
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
+    <ClientRouter />
   </head>
   <body>
     <div class="layout">
@@ -70,7 +72,7 @@ const imageUrl = `${siteUrl}/nickang-twitter-large-card.png`;
     max-width: $layout-content-max-width;
     margin: 0 0 0 $layout-sidebar-width;
     min-width: 0;
-    padding: calc($layout-content-padding-y * 2 + 0.2rem) $layout-content-padding-x $layout-content-padding-y;
+    padding: calc($layout-content-padding-y * 2 + 0.2rem) $layout-content-padding-x;
     box-sizing: border-box;
   }
 

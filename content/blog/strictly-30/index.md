@@ -7,6 +7,8 @@ tags: ["Creativity", "Good intentions", "Strictly 30"]
 fav: false
 creation_duration_minutes: 20
 backlinks:
+  - slug: "/strictly-30/"
+    title: "Strictly 30"
 ---
 
 ![person holding a pen looking like he has just been struck by an idea](./images/strictly-30.webp)

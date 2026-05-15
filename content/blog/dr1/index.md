@@ -7,6 +7,8 @@ tags: ["Daily Reflection"]
 fav: false
 creation_duration_minutes:
 backlinks:
+  - slug: "/dr2/"
+    title: "Pitching a role change is not my wheelhouse"
 ---
 
 I'm beginning to see something: people have lots of different ways of processing information, but there's no single best way. It all depends on who you are and what works for you.

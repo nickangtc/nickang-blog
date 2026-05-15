@@ -6,6 +6,8 @@ tags:
 backlinks:
   - slug: "/2021-10-03-6-things-i-learned-from-my-second-year-living-in-berlin-away-from-singapore/"
     title: "6 Things I've Learned from my Second Year Living in Berlin (away from Singapore)"
+  - slug: "/blogs-are-gold-mines-now/"
+    title: "Blogs are gold mines now"
 ---
 
 ![Box on the street with a sign that says zu verschenken](./images/berlin-verschenken.jpeg)
