@@ -29,7 +29,7 @@ const hasMore = config.numPages > 1;
 
 <BaseLayout title="Blog posts" pathname="/">
   <LightboxableContent>
-    <div id="post-list-container">
+    <div id="post-list-container" data-blog-list-page>
       {initialPosts.map(async (post) => {
         const { Content } = await render(post);
         return (
@@ -131,7 +131,42 @@ const hasMore = config.numPages > 1;
     observer.observe(trigger);
   }
 
+  const blogListScrollState = window as Window & {
+    __blogListScrollResetSetup?: boolean;
+  };
+
+  function isBlogListPage() {
+    return Boolean(document.querySelector("[data-blog-list-page]"));
+  }
+
+  function resetBlogListScrollPosition() {
+    if (!isBlogListPage()) return;
+
+    if ("scrollRestoration" in history) {
+      history.scrollRestoration = "manual";
+    }
+
+    window.requestAnimationFrame(() => {
+      window.scrollTo({ top: 0, left: 0, behavior: "auto" });
+    });
+  }
+
+  function restoreDefaultScrollRestoration() {
+    if (!isBlogListPage() || !("scrollRestoration" in history)) return;
+
+    history.scrollRestoration = "auto";
+  }
+
   initInfiniteScroll();
+  resetBlogListScrollPosition();
+
+  if (!blogListScrollState.__blogListScrollResetSetup) {
+    blogListScrollState.__blogListScrollResetSetup = true;
+    window.addEventListener("pageshow", resetBlogListScrollPosition);
+    window.addEventListener("pagehide", restoreDefaultScrollRestoration);
+    document.addEventListener("astro:page-load", resetBlogListScrollPosition);
+    document.addEventListener("astro:before-preparation", restoreDefaultScrollRestoration);
+  }
 </script>
 
 <style lang="scss" is:global>
