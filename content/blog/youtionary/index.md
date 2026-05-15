@@ -24,4 +24,6 @@ Youtionary is an iOS app with an AI you can ask questions and have real voice ca
 
 Supported languages: German, French, Italian, Spanish.
 
+Website: https://youtionary.com
+
 Download it on the [App Store](https://apps.apple.com/us/app/youtionary-ai-language-friend/id6756575480).
