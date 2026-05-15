@@ -1,10 +1,17 @@
 #!/bin/bash
-# Pre-commit hook to normalize blog posts and generate backlinks
+# Pre-commit hook to rename new post folders, normalize blog posts, and generate backlinks
 
 # Get the directory where this script is located
 HOOK_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(cd "$HOOK_DIR/.." && pwd)"
 cd "$PROJECT_ROOT"
+
+# Rename newly-created untitled post folders based on frontmatter title
+node scripts/rename-post-folders-from-title.js
+if [ $? -ne 0 ]; then
+  echo "❌ Post folder rename failed"
+  exit 1
+fi
 
 # Normalize blog post typography (smart quotes, invisible characters, etc.)
 python3 "$HOOK_DIR/normalize-blog-posts.py"

@@ -13,9 +13,17 @@
 
 const fs = require('fs');
 const path = require('path');
-const glob = require('glob');
 
 const CONTENT_DIR = path.join(__dirname, '../content/blog');
+
+function findPostIndexFiles(dir) {
+  return fs
+    .readdirSync(dir, { withFileTypes: true })
+    .filter(entry => entry.isDirectory())
+    .map(entry => path.join(dir, entry.name, 'index.md'))
+    .filter(filePath => fs.existsSync(filePath))
+    .sort();
+}
 
 // Parse command line arguments
 const args = process.argv.slice(2);
@@ -146,8 +154,8 @@ async function generateBacklinks() {
     console.log(`⚠️  TESTING MODE - processing only ${limit} files\n`);
   }
 
-  // Find all markdown files
-  let mdFiles = glob.sync(path.join(CONTENT_DIR, '**/index.md'));
+  // Find all post markdown files
+  let mdFiles = findPostIndexFiles(CONTENT_DIR);
 
   if (limit) {
     mdFiles = mdFiles.slice(0, limit);

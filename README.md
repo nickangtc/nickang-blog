@@ -1,8 +1,8 @@
 # nickang.com
 
-This is the Gatsby source code for my blog at <https://nickang.com>. I started with the [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog).
+This is the source code for my blog at <https://nickang.com>. It is currently powered by Astro and Markdown.
 
-I made the decision to to open source my Gatsby blog so that more people can copy-paste and reference the source code of a functioning Gatsby site used as a personal blog.
+I made the decision to open source my blog so that more people can copy-paste and reference the source code of a functioning personal blog.
 
 ## License
 
@@ -57,10 +57,18 @@ List of unique statuses:
 
 ### Create a new post
 
-Use the node script -- new.js -- to create a new post whenever you are ready to write.
+Use the node script -- new.js -- to create a new untitled post whenever you are ready to write.
 
 ```shell
 node ./new.js post
+```
+
+The post starts in a unique `content/blog/untitled-YYYY-MM-DD-HHMMSS/` folder. After you fill in the frontmatter `title` in `index.md`, the version-controlled pre-commit hook automatically renames that untitled folder to the title slug and stages the rename.
+
+Hooks are configured automatically on `npm install` via `prepare`. If needed, run this manually:
+
+```shell
+npm run setup-hooks
 ```
 
 ### Review posts and tag some as personal

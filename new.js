@@ -1,4 +1,3 @@
-const { exec } = require("child_process")
 const fs = require("fs")
 const program = require("commander")
 const { prompt } = require("inquirer")
@@ -12,11 +11,6 @@ var yesNo = {
  * COMMANDER TERMINAL INTERFACE
  */
 const questions = [
-  {
-    type: "input",
-    name: "postTitle",
-    message: "Tentative title? (spaces will be hyphenated)...",
-  },
   {
     type: "list",
     name: "shouldGenerateImagesFolder",
@@ -57,24 +51,21 @@ function sanitizeSlug(title) {
     .replace(/[^a-z0-9\-]/g, "") // Remove all non-alphanumeric and non-hyphen characters
 }
 
-const generatePostFolder = async function ({
-  postTitle,
-  shouldGenerateImagesFolder,
-}) {
+const generatePostFolder = async function ({ shouldGenerateImagesFolder }) {
   const blogDir = __dirname + "/content/blog"
   const date = getCurrentDate()
-  const newPostDir = `${blogDir}/${sanitizeSlug(postTitle)}`
+  const newPostDir = getUniqueUntitledPostDir(blogDir)
   console.log("newPostDir:", newPostDir)
 
   try {
-    const createdDir = fs.mkdirSync(newPostDir, { recursive: true })
+    fs.mkdirSync(newPostDir)
 
-    if (shouldGenerateImagesFolder) {
+    if (yesNo[shouldGenerateImagesFolder]) {
       fs.mkdirSync(`${newPostDir}/images`, { recursive: true })
     }
 
     const frontmatter = `---
-title: "${postTitle}"
+title: ""
 date_published: "${date}"
 date_updated: "${date}"
 excerpt:
@@ -105,4 +96,32 @@ function getCurrentDate() {
     day = "0" + day
   }
   return [year, month, day].join("-")
+}
+
+function getCurrentTimestamp() {
+  const d = new Date()
+  const date = getCurrentDate()
+  const hours = String(d.getHours()).padStart(2, "0")
+  const minutes = String(d.getMinutes()).padStart(2, "0")
+  const seconds = String(d.getSeconds()).padStart(2, "0")
+
+  return `${date}-${hours}${minutes}${seconds}`
+}
+
+function getUniqueUntitledPostDir(blogDir) {
+  const baseDir = `${blogDir}/untitled-${getCurrentTimestamp()}`
+
+  if (!fs.existsSync(baseDir)) {
+    return baseDir
+  }
+
+  let counter = 2
+  let candidate = `${baseDir}-${counter}`
+
+  while (fs.existsSync(candidate)) {
+    counter += 1
+    candidate = `${baseDir}-${counter}`
+  }
+
+  return candidate
 }

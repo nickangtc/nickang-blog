@@ -1,11 +1,11 @@
 {
-  "name": "nickang-blog-gatsby",
+  "name": "nickang-blog",
   "private": false,
   "description": "nickang.com blog powered by Astro and Markdown",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "Nick Ang",
   "bugs": {
-    "url": "https://github.com/nickangtc/nickang-gatsby/issues"
+    "url": "https://github.com/nickangtc/nickang-blog/issues"
   },
   "dependencies": {
     "@astrojs/netlify": "^7.0.8",
@@ -21,7 +21,7 @@
     "postcss": "^8.5.14",
     "prettier": "^2.2.1"
   },
-  "homepage": "https://github.com/nickangtc/nickang-gatsby",
+  "homepage": "https://github.com/nickangtc/nickang-blog",
   "keywords": [
     "astro",
     "blog"
@@ -30,7 +30,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nickangtc/nickang-gatsby.git"
+    "url": "git+https://github.com/nickangtc/nickang-blog.git"
   },
   "scripts": {
     "build": "astro build",
@@ -40,7 +40,9 @@
     "preview": "astro preview",
     "check": "astro check",
     "clean": "rm -rf dist .astro",
-    "backlinks": "node scripts/generate-backlinks.js"
+    "backlinks": "node scripts/generate-backlinks.js",
+    "setup-hooks": "git config core.hooksPath .githooks",
+    "prepare": "git config core.hooksPath .githooks"
   },
   "engines": {
     "node": ">=22.12.0",
