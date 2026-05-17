@@ -1,39 +1,33 @@
-const fs = require("fs")
-const program = require("commander")
-const { prompt } = require("inquirer")
-
-var yesNo = {
-  yes: true,
-  no: false,
-}
+const fs = require("node:fs")
+const { execFileSync } = require("node:child_process")
 
 /**
- * COMMANDER TERMINAL INTERFACE
+ * TERMINAL INTERFACE
  */
-const questions = [
-  {
-    type: "list",
-    name: "shouldGenerateImagesFolder",
-    message: "Generate /images subfolder? ...",
-    choices: Object.keys(yesNo),
-  },
-]
 
-program
-  .version("0.0.1")
-  .description("Generate a new folder that contains a blog post")
+async function main() {
+  const command = process.argv[2]
 
-program
-  .command("post")
-  .alias("p")
-  .description("Generate a new post folder")
-  .action(() => {
-    prompt(questions).then(answers => {
-      generatePostFolder(answers)
-    })
-  })
+  if (command === "post" || command === "p") {
+    await generatePostFolder()
+    return
+  }
 
-program.parse(process.argv)
+  printHelp()
+}
+
+function printHelp() {
+  console.log(`Generate a new folder that contains a blog post
+
+Usage:
+  node new.js post
+  node new.js p`)
+}
+
+main().catch(err => {
+  console.error(err)
+  process.exit(1)
+})
 
 /**
  * MAIN PROCESS
@@ -51,7 +45,7 @@ function sanitizeSlug(title) {
     .replace(/[^a-z0-9\-]/g, "") // Remove all non-alphanumeric and non-hyphen characters
 }
 
-const generatePostFolder = async function ({ shouldGenerateImagesFolder }) {
+async function generatePostFolder() {
   const blogDir = __dirname + "/content/blog"
   const date = getCurrentDate()
   const newPostDir = getUniqueUntitledPostDir(blogDir)
@@ -59,10 +53,7 @@ const generatePostFolder = async function ({ shouldGenerateImagesFolder }) {
 
   try {
     fs.mkdirSync(newPostDir)
-
-    if (yesNo[shouldGenerateImagesFolder]) {
-      fs.mkdirSync(`${newPostDir}/images`, { recursive: true })
-    }
+    fs.mkdirSync(`${newPostDir}/images`, { recursive: true })
 
     const frontmatter = `---
 title: ""
@@ -78,6 +69,7 @@ backlinks:
 `
 
     fs.writeFileSync(newPostDir + "/index.md", frontmatter)
+    execFileSync("code", [newPostDir], { stdio: "inherit" })
   } catch (err) {
     throw err
   }
