@@ -17,14 +17,16 @@ export const topicPages = [
     tag: "Creativity",
     title: "Creativity",
     basePath: "/creativity",
-    intro: "Articles about writing, blogging, visual thinking, problem solving, and just about anything creative.",
+    intro:
+      "Articles about writing, blogging, visual thinking, problem solving, and just about anything creative.",
     eyebrow: "Topic",
   },
   {
     tag: "Annual Review",
     title: "Annual Review",
     basePath: "/annual-review",
-    intro: "Yearly reflections on what happened, what changed, and what I learned.",
+    intro:
+      "Yearly reflections on what happened, what changed, and what I learned.",
     eyebrow: "Topic",
   },
   {
@@ -48,11 +50,11 @@ export const topicPages = [
     intro: "Notes and reflections from books I've read.",
     eyebrow: "Topic",
   },
-] as const;
+] as const
 
 export const projectsPage = {
   tag: "Project",
   title: "Projects",
   basePath: "/projects",
-  intro: "Things I've made. This page in WIP.",
-} as const;
+  intro: "Things I've made.",
+} as const
