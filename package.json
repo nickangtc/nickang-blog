@@ -41,6 +41,7 @@
     "check": "astro check",
     "clean": "rm -rf dist .astro",
     "backlinks": "node scripts/generate-backlinks.js",
+    "internal-links": "node scripts/auto-internal-links.js",
     "setup-hooks": "git config core.hooksPath .githooks",
     "prepare": "git config core.hooksPath .githooks"
   },

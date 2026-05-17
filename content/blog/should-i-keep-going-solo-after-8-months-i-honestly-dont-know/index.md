@@ -6,6 +6,8 @@ excerpt: "The question I'm asking myself after cancelling a co-founder call"
 tags: ["Substack"]
 fav: false
 backlinks:
+  - slug: "/you-always-have-a-choice-and-thats-the-hard-part/"
+    title: "You always have a choice, and that's the hard part"
 ---
 
 Today I was supposed to have a third call with an old friend to talk about Anchor, a codenamed project that we both think could be a viable B2B business related to AI.

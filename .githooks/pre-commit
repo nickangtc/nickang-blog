@@ -21,6 +21,10 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
+# Add AI-suggested internal links to newly-created posts. This is best-effort:
+# if pi/model access is unavailable, the commit continues without these links.
+node scripts/auto-internal-links.js
+
 # Normalize blog post typography (smart quotes, invisible characters, etc.)
 python3 "$HOOK_DIR/normalize-blog-posts.py"
 if [ $? -ne 0 ]; then

@@ -6,6 +6,8 @@ excerpt: "The one thing that turned my relationship with the workweek completely
 tags: ["Substack"]
 fav: false
 backlinks:
+  - slug: "/you-always-have-a-choice-and-thats-the-hard-part/"
+    title: "You always have a choice, and that's the hard part"
 ---
 
 When you work for yourself, when you get to dictate what you focus on, where to pour your heart, who to ignore and who to engage... life changes completely.

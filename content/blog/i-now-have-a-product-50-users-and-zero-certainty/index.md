@@ -6,6 +6,8 @@ excerpt: "What it's really like to be a solo developer"
 tags: ["Substack"]
 fav: false
 backlinks:
+  - slug: "/you-always-have-a-choice-and-thats-the-hard-part/"
+    title: "You always have a choice, and that's the hard part"
 ---
 
 When I first went solo in mid-June 2025, I pursued the idea of a **YouTube channel** relentlessly.
