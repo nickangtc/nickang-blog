@@ -6,6 +6,14 @@ HOOK_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(cd "$HOOK_DIR/.." && pwd)"
 cd "$PROJECT_ROOT"
 
+# Remember what the user explicitly staged before this hook ran. Generated
+# backlink/normalization changes may touch many posts; only re-stage files that
+# were already in the index so `git commit` does not unexpectedly include every
+# modified blog post.
+STAGED_PATHS_FILE="$(mktemp)"
+trap 'rm -f "$STAGED_PATHS_FILE"' EXIT
+git diff --cached --name-only -z --diff-filter=ACMR > "$STAGED_PATHS_FILE"
+
 # Rename newly-created untitled post folders based on frontmatter title
 node scripts/rename-post-folders-from-title.js
 if [ $? -ne 0 ]; then
@@ -27,7 +35,12 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
-# Stage any updated markdown files
-git add content/blog/**/index.md 2>/dev/null || true
+# Re-stage only files that were already staged before the hook ran.
+# Files modified by backlink generation that were not staged remain unstaged.
+while IFS= read -r -d '' path; do
+  if [ -e "$path" ]; then
+    git add -- "$path"
+  fi
+done < "$STAGED_PATHS_FILE"
 
 exit 0
