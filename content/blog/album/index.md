@@ -7,6 +7,8 @@ cover: "/project-covers/album-og.jpg"
 backlinks:
   - slug: "/album/"
     title: "Album"
+  - slug: "/ig-2026/"
+    title: "Instagram growth hacking (2026)"
 ---
 
 <iframe
@@ -49,3 +51,7 @@ I don't want my media to be compressed. I don't want to be sucked into the feed 
 Charlane and I were the first users and even 3 months after soft launch (iOS TestFlight), we're still contributing as 2 DAUs.
 
 It's live here: [album.so](https://album.so)
+
+## Notes
+
+Related post: [Why I'm active on Instagram again](/2021-11-07-why-active-on-instagram-again/)
