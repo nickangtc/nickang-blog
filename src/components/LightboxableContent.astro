@@ -17,68 +17,97 @@ const className = Astro.props.class || "";
 
 <script>
   const MIN_LIGHTBOX_WIDTH = 768;
+  const LIGHTBOX_ANIMATION_MS = 250;
 
-  function initLightbox() {
-    const contentNodes = document.querySelectorAll("[data-lightbox]");
-    const overlayEl = document.getElementById("lightbox-overlay");
-    const imageEl = document.getElementById("lightbox-image") as HTMLImageElement | null;
-    const closeBtn = document.getElementById("lightbox-close");
+  const lightboxState = window as Window & {
+    __lightboxSetup?: boolean;
+    __lightboxCloseTimer?: number;
+  };
 
+  function getLightboxElements() {
+    return {
+      overlayEl: document.getElementById("lightbox-overlay"),
+      imageEl: document.getElementById("lightbox-image") as HTMLImageElement | null,
+    };
+  }
+
+  function openLightbox(image: HTMLImageElement) {
+    const { overlayEl, imageEl } = getLightboxElements();
     if (!overlayEl || !imageEl) return;
 
-    function openLightbox(src: string, alt: string) {
-      imageEl!.src = src;
-      imageEl!.alt = alt;
-      overlayEl!.classList.add("overlay-open");
-      document.body.style.overflow = "hidden";
+    if (lightboxState.__lightboxCloseTimer) {
+      window.clearTimeout(lightboxState.__lightboxCloseTimer);
+      lightboxState.__lightboxCloseTimer = undefined;
     }
 
-    function closeLightbox() {
-      overlayEl!.classList.remove("overlay-open");
-      document.body.style.overflow = "";
-      imageEl!.src = "";
+    const wrapperLink = image.closest("a") as HTMLAnchorElement | null;
+    imageEl.src = wrapperLink?.href || image.currentSrc || image.src;
+    imageEl.alt = image.alt || "";
+    overlayEl.classList.add("overlay-open");
+    document.body.style.overflow = "hidden";
+  }
+
+  function closeLightbox() {
+    const { overlayEl, imageEl } = getLightboxElements();
+    if (!overlayEl || !imageEl) return;
+
+    overlayEl.classList.remove("overlay-open");
+    document.body.style.overflow = "";
+
+    if (lightboxState.__lightboxCloseTimer) {
+      window.clearTimeout(lightboxState.__lightboxCloseTimer);
     }
 
-    contentNodes.forEach(contentNode => {
-      contentNode.addEventListener("click", (event) => {
-        if (window.innerWidth < MIN_LIGHTBOX_WIDTH) return;
-        const target = event.target as HTMLElement;
-        const image = target.closest("img");
-        if (!image || !contentNode.contains(image)) return;
+    lightboxState.__lightboxCloseTimer = window.setTimeout(() => {
+      imageEl.src = "";
+      lightboxState.__lightboxCloseTimer = undefined;
+    }, LIGHTBOX_ANIMATION_MS);
+  }
 
-        event.preventDefault();
-        const wrapperLink = image.closest("a") as HTMLAnchorElement | null;
-        openLightbox(
-          wrapperLink?.href || image.currentSrc || image.src,
-          image.alt || ""
-        );
-      });
+  function getLightboxImageFromEvent(event: Event) {
+    const target = event.target as HTMLElement | null;
+    return target?.closest("[data-lightbox] img") as HTMLImageElement | null;
+  }
 
-      contentNode.addEventListener("keydown", (event) => {
-        const kbEvent = event as KeyboardEvent;
-        if (kbEvent.key === "Enter" || kbEvent.key === " ") {
-          const target = event.target as HTMLElement;
-          const image = target.closest("img");
-          if (image && contentNode.contains(image)) {
-            event.preventDefault();
-            const wrapperLink = image.closest("a") as HTMLAnchorElement | null;
-            openLightbox(
-              wrapperLink?.href || image.currentSrc || image.src,
-              image.alt || ""
-            );
-          }
-        }
-      });
-    });
+  function handleLightboxClick(event: MouseEvent) {
+    if (window.innerWidth < MIN_LIGHTBOX_WIDTH) return;
 
-    overlayEl.addEventListener("click", closeLightbox);
-    closeBtn?.addEventListener("click", closeLightbox);
+    const image = getLightboxImageFromEvent(event);
+    if (!image) return;
 
-    document.addEventListener("keydown", (event) => {
-      if (event.key === "Escape" && overlayEl.classList.contains("overlay-open")) {
-        closeLightbox();
-      }
-    });
+    event.preventDefault();
+    openLightbox(image);
+  }
+
+  function handleLightboxKeydown(event: KeyboardEvent) {
+    if (event.key === "Escape") {
+      closeLightbox();
+      return;
+    }
+
+    if (event.key !== "Enter" && event.key !== " ") return;
+
+    const image = getLightboxImageFromEvent(event);
+    if (!image) return;
+
+    event.preventDefault();
+    openLightbox(image);
+  }
+
+  function handleOverlayClick(event: MouseEvent) {
+    const target = event.target as HTMLElement | null;
+    if (target?.closest("#lightbox-close") || target?.id === "lightbox-overlay") {
+      closeLightbox();
+    }
+  }
+
+  function initLightbox() {
+    if (lightboxState.__lightboxSetup) return;
+    lightboxState.__lightboxSetup = true;
+
+    document.addEventListener("click", handleLightboxClick);
+    document.addEventListener("keydown", handleLightboxKeydown);
+    document.addEventListener("click", handleOverlayClick);
   }
 
   initLightbox();
@@ -97,18 +126,24 @@ const className = Astro.props.class || "";
     align-items: center;
     background: rgba(0, 0, 0, 0.86);
     bottom: 0;
-    display: none;
+    display: flex;
     justify-content: center;
     left: 0;
+    opacity: 0;
     padding: $space-2xl;
+    pointer-events: none;
     position: fixed;
     right: 0;
     top: 0;
+    transition: opacity 0.25s ease-in-out, visibility 0.25s ease-in-out;
+    visibility: hidden;
     z-index: 1000;
   }
 
   .overlay-open {
-    display: flex;
+    opacity: 1;
+    pointer-events: auto;
+    visibility: visible;
   }
 
   .lightbox-image {
@@ -116,6 +151,12 @@ const className = Astro.props.class || "";
     max-height: 92vh;
     max-width: 92vw;
     object-fit: contain;
+    transform: scale(0.985);
+    transition: transform 0.25s ease-in-out;
+  }
+
+  .overlay-open .lightbox-image {
+    transform: scale(1);
   }
 
   .close-button {

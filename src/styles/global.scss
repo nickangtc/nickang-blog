@@ -199,12 +199,35 @@ main img {
     margin-bottom: $space-xl;
 }
 
-span.gatsby-resp-image-wrapper+em,
-p>img+em {
-    display: block;
-    padding-top: calc($rhythm / 2);
-    border-top: 3px solid $blue;
-    font-size: $base-size * 0.9;
+/**
+* IMAGE + CAPTION POLAROID TREATMENT
+* Applies in one inherited place for blog detail and rendered blog-list content.
+*/
+$polaroid-background: rgba($gray, 0.75);
+
+.lightboxable-content {
+    p:has(> img:first-child),
+    p:has(> a:first-child > img:first-child),
+    p:has(> .gatsby-resp-image-wrapper:first-child) {
+        box-sizing: border-box;
+        margin: $space-xl 0;
+        padding: $space-md;
+        background: $polaroid-background;
+    }
+
+    p:has(> img:first-child)>img,
+    p:has(> a:first-child > img:first-child)>a:first-child>img,
+    p:has(> .gatsby-resp-image-wrapper:first-child)>.gatsby-resp-image-wrapper {
+        margin: 0;
+    }
+
+    p:has(> img:first-child)>em,
+    p:has(> a:first-child > img:first-child)>em,
+    p:has(> .gatsby-resp-image-wrapper:first-child)>em {
+        display: block;
+        margin: $space-sm 0 0;
+        font-size: $base-size * 0.9;
+    }
 }
 
 .gatsby-resp-image-wrapper {
