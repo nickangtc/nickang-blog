@@ -1,0 +1,10 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#111827"/>
+  <circle cx="220" cy="150" r="180" fill="#2563EB" opacity="0.65"/>
+  <circle cx="980" cy="500" r="240" fill="#F97316" opacity="0.7"/>
+  <rect x="215" y="170" width="770" height="380" rx="36" fill="#F9FAFB"/>
+  <rect x="260" y="220" width="680" height="260" rx="18" fill="#111827"/>
+  <path d="M560 300L560 400L650 350L560 300Z" fill="#F9FAFB"/>
+  <text x="600" y="105" text-anchor="middle" fill="#F9FAFB" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="800">Moved Show</text>
+  <text x="600" y="590" text-anchor="middle" fill="#F9FAFB" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="500" opacity="0.9">Real expat stories in Europe</text>
+</svg>

@@ -18,6 +18,8 @@ backlinks:
     title: "Code readability or efficiency?"
   - slug: "/2021-11-28-how-to-implement-an-lru-cache-in-javascript/"
     title: "How to implement an LRU cache in JavaScript"
+  - slug: "/bite-size-programming/"
+    title: "Bite Size Programming"
 ---
 
 ![bite size programming algorithm time complexity and big o notation banner](images/BSP-algorithm-time-complexity-and-big-o-notation-2.png)

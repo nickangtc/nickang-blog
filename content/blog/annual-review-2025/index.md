@@ -9,6 +9,8 @@ creation_duration_minutes:
 backlinks:
   - slug: "/back-on-max/"
     title: "Back on Max at 100 € per month"
+  - slug: "/moved-show/"
+    title: "Moved Show"
 ---
 
 This has been a year to remember.

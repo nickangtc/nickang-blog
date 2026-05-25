@@ -8,6 +8,8 @@ backlinks:
     title: "Binary Search Tree explained"
   - slug: "/2017-12-10-why-use-binary-search-tree/"
     title: "Why use Binary Search Tree?"
+  - slug: "/bite-size-programming/"
+    title: "Bite Size Programming"
 ---
 
 ![binary search blog banner nickang](images/BSP-binary-search-2.png) Photo by Pablo Garcia Saldaña on Unsplash

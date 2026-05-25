@@ -3,6 +3,8 @@ title: "Introducing Bite Size Programming"
 date_published: "2017-10-14"
 tags: ["Tech", "Personal"]
 backlinks:
+  - slug: "/bite-size-programming/"
+    title: "Bite Size Programming"
 ---
 
 ![introducing bite size programming banner nickang blog](images/introducing-bite-size-programming-banner-nickang-blog.png) Photo by rawpixel.com on Unsplash

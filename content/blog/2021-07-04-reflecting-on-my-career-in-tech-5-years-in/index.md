@@ -6,6 +6,8 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-03-12-general-assembly-singapore-review/"
     title: "General Assembly Singapore Review - Web Development Immersive"
+  - slug: "/flowriter/"
+    title: "Flowriter"
   - slug: "/raising-floor-apps/"
     title: "The raising floor of building apps in 2026"
   - slug: "/word-2026/"

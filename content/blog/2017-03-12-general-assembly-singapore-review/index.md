@@ -24,6 +24,8 @@ backlinks:
     title: "My digital garden"
   - slug: "/2021-07-04-reflecting-on-my-career-in-tech-5-years-in/"
     title: "Reflecting on my career in tech: 5 years in"
+  - slug: "/flowriter/"
+    title: "Flowriter"
 ---
 
 ![general assembly singapore review nick ang](images/general-assembly-singapore-review-nick-ang-1024x576.png)

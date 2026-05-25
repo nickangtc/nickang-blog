@@ -8,6 +8,8 @@ backlinks:
     title: "Bite Size Programming - How to start using the command line (part 1)"
   - slug: "/2017-10-27-start-using-the-command-line-part-2/"
     title: "How to start using the command line (part 2)"
+  - slug: "/bite-size-programming/"
+    title: "Bite Size Programming"
 ---
 
 ![why programmers use command line interface banner nickang blog](images/why-programmers-use-command-line-interface-banner-nickang-blog.png) Photo by Paweł Durczok on Unsplash

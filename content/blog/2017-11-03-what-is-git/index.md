@@ -5,6 +5,8 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2018-02-28-git-and-github/"
     title: "All you need to know about Git and GitHub"
+  - slug: "/bite-size-programming/"
+    title: "Bite Size Programming"
 ---
 
 ![what is git banner showing many lines and nodes intersecting](images/BSP-what-is-git.png) Photo by William Bout on Unsplash
