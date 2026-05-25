@@ -6,6 +6,8 @@ excerpt: "Field notes from a week of using NanoClaw as my personal productivity 
 tags: ["Substack", "Business"]
 fav: false
 backlinks:
+  - slug: "/devin-added-search-on-this-blog/"
+    title: "Devin added search on this blog"
 ---
 
 I've been tinkering with [NanoClaw](https://nanoclaw.dev/) for almost a week now and it's been a rollercoaster (i.e. some ups, some downs). In this post I'll take you through why I decided it's a good use of time to play with these "personal agents" and the top 5 non-obvious benefits of having one over, say, the generic Claude or ChatGPT app.

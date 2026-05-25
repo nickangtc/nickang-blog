@@ -6,6 +6,8 @@ excerpt: "Inside: 1 big tip on how + 1 clear reason to at least try"
 tags: ["Substack"]
 fav: false
 backlinks:
+  - slug: "/devin-added-search-on-this-blog/"
+    title: "Devin added search on this blog"
 ---
 
 I have to admit something: I may have worked 10 years as a software engineer, but I couldn't get OpenClaw to work meaningfully even after 4 attempts.

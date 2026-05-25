@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 
-const { execFileSync, spawnSync } = require("node:child_process")
+const { execFileSync, spawn } = require("node:child_process")
 const fs = require("node:fs")
 const path = require("node:path")
 
 const PROJECT_ROOT = path.resolve(__dirname, "..")
 const SKILL_PATH = path.join(PROJECT_ROOT, ".pi", "skills", "internal-linker")
 const PI_BIN = process.env.PI_BIN || "pi"
-const PI_TIMEOUT_MS = Number(process.env.AUTO_INTERNAL_LINKS_TIMEOUT_MS || 180000)
+const PI_TIMEOUT_MS = Number(process.env.AUTO_INTERNAL_LINKS_TIMEOUT_MS || 60000)
 
 function git(args, options = {}) {
   return execFileSync("git", args, {
@@ -62,6 +62,20 @@ function getNewStagedBlogPosts() {
     .filter(filePath => !pathExistsInHead(filePath))
 }
 
+function killProcessGroup(child, signal) {
+  if (!child.pid) return
+
+  try {
+    process.kill(-child.pid, signal)
+  } catch (_err) {
+    try {
+      child.kill(signal)
+    } catch (_childErr) {
+      // Already exited.
+    }
+  }
+}
+
 function runPiInternalLinker(filePath) {
   const prompt = [
     `Use the internal-linker skill on this newly created blog post: ${filePath}`,
@@ -69,41 +83,73 @@ function runPiInternalLinker(filePath) {
     "Edit only this target file. If no strong opportunities exist, make no changes.",
   ].join("\n")
 
-  const result = spawnSync(
-    PI_BIN,
-    [
-      "--print",
-      "--no-session",
-      "--skill",
-      SKILL_PATH,
-      "--tools",
-      "read,bash,edit",
-      prompt,
-    ],
-    {
-      cwd: PROJECT_ROOT,
-      encoding: "utf8",
-      timeout: PI_TIMEOUT_MS,
-      maxBuffer: 1024 * 1024 * 5,
-    }
-  )
+  return new Promise((resolve, reject) => {
+    const child = spawn(
+      PI_BIN,
+      [
+        "--print",
+        "--no-session",
+        "--skill",
+        SKILL_PATH,
+        "--tools",
+        "read,bash,edit",
+        prompt,
+      ],
+      {
+        cwd: PROJECT_ROOT,
+        detached: true,
+        stdio: ["ignore", "pipe", "pipe"],
+      }
+    )
 
-  if (result.error) {
-    throw result.error
-  }
+    let stdout = ""
+    let stderr = ""
+    let timedOut = false
 
-  if (result.status !== 0) {
-    const stderr = result.stderr ? `\n${result.stderr.trim()}` : ""
-    const stdout = result.stdout ? `\n${result.stdout.trim()}` : ""
-    throw new Error(`pi exited with status ${result.status}${stderr}${stdout}`)
-  }
+    const timeout = setTimeout(() => {
+      timedOut = true
+      killProcessGroup(child, "SIGTERM")
+      setTimeout(() => killProcessGroup(child, "SIGKILL"), 2000).unref()
+    }, PI_TIMEOUT_MS)
+    timeout.unref()
 
-  if (result.stdout.trim()) {
-    console.log(result.stdout.trim())
-  }
+    child.stdout.setEncoding("utf8")
+    child.stderr.setEncoding("utf8")
+    child.stdout.on("data", chunk => {
+      stdout += chunk
+    })
+    child.stderr.on("data", chunk => {
+      stderr += chunk
+    })
+
+    child.on("error", err => {
+      clearTimeout(timeout)
+      reject(err)
+    })
+
+    child.on("close", status => {
+      clearTimeout(timeout)
+
+      if (timedOut) {
+        reject(new Error(`pi timed out after ${Math.round(PI_TIMEOUT_MS / 1000)}s`))
+        return
+      }
+
+      if (status !== 0) {
+        const errOutput = stderr.trim() || stdout.trim()
+        reject(new Error(`pi exited with status ${status}${errOutput ? `\n${errOutput}` : ""}`))
+        return
+      }
+
+      if (stdout.trim()) {
+        console.log(stdout.trim())
+      }
+      resolve()
+    })
+  })
 }
 
-function main() {
+async function main() {
   if (process.env.SKIP_AUTO_INTERNAL_LINKS === "1") {
     console.log("⏭️  Skipping AI internal linking because SKIP_AUTO_INTERNAL_LINKS=1")
     return
@@ -124,14 +170,12 @@ function main() {
 
   for (const filePath of posts) {
     console.log(`\n→ ${filePath}`)
-    runPiInternalLinker(filePath)
+    await runPiInternalLinker(filePath)
     execFileSync("git", ["add", "--", filePath], { cwd: PROJECT_ROOT, stdio: "inherit" })
   }
 }
 
-try {
-  main()
-} catch (err) {
+main().catch(err => {
   console.warn(`⚠️  Auto internal linking skipped: ${err.message}`)
   console.warn("   Commit will continue. Run manually with: node scripts/auto-internal-links.js")
-}
+})
