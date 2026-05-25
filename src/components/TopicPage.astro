@@ -30,11 +30,12 @@ const topicPosts = allPosts
 const config = getPaginatedListConfig(topicPosts.length, 0);
 const initialPosts = topicPosts.slice(0, config.limit);
 const hasMore = config.numPages > 1;
+const introWithCount = `${topicPosts.length} ${intro.charAt(0).toLowerCase()}${intro.slice(1)}`;
 ---
 
 <BaseLayout title={title} pathname={basePath}>
   <PageIntro title={title} label={eyebrow}>
-    <p>{intro}</p>
+    <p>{introWithCount}</p>
   </PageIntro>
   <div id="post-list-container">
     {initialPosts.map(async (post) => {

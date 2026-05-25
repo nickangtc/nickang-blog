@@ -14,6 +14,13 @@ export const topicPages = [
     eyebrow: "Topic",
   },
   {
+    tag: "Parenting",
+    title: "Parenting",
+    basePath: "/parenting",
+    intro: "Articles about parenting.",
+    eyebrow: "Topic",
+  },
+  {
     tag: "Creativity",
     title: "Creativity",
     basePath: "/creativity",
@@ -25,8 +32,7 @@ export const topicPages = [
     tag: "Annual Review",
     title: "Annual Review",
     basePath: "/annual-review",
-    intro:
-      "Yearly reflections on what happened, what changed, and what I learned.",
+    intro: "Reflections on what happened, what changed, and what I learned.",
     eyebrow: "Topic",
   },
   {

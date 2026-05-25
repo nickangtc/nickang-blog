@@ -1,20 +1,14 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { topicPages } from "../lib/topics";
 
-const TAGS_TO_SHOW_AS_TOPICS = [
-  "Tech",
-  "Living",
-  "Creativity",
-  "Annual Review",
-  "Leadership",
-  "Communication",
-  "Books",
-];
+const TAGS_TO_SHOW_AS_TOPICS = topicPages.map((topic) => topic.tag);
 
 const tagToSectionHeading: Record<string, string> = {
   Tech: "🤖 Tech",
   Living: "😊 Living",
+  Parenting: "👨‍👩‍👧 Parenting",
   Creativity: "🌌 Creativity",
   "Annual Review": "📆 Annual Review",
   Leadership: "🙇🏻‍♂️ Leadership",
@@ -22,15 +16,9 @@ const tagToSectionHeading: Record<string, string> = {
   Books: "📚 Books",
 };
 
-const tagToPageSlug: Record<string, string> = {
-  Tech: "tech",
-  Living: "living",
-  Creativity: "creativity",
-  "Annual Review": "annual-review",
-  Leadership: "leadership",
-  Communication: "communication",
-  Books: "books",
-};
+const tagToPageSlug = Object.fromEntries(
+  topicPages.map((topic) => [topic.tag, topic.basePath.replace("/", "")])
+) as Record<string, string>;
 
 const allPosts = await getCollection("blog");
 const filteredPosts = allPosts.filter(

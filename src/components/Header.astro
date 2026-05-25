@@ -1,15 +1,11 @@
 ---
 import profilePic from "../../content/assets/nick-ang-profile-photo-square-jun-2018-min.jpg";
+import { topicPages } from "../lib/topics";
 
-const topics = [
-  { label: "Tech", path: "/tech" },
-  { label: "Living", path: "/living" },
-  { label: "Creativity", path: "/creativity" },
-  { label: "Annual Review", path: "/annual-review" },
-  { label: "Leadership", path: "/leadership" },
-  { label: "Communication", path: "/communication" },
-  { label: "Books", path: "/books" },
-];
+const topics = topicPages.map((topic) => ({
+  label: topic.title,
+  path: topic.basePath,
+}));
 
 const currentPath = Astro.url.pathname;
 ---
