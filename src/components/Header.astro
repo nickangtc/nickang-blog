@@ -11,7 +11,7 @@ const currentPath = Astro.url.pathname;
 ---
 
 <header class="header">
-  <div class="accent"></div>
+  <div class="accent" transition:name="sidebar-accent" transition:persist></div>
   <div class="header-inner">
     <a href="/" class="title-link">
       <img
@@ -23,39 +23,8 @@ const currentPath = Astro.url.pathname;
         transition:name="site-avatar"
         transition:persist
       />
-      <h1 class="site-title">Nick Ang</h1>
+      <span class="site-title">Nick Ang</span>
     </a>
-
-    <nav aria-label="Main navigation">
-      <ul class="nav-list">
-        <li class="nav-item">
-          <a href="/" class:list={["nav-link", { active: currentPath === "/" }]}>
-            Blog
-          </a>
-        </li>
-        <li class="nav-item">
-          <a href="/projects" class:list={["nav-link", { active: currentPath.startsWith("/projects") }]}>
-            Projects
-          </a>
-        </li>
-      </ul>
-    </nav>
-
-    <section class="sidebar-section">
-      <h2 class="sidebar-heading">Topics</h2>
-      <ul class="sidebar-list">
-        {topics.map(topic => (
-          <li class="sidebar-item">
-            <a
-              href={topic.path}
-              class:list={["sidebar-link", { active: currentPath.startsWith(topic.path) }]}
-            >
-              {topic.label}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </section>
 
     <form
       action="/search"
@@ -80,6 +49,38 @@ const currentPath = Astro.url.pathname;
         </button>
       </div>
     </form>
+
+    <nav aria-label="Main navigation">
+      <ul class="nav-list">
+        <li class="nav-item">
+          <a href="/" class:list={["nav-link", { active: currentPath === "/" }]}> 
+            Blog
+          </a>
+        </li>
+        <li class="nav-item">
+          <a href="/projects" class:list={["nav-link", { active: currentPath.startsWith("/projects") }]}> 
+            Projects
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <section class="sidebar-section">
+      <h2 class="sidebar-heading">Topics</h2>
+      <ul class="sidebar-list">
+        {topics.map(topic => (
+          <li class="sidebar-item">
+            <a
+              href={topic.path}
+              class:list={["sidebar-link", { active: currentPath.startsWith(topic.path) }]}
+            >
+              {topic.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
 
     <form
       name="subscribe"
@@ -154,6 +155,7 @@ const currentPath = Astro.url.pathname;
     top: 0;
     bottom: 0;
     left: 0;
+    z-index: 10;
     overflow-y: auto;
     display: flex;
     flex-direction: column;
@@ -174,6 +176,10 @@ const currentPath = Astro.url.pathname;
   }
 
   .accent {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    flex: 0 0 auto;
     height: $space-lg;
     background: linear-gradient(
       180deg,
@@ -185,18 +191,18 @@ const currentPath = Astro.url.pathname;
   }
 
   .header-inner {
-    padding: $space-lg $space-xl;
+    padding: $space-md $space-lg;
     box-sizing: border-box;
     max-width: 100%;
     font-family: $sans-serif;
-    font-size: calc($base-size * 0.9);
+    font-size: calc($base-size * 0.8);
   }
 
   .title-link {
     color: inherit;
     display: inline-flex;
     align-items: center;
-    gap: $space-sm;
+    gap: $space-xs;
     max-width: 100%;
     text-decoration: none;
     box-shadow: none;
@@ -205,15 +211,15 @@ const currentPath = Astro.url.pathname;
   .site-title {
     margin: 0;
     min-width: 0;
-    font-size: $space-xl;
+    font-size: calc($base-size * 1.15);
     font-weight: 600;
     line-height: 1;
     white-space: nowrap;
   }
 
   .avatar {
-    width: 68px;
-    height: 68px;
+    width: 52px;
+    height: 52px;
     border-radius: 999px;
     flex: 0 0 auto;
     transform: scaleX(-1);
@@ -222,11 +228,11 @@ const currentPath = Astro.url.pathname;
   .nav-list {
     list-style: none;
     padding: 0;
-    margin: $space-3xl 0 0;
+    margin: $space-md 0 0;
   }
 
   .nav-item {
-    margin-bottom: $space-md;
+    margin-bottom: $space-xs;
   }
 
   .nav-link,
@@ -236,7 +242,7 @@ const currentPath = Astro.url.pathname;
     text-decoration: none;
     box-shadow: none;
     color: black;
-    font-size: $base-size;
+    font-size: calc($base-size * 0.88);
     z-index: 0;
   }
 
@@ -259,12 +265,12 @@ const currentPath = Astro.url.pathname;
   }
 
   .sidebar-section {
-    margin-top: $space-2xl;
+    margin-top: $space-lg;
   }
 
   .sidebar-heading {
-    margin: 0 0 $space-xs;
-    font-size: calc($base-size * 0.9);
+    margin: 0 0 $space-xxs;
+    font-size: calc($base-size * 0.78);
     font-weight: 800;
     line-height: 1.1;
   }
@@ -276,18 +282,18 @@ const currentPath = Astro.url.pathname;
   }
 
   .sidebar-item {
-    margin: 0 0 $space-xs;
-    line-height: 1.2;
+    margin: 0 0 $space-xxs;
+    line-height: 1.15;
   }
 
   .sidebar-link {
-    font-size: calc($base-size * 0.9);
+    font-size: calc($base-size * 0.78);
   }
 
   .social-list {
     display: flex;
     align-items: center;
-    gap: $space-sm;
+    gap: $space-xs;
     list-style: none;
     padding: 0;
     margin: 0;
@@ -302,22 +308,22 @@ const currentPath = Astro.url.pathname;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 1.6rem;
-    height: 1.6rem;
+    width: 1.3rem;
+    height: 1.3rem;
     color: black;
     box-shadow: none;
   }
 
   .social-icon {
-    width: 1.25rem;
-    height: 1.25rem;
+    width: 1rem;
+    height: 1rem;
     fill: currentColor;
   }
 
   .search-form {
     display: flex;
     flex-wrap: wrap;
-    margin: $space-2xl 0 0;
+    margin: $space-lg 0 0;
     padding: 0;
     background: transparent;
   }
@@ -325,8 +331,8 @@ const currentPath = Astro.url.pathname;
   .search-label {
     display: block;
     width: 100%;
-    margin-bottom: $space-xxs;
-    font-size: calc($base-size * 0.9);
+    margin-bottom: 0.15rem;
+    font-size: calc($base-size * 0.78);
     font-weight: 800;
   }
 
@@ -340,11 +346,11 @@ const currentPath = Astro.url.pathname;
     min-width: 0;
     box-sizing: border-box;
     margin: 0;
-    padding: $space-xs;
+    padding: $space-xxs $space-xs;
     border: 1px solid black;
     border-right: 0;
     border-radius: 0.25rem 0 0 0.25rem;
-    font-size: calc($base-size * 0.8);
+    font-size: calc($base-size * 0.72);
     font-family: $sans-serif;
   }
 
@@ -360,7 +366,7 @@ const currentPath = Astro.url.pathname;
     align-items: center;
     justify-content: center;
     margin: 0;
-    padding: $space-xs;
+    padding: $space-xxs $space-xs;
     border: 1px solid black;
     border-radius: 0 0.25rem 0.25rem 0;
     background: black;
@@ -375,15 +381,15 @@ const currentPath = Astro.url.pathname;
   }
 
   .search-icon {
-    width: 1rem;
-    height: 1rem;
+    width: 0.85rem;
+    height: 0.85rem;
     fill: currentColor;
   }
 
   .subscribe-form {
     display: flex;
     flex-wrap: wrap;
-    margin: $space-2xl 0 0;
+    margin: $space-lg 0 0;
     padding: 0;
     background: transparent;
   }
@@ -391,8 +397,8 @@ const currentPath = Astro.url.pathname;
   .subscribe-label {
     display: block;
     width: 100%;
-    margin-bottom: $space-xxs;
-    font-size: calc($base-size * 0.9);
+    margin-bottom: 0.15rem;
+    font-size: calc($base-size * 0.78);
     font-weight: 800;
   }
 
@@ -401,11 +407,11 @@ const currentPath = Astro.url.pathname;
     min-width: 0;
     box-sizing: border-box;
     margin: 0;
-    padding: $space-xs;
+    padding: $space-xxs $space-xs;
     border: 1px solid black;
     border-right: 0;
     border-radius: 0.25rem 0 0 0.25rem;
-    font-size: calc($base-size * 0.8);
+    font-size: calc($base-size * 0.72);
   }
 
   .subscribe-input:focus {
@@ -417,13 +423,13 @@ const currentPath = Astro.url.pathname;
   .subscribe-button {
     flex: 0 0 auto;
     margin: 0;
-    padding: $space-xs;
+    padding: $space-xxs $space-xs;
     border: 1px solid black;
     border-radius: 0 0.25rem 0.25rem 0;
     background: black;
     color: white;
     cursor: pointer;
-    font-size: calc($base-size * 0.8);
+    font-size: calc($base-size * 0.72);
     font-weight: 800;
     white-space: nowrap;
   }
@@ -451,7 +457,8 @@ const currentPath = Astro.url.pathname;
       display: flex;
       flex-wrap: wrap;
       align-items: center;
-      gap: $space-md;
+      gap: $space-sm;
+      padding: $space-md $space-lg;
     }
 
     .nav-list,
@@ -459,14 +466,10 @@ const currentPath = Astro.url.pathname;
       display: none;
     }
 
-    .search-form {
-      width: 100%;
-      margin-top: $space-xl;
-    }
-
+    .search-form,
     .subscribe-form {
       width: 100%;
-      margin-top: $space-xl;
+      margin-top: $space-sm;
     }
 
     .subscribe-input,

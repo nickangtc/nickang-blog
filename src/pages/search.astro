@@ -1,36 +1,150 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Search from "astro-pagefind/components/Search";
+
+const searchQuery = Astro.url.searchParams.get("q") ?? undefined;
 ---
 
 <BaseLayout title="Search" pathname="/search">
   <h1 class="search-heading">Search</h1>
   <div id="search-container">
-    <Search id="search" className="pagefind-ui" uiOptions={{
+    <Search id="search" className="pagefind-ui" query={searchQuery} uiOptions={{
       showImages: false,
-      showSubResults: true,
+      showSubResults: false,
       resetStyles: false,
     }} />
   </div>
 </BaseLayout>
 
 <script>
-  function prefillSearch() {
-    const params = new URLSearchParams(window.location.search);
-    const query = params.get("q");
-    if (!query) return;
+  const state = window as Window & {
+    __searchInfiniteCleanup?: () => void;
+    __searchPageHandlersSetup?: boolean;
+  };
 
-    const input = document.querySelector<HTMLInputElement>(
-      ".pagefind-ui .pagefind-ui__search-input"
+  const searchPageSelector = "#search-container";
+  const pagefindInputSelector = ".pagefind-ui .pagefind-ui__search-input";
+
+  function cleanupInfiniteSearchResults() {
+    state.__searchInfiniteCleanup?.();
+    state.__searchInfiniteCleanup = undefined;
+  }
+
+  function getSearchQuery() {
+    return new URLSearchParams(window.location.search).get("q");
+  }
+
+  function waitForPagefindInput(timeout = 2500) {
+    const existing = document.querySelector<HTMLInputElement>(pagefindInputSelector);
+    if (existing) return Promise.resolve(existing);
+
+    return new Promise<HTMLInputElement | null>((resolve) => {
+      const observer = new MutationObserver(() => {
+        const input = document.querySelector<HTMLInputElement>(pagefindInputSelector);
+        if (!input) return;
+        window.clearTimeout(timer);
+        observer.disconnect();
+        resolve(input);
+      });
+      const timer = window.setTimeout(() => {
+        observer.disconnect();
+        resolve(null);
+      }, timeout);
+
+      observer.observe(document.body, { childList: true, subtree: true });
+    });
+  }
+
+  async function prefillSearch() {
+    const query = getSearchQuery();
+    if (!query || !document.querySelector(searchPageSelector)) return;
+
+    const sidebarInput = document.querySelector<HTMLInputElement>("#sidebar-search");
+    if (sidebarInput) sidebarInput.value = query;
+
+    const input = await waitForPagefindInput();
+    if (!input || !document.querySelector(searchPageSelector)) return;
+
+    const hasRenderedSearchState = document.querySelector(
+      ".pagefind-ui .pagefind-ui__result, .pagefind-ui .pagefind-ui__message"
     );
-    if (!input) return;
+    if (input.value === query && hasRenderedSearchState) return;
 
     input.value = query;
     input.dispatchEvent(new Event("input", { bubbles: true }));
   }
 
-  prefillSearch();
-  document.addEventListener("astro:page-load", prefillSearch);
+  function setupInfiniteSearchResults() {
+    cleanupInfiniteSearchResults();
+    if (!document.querySelector(searchPageSelector)) return;
+
+    let isLoadingMore = false;
+    let lastResultCount = 0;
+
+    function getResultCount() {
+      return document.querySelectorAll(".pagefind-ui .pagefind-ui__result").length;
+    }
+
+    function maybeLoadMoreResults() {
+      if (!document.querySelector(searchPageSelector)) return;
+
+      const button = document.querySelector<HTMLButtonElement>(
+        ".pagefind-ui .pagefind-ui__button"
+      );
+      if (!button || isLoadingMore) return;
+
+      const distanceFromBottom =
+        document.documentElement.scrollHeight - window.innerHeight - window.scrollY;
+      if (distanceFromBottom > 500) return;
+
+      isLoadingMore = true;
+      lastResultCount = getResultCount();
+      button.click();
+
+      window.setTimeout(() => {
+        isLoadingMore = false;
+        if (getResultCount() > lastResultCount) {
+          maybeLoadMoreResults();
+        }
+      }, 700);
+    }
+
+    const observer = new MutationObserver(() => {
+      if (getResultCount() !== lastResultCount) {
+        isLoadingMore = false;
+      }
+      maybeLoadMoreResults();
+    });
+
+    observer.observe(document.body, { childList: true, subtree: true });
+    window.addEventListener("scroll", maybeLoadMoreResults, { passive: true });
+    window.addEventListener("resize", maybeLoadMoreResults, { passive: true });
+    state.__searchInfiniteCleanup = () => {
+      observer.disconnect();
+      window.removeEventListener("scroll", maybeLoadMoreResults);
+      window.removeEventListener("resize", maybeLoadMoreResults);
+    };
+    maybeLoadMoreResults();
+  }
+
+  function initSearchPage() {
+    if (!document.querySelector(searchPageSelector)) {
+      cleanupInfiniteSearchResults();
+      return;
+    }
+
+    prefillSearch();
+    setupInfiniteSearchResults();
+  }
+
+  if (!state.__searchPageHandlersSetup) {
+    state.__searchPageHandlersSetup = true;
+    document.addEventListener("astro:page-load", initSearchPage);
+    document.addEventListener("astro:before-swap", cleanupInfiniteSearchResults);
+    window.addEventListener("pageshow", initSearchPage);
+  }
+
+  initSearchPage();
 </script>
 
 <style lang="scss" is:global>
@@ -49,7 +163,7 @@ import Search from "astro-pagefind/components/Search";
     --pagefind-ui-scale: 1;
     --pagefind-ui-primary: #{$blue};
     --pagefind-ui-text: #111;
-    --pagefind-ui-background: white;
+    --pagefind-ui-background: transparent;
     --pagefind-ui-border: #111;
     --pagefind-ui-border-width: 1px;
     --pagefind-ui-border-radius: 0.25rem;
@@ -57,14 +171,32 @@ import Search from "astro-pagefind/components/Search";
     font-family: $sans-serif;
   }
 
+  .pagefind-ui .pagefind-ui__form {
+    position: relative;
+    margin-bottom: $space-md;
+    padding: 0;
+    background: transparent;
+  }
+
+  .pagefind-ui .pagefind-ui__form::before {
+    display: none;
+  }
+
   .pagefind-ui .pagefind-ui__search-input {
-    font-size: $base-size;
-    padding: $space-sm $space-md;
-    border: 1px solid #111;
-    border-radius: 0.25rem;
     width: 100%;
     box-sizing: border-box;
+    padding: $space-sm $space-sm $space-sm 3rem !important;
+    border: 1px solid #111;
+    border-radius: 0.25rem;
+    background-color: white !important;
+    background-image: url("data:image/svg+xml,%3Csvg width='18' height='18' viewBox='0 0 18 18' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12.7549 11.255H11.9649L11.6849 10.985C12.6649 9.845 13.2549 8.365 13.2549 6.755C13.2549 3.165 10.3449 0.255005 6.75488 0.255005C3.16488 0.255005 0.254883 3.165 0.254883 6.755C0.254883 10.345 3.16488 13.255 6.75488 13.255C8.36488 13.255 9.84488 12.665 10.9849 11.685L11.2549 11.965V12.755L16.2549 17.745L17.7449 16.255L12.7549 11.255ZM6.75488 11.255C4.26488 11.255 2.25488 9.245 2.25488 6.755C2.25488 4.26501 4.26488 2.255 6.75488 2.255C9.24488 2.255 11.2549 4.26501 11.2549 6.755C11.2549 9.245 9.24488 11.255 6.75488 11.255Z' fill='%23404040'/%3E%3C/svg%3E");
+    background-position: left $space-sm center;
+    background-repeat: no-repeat;
+    background-size: 1.125rem 1.125rem;
     font-family: $sans-serif;
+    font-size: $base-size;
+    font-weight: 700;
+    line-height: $rhythm;
   }
 
   .pagefind-ui .pagefind-ui__search-input:focus {
@@ -74,17 +206,32 @@ import Search from "astro-pagefind/components/Search";
   }
 
   .pagefind-ui .pagefind-ui__search-clear {
-    color: $darkgray;
+    display: none;
+  }
+
+  .pagefind-ui .pagefind-ui__drawer,
+  .pagefind-ui .pagefind-ui__results-area {
+    background: transparent;
+  }
+
+  .pagefind-ui .pagefind-ui__results {
+    padding: 0;
+    margin: $space-lg 0 0;
+    list-style: none;
   }
 
   .pagefind-ui .pagefind-ui__result {
     padding: $space-lg 0;
-    border-bottom: $layout-rule;
+    border-top: $layout-rule;
+  }
+
+  .pagefind-ui .pagefind-ui__result-title {
+    margin: 0 0 $space-xxs;
   }
 
   .pagefind-ui .pagefind-ui__result-link {
     color: #111;
-    font-size: $base-size * 1.25;
+    font-size: $base-size * 1.1;
     font-weight: 700;
     font-family: $sans-serif;
     text-decoration: none;
@@ -97,6 +244,7 @@ import Search from "astro-pagefind/components/Search";
   }
 
   .pagefind-ui .pagefind-ui__result-excerpt {
+    margin: 0;
     font-family: $serif;
     font-size: $base-size;
     line-height: $rhythm;
@@ -104,33 +252,21 @@ import Search from "astro-pagefind/components/Search";
   }
 
   .pagefind-ui .pagefind-ui__result-excerpt mark {
-    background: rgba($blue, 0.15);
+    background: rgba($blue, 0.24);
     color: #111;
     padding: 0 0.1em;
   }
 
   .pagefind-ui .pagefind-ui__message {
-    font-family: $sans-serif;
-    font-size: calc($base-size * 0.85);
-    color: $darkgray;
-    padding: $space-md 0;
-  }
-
-  .pagefind-ui .pagefind-ui__button {
-    background: #111;
-    color: white;
-    border: 1px solid #111;
-    border-radius: 0.25rem;
+    margin: 0;
+    padding: $space-sm 0 0;
     font-family: $sans-serif;
     font-size: calc($base-size * 0.85);
     font-weight: 700;
-    padding: $space-xs $space-md;
-    cursor: pointer;
-    margin-top: $space-md;
+    color: $darkgray;
   }
 
-  .pagefind-ui .pagefind-ui__button:hover {
-    background: $blue;
-    border-color: $blue;
+  .pagefind-ui .pagefind-ui__button {
+    display: none;
   }
 </style>
