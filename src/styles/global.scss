@@ -186,6 +186,11 @@ form li {
 /**
 * EVERYTHING ELSE
 */
+main {
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+
 main img {
     display: block;
     max-width: 100%;
