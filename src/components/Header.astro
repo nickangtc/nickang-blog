@@ -349,8 +349,9 @@ const currentPath = Astro.url.pathname;
   }
 
   .search-input:focus {
-    outline: 2px solid $blue;
-    outline-offset: -1px;
+    outline: none;
+    border-color: $blue;
+    box-shadow: inset 0 0 0 1px $blue;
   }
 
   .search-button {
@@ -405,6 +406,12 @@ const currentPath = Astro.url.pathname;
     border-right: 0;
     border-radius: 0.25rem 0 0 0.25rem;
     font-size: calc($base-size * 0.8);
+  }
+
+  .subscribe-input:focus {
+    outline: none;
+    border-color: $blue;
+    box-shadow: inset 0 0 0 1px $blue;
   }
 
   .subscribe-button {
