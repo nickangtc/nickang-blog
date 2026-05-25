@@ -62,6 +62,30 @@ const currentPath = Astro.url.pathname;
     </section>
 
     <form
+      action="/search"
+      method="GET"
+      class="search-form"
+    >
+      <label for="sidebar-search" class="search-label">
+        Search
+      </label>
+      <div class="search-input-wrap">
+        <input
+          id="sidebar-search"
+          class="search-input"
+          type="text"
+          name="q"
+          aria-label="Search the blog"
+        />
+        <button class="search-button" type="submit" aria-label="Search">
+          <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5Zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14Z" />
+          </svg>
+        </button>
+      </div>
+    </form>
+
+    <form
       name="subscribe"
       method="POST"
       data-netlify="true"
@@ -294,6 +318,71 @@ const currentPath = Astro.url.pathname;
     fill: currentColor;
   }
 
+  .search-form {
+    display: flex;
+    flex-wrap: wrap;
+    margin: $space-2xl 0 0;
+    padding: 0;
+    background: transparent;
+  }
+
+  .search-label {
+    display: block;
+    width: 100%;
+    margin-bottom: $space-xxs;
+    font-size: calc($base-size * 0.9);
+    font-weight: 800;
+  }
+
+  .search-input-wrap {
+    display: flex;
+    width: 100%;
+  }
+
+  .search-input {
+    flex: 1 1 auto;
+    min-width: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: $space-xs;
+    border: 1px solid black;
+    border-right: 0;
+    border-radius: 0.25rem 0 0 0.25rem;
+    font-size: calc($base-size * 0.8);
+    font-family: $sans-serif;
+  }
+
+  .search-input:focus {
+    outline: 2px solid $blue;
+    outline-offset: -1px;
+  }
+
+  .search-button {
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: $space-xs;
+    border: 1px solid black;
+    border-radius: 0 0.25rem 0.25rem 0;
+    background: black;
+    color: white;
+    cursor: pointer;
+  }
+
+  .search-button:hover {
+    background: black;
+    border-color: black;
+    color: white;
+  }
+
+  .search-icon {
+    width: 1rem;
+    height: 1rem;
+    fill: currentColor;
+  }
+
   .subscribe-form {
     display: flex;
     flex-wrap: wrap;
@@ -365,6 +454,11 @@ const currentPath = Astro.url.pathname;
     .nav-list,
     .sidebar-section {
       display: none;
+    }
+
+    .search-form {
+      width: 100%;
+      margin-top: $space-xl;
     }
 
     .subscribe-form {
