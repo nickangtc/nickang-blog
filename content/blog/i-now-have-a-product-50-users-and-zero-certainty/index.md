@@ -3,7 +3,7 @@ title: "I now have a product, 50 users, and zero certainty"
 date_published: "2026-02-12"
 date_updated: "2026-02-12"
 excerpt: "What it's really like to be a solo developer"
-tags: ["Substack"]
+tags: ["Substack", "Business"]
 fav: false
 backlinks:
   - slug: "/you-always-have-a-choice-and-thats-the-hard-part/"

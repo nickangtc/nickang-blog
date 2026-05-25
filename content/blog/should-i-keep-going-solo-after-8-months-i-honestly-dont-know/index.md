@@ -3,7 +3,7 @@ title: "Should I keep going solo after 8 months? (I honestly don't know)"
 date_published: "2026-03-19"
 date_updated: "2026-03-19"
 excerpt: "The question I'm asking myself after cancelling a co-founder call"
-tags: ["Substack"]
+tags: ["Substack", "Business"]
 fav: false
 backlinks:
   - slug: "/you-always-have-a-choice-and-thats-the-hard-part/"

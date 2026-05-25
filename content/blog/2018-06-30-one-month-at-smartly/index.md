@@ -1,6 +1,7 @@
 ---
 title: "One month at Smartly!"
 date_published: "2018-06-30"
+tags: ["Business"]
 backlinks:
   - slug: "/2019-12-22-what-ive-learned-in-2019/"
     title: "What I've learned in 2019"

@@ -1,6 +1,7 @@
 ---
 title: "What I've learned from selling used stuff on Carousell"
 date_published: "2018-01-27"
+tags: ["Business"]
 backlinks:
   - slug: "/blogs-are-gold-mines-now/"
     title: "Blogs are gold mines now"

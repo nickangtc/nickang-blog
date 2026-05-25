@@ -1,5 +1,5 @@
 ---
-tags: ["Personal"]
+tags: ["Personal", "Business"]
 title: "Selling better with machine learning"
 date_published: "2017-07-29"
 backlinks:

@@ -1,6 +1,7 @@
 ---
 title: "How to think about marketing"
 date_published: "2017-01-03"
+tags: ["Business"]
 backlinks:
 ---
 

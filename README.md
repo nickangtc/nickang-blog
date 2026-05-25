@@ -21,6 +21,7 @@ For everything else in this public repository you may use freely according to th
 List of unique topic tags:
 
 - **"Tech"** - Software Development - Design - Product
+- **"Business"** - Entrepreneurship, marketing, branding, customer service, and growth
 - **"Interviewing"** - self-explanatory
 - **"Career"**
 - **"Living"** - Mindfulness - Parenting - Habits - Society & Culture

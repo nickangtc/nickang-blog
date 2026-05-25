@@ -3,9 +3,11 @@ title: "When success comes fast, you know it's right"
 date_published: "2026-03-09"
 date_updated: "2026-03-09"
 excerpt: "[Update] Why I'm pivoting (again) from building products to building distribution"
-tags: ["Substack"]
+tags: ["Substack", "Business"]
 fav: false
 backlinks:
+  - slug: "/ig-2026/"
+    title: "Instagram growth hacking (2026)"
 ---
 
 Alright, time for a no bullshit update on how my "business" is doing.

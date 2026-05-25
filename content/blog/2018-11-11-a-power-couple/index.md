@@ -1,6 +1,7 @@
 ---
 title: "A power couple"
 date_published: "2018-11-11"
+tags: ["Business"]
 backlinks:
 ---
 

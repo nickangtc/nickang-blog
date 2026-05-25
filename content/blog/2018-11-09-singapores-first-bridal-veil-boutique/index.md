@@ -1,6 +1,7 @@
 ---
 title: "Launching Singapore's first bridal veil boutique"
 date_published: "2018-11-09"
+tags: ["Business"]
 backlinks:
   - slug: "/2018-11-19-interrupt-the-pattern/"
     title: "Want to be heard? Interrupt the pattern"

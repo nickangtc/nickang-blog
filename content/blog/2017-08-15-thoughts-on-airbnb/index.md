@@ -1,6 +1,7 @@
 ---
 title: "Thoughts on Airbnb"
 date_published: "2017-08-15"
+tags: ["Business"]
 backlinks:
 ---
 

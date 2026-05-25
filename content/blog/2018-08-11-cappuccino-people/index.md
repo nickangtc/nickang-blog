@@ -1,6 +1,7 @@
 ---
 title: "Cappuccino people"
 date_published: "2018-08-11"
+tags: ["Business"]
 backlinks:
   - slug: "/2018-08-26-how-to-find-good-food/"
     title: "How to find good food"

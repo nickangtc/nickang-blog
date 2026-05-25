@@ -1,6 +1,7 @@
 ---
 title: "Temptation to just build stuff"
 date_published: "2018-01-03"
+tags: ["Business"]
 backlinks:
   - slug: "/2018-01-12-courage-to-build/"
     title: "Regaining the courage to build"

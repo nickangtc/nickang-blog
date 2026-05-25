@@ -3,7 +3,7 @@ title: "SQL in 90 seconds (for busy entrepeneurs)"
 date_published: "2024-12-06"
 date_updated: "2024-12-06"
 excerpt: "Use this as your starting point."
-tags: ["Tech", "Tutorial"]
+tags: ["Tech", "Tutorial", "Business"]
 fav: false
 backlinks:
 ---

@@ -2,11 +2,14 @@
 title: "Reflecting on my 3-week work rotation in Helsinki"
 date_published: "2019-02-09"
 tags: ["Leadership", "Living"]
+fav: true
 backlinks:
   - slug: "/2019-02-11-publishing-an-article-on-the-company-blog/"
     title: "Publishing an article on the company blog"
   - slug: "/2020-12-27-shops-closed-on-sunday-germany/"
     title: "From shock to love: How the closed-on-Sunday law in Germany improved my life"
+  - slug: "/ig-2026/"
+    title: "Instagram growth hacking (2026)"
 ---
 
 I recently spent three weeks in Helsinki as a sort of mini-rotation within [Smartly.io](https://smartly.io). While I was there, I worked a lot more closely with the team I belong to but have been working remotely with from Singapore, and I've learned a lot.

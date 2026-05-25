@@ -3,7 +3,7 @@ title: "My app has 1 paying user and I think it's time to move on"
 date_published: "2026-02-17"
 date_updated: "2026-02-17"
 excerpt: "What's the next hare-brained scheme to make money then?"
-tags: ["Substack"]
+tags: ["Substack", "Business"]
 fav: false
 backlinks:
 ---

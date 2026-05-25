@@ -1,6 +1,7 @@
 ---
 title: "The single most non-obvious thing about advertising on Facebook"
 date_published: "2018-06-19"
+tags: ["Business"]
 backlinks:
   - slug: "/2018-06-16-much-marketing-topics-blog/"
     title: "Much more marketing topics on this blog"

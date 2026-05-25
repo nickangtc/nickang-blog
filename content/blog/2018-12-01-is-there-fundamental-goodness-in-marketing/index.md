@@ -1,6 +1,7 @@
 ---
 title: "Is there fundamental goodness in marketing?"
 date_published: "2018-12-01"
+tags: ["Business"]
 backlinks:
   - slug: "/2020-05-28-marketing-feels-dirty/"
     title: "Marketing feels dirty"

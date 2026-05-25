@@ -1,6 +1,7 @@
 ---
 title: "Why I'm Shelving My Hardware Startup After 6 Months"
 date_published: "2016-03-12"
+tags: ["Business"]
 backlinks:
   - slug: "/2017-11-04-dream-job/"
     title: "Getting good and getting a dream job"

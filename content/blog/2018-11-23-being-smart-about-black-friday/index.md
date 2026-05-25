@@ -1,6 +1,7 @@
 ---
 title: "Being smart about Black Friday"
 date_published: "2018-11-23"
+tags: ["Business"]
 backlinks:
 ---
 

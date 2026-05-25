@@ -1,6 +1,7 @@
 ---
 title: "I work in a company where people rejoin after quitting"
 date_published: "2018-09-20"
+tags: ["Business"]
 backlinks:
   - slug: "/2019-04-09-my-view-on-changing-jobs/"
     title: "My view on changing jobs"

@@ -2,13 +2,17 @@
 title: "Why I'm active on Instagram again"
 date_published: "2021-11-07"
 excerpt: 
-tags: ["Creativity", "Living"]
+tags: ["Creativity", "Living", "Business"]
 fav: false
 backlinks:
   - slug: "/2021-09-19-retreat/"
     title: "Retreat"
+  - slug: "/album/"
+    title: "Album"
   - slug: "/annual-review-2021/"
     title: "My 2021 Annual Review"
+  - slug: "/ig-2026/"
+    title: "Instagram growth hacking (2026)"
 ---
 
 I started to use Instagram again, prompted by the entry of my daughter into my life.

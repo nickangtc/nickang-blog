@@ -1,6 +1,7 @@
 ---
 title: "Inspiration is a spark"
 date_published: "2018-11-08"
+tags: ["Business"]
 backlinks:
 ---
 

@@ -3,7 +3,7 @@ title: "2026 is the year you can't afford to ignore AI"
 date_published: "2026-02-26"
 date_updated: "2026-02-26"
 excerpt: "10 minutes talking head video about this + more"
-tags: ["Substack"]
+tags: ["Substack", "Business"]
 fav: false
 backlinks:
 ---

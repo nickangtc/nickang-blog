@@ -1,6 +1,7 @@
 ---
 title: "You are new, speak up!"
 date_published: "2018-07-15"
+tags: ["Business"]
 backlinks:
   - slug: "/2018-09-20-company-rejoin-after-quitting/"
     title: "I work in a company where people rejoin after quitting"

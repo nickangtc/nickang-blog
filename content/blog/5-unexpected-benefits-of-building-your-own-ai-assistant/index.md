@@ -3,7 +3,7 @@ title: "5 Unexpected benefits of building your own AI assistant"
 date_published: "2026-03-02"
 date_updated: "2026-03-02"
 excerpt: "Field notes from a week of using NanoClaw as my personal productivity layer"
-tags: ["Substack"]
+tags: ["Substack", "Business"]
 fav: false
 backlinks:
 ---

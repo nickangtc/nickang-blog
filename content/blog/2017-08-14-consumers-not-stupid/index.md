@@ -1,6 +1,7 @@
 ---
 title: "Consumers are not stupid"
 date_published: "2017-08-14"
+tags: ["Business"]
 backlinks:
 ---
 

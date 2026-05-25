@@ -1,6 +1,7 @@
 ---
 title: "A very involved job application"
 date_published: "2018-04-03"
+tags: ["Business"]
 backlinks:
   - slug: "/2018-04-25-job-searching-is-not-about-the-numbers/"
     title: "Job searching is not about the numbers"

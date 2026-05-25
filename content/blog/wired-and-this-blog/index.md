@@ -3,7 +3,7 @@ title: "Blog turned media business?"
 date_published: "2023-12-29"
 date_updated: "2023-12-29"
 excerpt: "In observing the interesting phenomenon that the audience's gaze elevates my writing standards, I'm making some changes to mirror Steven Levy's narrative work at Wired. Today, I'm starting to evolve this blog to have that professional-personal vibe."
-tags: ["Good intentions", "Announcement"]
+tags: ["Good intentions", "Announcement", "Business"]
 fav: false
 status: "draft"
 backlinks:

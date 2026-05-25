@@ -1,6 +1,7 @@
 ---
 title: "The professional echo chamber"
 date_published: "2018-05-21"
+tags: ["Business"]
 backlinks:
   - slug: "/2018-06-02-philippines-field-trip/"
     title: "Reflecting on 15 days in the Philippines fields"

@@ -1,6 +1,7 @@
 ---
 title: "Same product, different brands"
 date_published: "2017-05-31"
+tags: ["Business"]
 backlinks:
   - slug: "/2021-03-28-notes-from-show-your-work-by-austin-kleon-part-1/"
     title: "Notes from Show Your Work by Austin Kleon (Part 1)"

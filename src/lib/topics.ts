@@ -7,6 +7,13 @@ export const topicPages = [
     eyebrow: "Topic",
   },
   {
+    tag: "Business",
+    title: "Business",
+    basePath: "/business",
+    intro: "Articles about launching, growing, and operating businesses.",
+    eyebrow: "Topic",
+  },
+  {
     tag: "Living",
     title: "Living",
     basePath: "/living",

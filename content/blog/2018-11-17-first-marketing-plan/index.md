@@ -1,6 +1,7 @@
 ---
 title: "Join me in executing my first marketing plan"
 date_published: "2018-11-17"
+tags: ["Business"]
 backlinks:
 ---
 

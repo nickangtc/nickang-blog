@@ -3,9 +3,11 @@ title: "How Instagram became my unexpected growth engine"
 date_published: "2026-04-06"
 date_updated: "2026-04-06"
 excerpt: "23 reflections about virality"
-tags: ["Substack"]
+tags: ["Substack", "Business"]
 fav: false
 backlinks:
+  - slug: "/ig-2026/"
+    title: "Instagram growth hacking (2026)"
 ---
 
 Alright I've got about an hour to write this newsletter so let's dive right into it!

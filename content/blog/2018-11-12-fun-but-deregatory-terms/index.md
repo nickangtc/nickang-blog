@@ -1,6 +1,7 @@
 ---
 title: "Fun but deregatory terms"
 date_published: "2018-11-12"
+tags: ["Business"]
 backlinks:
 ---
 

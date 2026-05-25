@@ -1,6 +1,7 @@
 ---
 title: "Lessons from launching a new business"
 date_published: "2018-11-10"
+tags: ["Business"]
 backlinks:
 ---
 
@@ -65,7 +66,3 @@ This time, things are a little different. One of the reasons I've joined my wife
 Marketing has always fascinated me but I've never had a good opportunity to get my hands dirty and try things out. Now I have a great one and I don't intend to waste it.
 
 If you'd like to follow me as I try to grow ang veil yú into a successful small business, covering topics like marketing, branding, customer experience, being in business with your life partner… and more, I highly encourage you to **subscribe to this blog**. That way you'll receive an email every time there's a new post.
-
-* * *
-
-\[blog\_subscription\_form title=""\]

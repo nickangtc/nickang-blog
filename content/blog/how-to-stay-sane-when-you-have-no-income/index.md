@@ -3,7 +3,7 @@ title: "How to stay sane when you have no income."
 date_published: "2026-03-06"
 date_updated: "2026-03-06"
 excerpt: "Don't take damage when you're moving through life at a steady clip"
-tags: ["Substack"]
+tags: ["Substack", "Business"]
 fav: false
 backlinks:
 ---
