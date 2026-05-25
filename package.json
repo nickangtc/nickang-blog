@@ -35,9 +35,10 @@
   },
   "scripts": {
     "build": "astro build",
-    "dev": "astro dev",
+    "dev": "npm run build && astro dev",
+    "dev:no-index": "astro dev",
     "format": "prettier --write \"**/*.{js,jsx,json,md,astro}\"",
-    "start": "astro dev",
+    "start": "npm run dev",
     "preview": "astro preview",
     "check": "astro check",
     "clean": "rm -rf dist .astro",

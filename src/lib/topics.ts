@@ -3,7 +3,7 @@ export const topicPages = [
     tag: "Tech",
     title: "Tech",
     basePath: "/tech",
-    intro: "Articles about software engineering and web development.",
+    intro: "Articles about software engineering and AI.",
     eyebrow: "Topic",
   },
   {
