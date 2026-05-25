@@ -29,10 +29,13 @@ Visually, the work was only 80% of the way of what I expected. But I must take b
 2. make sure the search index etc. will be updated on every rebuild (i.e. every time deployed to netlify)
 3. render the search bar in the same style but wiht magnifying glass icon, above the subscribe form in the left side bar. no search term placeholder
 
-Not much to go on, I know. There were a lot of basic CSS layout issues with the search results page. But that didn't bother me because I knew that was the easy part. Devin the AI coding agent knocked down the lead domino, which was the search integration.
+Not much to go on, I know. There were a lot of basic CSS layout issues with the search results page, which I totally underspecified. But that didn't bother me because I knew that part was easy to fix later with a few simple prompts with another agent (I used gpt-5.5 using my $20 ChatGPT subscription).
+
+What was helpful was Devin knocking down the lead domino (search integration). To put things into perspective, I've ran this blog on Gatsby for 6 years and have always wanted to integrate search but I've always put it off because it just never felt important enough (people/I can google search). Now, since it's a task that takes 30 minutes of my time to prompt, review, and merge, I finally made it happen.
 
 The main takeaways from this exercise are:
 
-1. [AI agents are very capable of working end to end](/5-unexpected-benefits-of-building-your-own-ai-assistant/) given well scoped prompts
+1. AI agents are very capable of working end to end given well scoped prompts
 2. Scoping prompts well is easier when you have domain knowledge (e.g. I knew how search works on statically-built websites)
-3. Don't waste your time doing things yourself that AI agents can do reliably
+3. AI agents make a whole class of work that was uneconomical economical
+4. Don't waste your time doing things yourself that AI agents can do reliably

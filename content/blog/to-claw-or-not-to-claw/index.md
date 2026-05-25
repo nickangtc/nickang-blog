@@ -38,7 +38,7 @@ This is it, in a screenshot:
 
 [![image](./images/image-02.jpg)](https://substackcdn.com/image/fetch/$s_!Vwyc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4273863e-7141-48be-9201-83c74f00715a_2250x1067.jpeg)
 
-*On Telegram, me asking my Claw to try something… and it worked without a hitch (rare, but when it happens, it's magic)*
+_On Telegram, me asking my Claw to try something… and it worked without a hitch (rare, but when it happens, it's magic)_
 
 For context, I write a lot everywhere and one of my biggest sources of low-key stress is WHERE DO I POST?!
 
@@ -55,7 +55,7 @@ I want to own my content AND have reach. To do that is very hard… until now!
 
 [![image](./images/image-03.jpg)](https://substackcdn.com/image/fetch/$s_!zaPf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77bbcaee-4fc0-4a6a-889c-24afc97a8d9c_2998x1206.jpeg)
 
-*My Substack posts now get ported over to my blog automatically with an AI agent that checks Substack once a week*
+_My Substack posts now get ported over to my blog automatically with an AI agent that checks Substack once a week_
 
 So that "experiment" I asked my Claw to do worked without a hitch based on this prompt:
 
@@ -81,7 +81,7 @@ And that eventually led to my Claw creating a google doc in my google drive, sen
 
 [![image](./images/image-04.png)](./images/image-01.png)
 
-*The moment I realised I'd unlocked a new world of AI collaboration.*
+_The moment I realised I'd unlocked a new world of AI collaboration._
 
 These are just two immediate use cases I thought of. People who are experimenting with making the most out of their OpenClaws are waaaaay ahead of this. Busy people like Garry Tan (CEO, Y Combinator) have been outputting tonnes of useful things for everyone to use, like [gbrain](https://github.com/garrytan/gbrain) and [gstack](https://github.com/garrytan/gstack), and they're doing it while [sipping piña coladas](https://x.com/garrytan/status/2043100662549090516) sending voice messages to their Claws during their off-time. (Maybe this says something bad about what off-time now means, I recognise that, but hey, if he's having fun producing useful things, I see no fault).
 
