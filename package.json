@@ -11,6 +11,7 @@
     "@astrojs/netlify": "^7.0.8",
     "@astrojs/react": "^5.0.4",
     "astro": "^6.3.1",
+    "astro-pagefind": "^1.8.6",
     "prismjs": "^1.29.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",

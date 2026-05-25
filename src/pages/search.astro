@@ -1,0 +1,117 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Search from "astro-pagefind/components/Search";
+---
+
+<BaseLayout title="Search" pathname="/search">
+  <h1 class="search-heading">Search</h1>
+  <div id="search-container">
+    <Search id="search" className="pagefind-ui" uiOptions={{
+      showImages: false,
+      showSubResults: true,
+      resetStyles: false,
+    }} />
+  </div>
+</BaseLayout>
+
+<style lang="scss" is:global>
+  @use '../styles/variables' as *;
+
+  .search-heading {
+    margin-top: 0;
+    margin-bottom: $space-xl;
+  }
+
+  #search-container {
+    max-width: 100%;
+  }
+
+  .pagefind-ui {
+    --pagefind-ui-scale: 1;
+    --pagefind-ui-primary: #{$blue};
+    --pagefind-ui-text: #111;
+    --pagefind-ui-background: white;
+    --pagefind-ui-border: #111;
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 0.25rem;
+    --pagefind-ui-font: #{$sans-serif};
+    font-family: $sans-serif;
+  }
+
+  .pagefind-ui .pagefind-ui__search-input {
+    font-size: $base-size;
+    padding: $space-sm $space-md;
+    border: 1px solid #111;
+    border-radius: 0.25rem;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: $sans-serif;
+  }
+
+  .pagefind-ui .pagefind-ui__search-input:focus {
+    outline: 2px solid $blue;
+    outline-offset: 1px;
+    border-color: $blue;
+  }
+
+  .pagefind-ui .pagefind-ui__search-clear {
+    color: $darkgray;
+  }
+
+  .pagefind-ui .pagefind-ui__result {
+    padding: $space-lg 0;
+    border-bottom: $layout-rule;
+  }
+
+  .pagefind-ui .pagefind-ui__result-link {
+    color: #111;
+    font-size: $base-size * 1.25;
+    font-weight: 700;
+    font-family: $sans-serif;
+    text-decoration: none;
+    box-shadow: none;
+  }
+
+  .pagefind-ui .pagefind-ui__result-link:hover {
+    color: $blue;
+    box-shadow: 0 2px 0 0 $blue;
+  }
+
+  .pagefind-ui .pagefind-ui__result-excerpt {
+    font-family: $serif;
+    font-size: $base-size;
+    line-height: $rhythm;
+    color: $darkgray;
+  }
+
+  .pagefind-ui .pagefind-ui__result-excerpt mark {
+    background: rgba($blue, 0.15);
+    color: #111;
+    padding: 0 0.1em;
+  }
+
+  .pagefind-ui .pagefind-ui__message {
+    font-family: $sans-serif;
+    font-size: calc($base-size * 0.85);
+    color: $darkgray;
+    padding: $space-md 0;
+  }
+
+  .pagefind-ui .pagefind-ui__button {
+    background: #111;
+    color: white;
+    border: 1px solid #111;
+    border-radius: 0.25rem;
+    font-family: $sans-serif;
+    font-size: calc($base-size * 0.85);
+    font-weight: 700;
+    padding: $space-xs $space-md;
+    cursor: pointer;
+    margin-top: $space-md;
+  }
+
+  .pagefind-ui .pagefind-ui__button:hover {
+    background: $blue;
+    border-color: $blue;
+  }
+</style>

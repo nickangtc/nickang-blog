@@ -42,6 +42,11 @@ const currentPath = Astro.url.pathname;
             Projects
           </a>
         </li>
+        <li class="nav-item">
+          <a href="/search" class:list={["nav-link", { active: currentPath.startsWith("/search") }]}>
+            Search
+          </a>
+        </li>
       </ul>
     </nav>
 
