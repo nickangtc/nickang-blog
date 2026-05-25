@@ -116,6 +116,33 @@ const className = Astro.props.class || "";
 <style lang="scss">
   @use '../styles/variables' as *;
 
+  $polaroid-background: rgba($gray, 0.75);
+
+  .lightboxable-content {
+    :global(p:has(> img:first-child)),
+    :global(p:has(> a:first-child > img:first-child)),
+    :global(p:has(> .gatsby-resp-image-wrapper:first-child)) {
+      box-sizing: border-box;
+      margin: $space-xl 0;
+      padding: $space-md;
+      background: $polaroid-background;
+    }
+
+    :global(p:has(> img:first-child)>img),
+    :global(p:has(> a:first-child > img:first-child)>a:first-child>img),
+    :global(p:has(> .gatsby-resp-image-wrapper:first-child)>.gatsby-resp-image-wrapper) {
+      margin: 0;
+    }
+
+    :global(p:has(> img:first-child)>em),
+    :global(p:has(> a:first-child > img:first-child)>em),
+    :global(p:has(> .gatsby-resp-image-wrapper:first-child)>em) {
+      display: block;
+      margin: $space-sm 0 0;
+      font-size: $base-size * 0.9;
+    }
+  }
+
   @media (min-width: 768px) {
     .lightboxable-content :global(img) {
       cursor: zoom-in;

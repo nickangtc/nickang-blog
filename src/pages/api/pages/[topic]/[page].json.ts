@@ -1,5 +1,6 @@
 import type { APIRoute, GetStaticPaths } from "astro";
-import { getCollection } from "astro:content";
+import { experimental_AstroContainer as AstroContainer } from "astro/container";
+import { getCollection, render } from "astro:content";
 import { getPaginatedListConfig } from "../../../../lib/pagination";
 import { topicPages, projectsPage } from "../../../../lib/topics";
 
@@ -34,6 +35,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
       );
 
     const config = getPaginatedListConfig(topicPosts.length, 0);
+    const container = await AstroContainer.create();
 
     for (let i = 1; i < config.numPages; i++) {
       const pageConfig = getPaginatedListConfig(topicPosts.length, i);
@@ -42,20 +44,27 @@ export const getStaticPaths: GetStaticPaths = async () => {
         pageConfig.skip + pageConfig.limit
       );
 
-      const renderedPosts = pagePosts.map((post) => ({
-        slug: post.id,
-        title: post.data.title,
-        date_published: new Date(post.data.date_published).toLocaleDateString(
-          "en-US",
-          {
-            year: "numeric",
-            month: "long",
-            day: "numeric",
-          }
-        ),
-        excerpt: post.data.excerpt || "",
-        cover: post.data.cover || "",
-      }));
+      const renderedPosts = await Promise.all(
+        pagePosts.map(async (post) => {
+          const { Content } = await render(post);
+
+          return {
+            slug: post.id,
+            title: post.data.title,
+            date_published: new Date(post.data.date_published).toLocaleDateString(
+              "en-US",
+              {
+                year: "numeric",
+                month: "long",
+                day: "numeric",
+              }
+            ),
+            excerpt: post.data.excerpt || "",
+            cover: post.data.cover || "",
+            html: await container.renderToString(Content),
+          };
+        })
+      );
 
       paths.push({
         params: {
