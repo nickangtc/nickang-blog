@@ -5,7 +5,8 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![spectacles sitting in front of a laptop focusing text on screen - remember why you are programming blog post banner](images/kevin-364843-1024x768.jpg) Photo by Kevin on Unsplash
+![spectacles sitting in front of a laptop focusing text on screen - remember why you are programming blog post banner](images/kevin-364843-1024x768.jpg) 
+_Photo by Kevin on Unsplash_
 
 As a programmer, you probably get a little carried away once in a while. You know, getting engrossed in the sophistication of another developer's implementation, be it beautiful or ugly (or both) and having an engaging conversation with your colleague about it. Yeah, I can tell you know what I'm talking about!
 

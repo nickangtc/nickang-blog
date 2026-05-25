@@ -7,7 +7,8 @@ backlinks:
     title: "How to prevent jQuery from loading image in parseHTML"
 ---
 
-![i hate email html banner with a cat with mouth open wide looking unhappy](images/BSP-i-hate-email-html.png) Photo by Erik-Jan Leusink on Unsplash
+![i hate email html banner with a cat with mouth open wide looking unhappy](images/BSP-i-hate-email-html.png) 
+_Photo by Erik-Jan Leusink on Unsplash_
 
 I dislike email HTML. There, I openly said it! I really had to get that out of my system before I go crazy.
 

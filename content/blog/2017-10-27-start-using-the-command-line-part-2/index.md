@@ -7,7 +7,8 @@ backlinks:
     title: "Bite Size Programming - How to start using the command line (part 1)"
 ---
 
-![BSP how to start using the command line nickang blog](images/BSP-how-to-start-using-the-command-line-nickang-blog-part-2.png) Photo by Dan Edwards on Unsplash
+![BSP how to start using the command line nickang blog](images/BSP-how-to-start-using-the-command-line-nickang-blog-part-2.png) 
+_Photo by Dan Edwards on Unsplash_
 
 Welcome to the second part of _How to start using the command line_. You can read part 1 [here](/2017-10-21-start-using-the-command-line-part-1/) if you haven't already - I cover the most basic commands there to get you started.
 

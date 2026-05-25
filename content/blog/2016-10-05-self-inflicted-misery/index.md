@@ -17,7 +17,8 @@ Someone—I think it was Naval Ravikant—in an episode of The Tim Ferriss Show 
 
 I can see how being able to do that would make me much more resilient to anything that happens to me, though. It would mean being able to be happy regardless of circumstances as long as it is not too meagre. How often am I living on a dollar a day, or without shelter or food, or without family or a friend or two by my side? Never. Never before, and likely never ever. That means eternal happiness (till I die) is technically achievable for me (and most likely you, too).
 
-![milk spilled on tray while pouring over coffee cubes](images/IMG_20161005_204712_1-1024x768.jpg) Oh no, the perfect picture of this hipster cold brew is ruined!!
+![milk spilled on tray while pouring over coffee cubes](images/IMG_20161005_204712_1-1024x768.jpg) 
+_Oh no, the perfect picture of this hipster cold brew is ruined!!_
 
 I know I sound like a woo-woo new age hippie who just discovered eastern philosophy, but I genuinely believe in everything I've just said. I've been happier on many occasions when I flipped the switch on the self-inflicting misery machine that is my subconscious human mind. That biological relic is poorly suited for the information overloaded twenty-first century where 5 minutes cannot pass without us checking our smartphones and seeing something, good or bad, happening somewhere in the world which we compare our own life with with a deadpan face devoid of humour. We forget that the switch is always there by the wall.
 

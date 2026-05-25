@@ -9,7 +9,8 @@ backlinks:
     title: "Bite Size Programming - Programming is not for everyone"
 ---
 
-![how to get started with programming banner nickang blog](images/how-to-get-started-with-programming-banner-nickang-blog.png) Photo by Joshua Sortino on Unsplash
+![how to get started with programming banner nickang blog](images/how-to-get-started-with-programming-banner-nickang-blog.png) 
+_Photo by Joshua Sortino on Unsplash_
 
 I've only been a professional software engineer for about a year, but one of the questions I'm frequently asked by friends and strangers alike is, "How do I get started with programming?"
 

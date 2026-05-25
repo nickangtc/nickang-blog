@@ -7,7 +7,8 @@ backlinks:
     title: "Reflecting on 15 days in the Philippines fields"
 ---
 
-![flight into Bohol Philippines nickang blog](images/20180517-BES-ENV3102-flight-arrival-nickang-blog-1024x768.jpg) Touching down at Mactan-Cebu International Airport
+![flight into Bohol Philippines nickang blog](images/20180517-BES-ENV3102-flight-arrival-nickang-blog-1024x768.jpg) 
+_Touching down at Mactan-Cebu International Airport_
 
 This has been an interesting year for me so far. I started the year having just left my [previous job](http://altitudelabs.com/) as a software engineer, received an offer to be a lead instructor teaching web development on the weekends and teaching assistant on the weekdays at a reputable [technical education company](https://generalassemb.ly/). Now, I'm in the Philippines to help teach a field course for my [bachelor's degree](https://envstudies.nus.edu.sg/) program, and in June, I'll start work as a customer-facing software engineer at a growth-stage tech startup.
 
@@ -21,7 +22,8 @@ Thankfully, from what I can tell, they are genuinely concerned about aligning ea
 
 So, that's that. In June 2018, I will start as a Service Operations Engineer at [Smartly.io](https://smartly.io) - a marketing automation and optimisation company with a powerful product and best-in-class customer service. I'd love to share details about what I'm going to be doing, but I'd prefer to do that when I've actually laid in the trenches and know more or less exactly what I've gotten myself into. I'm definitely excited to start in June and post an update here soon after!
 
-![bus ride bohol philippines NUS BES nickang blog](images/20180517-BES-ENV3102-bus-ride-nickang-blog-1024x768.jpg) Some of the 54 students from NUS's Bachelor of Environmental Studies (BES) program on the bus from the airport to the hotel
+![bus ride bohol philippines NUS BES nickang blog](images/20180517-BES-ENV3102-bus-ride-nickang-blog-1024x768.jpg) 
+_Some of the 54 students from NUS's Bachelor of Environmental Studies (BES) program on the bus from the airport to the hotel_
 
 ### Fieldwork in the Philippines
 

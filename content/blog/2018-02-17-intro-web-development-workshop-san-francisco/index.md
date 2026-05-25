@@ -36,7 +36,8 @@ If things went through, the student leaders and I would have to put together a d
 
 What's there to lose? I knew if I didn't try, there would be an exactly 0 percent chance of it happening. With that mentality, I just decided to reach out and try it anyway.
 
-![intro to coding workshop in san francisco blk71](images/IMG-20180216-WA0003-1024x768.jpg) Some of the people who turned up at the Intro to Web Development Workshop @ Blk71 SF (That's me, first on the left)
+![intro to coding workshop in san francisco blk71](images/IMG-20180216-WA0003-1024x768.jpg) 
+_Some of the people who turned up at the Intro to Web Development Workshop @ Blk71 SF (That's me, first on the left)_
 
 To be honest, I was ready for it to not happen on this trip. I thought that perhaps in the future when I'm in some other city (or San Francisco again!), it would be easier because I'd have linked up with the right people already. And that would be true, regardless of whether this particular trip's workshop was going to happen. Baby steps!
 

@@ -5,7 +5,8 @@ date_published: "2016-08-28"
 backlinks:
 ---
 
-![relaxing in a pool by snow mountains](images/chilling-1024x683.jpeg) Tools conserve cognitive resources for the actual tasks! Image: [Robson Morgan](https://unsplash.com/@robsonhmorgan)
+![relaxing in a pool by snow mountains](images/chilling-1024x683.jpeg) 
+_Tools conserve cognitive resources for the actual tasks! Image: [Robson Morgan](https://unsplash.com/@robsonhmorgan)_
 
 I now recall that about a year ago, I was introduced to the productivity app called Alfred. I tried it but couldn't understand why anyone found it useful, and swiftly proceeded to uninstall it within the week.
 

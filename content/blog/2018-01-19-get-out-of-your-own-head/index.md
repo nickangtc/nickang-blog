@@ -17,7 +17,8 @@ Apparently Michel de Montaigne, a highly regarded French author who lived in the
 
 Having always had run-ins with pride my whole young life so far, I have a strong connection with the quote. So strong that I'm actually considering inscribing it somewhere too. Like, on my arm. As a tattoo. Maybe. I'm still incubating the idea...
 
-![fake tattoo of quote](images/IMG_20180119_200907_1-1024x768.jpg) Borrowing from the idea of rapid prototyping (and my wife's eyeliner), I made a tattoo
+![fake tattoo of quote](images/IMG_20180119_200907_1-1024x768.jpg) 
+_Borrowing from the idea of rapid prototyping (and my wife's eyeliner), I made a tattoo_
 
 ### Just do the work
 

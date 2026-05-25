@@ -6,7 +6,8 @@ backlinks:
     title: "Get out of your own head"
 ---
 
-![cute child boy standing at the foot of a huge flight of stairs](images/mikito-tateisi-333584-1024x576.jpg) Photo by Mikito Tateisi on Unsplash
+![cute child boy standing at the foot of a huge flight of stairs](images/mikito-tateisi-333584-1024x576.jpg) 
+_Photo by Mikito Tateisi on Unsplash_
 
 Making progress is hard. Inertia can kill a project before it even begins.
 
@@ -28,7 +29,8 @@ Mei recently shared with me a little secret that she's been using to keep up the
 
 It's a beautifully simple trick involving a self-imposed, arbitrarily set rule that cleverly makes use of our desire for patterns. Ready to know what it is?
 
-![screenshot of charlaneyu makeup portfolio on Instagram showing an organised pattern](images/Screenshot_2017-10-05-08-31-20-576x1024.png) My wife's make-up portfolio on Instagram (@charlane\_yu)
+![screenshot of charlaneyu makeup portfolio on Instagram showing an organised pattern](images/Screenshot_2017-10-05-08-31-20-576x1024.png) 
+_My wife's make-up portfolio on Instagram (@charlane\_yu)_
 
 Notice the pattern yet?
 

@@ -10,7 +10,8 @@ backlinks:
     title: "Do your best not to obfuscate"
 ---
 
-![anthony bourdain parts unknown scotland](images/150505094809-01-parts-unknown-scotland-super-169-1024x576.jpg) A scene from Parts Unknown, Scotland episode
+![anthony bourdain parts unknown scotland](images/150505094809-01-parts-unknown-scotland-super-169-1024x576.jpg) 
+_A scene from Parts Unknown, Scotland episode_
 
 I was on the plane yesterday to Hong Kong when I watched Anthony Bourdain's Parts Less Known documentary. Episode one covered Scotland, Glasgow mostly, where Bourdain spoke to many different kinds of Glaswegians (people of Glasgow).
 

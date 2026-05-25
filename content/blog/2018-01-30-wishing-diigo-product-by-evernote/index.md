@@ -7,7 +7,8 @@ backlinks:
     title: "How a Daily Note fixed my note taking process"
 ---
 
-![diigo and evernote](images/Screen-Shot-2018-01-30-at-9.28.26-PM-1024x302.png) Integrating Diigo and Evernote is possible with a service like IFTTT but nothing beats product ownership
+![diigo and evernote](images/Screen-Shot-2018-01-30-at-9.28.26-PM-1024x302.png) 
+_Integrating Diigo and Evernote is possible with a service like IFTTT but nothing beats product ownership_
 
 I wish Diigo was a product by Evernote.
 

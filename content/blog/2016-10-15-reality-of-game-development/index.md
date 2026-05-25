@@ -5,7 +5,8 @@ date_published: "2016-10-15"
 backlinks:
 ---
 
-![grave matters gameplay screenshot](images/grave-matters-game-1024x576.jpg) Grave Matters, a game by our web development instructor and two friends
+![grave matters gameplay screenshot](images/grave-matters-game-1024x576.jpg) 
+_Grave Matters, a game by our web development instructor and two friends_
 
 Our instructor at General Assembly is also a game developer, and he recently showed us his wares. It was my first glimpse into the world of game development and I found it magical.
 

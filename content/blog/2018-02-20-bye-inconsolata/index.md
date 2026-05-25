@@ -5,7 +5,8 @@ date_published: "2018-02-20"
 backlinks:
 ---
 
-![inconsolata font on nickang blog](images/Screen-Shot-2018-02-19-at-10.37.52-PM-1024x544.png) The old typeface for this blog - bye Inconsolata!
+![inconsolata font on nickang blog](images/Screen-Shot-2018-02-19-at-10.37.52-PM-1024x544.png) 
+_The old typeface for this blog - bye Inconsolata!_
 
 It's official, I'm sick of the [Inconsolata](https://fonts.google.com/?query=inconsolata) font!
 

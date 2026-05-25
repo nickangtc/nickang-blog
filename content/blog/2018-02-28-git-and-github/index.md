@@ -7,7 +7,8 @@ backlinks:
     title: "How to setup access to GitHub from Terminal with 2FA"
 ---
 
-![git and github nickang blog](images/git-and-github-nickang-blog.png) Photo by Paul Gilmore.
+![git and github nickang blog](images/git-and-github-nickang-blog.png) 
+_Photo by Paul Gilmore._
 
 New to programming and heard about the usefulness of git and GitHub? In this article, I'll give you the only quick and dirty summary that you need to have a clear conceptual understanding of what these things are and what they're not.
 

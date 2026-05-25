@@ -12,7 +12,8 @@ backlinks:
     title: "Bite Size Programming"
 ---
 
-![binary search blog banner nickang](images/BSP-binary-search-2.png) Photo by Pablo Garcia Saldaña on Unsplash
+![binary search blog banner nickang](images/BSP-binary-search-2.png)
+_Photo by Pablo Garcia Saldaña on Unsplash_
 
 If you're a software engineer, you've probably heard about binary search before. And if you don't know what it is, how it's implemented, and its strengths and weaknesses, this post is for you.
 
@@ -58,7 +59,8 @@ Well, it takes only 10 iterations to find an entry among 1,000 entries, 17 itera
 
 Plotted on a graph with number of operations on the y-axis and input size (total number of entries in the phonebook) on the x-axis, the time complexity of binary search looks like this:
 
-![binary search graph nickang blog](images/binary-search-graph.png) The amazing time complexity of binary search (O(log n))
+![binary search graph nickang blog](images/binary-search-graph.png) 
+_The amazing time complexity of binary search (O(log n))_
 
 In other words, the binary search algorithm takes **logarithmically less time to execute as the input size grows**. So, in terms of [Big O notation](/2017-11-15-algorithm-time-complexity-big-o-notation/), binary search is said to be a **O(log n) time** algorithm.
 
@@ -86,11 +88,11 @@ function binarySearch(array, key) {
     var upper = array.length - 1;
     var mid;
     var currentItem;
-    
+
     while (lower <= upper) {
         mid = Math.floor((lower + upper) / 2, 10);
         currentItem = array\[mid\];
-        
+
         if (currentItem < key) {
             lower = mid + 1;
         } else if (currentItem > key) {

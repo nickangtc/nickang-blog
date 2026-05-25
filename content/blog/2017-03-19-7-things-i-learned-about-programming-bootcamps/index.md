@@ -80,7 +80,8 @@ To borrow from Neil Gaiman, most of us are moving towards the same "mountain". A
 
 ## 4\. Employability after a programming bootcamp
 
-![my classmates at general assembly](images/IMG_20161021_124948-1024x768.jpg) Me and my awesome classmates on the way to refuel our brains with food
+![my classmates at general assembly](images/IMG_20161021_124948-1024x768.jpg) 
+_Me and my awesome classmates on the way to refuel our brains with food_
 
 The question I've been asked most frequently is about employment. "How was your job search after the course?", friends would ask with a mix of curiosity and apprehension. Curious because they want the answer to be "easy", and apprehensive because they know that would mean having to take a leap of faith to start a career in a new industry from scratch.
 
@@ -165,7 +166,8 @@ I think there is a kernel of truth in there, but I also think this is a false di
 
 Good programming bootcamps will emphasise the _importance of learning how to learn_: how to find answers to problems, how to research the best stack to use for a project, how to write code that is easy to understand and maintain and so on. The really good instructors will not let you in on the answer but instead, guide you to arrive at the answer yourself.
 
-![bruce lee quote on being a teacher](images/db034be40602658c4e4537c2dfde53d5-1024x640.jpg) A quote Jeremiah shared with us at the end of the course.
+![bruce lee quote on being a teacher](images/db034be40602658c4e4537c2dfde53d5-1024x640.jpg) 
+_A quote Jeremiah shared with us at the end of the course._
 
 ## 7\. Not all graduates pursue programming as a career
 

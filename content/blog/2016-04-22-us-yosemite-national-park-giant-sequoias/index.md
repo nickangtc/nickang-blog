@@ -15,7 +15,8 @@ For about a decade I'd heard about giant redwood trees that stand in California.
 
 Today I finally saw it. I think we drove about 2 hours from the south entrance of Yosemite before arriving at the quiet Tuolumne Grove, home to about 20 giant sequoias. I counted about 15 standing and 2 fallen trees. They are astounding. Tall and broad beyond words.
 
-![Some brothers augered the tunnel in the 1870s to attract tourists - here we are!](images/DSCF8448_edited-683x1024.jpg) Some brothers augered the tunnel in the 1870s to attract tourists - so here we are!
+![Some brothers augered the tunnel in the 1870s to attract tourists - here we are!](images/DSCF8448_edited-683x1024.jpg) 
+_Some brothers augered the tunnel in the 1870s to attract tourists - so here we are!_
 
 I hate to have to put it this way, but the two fallen giants actually helped me understand their hugeness. Standing beside a fallen giant sequoia, I come up to less than half its radius! I didn't lie on the floor and do back flips so I don't know how many me's it takes to run the full height, but it's safe to say that it's extremely tall. It might have been over 10 storeys.
 
@@ -25,13 +26,15 @@ I stood there, feeling my eyes spring open and my jaw falling, when Wan Pin saw 
 
 It's one of the most surreal experiences in my life so far. The world is kind of big, you know? To bump into someone you know well in a foreign land (none of us were living in the US) and in such an obscure part of one of a few hundred national parks in the US is an unthinkable coincidence. I never imagined this would be possible. It's probably the same for them, I think. We skipped the imagination and headed straight for the implausible reality - we met in a small forest in a big forest in an enormous country tens of thousands of miles away from home.
 
-![Unfathomable awesomeness](images/DSCF8456_edited-1024x683.jpg) Unfathomable awesomeness
+![Unfathomable awesomeness](images/DSCF8456_edited-1024x683.jpg) 
+_Unfathomable awesomeness_
 
 I'll leave it to you to imagine how it feels.
 
 Leaving that behind took a while but I eventually came around and shook off the adrenaline, and we started our way north. Yellowstone National Park is our next stop but that's over 900 miles away, a distance we can't cover today and especially not by driving on the dark American highways. At night the highways are not lit and it can be extremely dangerous to drive unless you are practised in driving those roads. So we decided to push as far north as possible, and covered quite a lot of ground and arrived in the small town of Minden, Nevada.
 
-![Checking into Travel Inn at South Lake Tahoe](images/DSCF8524_edited-1024x683.jpg) Checking into Travel Inn at South Lake Tahoe, California
+![Checking into Travel Inn at South Lake Tahoe](images/DSCF8524_edited-1024x683.jpg) 
+_Checking into Travel Inn at South Lake Tahoe, California_
 
 ## How to Get Cheap Accommodations Without Prior Booking
 
@@ -43,7 +46,8 @@ For today, our hypothesis was right and the experiment paid off. We paid a grand
 
 It was dark by the time we got here, but I'm looking forward to seeing the lake under the early morning sun tomorrow!
 
-![DSCF8496_edited](images/DSCF8496_edited-1024x683.jpg) Taking a moment to stretch our legs and absorb the sublime sunset
+![DSCF8496_edited](images/DSCF8496_edited-1024x683.jpg) 
+_Taking a moment to stretch our legs and absorb the sublime sunset_
 
 ## People Moving Around
 

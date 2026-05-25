@@ -9,7 +9,8 @@ backlinks:
     title: "First impressions of the Astrohaus Freewrite"
 ---
 
-![classroom at general assembly singapore](images/ga-image-1024x1024.jpg) What our classroom looks like from the inside.
+![classroom at general assembly singapore](images/ga-image-1024x1024.jpg) 
+_What our classroom looks like from the inside._
 
 Michelangelo said this of marble: inside every block lies a sculpture to be discovered. All it needs is for its edges to be carved off.
 

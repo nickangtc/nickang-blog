@@ -6,7 +6,8 @@ fav: true
 backlinks:
 ---
 
-![Sal's 4 tips for writing blog posts as a developer](images/Screen-Shot-2016-12-24-at-8.23.04-pm-1024x521.png) Sal's 4 tips for writing blog posts as a developer
+![Sal's 4 tips for writing blog posts as a developer](images/Screen-Shot-2016-12-24-at-8.23.04-pm-1024x521.png) 
+_Sal's 4 tips for writing blog posts as a developer_
 
 It's Christmas Eve and I find myself itching to read and learn more about programming, so naturally, I went to Medium.com. Three posts in from scrolling I came across [a post](https://medium.com/@saddington/best-thing-as-a-developer-d00520d78942#.te9teup3k) from John Saddington, an "indie" developer who has built and released multiple WordPress and writing-related apps all by himself. He's someone I respect, both as a person with humility and as a skilled developer, so I clicked.
 

@@ -7,7 +7,8 @@ backlinks:
     title: "What are bugs in software?"
 ---
 
-![people using ipad phone and laptop](images/users-using-ipad-phone-and-laptop-1024x683.jpg) Photo by rawpixel.com on Unsplash
+![people using ipad phone and laptop](images/users-using-ipad-phone-and-laptop-1024x683.jpg) 
+_Photo by rawpixel.com on Unsplash_
 
 Users don't care how your product works. As long as it works.
 

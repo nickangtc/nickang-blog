@@ -9,7 +9,8 @@ Going for a light-hearted post today. I want to share with you the ridiculously 
 
 Here it is!
 
-![hand holding nickang name card](images/nickang_name_card_4-1024x768.jpg) The handwritten name card that got me the job
+![hand holding nickang name card](images/nickang_name_card_4-1024x768.jpg) 
+_The handwritten name card that got me the job_
 
 It's really simple, right? Some have told me outright that it's too simple...
 
@@ -23,7 +24,8 @@ More importantly, I find printing name cards for the sole purpose of job hunting
 
 Before I share with you a clever list of reasons (that I mostly came up with retrospectively) to hand write your personal name cards, I feel the need to disclose the real reason I wrote my name cards when I was searching for my first developer job: I happened to have had an old stack of single-sided name cards left over from running my previous startup.
 
-![hand holding nickang name card](images/nickang_name_card_3-1024x768.jpg) Behind my new name card was my old name card, along with its story
+![hand holding nickang name card](images/nickang_name_card_3-1024x768.jpg) 
+_Behind my new name card was my old name card, along with its story_
 
 Now on to the clever reasons.
 

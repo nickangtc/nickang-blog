@@ -7,7 +7,8 @@ backlinks:
     title: "Much more marketing topics on this blog"
 ---
 
-![Facebook app on mobile nickang blog](images/tim-bennett-538189-unsplash-1024x768.jpg) Photo by Tim Bennett on Unsplash
+![Facebook app on mobile nickang blog](images/tim-bennett-538189-unsplash-1024x768.jpg) 
+_Photo by Tim Bennett on Unsplash_
 
 I'll admit, I have always been a little sceptical when it came to spending money to advertise on Facebook. While it's completely self-explanatory, and with [Cambridge Analytica](https://www.wired.com/story/the-man-who-saw-the-dangers-of-cambridge-analytica/), totally self-evident that Facebook has loads of data on its users individually and in aggregate, I'd always been suspicious of the Ad auction system that Facebook employs.
 

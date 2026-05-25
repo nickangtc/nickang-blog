@@ -5,7 +5,8 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![bite size programming how internet work banner](images/bite-size-programming-how-does-the-internet-work-banner-nickang-blog.png) Photo by Antonio Grosz on Unsplash
+![bite size programming how internet work banner](images/bite-size-programming-how-does-the-internet-work-banner-nickang-blog.png) 
+_Photo by Antonio Grosz on Unsplash_
 
 Here's a rhetorical question: Have you ever wondered how does the internet work? How is it possible that you can enter (what used to be) a cryptic string of characters and have a page full of text, images, videos and user interactions loaded just like that, like magic?
 

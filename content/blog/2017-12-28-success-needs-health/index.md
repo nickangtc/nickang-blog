@@ -4,7 +4,8 @@ date_published: "2017-12-28"
 backlinks:
 ---
 
-![](images/20171227-laksa-nickang-blog-1024x768.jpg) Singapore laksa from a nearby makeshift food court near work
+![](images/20171227-laksa-nickang-blog-1024x768.jpg) 
+_Singapore laksa from a nearby makeshift food court near work_
 
 All the success in the world means nothing if you don't have good health to enjoy it.
 

@@ -4,7 +4,8 @@ date_published: "2019-02-12"
 backlinks:
 ---
 
-![overcooked 2 chinese new year update nick ang](images/overcooked-2-chinese-new-year-update-nick-ang-1024x576.jpg) Graphic by Team17
+![overcooked 2 chinese new year update nick ang](images/overcooked-2-chinese-new-year-update-nick-ang-1024x576.jpg) 
+_Graphic by Team17_
 
 [Overcooked](https://www.team17.com/games/overcooked/) is a game designed for the PS4 that was love at first sight (yes, pre-play) for me and my wife. On first sight, it's just one of those games whose goal is to prepare meals and serve them.
 
@@ -34,7 +35,8 @@ The really cool part for me was to discover that the Christmas levels belonged i
 
 All of this is possible because of the infrastructure that the PS4 provides to game developers. Now, when you ship a game, it is only version 1.0 of the game. You can now ship seasonal updates over the internet to all players anytime and provide even more entertainment and fun to people.
 
-![overcooked 2 lunar new year chefs nick ang](images/overcooked-2-lunar-new-year-chefs-nick-ang-1024x576.jpg) Graphic by Team17
+![overcooked 2 lunar new year chefs nick ang](images/overcooked-2-lunar-new-year-chefs-nick-ang-1024x576.jpg) 
+_Graphic by Team17_
 
 As if this wasn't already fantastic, the developers went ahead and created seasonal-content-specific avatars that can only be unlocked if you played the seasonal content. When my wife and I first unlocked the Chinese Dragon avatar, we were both wow-ed and we laughed at how much the developers and designers have outdone themselves to produce it. It takes a _wow_ moment to lead to a post like this, I suppose.
 

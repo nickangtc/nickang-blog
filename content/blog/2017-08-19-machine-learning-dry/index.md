@@ -7,7 +7,8 @@ backlinks:
 
 _San Francisco, we have a problem._
 
-![laptop screen with code](images/code_min.jpg) _Photo by Caspar Rubin on Unsplash_
+![laptop screen with code](images/code_min.jpg) 
+_Photo by Caspar Rubin on Unsplash_
 
 I love the idea of machine learning. Concepts like cost functions and gradient descent are relatively easy to grasp, and gets only a bit trickier during implementation (especially with all that matrix operations in Octave instead of the loops I'm so used to using as a software developer).
 

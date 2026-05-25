@@ -5,7 +5,8 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![what is dry blog banner nickang showing weed growing on white wall](images/BSP-what-is-dry.png) Photo by Ben Neale on Unsplash
+![what is dry blog banner nickang showing weed growing on white wall](images/BSP-what-is-dry.png) 
+_Photo by Ben Neale on Unsplash_
 
 Ever heard someone tell you that your code is not "DRY"? What's the deal with that? Are they saying that your code can hold a lot of water...?
 

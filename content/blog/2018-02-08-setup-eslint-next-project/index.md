@@ -7,7 +7,8 @@ backlinks:
     title: "My favourite posts from 2018"
 ---
 
-![how to setup ESLint for your next project nickang blog banner](images/BSP-how-to-setup-ESLint-for-your-next-project.png) Photo by Norbert Levajsics on Unsplash
+![how to setup ESLint for your next project nickang blog banner](images/BSP-how-to-setup-ESLint-for-your-next-project.png) 
+_Photo by Norbert Levajsics on Unsplash_
 
 For over a year, I used [ESLint](https://eslint.org/) at work without knowing. I didn't have to understand what package exactly was doing the work of linting - it just worked, quietly doing its duty of enforcing no unused variables and imports, keeping consistent code styles, and all that nice stuff.
 

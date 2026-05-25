@@ -12,7 +12,8 @@ backlinks:
     title: "Bite Size Programming"
 ---
 
-![why programmers use command line interface banner nickang blog](images/why-programmers-use-command-line-interface-banner-nickang-blog.png) Photo by Paweł Durczok on Unsplash
+![why programmers use command line interface banner nickang blog](images/why-programmers-use-command-line-interface-banner-nickang-blog.png) 
+_Photo by Paweł Durczok on Unsplash_
 
 First of all, what is a Command Line Interface?
 

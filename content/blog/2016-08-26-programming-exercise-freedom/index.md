@@ -12,7 +12,8 @@ When it comes to software, there is a lot more space for movement and expression
 
 (Besides, whoever came up with the idea that everything you do has to be useful (usually in the narrow sense of bringing convenience or other kinds of profit) must be a really boring person.)
 
-![screenshot of rattyduck's interactive website](images/Screen-Shot-2016-08-26-at-9.02.10-pm-1024x578.png) [Rattyduck](http://Rattyduck.com/nodeplay/), our instructor's friend, coded this. It's fun and feels like a work of art!
+![screenshot of rattyduck's interactive website](images/Screen-Shot-2016-08-26-at-9.02.10-pm-1024x578.png) 
+_[Rattyduck](http://Rattyduck.com/nodeplay/), our instructor's friend, coded this. It's fun and feels like a work of art!_
 
 Consider this with the fact that software has very little overhead to create and deploy (compared to other kinds of projects); it's enough to make me walk with a skip in my feet, that's for sure.
 

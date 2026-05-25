@@ -6,7 +6,8 @@ backlinks:
     title: "My favourite posts from 2018"
 ---
 
-![row of bananas mostly yellow with one green](images/lotte-lohr-766.jpg) Photo by Lotte Löhr on Unsplash
+![row of bananas mostly yellow with one green](images/lotte-lohr-766.jpg) 
+_Photo by Lotte Löhr on Unsplash_
 
 For the first time yesterday, my long time friend Kegan joined my wife and I on a quick grocery run. Since we've been married, Charlane and I have been buying groceries once every 2-3 weeks, so this trip to Fairprice felt familiar, almost habitual. That's why when Kegan remarked at something I said to Charlane about the bananas she chose off the rack, it was a moment of revelation.
 

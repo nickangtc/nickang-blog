@@ -47,7 +47,8 @@ When Sarah user sends a message, her browser (client) emits a 'chat' event and s
 
 Now Robert needs to see the message. When the server receives the 'chat' event along with the message Sarah sent, you can really only use 1 of the 2 options discussed above.
 
-![difference between socket.broadcast and io.to nickang blog](images/socket-broadcast-io-1024x353.png) Left is nick, right is jansen. If you use the wrong method, you'll get repeated messages for nick - bad!
+![difference between socket.broadcast and io.to nickang blog](images/socket-broadcast-io-1024x353.png) 
+_Left is nick, right is jansen. If you use the wrong method, you'll get repeated messages for nick - bad!_
 
 As you can imagine, I used the wrong one and found out the hard way. To help you save time, here's the answer: you should only broadcast the message to all connected sockets _except_ Sarah's. Otherwise, Sarah will see her message repeated a second time in her chat client. Oops!
 

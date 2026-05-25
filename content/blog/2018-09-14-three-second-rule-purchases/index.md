@@ -10,7 +10,8 @@ Here's my version of the three second rule applied to purchases: if something pu
 
 Because if something manages to make you smile genuinely for three good seconds, it's a blue moon object that you'd be foolish to not exchange money for.
 
-![watermelon plushie melonie nick ang blog](images/watermelon-plushie-melonie-nick-ang-blog.jpg) Melonie
+![watermelon plushie melonie nick ang blog](images/watermelon-plushie-melonie-nick-ang-blog.jpg) 
+_Melonie_
 
 My wife and I found this watermelon plushie sitting on the counter of a parenthood store. We're not parents but that's not the point of this post anyway.
 

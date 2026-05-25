@@ -8,7 +8,8 @@ backlinks:
     title: "From shock to love: How the closed-on-Sunday law in Germany improved my life"
 ---
 
-![san francisco bixby creek bridge nick ang](images/san-francisco-bixby-bridge-nick-ang-1024x683.jpg) Just by the Bixby Creek Bridge along the Pacific Ocean, two hours drive south of San Francisco
+![san francisco bixby creek bridge nick ang](images/san-francisco-bixby-bridge-nick-ang-1024x683.jpg) 
+_Just by the Bixby Creek Bridge along the Pacific Ocean, two hours drive south of San Francisco_
 
 Living on the 25th floor of a tall mixed-purpose building in the middle of the city is supposed to be amazing. And in many ways, it is. What I find lacking has little to do with where our building is, but what this city is.
 

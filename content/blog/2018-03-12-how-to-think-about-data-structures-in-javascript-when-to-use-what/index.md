@@ -5,7 +5,8 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![how to decide what data structure to use in javascript nickang blog](images/how-to-decide-what-data-structure-to-use-in-javascript-nickang-blog-1024x556.jpg) Photo by Beatriz Pérez Moya on Unsplash
+![how to decide what data structure to use in javascript nickang blog](images/how-to-decide-what-data-structure-to-use-in-javascript-nickang-blog-1024x556.jpg) 
+_Photo by Beatriz Pérez Moya on Unsplash_
 
 If you're just starting to learn to program, it can take a while to wrap your head around data structures like arrays and objects.
 

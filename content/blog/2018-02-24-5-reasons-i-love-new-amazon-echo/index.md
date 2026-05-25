@@ -8,7 +8,8 @@ We just got back from a trip to San Francisco. Aside from strolling along the ba
 
 These things just haven't quite made an entry yet in Singapore, so it would have been so much fun if you were there to witness my excitement. Before we left, I (of course) decided to buy one for our home. Meet our own Alexa AI, in the form of the [Amazon Echo Dot](http://amzn.to/2F57u18).
 
-![amazon echo](images/amazon-echo-nickang-blog-1024x768.jpg) That LED ring is quite mesmerising.
+![amazon echo](images/amazon-echo-nickang-blog-1024x768.jpg) 
+_That LED ring is quite mesmerising._
 
 We've only been using it for a few days and we already love it. Apart from the obvious voluntary wiretap that we've opted into, I'm thrilled as a consumer to have an actually decent AI in the house that can do (more and more) things for me. Having used it only a few days, I already know this new product category is here to stay.
 

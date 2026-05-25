@@ -22,7 +22,8 @@ Over the next few weeks I drank one sachet every few days and didn't think much 
 
 How? I made it thicker.
 
-![Our material should look good and deliver a punch at the same time](images/espresso-whip-1024x683.jpg) Our material should look good and deliver a punch at the same time
+![Our material should look good and deliver a punch at the same time](images/espresso-whip-1024x683.jpg) 
+_Our material should look good and deliver a punch at the same time_
 
 For some reason I told myself to add a lot less water this time. I think it's my mind subconsciously deciding that it'd be a good idea to get caffeine into my body in the least amount of time and reduce the yucky-ness - like I always do with medicine.
 

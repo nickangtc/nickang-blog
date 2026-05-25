@@ -4,7 +4,8 @@ date_published: "2018-04-20"
 backlinks:
 ---
 
-![](images/chalis007-189517-unsplash-1024x683.jpg) Photo by 胡 卓亨 on Unsplash
+![](images/chalis007-189517-unsplash-1024x683.jpg) 
+_Photo by 胡 卓亨 on Unsplash_
 
 > When the student is ready, the teacher will appear.
 > <cite>Tao Te Ching</cite>

@@ -4,7 +4,8 @@ date_published: "2019-05-01"
 backlinks:
 ---
 
-![what are you trying to say nick ang blog](images/what-are-you-trying-to-say-nick-ang-blog-1024x683.jpg) Photo by Thought Catalog
+![what are you trying to say nick ang blog](images/what-are-you-trying-to-say-nick-ang-blog-1024x683.jpg) 
+_Photo by Thought Catalog_
 
 I want to admit something. Half the time, I don't really know what I want to say.
 

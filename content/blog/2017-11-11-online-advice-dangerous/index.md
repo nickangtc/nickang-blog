@@ -6,7 +6,8 @@ backlinks:
     title: "How to keep things interesting in a relationship"
 ---
 
-![laptop with screen showing medium website with a lot of online advice](images/why-online-advice-is-dangerous-1024x768.jpg) Medium is becoming a major source of online advice for me and I'm getting worried
+![laptop with screen showing medium website with a lot of online advice](images/why-online-advice-is-dangerous-1024x768.jpg) 
+_Medium is becoming a major source of online advice for me and I'm getting worried_
 
 It's 8:00am in the morning on a weekday and I'm sitting in my living room mindlessly having breakfast. My attention is being given to the Medium posts appearing on my feed this morning. In this particular week, I'm occupied by thoughts about careers, so I tap into posts that discuss the topic.
 

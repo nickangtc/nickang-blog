@@ -5,7 +5,8 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![my view on changing jobs nick ang blog](images/my-view-on-changing-jobs-nick-ang-blog-1024x683.jpg) Photo by Erol Ahmed
+![my view on changing jobs nick ang blog](images/my-view-on-changing-jobs-nick-ang-blog-1024x683.jpg) 
+_Photo by Erol Ahmed_
 
 As a company grows, even if the resignation rate remains constant, the absolute number of employees who leave the company each month will grow in tandem.
 

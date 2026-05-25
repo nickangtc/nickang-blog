@@ -5,7 +5,8 @@ date_published: "2017-10-11"
 backlinks:
 ---
 
-![desert](images/mark-eder-310600-1024x683.jpg) Photo by Mark Eder on Unsplash
+![desert](images/mark-eder-310600-1024x683.jpg) 
+_Photo by Mark Eder on Unsplash_
 
 Bone dry. That's today for me.
 

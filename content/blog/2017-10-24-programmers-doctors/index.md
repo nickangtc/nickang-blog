@@ -5,7 +5,8 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![BSP programmers are like doctors nickang blog](images/BSP-programmers-are-like-doctors-nickang-blog.png) Photo by Piron Guillaume on Unsplash
+![BSP programmers are like doctors nickang blog](images/BSP-programmers-are-like-doctors-nickang-blog.png) 
+_Photo by Piron Guillaume on Unsplash_
 
 Some days at work as a programmer, I feel like a doctor trying to resuscitate software.
 

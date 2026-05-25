@@ -15,7 +15,8 @@ backlinks:
     title: "Goals for 2020"
 ---
 
-![hand reaching towards the sun in a jungle](images/aaron-blanco-tejedor-270469.jpg) Photo by Aarón Blanco Tejedor on Unsplash
+![hand reaching towards the sun in a jungle](images/aaron-blanco-tejedor-270469.jpg) 
+_Photo by Aarón Blanco Tejedor on Unsplash_
 
 A couple of weeks ago, I shared a wonderful quote with my friend Kai over a bathroom conversation:
 

@@ -4,7 +4,8 @@ date_published: "2017-11-02"
 backlinks:
 ---
 
-![tinker hatfield](images/tinker-hatfield-1.jpg) Tinker Hatfield and one of the sneakers he designed (I'd be surprised if that assumption is wrong)
+![tinker hatfield](images/tinker-hatfield-1.jpg) 
+_Tinker Hatfield and one of the sneakers he designed (I'd be surprised if that assumption is wrong)_
 
 I recently re-started to organise what my good friend Kegan and I call "docu-nights" where we watch a documentary film together at my place. There's never an awkward obligation to sit together and engage in intellectual conversations after these films, but we often wax philosophical in areas unrelated to the film anyway.
 
@@ -20,7 +21,8 @@ This post is my notes from an evening spent watching [Abstract: The Art of Desig
 
 - Knew the consequences of injury from sustaining his own major injury that thwarted him from his pole-vaulting career (but eventually led to him understanding the value of well-designed equipment)
 
-![air jordan 20 laser](images/air-jordan-20-laser-release-reminder-01.jpg) Nike Air Jordan 20 shoes to commemorate Michael Jordan's basketball career
+![air jordan 20 laser](images/air-jordan-20-laser-release-reminder-01.jpg) 
+_Nike Air Jordan 20 shoes to commemorate Michael Jordan's basketball career_
 
 **Lessons about design**
 

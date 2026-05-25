@@ -5,7 +5,8 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![buy or build nick ang](images/buy-or-build-nick-ang-1024x698.jpg) Photo by Robert Anasch
+![buy or build nick ang](images/buy-or-build-nick-ang-1024x698.jpg) 
+_Photo by Robert Anasch_
 
 As someone who understands and can write computer programs, I frequently ask, should I buy or build this thing?
 

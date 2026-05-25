@@ -23,24 +23,32 @@ On a lighter note, I just realised how angry I can sometimes get with hotel show
 
 Photos from today
 
-![home karaoke hong kong](images/DSCF7618_nickang_edited-1024x683.jpg) Karaoke at our friend Steph's beautiful home in Hong Kong
+![home karaoke hong kong](images/DSCF7618_nickang_edited-1024x683.jpg) 
+_Karaoke at our friend Steph's beautiful home in Hong Kong_
 
-![victoria harbour ](images/DSCF7611_nickang_edited-1024x683.jpg) View of Victoria Harbour from Steph's living room.
+![victoria harbour ](images/DSCF7611_nickang_edited-1024x683.jpg) 
+_View of Victoria Harbour from Steph's living room._
 
-![hong kong mtr](images/DSCF7595_nickang_edited-1024x683.jpg) Hong Kong MTR ride
+![hong kong mtr](images/DSCF7595_nickang_edited-1024x683.jpg) 
+_Hong Kong MTR ride_
 
 ![hong kong mtr escalator](images/DSCF7593_nickang_edited-1024x683.jpg)
 
-![people in white jumpsuits in a mall that look like astronauts](images/DSCF7578_nickang_edited-1024x683.jpg) Shopping mall astronauts.
+![people in white jumpsuits in a mall that look like astronauts](images/DSCF7578_nickang_edited-1024x683.jpg) 
+_Shopping mall astronauts._
 
-![greyhound cafe hong kong city plaza mall](images/DSCF7574_nickang_edited-1024x683.jpg) Interior of the Greyhound Cafe in City Plaza Mall at Taikoo.
+![greyhound cafe hong kong city plaza mall](images/DSCF7574_nickang_edited-1024x683.jpg) 
+_Interior of the Greyhound Cafe in City Plaza Mall at Taikoo._
 
-![starbucks reserve hong kong](images/DSCF7544_nickang_edited-1024x683.jpg) Starbucks 'reserve' section.
+![starbucks reserve hong kong](images/DSCF7544_nickang_edited-1024x683.jpg) 
+_Starbucks 'reserve' section._
 
 ![peekaboo](images/DSCF7457_nickang_edited-1024x683.jpg)
 
-![hide and seek](images/DSCF7451_nickang_edited-1024x683.jpg) A little hide and seek.
+![hide and seek](images/DSCF7451_nickang_edited-1024x683.jpg) 
+_A little hide and seek._
 
-![person holding camera on selfie stick facing you](images/DSCF7417_nickang_edited-1024x683.jpg) Everybody be vloggin'.
+![person holding camera on selfie stick facing you](images/DSCF7417_nickang_edited-1024x683.jpg) 
+_Everybody be vloggin'._
 
 ![kid and grandmother looking at each other playfully](images/DSCF7392_nickang_edited-1024x683.jpg)

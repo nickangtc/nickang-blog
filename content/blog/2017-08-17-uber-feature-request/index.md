@@ -6,7 +6,8 @@ backlinks:
 
 Hello imaginary Uber product manager, if I may, I have a feature requests as a frequent user of your product. This is related to safety.
 
-![man driving behind wheel](images/driving_min.jpg) _Photo by Juan Di Nella on Unsplash_
+![man driving behind wheel](images/driving_min.jpg) 
+_Photo by Juan Di Nella on Unsplash_
 
 ### Emergency red button
 

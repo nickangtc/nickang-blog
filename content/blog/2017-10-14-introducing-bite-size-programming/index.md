@@ -7,7 +7,8 @@ backlinks:
     title: "Bite Size Programming"
 ---
 
-![introducing bite size programming banner nickang blog](images/introducing-bite-size-programming-banner-nickang-blog.png) Photo by rawpixel.com on Unsplash
+![introducing bite size programming banner nickang blog](images/introducing-bite-size-programming-banner-nickang-blog.png) 
+_Photo by rawpixel.com on Unsplash_
 
 I'm really excited about setting myself a new challenge, one that I think will play nice with both the daily writing challenge and my professional work as a software engineer.
 

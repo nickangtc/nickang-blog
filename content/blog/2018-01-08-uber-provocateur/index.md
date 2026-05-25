@@ -5,7 +5,8 @@ tags: ["Business"]
 backlinks:
 ---
 
-![uber the provocateur blog post banner](images/uber-the-provocateur-blog-post-banner.png) A still from Uber's "Let's unlock cities" campaign
+![uber the provocateur blog post banner](images/uber-the-provocateur-blog-post-banner.png) 
+_A still from Uber's "Let's unlock cities" campaign_
 
 Ads before a movie screening in the cinema are like the tasty dessert before a meal. With the big screen and surround sound, ads become extra poignant. Recently there was one ad that really stood out for me - I mean, it _really_ popped out.
 

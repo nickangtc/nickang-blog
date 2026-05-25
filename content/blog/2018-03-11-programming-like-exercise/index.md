@@ -5,7 +5,8 @@ tags: ["Tech", "Personal"]
 backlinks:
 ---
 
-![exercise](images/tikkho-maciel-72251-unsplash-1024x683.jpg) Photo by Tikkho Maciel on Unsplash
+![exercise](images/tikkho-maciel-72251-unsplash-1024x683.jpg) 
+_Photo by Tikkho Maciel on Unsplash_
 
 It's been a while, but I finally managed to find a good time and the willpower to drag my ass out for a little exercise today.
 

@@ -4,7 +4,8 @@ date_published: "2018-01-20"
 backlinks:
 ---
 
-![two chefs adding final touches to plating food](images/fabrizio-magoni-219347-1024x601.jpg) Photo by Fabrizio Magoni on Unsplash
+![two chefs adding final touches to plating food](images/fabrizio-magoni-219347-1024x601.jpg) 
+_Photo by Fabrizio Magoni on Unsplash_
 
 I've been [watching](/2018-01-14-software-developers-craft/) a little too much Chef's Table recently, so I thought of doing a simplified and quick comparison between cooking and creating software on one front. Not exactly scientific, so just consider it a thought experiment.
 

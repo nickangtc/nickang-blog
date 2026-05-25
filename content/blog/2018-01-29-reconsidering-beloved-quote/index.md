@@ -24,7 +24,8 @@ _The Power Of Now_ is a brave treatise on the human condition as pitifully dicta
 
 As long as my mind is ready for it, reading the book puts me in a calm but powerful stream of consciousness. Perhaps coffee also has something to do with it. In this fleeting state of mental clarity, I'm better able to see things for what they are. In this sitting, I saw that my beloved quote--manifesto--is imperfect. I saw not just a blemish - I saw a flaw.
 
-![reading eckhart tolle the power of now with bookmark](images/20180129-IMG_20180129_094152-nickang-blog-1024x683.jpg) Reading, with my handmade bookmark with my beloved quote on the table
+![reading eckhart tolle the power of now with bookmark](images/20180129-IMG_20180129_094152-nickang-blog-1024x683.jpg) 
+_Reading, with my handmade bookmark with my beloved quote on the table_
 
 The quote essentially says that we should ensure our life is balanced so that we can, ultimately, do good work.
 

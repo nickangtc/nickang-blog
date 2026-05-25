@@ -5,7 +5,8 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![what is programming banner nickang blog](images/what-is-programming-banner-nickang-blog.png) Photo by Gilles Lambert on Unsplash
+![what is programming banner nickang blog](images/what-is-programming-banner-nickang-blog.png) 
+_Photo by Gilles Lambert on Unsplash_
 
 Let's begin this segment from the very top and ask, what is programming?
 

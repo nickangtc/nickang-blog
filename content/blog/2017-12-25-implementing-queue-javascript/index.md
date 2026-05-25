@@ -23,7 +23,8 @@ There are many uses of a queue data structure. It can be used to model an actual
 
 ### Write your own Queue class, or just use an Array?
 
-![a line of people in a queue](images/paul-dufour-86196-1024x695.jpg) Photo by Paul Dufour on Unsplash
+![a line of people in a queue](images/paul-dufour-86196-1024x695.jpg) 
+_Photo by Paul Dufour on Unsplash_
 
 Just as it is with stacks, queues can actually be simulated using the native `Array` in JavaScript. Below are the typical methods of a queue and their equivalent in `Array`:
 

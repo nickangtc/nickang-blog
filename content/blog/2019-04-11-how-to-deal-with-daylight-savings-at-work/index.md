@@ -4,7 +4,8 @@ date_published: "2019-04-11"
 backlinks:
 ---
 
-![how to deal with daylight savings at work nick ang](images/how-to-deal-with-daylight-savings-at-work-nick-ang-1024x798.jpg) Photo by Djim Loic
+![how to deal with daylight savings at work nick ang](images/how-to-deal-with-daylight-savings-at-work-nick-ang-1024x798.jpg) 
+_Photo by Djim Loic_
 
 Having been born and raised in Singapore, it took me close to 30 years to realise there was such a thing as Daylight savings. A snail under a rock is what I am.
 

@@ -6,7 +6,8 @@ backlinks:
     title: "My favourite posts from 2018"
 ---
 
-![bowl story time instagram nick ang blog](images/bowl-story-time-instagram-nick-ang-blog.jpg) The bowl that changed my perspective
+![bowl story time instagram nick ang blog](images/bowl-story-time-instagram-nick-ang-blog.jpg) 
+_The bowl that changed my perspective_
 
 I've always been sceptical of the magnitude of change that an individual's action can bring. Four years in university thinking about and grappling with environmental and social issues never managed to change my mind. I'd always kind of been a "conscious business is the only way to solve our environmental problems" kind of guy.
 

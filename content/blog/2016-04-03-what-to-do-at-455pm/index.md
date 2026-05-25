@@ -5,7 +5,8 @@ date_published: "2016-04-03"
 backlinks:
 ---
 
-![For me this is as close as it gets to holding onto time](images/time-1024x683.jpeg) For me this is as close as it gets to holding onto time
+![For me this is as close as it gets to holding onto time](images/time-1024x683.jpeg) 
+_For me this is as close as it gets to holding onto time_
 
 It's 4:55pm. I woke up at 5am today to send Mei to her freelance gig nearby and went home and slept for two more hours after, read some books and articles on the internet, met Mei for lunch after her hairstyling exam, indulgently window shopped the aisles of Marks & Spencer's food section before heading home. Then I woke from an afternoon nap by showering in cold water (leaving Mei sound asleep), and it's 4:55pm.
 

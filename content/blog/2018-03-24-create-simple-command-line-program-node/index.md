@@ -5,7 +5,8 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![bsp create command line program with node](images/bsp-create-command-line-program-with-node.png) Photo by Blake Connally on Unsplash
+![bsp create command line program with node](images/bsp-create-command-line-program-with-node.png) 
+_Photo by Blake Connally on Unsplash_
 
 I have something to admit. The first time we were introduced to Node.js at programming bootcamp, I only had a [vague idea](/2016-09-19-nodejs-server-nightmare/) of what it did.
 

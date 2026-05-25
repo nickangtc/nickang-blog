@@ -7,7 +7,8 @@ backlinks:
     title: "Software bugs and trash"
 ---
 
-![bite size programming what is a bug banner](images/BSP-what-is-a-bug-nickang-blog.png) Photo by Glen Carrie on Unsplash
+![bite size programming what is a bug banner](images/BSP-what-is-a-bug-nickang-blog.png) 
+_Photo by Glen Carrie on Unsplash_
 
 "Crap, I think there's a bug. This isn't supposed to work like that!"
 

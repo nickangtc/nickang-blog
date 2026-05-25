@@ -14,7 +14,8 @@ backlinks:
     title: "My favourite posts from 2018"
 ---
 
-![why i am going vegetarian nickang blog](images/alex-mercado-585615-unsplash-1024x683.jpg) Photo by Alex Mercado on Unsplash
+![why i am going vegetarian nickang blog](images/alex-mercado-585615-unsplash-1024x683.jpg) 
+_Photo by Alex Mercado on Unsplash_
 
 It's official. Well, sort of. I'm going vegetarian! For a month, for now. To know how I went from omnivorous all my life to seriously trying to be vegetarian, I'll have to do a bit of storytelling.
 
@@ -66,7 +67,8 @@ Being vegetarian is still a somewhat contrarian thing to do, and being anything 
 
 As our field trip in the Philippines drew to a close, something happened as if by fate to compel me to seriously think about not eating any more meat. A small truck with about 20 pigs packed into its rear drove next to our coach on the way to the Mactan-Cebu airport.
 
-![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180601_122158-1024x768.jpg) The final ride
+![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180601_122158-1024x768.jpg) 
+_The final ride_
 
 I knew it was these pigs' final ride. At that moment, all I could think of was all the pork I had eaten in the past two weeks.
 
@@ -76,7 +78,8 @@ The beautiful Finnish summer was really when the seeds of vegetarianism that wer
 
 ### The Finnish work holiday
 
-![helsinki finland boat nickang](images/helsinki-boat-nick-e1529693527704-1024x769.jpg) Island hopping in Helsinki
+![helsinki finland boat nickang](images/helsinki-boat-nick-e1529693527704-1024x769.jpg) 
+_Island hopping in Helsinki_
 
 The final act before I became a vegetarian takes place in the beautiful, understated city of Helsinki.
 

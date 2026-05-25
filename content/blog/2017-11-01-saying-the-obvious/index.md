@@ -4,7 +4,8 @@ date_published: "2017-11-01"
 backlinks:
 ---
 
-![an arrow carved into the wall pointing a direction saying the obvious ](images/hello-i-m-nik-281498-1024x686.jpg) Photo by Hello I'm Nik on Unsplash
+![an arrow carved into the wall pointing a direction saying the obvious ](images/hello-i-m-nik-281498-1024x686.jpg) 
+_Photo by Hello I'm Nik on Unsplash_
 
 It's important to say the obvious.
 

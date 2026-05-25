@@ -7,7 +7,8 @@ backlinks:
     title: "Sleep is sacred"
 ---
 
-![laptop and cup of cappuccino on wooden table](images/nolan-issac-38299-1024x683.jpg) Photo by Nolan Issac on Unsplash
+![laptop and cup of cappuccino on wooden table](images/nolan-issac-38299-1024x683.jpg) 
+_Photo by Nolan Issac on Unsplash_
 
 I turn to coffee when I'm tired and still have some time left in the day to work. But when I brew or order that cup of coffee in a situation like that, I know I'm drinking for utility, not enjoyment.
 

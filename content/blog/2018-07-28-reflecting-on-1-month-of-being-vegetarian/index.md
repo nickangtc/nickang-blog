@@ -8,7 +8,8 @@ backlinks:
     title: "My favourite posts from 2018"
 ---
 
-![being vegetarian nick ang blog](images/becoming-vegetarian-sketch.png) More or less how I feel right now
+![being vegetarian nick ang blog](images/becoming-vegetarian-sketch.png) 
+_More or less how I feel right now_
 
 It's been an interesting month of being vegetarian for the first time. I was compelled by ethics but ultimately made the leap to experimenting with vegetarianism because of its purported health benefits and the influence of a few newfound friends (colleagues) who are vegetarian (more details in [this post](/2018-06-22-why-im-going-vegetarian/)).
 

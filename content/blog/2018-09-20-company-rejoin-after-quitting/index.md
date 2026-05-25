@@ -7,7 +7,8 @@ backlinks:
     title: "My view on changing jobs"
 ---
 
-![people working laughing over laptop at cafe nick ang blog](images/helena-lopes-592971-unsplash.jpg) Not my colleagues, but this scene is totally normal in Smartly.io
+![people working laughing over laptop at cafe nick ang blog](images/helena-lopes-592971-unsplash.jpg) 
+_Not my colleagues, but this scene is totally normal in Smartly.io_
 
 I just wanted to tell the world how cool I think that is. Why would people rejoin after quitting, all things considered?
 

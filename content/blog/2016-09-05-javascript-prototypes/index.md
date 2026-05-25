@@ -7,7 +7,8 @@ backlinks:
     title: "How to implement a Linked List in JavaScript"
 ---
 
-![picture of a small tree blossoming with flowers](images/20160905-IMG_20160905_124834-1024x768.jpg) Chinatown 
+![picture of a small tree blossoming with flowers](images/20160905-IMG_20160905_124834-1024x768.jpg) 
+_Chinatown_
 
 Ever wondered why Mozilla Developer Network's documentation often include a `.prototype`, like Array.prototype.push()? I did, for a long time, and today the veil was lifted for me. It's a great concept.
 

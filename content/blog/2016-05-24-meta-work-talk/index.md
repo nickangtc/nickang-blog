@@ -5,7 +5,8 @@ date_published: "2016-05-24"
 backlinks:
 ---
 
-![man working with his hands](images/man-craftsman-1024x683.jpeg) Image: [Eddie Klaus](https://unsplash.com/@eduardo_mekmuffin)
+![man working with his hands](images/man-craftsman-1024x683.jpeg) 
+_Image: [Eddie Klaus](https://unsplash.com/@eduardo_mekmuffin)_
 
 I've been thinking lately about talking about work. It's something young people fresh out of college naturally pick up, but it can be kind of problematic.
 

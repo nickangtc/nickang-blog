@@ -5,7 +5,8 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![two people in boots standing with sand suspended around their feet](images/gili-benita-2776-1024x682.jpg) Photo by Gili Benita on Unsplash
+![two people in boots standing with sand suspended around their feet](images/gili-benita-2776-1024x682.jpg) 
+_Photo by Gili Benita on Unsplash_
 
 Today I heard a hilarious way of benchmarking one's noob-ness in the tech industry as a developer. It was a passing comment by my friend Terence over a beer this lovely evening when we were talking about our fledgling careers in tech.
 

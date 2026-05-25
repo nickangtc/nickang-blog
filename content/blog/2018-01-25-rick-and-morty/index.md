@@ -4,7 +4,8 @@ date_published: "2018-01-25"
 backlinks:
 ---
 
-![rick and morty](images/rick-and-morty.png) Why the heck is Rick's skin gray?
+![rick and morty](images/rick-and-morty.png) 
+_Why the heck is Rick's skin gray?_
 
 Rick and Morty is such a endearingly weird show that I feel that I need to address it in a blog post. It's so odd that I must have went "Hahah, what the fuck?" about 10 times before the end of episode one.
 

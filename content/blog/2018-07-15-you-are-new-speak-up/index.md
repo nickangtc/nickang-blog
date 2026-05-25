@@ -7,7 +7,8 @@ backlinks:
     title: "I work in a company where people rejoin after quitting"
 ---
 
-![speak up nick ang blog](images/bruno-cervera-408707-unsplash-1024x684.jpg) Photo by BRUNO CERVERA on Unsplash
+![speak up nick ang blog](images/bruno-cervera-408707-unsplash-1024x684.jpg) 
+_Photo by BRUNO CERVERA on Unsplash_
 
 A CEO, who is also a founder, gathers all new employees in a room during onboarding week and tells them this:
 

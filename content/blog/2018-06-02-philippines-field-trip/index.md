@@ -8,7 +8,8 @@ backlinks:
     title: "My favourite posts from 2018"
 ---
 
-![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180523_074422_Fotor-1024x431.jpg) Students of NUS BES in the lobby of Dao Diamond Hotel
+![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180523_074422_Fotor-1024x431.jpg) 
+_Students of NUS BES in the lobby of Dao Diamond Hotel_
 
 I was in Bohol, Philippines as part of an overseas field trip at NUS involving 54 students from the Bachelor of Environmental Studies (BES) program from 17 May to 1 June 2018. I was there in an official capacity as a teaching assistant (TA), but deep down, I was really a student.
 
@@ -64,16 +65,23 @@ Tomorrow, I'll be flying to Helsinki, Finland, where the company is headquartere
 
 ### Photos from the trip
 
-![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180601_122158-1024x768.jpg) Most likely on their final ride...
+![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180601_122158-1024x768.jpg) 
+_Most likely on their final ride..._
 
-![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180531_140108-1024x768.jpg) Filipino tricycle! Complete with a driver who clutches change between his fingers. Classic.
+![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180531_140108-1024x768.jpg) 
+_Filipino tricycle! Complete with a driver who clutches change between his fingers. Classic._
 
-![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180525_151201-1024x768.jpg) Doing a forest survey
+![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180525_151201-1024x768.jpg) 
+_Doing a forest survey_
 
-![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180525_121116-1024x768.jpg) We transplanted the "wildlings" that we uprooted from the Raja Sikatuna watershed to the nursery at Bohol Biodiversity Complex
+![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180525_121116-1024x768.jpg) 
+_We transplanted the "wildlings" that we uprooted from the Raja Sikatuna watershed to the nursery at Bohol Biodiversity Complex_
 
-![bohol biodiversity complex philippines NUS BES field trip](images/IMG_20180524_202905-1024x768.jpg) Dr Joanna Coleman in her element picking parasites off a bat
+![bohol biodiversity complex philippines NUS BES field trip](images/IMG_20180524_202905-1024x768.jpg) 
+_Dr Joanna Coleman in her element picking parasites off a bat_
 
-![bohol biodiversity complex philippines NUS BES field trip](images/IMG_20180524_181153-1024x768.jpg) Me, enjoying the sunset at the Bohol Biodiversity Complex
+![bohol biodiversity complex philippines NUS BES field trip](images/IMG_20180524_181153-1024x768.jpg) 
+_Me, enjoying the sunset at the Bohol Biodiversity Complex_
 
-![bohol man made forest philippines NUS BES field trip](images/IMG_20180522_162341-1024x768.jpg) Bohol man-made forest
+![bohol man made forest philippines NUS BES field trip](images/IMG_20180522_162341-1024x768.jpg) 
+_Bohol man-made forest_

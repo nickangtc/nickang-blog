@@ -25,7 +25,8 @@ backlinks:
     title: "My 2025 Annual Review"
 ---
 
-![moleskine notebook on a table](images/20171216-notebook-nickang-blog-768x1024.jpg) The Moleskine notebook I used every step of the way in 2017
+![moleskine notebook on a table](images/20171216-notebook-nickang-blog-768x1024.jpg)
+_The Moleskine notebook I used every step of the way in 2017_
 
 I'm not doing this for the sake of tradition or anything like that. Instead, I'd just like to make use of the pensiveness that comes for free at the end of the year to do some visualisation of what the new year is going to be like for me, my wife, and my dog.
 
@@ -33,7 +34,8 @@ You can find my reviews from other years here: [2018](/annual-review-2018/), [20
 
 ### Resolution 1: Get outta here
 
-![pacific coast highway road with forest](images/pacific-coast-highway-road-with-forest-1024x683.jpg) Photo by Lou Levit on Unsplash
+![pacific coast highway road with forest](images/pacific-coast-highway-road-with-forest-1024x683.jpg)
+_Photo by Lou Levit on Unsplash_
 
 I resolve to **relocate to California for work with my wife (and our dog)**. We have both always wanted to live abroad for an extended period (ie. more than 1-2 months), and I believe this is the time to do it.
 
@@ -52,7 +54,8 @@ I would consider myself as having fulfilled this resolution if:
 
 ### Resolution 2: Develop one meta super-skill
 
-![guy writing on a book by the street side](images/brad-neathery-258926-1024x768.jpg) Photo by Brad Neathery on Unsplash
+![guy writing on a book by the street side](images/brad-neathery-258926-1024x768.jpg)
+_Photo by Brad Neathery on Unsplash_
 
 I resolve to develop one meta super-skill this year. There are innumerable articles out there (even just from [Medium](https://medium.com)) with headlines like "The 7 skills that super successful people have" (most of them insufferably hollow), but I'd like to separate the wheat from the chaff and bake one of them into my lifestyle.
 
@@ -79,7 +82,8 @@ I would consider myself as having fulfilled this resolution if:
 
 ### Resolution 3: Find a go-to physical activity for exercise
 
-![two guys brisk walking up a rocky path](images/david-marcu-69433-1024x680.jpg) Photo by David Marcu on Unsplash
+![two guys brisk walking up a rocky path](images/david-marcu-69433-1024x680.jpg)
+_Photo by David Marcu on Unsplash_
 
 I resolve to, by the end of 2018, **have a go-to sport or any sort of physical activity that can be considered exercise**.
 
@@ -98,7 +102,8 @@ I would consider myself as having fulfilled this resolution if:
 
 ### Resolution 4: Publish 5 posts every week
 
-![laptop notepad and coffee on a table](images/andrew-neel-308138-1024x683.jpg) Photo by Andrew Neel on Unsplash
+![laptop notepad and coffee on a table](images/andrew-neel-308138-1024x683.jpg)
+_Photo by Andrew Neel on Unsplash_
 
 I resolve to **writing and publishing a post for at least 260 days this year**. This number comes from multiplying 5 by the number of weeks in a year, so I'm effectively resolving to publish, on average, 5 posts per week for the entire year.
 

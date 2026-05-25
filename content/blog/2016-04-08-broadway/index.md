@@ -5,7 +5,8 @@ date_published: "2016-04-08"
 backlinks:
 ---
 
-![Every train has a thunderous arrival in NYC](images/DSCF6992_edited-1.jpg) Every train has a thunderous arrival in NYC
+![Every train has a thunderous arrival in NYC](images/DSCF6992_edited-1.jpg) 
+_Every train has a thunderous arrival in NYC_
 
 A train in New York City's subway first sputters before growing into a series of clanging as the old train grates the tracks that are more than a century old.
 
@@ -13,7 +14,8 @@ A train in New York City's subway first sputters before growing into a series of
 
 Case in point: I'm someone who gets easily nauseated on moving vehicles and I don't get light-headed while reading on a train in Singapore; there's no doubt that I do in New York. Ask the person who sat next to me today.
 
-![Times Square and a little weirdness from that naked Cowboy Oysters guy](images/DSCF7125_edited-1.jpg) Times Square and a little weirdness from that naked Cowboy Oysters guy
+![Times Square and a little weirdness from that naked Cowboy Oysters guy](images/DSCF7125_edited-1.jpg) 
+_Times Square and a little weirdness from that naked Cowboy Oysters guy_
 
 ## Broadway
 
@@ -27,7 +29,8 @@ After flattening our butts on the metal-grill chairs in the middle of Times Squa
 
 It's a list of Broadway shows, some at 50% off!
 
-![tkts I suppose means tickets](images/DSCF7141_edited-1.jpg) tkts I suppose means tickets
+![tkts I suppose means tickets](images/DSCF7141_edited-1.jpg) 
+_tkts I suppose means tickets_
 
 Tkts is apparently an initiative by the Theatre Development Fund, which I imagine is a non-governmental organisation, maybe even a non-profit with the self-understood aim of developing theatre in New York City. Even though Broadway is Broadway, there has to be unsold tickets, which I suppose could be let off cheap?
 
@@ -45,9 +48,11 @@ I did try thinking of hacks to catch an act cheap, but we've only got one day le
 
 We'll return a few years from now and if there's little reason to pinch pennies then, we'll catch a couple.
 
-![A guy whose shoes must be shined... Wall Street!](images/DSCF6957_edited-1.jpg) A guy whose shoes must be shined... Wall Street!
+![A guy whose shoes must be shined... Wall Street!](images/DSCF6957_edited-1.jpg) 
+_A guy whose shoes must be shined... Wall Street!_
 
-![The NYSE](images/DSCF6968_edited-1.jpg) The NYSE
+![The NYSE](images/DSCF6968_edited-1.jpg) 
+_The NYSE_
 
 ![wall street chef](images/DSCF6973_edited-1.jpg)
 
@@ -59,15 +64,20 @@ Some other things I thought about:
 
 **Some other photos**:
 
-![chrysler building](images/DSCF7018_edited-1.jpg) The Chrysler Building - I think this looks better than the Empire State
+![chrysler building](images/DSCF7018_edited-1.jpg) 
+_The Chrysler Building - I think this looks better than the Empire State_
 
-![Grand Central Terminal, a herculean beauty](images/DSCF7003_edited-1.jpg) Grand Central Terminal, a herculean beauty
+![Grand Central Terminal, a herculean beauty](images/DSCF7003_edited-1.jpg) 
+_Grand Central Terminal, a herculean beauty_
 
-![police NYPD NYC](images/DSCF7064_edited-1.jpg) Police raiding a car in Broadway. I bet brutality is on everyone's mind as they watched
+![police NYPD NYC](images/DSCF7064_edited-1.jpg) 
+_Police raiding a car in Broadway. I bet brutality is on everyone's mind as they watched_
 
-![DSCF7045_edited](images/DSCF7045_edited-1.jpg) In the New York Public Library
+![DSCF7045_edited](images/DSCF7045_edited-1.jpg) 
+_In the New York Public Library_
 
-![subway ride NYC](images/DSCF7151_edited-1.jpg) Typical of a subway ride in NYC - everyone's tired
+![subway ride NYC](images/DSCF7151_edited-1.jpg) 
+_Typical of a subway ride in NYC - everyone's tired_
 
 ![DSCF6952_edited](images/DSCF6952_edited-1.jpg)
 

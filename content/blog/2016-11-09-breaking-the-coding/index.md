@@ -9,7 +9,8 @@ Coding feels like a chore today.
 
 It took me a while to even entertain the idea that I might be experiencing coding fatigue. To be honest, this admission feels like defeat.
 
-![my github contributions grid](images/github-contributions.png) My GitHub contribution grid is lighting green recently
+![my github contributions grid](images/github-contributions.png) 
+_My GitHub contribution grid is lighting green recently_
 
 I've been writing code every day--JavaScript and Ruby, I'm looking at you--for the past 3 months and I think it's time to take a short break. Actually, more like I feel the need to break away from the colourful text on black.
 

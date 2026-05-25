@@ -4,7 +4,8 @@ date_published: "2018-02-13"
 backlinks:
 ---
 
-![sunset glowing horizon nickang blog](images/20180212-IMG_20180212_174838-nickang-blog-1024x768.jpg) Somewhere in Oakland along Market Street.
+![sunset glowing horizon nickang blog](images/20180212-IMG_20180212_174838-nickang-blog-1024x768.jpg) 
+_Somewhere in Oakland along Market Street._
 
 I'm currently in the San Francisco Bay Area for a short vacation. It's been a fun trip so far and it's also quite fruitful as I'm meeting friends who are based here who are mostly working in tech.
 

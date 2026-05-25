@@ -16,7 +16,8 @@ In this short post, I'll demystify the process to squash git commits from the co
 
 Note before proceeding: I use Terminal on a Mac and the commands below are based on that.
 
-![shirtless boy hugging a ball trying to squash it](images/vance-osterhout-129608.jpg) Photo by Vance Osterhout on Unsplash
+![shirtless boy hugging a ball trying to squash it](images/vance-osterhout-129608.jpg) 
+_Photo by Vance Osterhout on Unsplash_
 
 ### Why bother to squash git commits?
 

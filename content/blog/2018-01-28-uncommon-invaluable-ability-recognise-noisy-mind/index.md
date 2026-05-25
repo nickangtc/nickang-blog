@@ -6,7 +6,8 @@ backlinks:
     title: "My favourite posts from 2018"
 ---
 
-![water droplet noisy mind metaphor](images/levi-xu-125529-1024x683.jpg) Photo by Levi XU on Unsplash
+![water droplet noisy mind metaphor](images/levi-xu-125529-1024x683.jpg) 
+_Photo by Levi XU on Unsplash_
 
 One of the biggest benefits I've personally gotten from meditating daily is the invaluable ability to recognise when my mind is noisy.
 

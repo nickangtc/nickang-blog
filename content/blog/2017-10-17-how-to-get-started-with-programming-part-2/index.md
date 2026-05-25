@@ -9,7 +9,8 @@ backlinks:
     title: "The best approach to start learning to code"
 ---
 
-![how to get started with programming banner nickang blog](images/how-to-get-started-with-programming-banner-nickang-blog.png) Photo by Joshua Sortino on Unsplash
+![how to get started with programming banner nickang blog](images/how-to-get-started-with-programming-banner-nickang-blog.png) 
+_Photo by Joshua Sortino on Unsplash_
 
 Hello internet!
 

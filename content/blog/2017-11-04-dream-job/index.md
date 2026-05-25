@@ -6,7 +6,8 @@ backlinks:
     title: "Get out of your own head"
 ---
 
-![dream job depicted by a laptop with a code editor open](images/dream-job-1024x682.jpg) Photo by Christopher Gower on Unsplash
+![dream job depicted by a laptop with a code editor open](images/dream-job-1024x682.jpg) 
+_Photo by Christopher Gower on Unsplash_
 
 Now that we're coming close to the end of 2017, I've been thinking about my career and careers in general. Having begun my career as a software engineer about a year ago, I thought it'd be timely and useful to do some reflection.
 
@@ -56,7 +57,8 @@ These two points culminate into one great piece of advice that I stand behind wh
 
 Here's a graph that can help you wrap your head around the point about how challenge at work can ultimately lead to less stress.
 
-![challenge graph plotting demand against ability to do a job](images/80K_challengegraph_V1.png) Credit to 80000hours.org
+![challenge graph plotting demand against ability to do a job](images/80K_challengegraph_V1.png) 
+_Credit to 80000hours.org_
 
 The graph depicts the sweet spot between a job's demands and your ability to do the job. You should strive to be in that sweet spot at every job.
 
@@ -68,7 +70,8 @@ But if you occupy the sweet spot at your job where your accumulated experience a
 
 Of course, there are other variables that affect how you're most likely to respond to the demands of a job. But I would pay most attention to getting good (and better and better) at doing the job itself because it's an intrinsic and tangible thing that you can carry with you everywhere to any similar job.
 
-![table showing the major variables that affect the outcome of a demanding job](images/Screen-Shot-2017-11-05-at-12.46.29-PM.png) Credit: 80000hours.org
+![table showing the major variables that affect the outcome of a demanding job](images/Screen-Shot-2017-11-05-at-12.46.29-PM.png) 
+_Credit: 80000hours.org_
 
 ## Work that helps others
 

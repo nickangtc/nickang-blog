@@ -45,6 +45,8 @@
     "backlinks": "node scripts/generate-backlinks.js",
     "images:normalize-orientation": "node scripts/normalize-image-orientation.js",
     "images:normalize-orientation:fix": "node scripts/normalize-image-orientation.js --fix",
+    "content:audit-image-captions": "node scripts/audit-image-captions.js",
+    "content:fix-image-captions": "node scripts/audit-image-captions.js --fix",
     "internal-links": "node scripts/auto-internal-links.js",
     "setup-hooks": "git config core.hooksPath .githooks",
     "prepare": "git config core.hooksPath .githooks"

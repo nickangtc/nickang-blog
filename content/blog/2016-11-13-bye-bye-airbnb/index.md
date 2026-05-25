@@ -10,7 +10,8 @@ We had a good thing going, my wife and I, renting out our spare bedroom to guest
 
 Guests gave us 5 star reviews almost all the time and said many good things when they didn't have to. Here's a secret - it wasn't that difficult becoming Superhosts. All you need to do is say hi and mean it, show your guests their room for the next couple of days and the facilities at home they can and shouldn't use, point out that you've prepared a purple folder that tells them all the things they need to know to understand what Singapore stands for and how to navigate the landscape. Most tourists haven't experienced such personalised hospitality before, especially not in Singapore, and I'd chalk our good reviews to that.
 
-![nick airbnb singapore listing](images/airbnb-singapore-listing-1024x725.png) Our listing on Airbnb - I think we were decent hosts 
+![nick airbnb singapore listing](images/airbnb-singapore-listing-1024x725.png) 
+_Our listing on Airbnb - I think we were decent hosts_
 
 The guests who hailed from USA, UK, Brazil, Denmark, Taiwan, Philippines, Hong Kong, Malaysia, Indonesia, China, Australia, New Zealand... they continued to surprise us as they were mostly gracious guests. Some were actually so nice that we remain friends till this day, like Sherry and Keng in New York, and Wan Ting and Kiki from Hong Kong. It was an amicable enterprise between us and the tourists here to have a good time while having an authentic Singaporean home to stay in. That is, while it lasted.
 

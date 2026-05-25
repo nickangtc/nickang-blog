@@ -15,7 +15,8 @@ Our friend Dai Nan came to receive us at South Station. I have to admit, it's am
 
 He's in Boston University doing his masters in education and offered to put us up for the three days we'll be staying here, for free, in his college dorm. (Thanks Dai Nan!) I predict we'll deplete some of his food stashes while we're here since its so freaking cold outside.
 
-![Harvard Yard](images/DSCF7338-1024x683.jpg) Harvard Yard
+![Harvard Yard](images/DSCF7338-1024x683.jpg) 
+_Harvard Yard_
 
 ## A Walk Through Harvard University
 
@@ -34,7 +35,8 @@ But I'll state two facts I learned on the tour:
 - More than a handful of Harvard's yearly intake of students consist of those whose parents also went to Harvard.
 - Apparently there are about 12 invitation-only clubs that against the wishes of the administration, and these clubs have millions of dollars in assets.
 
-![Dim sum in Boston](images/DSCF7374_edited-1024x683.jpg) Dim sum in Boston Chinatown
+![Dim sum in Boston](images/DSCF7374_edited-1024x683.jpg) 
+_Dim sum in Boston Chinatown_
 
 ## Tipping: The Most Unbearable Thing In American Culture
 
@@ -49,7 +51,8 @@ These are my top reasons for hating the American tipping culture. And no, I fran
 
 /end rant
 
-![On a laundry run with our Airbnb host, Ariell, in Brooklyn](images/DSCF7297_edited-1024x683.jpg) On a laundry run with our Airbnb host, Ariell, in Brooklyn
+![On a laundry run with our Airbnb host, Ariell, in Brooklyn](images/DSCF7297_edited-1024x683.jpg) 
+_On a laundry run with our Airbnb host, Ariell, in Brooklyn_
 
 ## Sounds of New York City
 
@@ -71,23 +74,32 @@ Boston 'T' train (their subway):
 
 ## Interesting Sights in Boston:
 
-![boston police harleys](images/DSCF7563_edited-1024x683.jpg) Boston Policemen have badass rides
+![boston police harleys](images/DSCF7563_edited-1024x683.jpg) 
+_Boston Policemen have badass rides_
 
-![squirrels in boston common](images/DSCF7430_edited-1024x683.jpg) Shameless American squirrels
+![squirrels in boston common](images/DSCF7430_edited-1024x683.jpg) 
+_Shameless American squirrels_
 
-![squirrel in a bin](images/DSCF7435_edited-683x1024.jpg) A squirrel's gotta do what a squirrel's gotta do (to eat)
+![squirrel in a bin](images/DSCF7435_edited-683x1024.jpg) 
+_A squirrel's gotta do what a squirrel's gotta do (to eat)_
 
-![swan lake boston public garden](images/DSCF7457_edited-1024x678.jpg) Swan Lake in Boston's Public Garden, established in 1873
+![swan lake boston public garden](images/DSCF7457_edited-1024x678.jpg) 
+_Swan Lake in Boston's Public Garden, established in 1873_
 
-![swan lake](images/DSCF7467_edited-1024x683.jpg) Contemplating in Boston Public Garden
+![swan lake](images/DSCF7467_edited-1024x683.jpg) 
+_Contemplating in Boston Public Garden_
 
-![spring flowers in boston](images/DSCF7477_edited-1024x683.jpg) Signs of Spring in zero degree celsius
+![spring flowers in boston](images/DSCF7477_edited-1024x683.jpg) 
+_Signs of Spring in zero degree celsius_
 
-![boston common](images/DSCF7502_edited-1024x683.jpg) Boston Common, established in 1634 - that's 140 years before US independence!
+![boston common](images/DSCF7502_edited-1024x683.jpg) 
+_Boston Common, established in 1634 - that's 140 years before US independence!_
 
-![Downtown crossing](images/DSCF7519_edited-1024x683.jpg) The happening Downtown Crossing in downtown Boston
+![Downtown crossing](images/DSCF7519_edited-1024x683.jpg) 
+_The happening Downtown Crossing in downtown Boston_
 
-![DSCF7546_edited](images/DSCF7546_edited-683x1024.jpg) Near Chinatown - looks straight out of a romance movie scene
+![DSCF7546_edited](images/DSCF7546_edited-683x1024.jpg) 
+_Near Chinatown - looks straight out of a romance movie scene_
 
 ![DSCF7409_edited](images/DSCF7409_edited-1024x683.jpg)
 

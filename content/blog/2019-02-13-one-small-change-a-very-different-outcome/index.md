@@ -5,7 +5,8 @@ tags: ["Leadership"]
 backlinks:
 ---
 
-![small change nick ang blog](images/small-change-nick-ang-blog-1024x683.jpg) Photo by SpaceX
+![small change nick ang blog](images/small-change-nick-ang-blog-1024x683.jpg) 
+_Photo by SpaceX_
 
 I recently heard an analogy of a pilot who, before takeoff, turned the nose of his plane one degree to the left. At the destination airport, confused passengers alighted in an airport in Washington state instead of New York.
 

@@ -5,7 +5,8 @@ date_published: "2016-04-23"
 backlinks:
 ---
 
-![Bisons sharing the road with us](images/DSCF8611_edited-1024x683.jpg) Bisons sharing the road with us
+![Bisons sharing the road with us](images/DSCF8611_edited-1024x683.jpg) 
+_Bisons sharing the road with us_
 
 **_9:10pm, 22 April 2016 in Stage Coach Inn, West Yellowstone, Montana_**
 
@@ -21,6 +22,8 @@ For a nature lover, I'm surprised that I didn't fall from a head-swooning experi
 
 Tomorrow we'll carry on exploring [Yellowstone Park](https://www.nps.gov/yell/index.htm) by car and maybe hike a bit. Entry remains free for the week since it's [National Parks Week](https://www.nps.gov/findapark/national-park-week.htm) and the National Park Service's centennial celebrations. I wonder how many people went to both Yosemite and Yellowstone in the week like we did. Going now would save upwards of USD $50 so I'm confident we're not the only ones…
 
-![Trying to sneak a snowball attack on Mei ](images/DSCF8687_edited-1024x683.jpg) Trying to sneak a snowball attack on Mei
+![Trying to sneak a snowball attack on Mei ](images/DSCF8687_edited-1024x683.jpg) 
+_Trying to sneak a snowball attack on Mei_
 
-![One of the surreal landscapes in Mammoth Hot Springs, Yellowstone](images/DSCF8751_edited-1024x683.jpg) One of the surreal landscapes in Mammoth Hot Springs, Yellowstone
+![One of the surreal landscapes in Mammoth Hot Springs, Yellowstone](images/DSCF8751_edited-1024x683.jpg) 
+_One of the surreal landscapes in Mammoth Hot Springs, Yellowstone_

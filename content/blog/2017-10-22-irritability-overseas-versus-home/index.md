@@ -5,7 +5,8 @@ date_published: "2017-10-22"
 backlinks:
 ---
 
-![singapore roads viewed from overhead bridge](images/IMG_20171021_173405-1024x768.jpg) At Beach Road in Singapore
+![singapore roads viewed from overhead bridge](images/IMG_20171021_173405-1024x768.jpg) 
+_At Beach Road in Singapore_
 
 We recently went to Bali again. It was our 6th trip there this time. I guess you could say we're a little obsessed with the place.
 

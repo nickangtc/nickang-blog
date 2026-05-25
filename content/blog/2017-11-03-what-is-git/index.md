@@ -9,7 +9,8 @@ backlinks:
     title: "Bite Size Programming"
 ---
 
-![what is git banner showing many lines and nodes intersecting](images/BSP-what-is-git.png) Photo by William Bout on Unsplash
+![what is git banner showing many lines and nodes intersecting](images/BSP-what-is-git.png) 
+_Photo by William Bout on Unsplash_
 
 What's this weird sounding thing called Git? Is it Git or just git? What does it do, who uses it, and is it actually useful? In this post, you'll learn all you need to know about git (yes, it's just _git_!).
 

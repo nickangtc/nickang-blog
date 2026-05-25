@@ -8,8 +8,8 @@ backlinks:
     title: "Why I'm going vegetarian"
 ---
 
-![vegan patty grill next to actual meat steaks](images/vegan-patty-grill.jpg)
-The perfectly round and red patties are vegan "meat" patties, sitting next to two real meat patties on our friends' grill in Berlin.
+![vegan patty grill next to actual meat steaks](images/vegan-patty-grill.jpg) 
+_The perfectly round and red patties are vegan "meat" patties, sitting next to two real meat patties on our friends' grill in Berlin._
 
 Hi, I am Nick and I am a "flexitarian". In short, that means I am mostly a vegetarian but occasionally I bend the rules that I impose on myself and eat meat. In this article I'll share why I am an unapologetic flexitarian.
 

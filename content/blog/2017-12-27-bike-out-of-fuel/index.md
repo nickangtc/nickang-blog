@@ -5,7 +5,8 @@ date_published: "2017-12-27"
 backlinks:
 ---
 
-![bike motorcycle](images/les-anderson-207334-1024x683.jpg) Photo by Les Anderson
+![bike motorcycle](images/les-anderson-207334-1024x683.jpg) 
+_Photo by Les Anderson_
 
 Hello, friend. If you're here for an actual guide on what to do when your bike runs out of fuel, skip ahead to the "What to do when your bike runs out of fuel" section below. I'll be recounting my own experience today first in the proceeding section.
 
@@ -49,7 +50,8 @@ As you pay the attendant for the tin can, ask nicely whether they have a funnel 
 
 Pouring fuel into a motorcycle or car without a funnel is like trying to drink water without touching the lip of a bottle and without tilting your head backwards. You'll transfer 5% of the contents and create a mess with the remaining 95%.
 
-![](images/bike-fuel-tin-can-1024x768.jpg) A 5L can of petrol and a homemade funnel from the attendant
+![](images/bike-fuel-tin-can-1024x768.jpg) 
+_A 5L can of petrol and a homemade funnel from the attendant_
 
 If the folks at the petrol station don't have a handmade funnel to spare, consider making one yourself. Buy a 1L plastic bottle of water, drink up, and borrow scissors to cut out its upper half. Voila, a hand-crafted funnel!
 
@@ -63,7 +65,8 @@ Try not to spill fuel in your driver's car. And prepare to explain why you're ca
 
 This step is much easier for a bike than a car because the inlet to the fuel tank of many bikes faces the sky. Free gravity assist.
 
-![spillage onto the tank of motorcycle when transferring fuel](images/bike-transfer-fuel-funnel-1024x768.jpg) Get ready, things may get a bit messy even with a funnel
+![spillage onto the tank of motorcycle when transferring fuel](images/bike-transfer-fuel-funnel-1024x768.jpg) 
+_Get ready, things may get a bit messy even with a funnel_
 
 ### 8\. Top up to full
 

@@ -10,7 +10,8 @@ backlinks:
     title: "How to implement an LRU cache in JavaScript"
 ---
 
-![implement linked list in javascript banner nickang](images/BSP-implement-linked-list-in-javascript.png) Photo by LinkedIn Sales Navigator on Unsplash
+![implement linked list in javascript banner nickang](images/BSP-implement-linked-list-in-javascript.png) 
+_Photo by LinkedIn Sales Navigator on Unsplash_
 
 In this post, you'll learn how to implement a linked list in JavaScript. This is the second part of a 2-parter post on linked lists (read [part 1](/2017-11-17-linked-list-explained-part-1/)).
 
@@ -26,7 +27,8 @@ Here are the key components of a linked list data structure:
 
 This is what a linked list looks like conceptually:
 
-![doubly linked list illustration with nodes head and tail](images/linked-list-head-and-tail-and-nodes-1024x388.png) Conceptual illustration of what a linked list looks like
+![doubly linked list illustration with nodes head and tail](images/linked-list-head-and-tail-and-nodes-1024x388.png) 
+_Conceptual illustration of what a linked list looks like_
 
 To get started, we need to declare two constructor functions (or "classes" if you're using ES6). One constructor is for constructing new linked list objects and the other is for constructing new node objects.
 
@@ -74,7 +76,8 @@ What's happening here?
 
 One more point to take note of is what happens if there is only one node in the linked list. When that happens, both the `head` and `tail` should point to the same node.
 
-![linked list illustration of node combinations nickang](images/linked-list-head-tail-combinations-1024x350.png) Head and tail pointers of a linked list with no node, one node, and multiple nodes respectively
+![linked list illustration of node combinations nickang](images/linked-list-head-tail-combinations-1024x350.png) 
+_Head and tail pointers of a linked list with no node, one node, and multiple nodes respectively_
 
 ### Method to add a new node to the tail
 

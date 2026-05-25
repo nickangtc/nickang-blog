@@ -9,7 +9,8 @@ To juxtapose elements in a scene against others is to pick on contrasts. In Duxt
 
 When we get into the frame of mind of juxtaposition, contrasts are highlighted in our minds, and we marvel at how things came to be. Today, as I rode down the gentrified Keong Saik Road in Duxton, it dawned on me that Singapore underwent some dramatic transformation since independence 50 years ago.
 
-![keong saik road singapore](images/20160823-DSCF8185-1024x683.jpg) Keong Saik Road, Singapore
+![keong saik road singapore](images/20160823-DSCF8185-1024x683.jpg) 
+_Keong Saik Road, Singapore_
 
 Perhaps our government planners decided it would create just this effect of juxtaposition that they splurged on the mega Housing Development Board project The Pinnacles @ Duxton. It worked on me!
 

@@ -5,7 +5,8 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![cs vs non cs software engineers nickang blog post banner](images/BSP-cs-vs-non-cs-software-engineers.png) Photo by Alexis Brown on Unsplash
+![cs vs non cs software engineers nickang blog post banner](images/BSP-cs-vs-non-cs-software-engineers.png) 
+_Photo by Alexis Brown on Unsplash_
 
 From what I can tell so far, software engineers who didn't graduate from a Computer Science (CS) degree program quite often have an inferiority complex.
 

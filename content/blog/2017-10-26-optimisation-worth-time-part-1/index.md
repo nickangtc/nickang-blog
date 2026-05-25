@@ -5,7 +5,8 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![lone tree optimisation worth it](images/BSP-optimisation-worth-it-part-1.png) Photo by Todd Quackenbush on Unsplash
+![lone tree optimisation worth it](images/BSP-optimisation-worth-it-part-1.png) 
+_Photo by Todd Quackenbush on Unsplash_
 
 Let's say you have a routine task (it doesn't have to be a programming task, but that's what your mind is almost always on, right?). We can call it Task A.
 

@@ -17,7 +17,8 @@ I'll take this chance to clarify what a stack is, in case you don't already know
 
 In computer science, a **stack** is a data structure that mimics... well, a stack! Of 10 articles on the internet about stacks, 9 would ask you to imagine a **stack of plates** in a cafe. So, just imagine a bunch of plates stacked up, one on top of another. Or if you're hungry... a tall stack of pancakes.
 
-![stack of pancakes metaphor for javascript stack data structure](images/ornella-binni-151618-e1514134636528-1024x849.jpg) Thank you ORNELLA BINNI for this tasty photo (on Unsplash)
+![stack of pancakes metaphor for javascript stack data structure](images/ornella-binni-151618-e1514134636528-1024x849.jpg) 
+_Thank you ORNELLA BINNI for this tasty photo (on Unsplash)_
 
 The `push()` method is the act of adding something onto the top of a stack, like adding the 3rd plate on top of an existing stack of 2 plates.
 

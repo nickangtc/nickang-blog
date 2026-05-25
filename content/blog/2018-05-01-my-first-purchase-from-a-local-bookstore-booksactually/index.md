@@ -5,7 +5,8 @@ date_published: "2018-05-01"
 backlinks:
 ---
 
-![have phone will sketch book nickang blog](images/Have_Phone_Will_Paint-nickang-sketch.png) After hesitating a bit, I decided to pay for my first book by a local artist
+![have phone will sketch book nickang blog](images/Have_Phone_Will_Paint-nickang-sketch.png) 
+_After hesitating a bit, I decided to pay for my first book by a local artist_
 
 I was in one of the most hipster (and gentrified) towns in Singapore--Tiong Bahru--with my friend Kegan today. After a good meal at Forty Hands cafe where we discussed workplace culture, whether an iPad Pro was a proper computer, and how great it is that they named _Kong Bak Pao (Asian Sliders)_ instead of the other way around on their menu, we walked across the street into a local bookstore.
 

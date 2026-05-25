@@ -4,7 +4,8 @@ date_published: "2016-10-01"
 backlinks:
 ---
 
-![flowering plants in the balcony](images/IMG_20161001_172942-1024x834.jpg) The world's first 3 plants under my care
+![flowering plants in the balcony](images/IMG_20161001_172942-1024x834.jpg) 
+_The world's first 3 plants under my care_
 
 I used to fake a frown to look like I was thinking. You know, so I'd look just like an adult, always lost in deep thought, supposedly pondering over matters of importance. Nowadays I frown often and uncontrollably and I find it hard to snap out of it and breathe for a second. Guess I'm an adult now.
 

@@ -7,7 +7,8 @@ backlinks:
     title: "Free time default activity"
 ---
 
-![sleep is sacred nickang blog](images/natalia-figueredo-350529-1024x684.jpg) Photo by Natalia Figueredo on Unsplash
+![sleep is sacred nickang blog](images/natalia-figueredo-350529-1024x684.jpg) 
+_Photo by Natalia Figueredo on Unsplash_
 
 I'm very sleepy as I write this because I stayed up past midnight last night trying to add That One Last Part™ to a project I'm working on. This is my enthusiasm post-mortem.
 

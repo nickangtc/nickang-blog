@@ -22,4 +22,5 @@ It's not about rockets and not about electric cars, so by process of elimination
 
 After watching this documentary (thanks, Elon), I feel the need to learn about the field of AI and at least try and understand it with some level of intuition for it. I wrote "I NEED TO UNDERSTAND AI ASAP" in block letters on my notebook as I watched the documentary. It is a wake-up call. I encourage you to watch it now! It might not remain free for viewing for long, though I really hope it does. Might even put in a little donation if it helps.
 
-![I need to understand artificial intelligence notes](images/artificial-intelligence-documentary-notes-1024x768.jpg) My note to self after watching the documentary
+![I need to understand artificial intelligence notes](images/artificial-intelligence-documentary-notes-1024x768.jpg) 
+_My note to self after watching the documentary_

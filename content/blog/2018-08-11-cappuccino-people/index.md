@@ -9,7 +9,8 @@ backlinks:
     title: "Be whacky and compel feedback"
 ---
 
-![parts unknown cologne cappuccino people](images/160505132851-02-bourdain-cologne-super-169-1024x576.jpg) Parts Unknown: Cologne, Germany
+![parts unknown cologne cappuccino people](images/160505132851-02-bourdain-cologne-super-169-1024x576.jpg) 
+_Parts Unknown: Cologne, Germany_
 
 One of my favourite documentaries is Parts Unknown hosted by Anthony Bourdain. It is gritty, personal, and so very real, owing largely to Anthony Bourdain's no-bullshit and warm personality. My heart still aches thinking about how he [left](https://www.vanityfair.com/hollywood/2018/08/remembering-anthony-bourdain-as-only-his-fixers-could) us.
 

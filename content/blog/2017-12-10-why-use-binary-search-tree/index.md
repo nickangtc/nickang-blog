@@ -61,7 +61,8 @@ For example, if we attempted to insert the following sorted array into a binary 
 
 … will result in a tree that looks like this…
 
-![imbalanced binary search tree](images/BSP-imbalanced-binary-search-tree-2-1024x588.png) Doesn't even look like a tree when it's this imbalanced...
+![imbalanced binary search tree](images/BSP-imbalanced-binary-search-tree-2-1024x588.png) 
+_Doesn't even look like a tree when it's this imbalanced..._
 
 Ugliness is not the only problem with such a tree - performance, as you can imagine, will also be negatively affected.
 

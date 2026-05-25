@@ -5,7 +5,8 @@ tags: ["Tech"]
 backlinks:
 ---
 
-![BSP object hasownproperty](images/BSP-object-hasownproperty-1024x610.jpg) Original photo credit: Pete Wright
+![BSP object hasownproperty](images/BSP-object-hasownproperty-1024x610.jpg) 
+_Original photo credit: Pete Wright_
 
 You might have read someone else's JavaScript code recently and came across something like this:
 

@@ -7,7 +7,8 @@ backlinks:
     title: "The better way to approach a new programming language at work"
 ---
 
-![classroom of students at general assembly singapore learning programming](images/20160819-DSCF8120-1024x683.jpg) Week 1 at GA Singapore is trying to get the very basics of HTML, CSS, JavaScript
+![classroom of students at general assembly singapore learning programming](images/20160819-DSCF8120-1024x683.jpg) 
+_Week 1 at GA Singapore is trying to get the very basics of HTML, CSS, JavaScript_
 
 Whenever learning something new, start with the basics. Web programming has become a mature enough industry to have its own set of community-made tools that purport to help make coding easier, but it's a mistake to learn those before nailing down the basics, as I did.
 

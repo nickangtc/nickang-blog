@@ -4,7 +4,8 @@ date_published: "2019-05-11"
 backlinks:
 ---
 
-![best for writing nick ang](images/best-for-writing-nick-ang-1024x683.jpg) Photo by NordWood Themes
+![best for writing nick ang](images/best-for-writing-nick-ang-1024x683.jpg) 
+_Photo by NordWood Themes_
 
 I have a love-hate relationship with technology, specifically with computers being the de facto tool for writing.
 

@@ -9,7 +9,8 @@ backlinks:
     title: "Word rafting"
 ---
 
-![patterns](images/unsplashpic-min-1024x576.jpeg) Image: Mike Wilson
+![patterns](images/unsplashpic-min-1024x576.jpeg) 
+_Image: Mike Wilson_
 
 A cool advantage of being in the habit of writing everyday is that you will become inclined to ask, every single day, "What did I learn today?"
 

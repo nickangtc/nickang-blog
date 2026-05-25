@@ -41,14 +41,20 @@ Ok, that's it! Sorry for not publishing any posts for close to two weeks. It's b
 
 ### Photos from my first trip to Helsinki ever
 
-![Touring the fortress on Suomenlinna island near Helsinki with my new colleagues](images/IMG-0515-1024x768.jpg) Touring the fortress on Suomenlinna island near Helsinki with my new colleagues
+![Touring the fortress on Suomenlinna island near Helsinki with my new colleagues](images/IMG-0515-1024x768.jpg) 
+_Touring the fortress on Suomenlinna island near Helsinki with my new colleagues_
 
-![And the Golden Frog goes to... team Service Operations! (I'd been officially part of the company for 5 days at that point)](images/77dd88d6-b282-4ae4-9810-b189bcb8c16f-1024x768.jpg) And the Golden Frog goes to... team Service Operations! (I'd been officially part of the company for 5 days at that point)
+![And the Golden Frog goes to... team Service Operations! (I'd been officially part of the company for 5 days at that point)](images/77dd88d6-b282-4ae4-9810-b189bcb8c16f-1024x768.jpg) 
+_And the Golden Frog goes to... team Service Operations! (I'd been officially part of the company for 5 days at that point)_
 
-![The view from the beautiful Allas sauna and sea pool - easily one of my favourite places in Helsinki!](images/IMG-0429-1024x467.jpg) The view from the beautiful Allas sauna and sea pool - easily one of my favourite places in Helsinki!
+![The view from the beautiful Allas sauna and sea pool - easily one of my favourite places in Helsinki!](images/IMG-0429-1024x467.jpg) 
+_The view from the beautiful Allas sauna and sea pool - easily one of my favourite places in Helsinki!_
 
-![Forum mall, I think?](images/IMG-0109-1024x1024.jpg) Forum mall, I think?
+![Forum mall, I think?](images/IMG-0109-1024x1024.jpg) 
+_Forum mall, I think?_
 
-![Everyone getting ready for the company group photo at the second Futurio 2018!](images/IMG-0178-1024x521.jpg) Everyone getting ready for the company group photo at the second Futurio 2018!
+![Everyone getting ready for the company group photo at the second Futurio 2018!](images/IMG-0178-1024x521.jpg) 
+_Everyone getting ready for the company group photo at the second Futurio 2018!_
 
-![Fancy cocktails at Liberty or Death](images/b2263f0b-4ce0-4b63-9bc5-15d4be39bfeb-768x1024.jpg) Fancy cocktails at Liberty or Death
+![Fancy cocktails at Liberty or Death](images/b2263f0b-4ce0-4b63-9bc5-15d4be39bfeb-768x1024.jpg) 
+_Fancy cocktails at Liberty or Death_

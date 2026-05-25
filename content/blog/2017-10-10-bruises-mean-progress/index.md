@@ -5,7 +5,8 @@ date_published: "2017-10-10"
 backlinks:
 ---
 
-![muay thai guy kicking opponent in the ring](images/solal-ohayon-202417-1024x683.jpg) Photo by Solal Ohayon on Unsplash
+![muay thai guy kicking opponent in the ring](images/solal-ohayon-202417-1024x683.jpg) 
+_Photo by Solal Ohayon on Unsplash_
 
 I've been going for Muay Thai classes recently. Training has been interesting so far. They switch up the routine so often that I haven't gone for enough training to actually see anything routine in it. So far, so good.
 
@@ -17,7 +18,8 @@ Yesterday, I went for training and it was the most intense sessions I've had so 
 
 This morning, to my surprise, I woke up to this.
 
-![bruised right foot](images/IMG_20171010_113322-1024x768.jpg) My bruised foot after my first proper muay thai training session
+![bruised right foot](images/IMG_20171010_113322-1024x768.jpg) 
+_My bruised foot after my first proper muay thai training session_
 
 That's right, bruises. My ankle has swelled up and is bruised along with the top of my foot and shin. Every inch is tender and hurts with any touch involving a slight prod.
 

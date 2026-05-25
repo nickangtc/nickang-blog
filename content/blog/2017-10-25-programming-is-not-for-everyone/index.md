@@ -7,7 +7,8 @@ backlinks:
     title: "Do I need to type fast to be a programmer?"
 ---
 
-![BSP programming is not for everyone nickang blog Jesse Eisenberg in The Social Network](images/BSP-programming-is-not-for-everyone-nickang-blog-3.png) Jesse Eisenberg in The Social Network
+![BSP programming is not for everyone nickang blog Jesse Eisenberg in The Social Network](images/BSP-programming-is-not-for-everyone-nickang-blog-3.png) 
+_Jesse Eisenberg in The Social Network_
 
 I recently had a few conversations with people who are not software engineers and a surprising number of these conversations veered towards my journey into programming. Many of them remarked that what I did is amazing (I don't agree), and almost all of them mentioned one thing:
 

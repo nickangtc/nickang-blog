@@ -6,7 +6,8 @@ backlinks:
     title: "Bite Size Programming - Programming is not for everyone"
 ---
 
-![type fast to be a programmer nickang blog](images/BSP-type-fast-to-be-a-programmer.png) Photo by Ilya Pavlov on Unsplash
+![type fast to be a programmer nickang blog](images/BSP-type-fast-to-be-a-programmer.png) 
+_Photo by Ilya Pavlov on Unsplash_
 
 Let's talk about a complete misconception today. I'll put it out there... **you don't need to type fast to be a programmer**.
 
@@ -66,7 +67,8 @@ Here's an eloquent [answer](https://www.quora.com/Are-all-programmers-fast-typis
 
 Towards that end, being able to type fast is an advantage, albeit a small one. It's like that graph of diminishing returns. Eighty percent of the gains come from being able to type without thinking hard, and the other 20 percent comes from typing fast and accurately.
 
-![generic diminishing returns graph nickang blog nickang blog](images/20171028-generic-diminishing-returns-graph-nickang-blog-nickang-blog-1024x576.jpg) The graph of diminishing returns drawn (pardon the napkin)
+![generic diminishing returns graph nickang blog nickang blog](images/20171028-generic-diminishing-returns-graph-nickang-blog-nickang-blog-1024x576.jpg) 
+_The graph of diminishing returns drawn (pardon the napkin)_
 
 And so the truth is out - you really don't have to type fast to be a programmer!
 

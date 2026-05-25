@@ -5,7 +5,8 @@ date_published: "2017-11-06"
 backlinks:
 ---
 
-![sapling](images/francesco-gallarotti-72602-1024x683.jpg) Photo by Francesco Gallarotti on Unsplash
+![sapling](images/francesco-gallarotti-72602-1024x683.jpg) 
+_Photo by Francesco Gallarotti on Unsplash_
 
 The air conditioner in my office is really loud but I just realised this: I hadn't noticed it at all!
 

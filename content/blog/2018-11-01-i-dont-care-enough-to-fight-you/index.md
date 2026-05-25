@@ -16,7 +16,8 @@ I had listened to the audiobook a year ago and I remember poignantly that the au
 
 Bear with me, I'm getting to my point soon. First, I need to first mention another book I'd recently skimmed through. It's called _Radical Candour_ by Kim Scott.
 
-![radical candour by kim scott](images/book-3.jpg) Radical Candour happens to be a book that we live by in Smartly.io
+![radical candour by kim scott](images/book-3.jpg) 
+_Radical Candour happens to be a book that we live by in Smartly.io_
 
 One of the core theses of the book is that great teams are created and held together by radical candour. And it goes, if you don't do radical candour (ie. give feedback no matter how awkward or painful it will be, so that people in your team continually improve and work better together), the next best thing you can do is be an asshole.
 

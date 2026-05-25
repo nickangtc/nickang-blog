@@ -5,7 +5,8 @@ date_published: "2017-11-05"
 backlinks:
 ---
 
-![guy looking stressed presumably because of the kopitiam top up machine](images/nik-shuliahin-251237-1024x668.jpg) Photo by Nik Shuliahin on Unsplash
+![guy looking stressed presumably because of the kopitiam top up machine](images/nik-shuliahin-251237-1024x668.jpg) 
+_Photo by Nik Shuliahin on Unsplash_
 
 Enough is enough.
 
@@ -29,7 +30,8 @@ But I digress.
 
 Here's the problem I (and many, many frustrated users) have with Kopitiam - their top-up machines.
 
-![photo of the bad software of koptiam top up machine](images/bad-software-kopitiam-top-up-machine-768x1024.jpg) The Kopitiam top up machine with bad software
+![photo of the bad software of koptiam top up machine](images/bad-software-kopitiam-top-up-machine-768x1024.jpg) 
+_The Kopitiam top up machine with bad software_
 
 You probably can't tell what's wrong just from looking at the photo. The problem lies in the way it accepts notes.
 

@@ -12,7 +12,8 @@ backlinks:
     title: "What is Git?"
 ---
 
-![photo of a branch of leaves](images/leo-rivas-micoud-25480.jpg) Photo by Leo Rivas-Micoud on Unsplash
+![photo of a branch of leaves](images/leo-rivas-micoud-25480.jpg) 
+_Photo by Leo Rivas-Micoud on Unsplash_
 
 At work recently, our CTO noticed that our main repository's `staging` branch had over 80 less commits than `master`. That shouldn't be the case, because our deployment pipeline has always been to go from `feature` -> `staging` -> `master`. Code that exist on `master` must therefore already exist in `staging`, right?
 

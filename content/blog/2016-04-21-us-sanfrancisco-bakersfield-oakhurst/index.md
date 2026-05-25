@@ -5,7 +5,8 @@ date_published: "2016-04-21"
 backlinks:
 ---
 
-![Took a picture of this roadside wildflower with stunning colours](images/DSCF8275_edited-1024x683.jpg) Took a picture of this roadside wildflower with stunning colours
+![Took a picture of this roadside wildflower with stunning colours](images/DSCF8275_edited-1024x683.jpg) 
+_Took a picture of this roadside wildflower with stunning colours_
 
 Finally found the time to write my travelogue. I'm behind by three days now I think. I've been experiencing and seeing and thinking about so many things I hope I don't miss too many out.
 
@@ -37,7 +38,8 @@ I tell this story because when it played back the first time in my head during o
 
 Frequent travellers mature as consumers the earliest, I think, because being abroad puts you closer to your survival than cruising mode. That means you're more alert to people who don't care about you (since at the back of their minds they probably won't ever see you again) and might be out to profit off you. Ultimately for me, travel has made me a much more savvy consumer and accelerated my growth in self-reliance in general. And what more are we but consumers most of the time throughout our short lives?
 
-![Our $33/day Hertz Elantra car parked near Yosemite National Park's south entrance](images/DSCF8280_edited-1024x683.jpg) Our $33/day Hertz Elantra car parked near Yosemite National Park's south entrance
+![Our $33/day Hertz Elantra car parked near Yosemite National Park's south entrance](images/DSCF8280_edited-1024x683.jpg) 
+_Our $33/day Hertz Elantra car parked near Yosemite National Park's south entrance_
 
 So we got ourselves a Hyundai Elantra in the end. Renting with car companies is always an interesting experience because you never know what car you're going to get exactly. I can't say I'm disappointed this time. This white Elantra looks like as though it just slid out of the factory floor; it's clean inside and outside and has only been driven 18,000 miles. I happily hopped in with Mei and pulled out of the driveway of Hilton Hotel like a play-pretend rich guy in a Ferrari.
 
@@ -80,7 +82,8 @@ Driving through the windy and up-and-down single-lane roads in the 'park' is rea
 
 Getting out and sitting on a huge slab of granite that must have fallen from the face of the mountains is also an experience not to be missed. Photos don't do justice to the majesty of a place like Yosemite, but we try anyways. It's just too beautiful to be left unrecorded. In these situations, a photo serves merely the function of eliciting the shape and form of memories; it's dull and mostly unremarkable until you fill it in with your unique memories that colour and give it depth.
 
-![Spectacular rainbow mishmeshed with the waterfall at Tunnel View, Yosemite](images/DSCF8311_edited-1-1024x683.jpg) Spectacular rainbow mishmeshed with the waterfall at Tunnel View, Yosemite
+![Spectacular rainbow mishmeshed with the waterfall at Tunnel View, Yosemite](images/DSCF8311_edited-1-1024x683.jpg) 
+_Spectacular rainbow mishmeshed with the waterfall at Tunnel View, Yosemite_
 
 As I wound along the road of the Yosemite, I eventually caught up with the car in front. On the way in there were take-over lanes that periodically came up, but on the way down there were no such thing. And this car was going _so_ slowly I almost fell asleep tailing him.
 
@@ -104,8 +107,11 @@ Without sounding like a reviewer I'm just going to say one last thing about the 
 
 ## Some Photos From the Journey
 
-![Snow! Ok, it felt more like a blizzard; luckily we were in the comfort of the California Zephyr train](images/DSCF7877_edited-1024x683.jpg) Snow! Ok, it felt more like a blizzard; luckily we were in the comfort of the California Zephyr train
+![Snow! Ok, it felt more like a blizzard; luckily we were in the comfort of the California Zephyr train](images/DSCF7877_edited-1024x683.jpg) 
+_Snow! Ok, it felt more like a blizzard; luckily we were in the comfort of the California Zephyr train_
 
-![Member of the Amtrak staff who I saw throughout the two-day cross country ride](images/DSCF8061_edited-1024x683.jpg) Member of the Amtrak staff who I saw throughout the two-day cross country ride
+![Member of the Amtrak staff who I saw throughout the two-day cross country ride](images/DSCF8061_edited-1024x683.jpg) 
+_Member of the Amtrak staff who I saw throughout the two-day cross country ride_
 
-![The splendid Observation Deck onboard the California Zephyr](images/DSCF7772_edited-1024x683.jpg) The splendid Observation Deck onboard the California Zephyr where all the socialising happens
+![The splendid Observation Deck onboard the California Zephyr](images/DSCF7772_edited-1024x683.jpg) 
+_The splendid Observation Deck onboard the California Zephyr where all the socialising happens_

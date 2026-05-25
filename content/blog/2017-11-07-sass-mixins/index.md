@@ -6,7 +6,8 @@ backlinks:
     title: "What is DRY (in programming)?"
 ---
 
-![writing my first sass mixins banner](images/writing-my-first-sass-mixins.png) Photo by Dmitri Popov on Unsplash
+![writing my first sass mixins banner](images/writing-my-first-sass-mixins.png) 
+_Photo by Dmitri Popov on Unsplash_
 
 [Sass](http://sass-lang.com/) is a CSS **pre-processor**. Even though I've been using Sass in many projects, I realised recently at work that I'd only been using it in a very primitive way. Sass mixins didn't even exist in my mind.
 
@@ -24,7 +25,8 @@ Instead of telling you what mixins are, let me just show you the code that I rec
 
 This is the badge (`.badge-deprecated`) I needed to code. We already had an existing badge called `.badge-uninstalled`, but just repeating the code would be a bad solution. Hard to maintain and follow.
 
-![writing my first sass mixins badge css screenshot](images/BSP-writing-my-first-saas-mixins-badge-css-screenshot.png) The badge and tooltip I had to style
+![writing my first sass mixins badge css screenshot](images/BSP-writing-my-first-saas-mixins-badge-css-screenshot.png) 
+_The badge and tooltip I had to style_
 
 Here's the code that I might have written if I hadn't known about mixins.
 

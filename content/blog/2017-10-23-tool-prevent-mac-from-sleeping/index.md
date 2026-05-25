@@ -4,7 +4,8 @@ date_published: "2017-10-23"
 backlinks:
 ---
 
-![woman sleeping in bed concealed under blanket with hand showing](images/BSP-prevent-mac-from-sleeping.png) Photo by elizabeth lies on Unsplash
+![woman sleeping in bed concealed under blanket with hand showing](images/BSP-prevent-mac-from-sleeping.png) 
+_Photo by elizabeth lies on Unsplash_
 
 Today's topic is a very specific problem I'd been wanting to solve but never really got around to because, well, it's annoying but not painful. I'm talking about trying to prevent my Mac from sleeping.
 
@@ -18,7 +19,8 @@ The first time that happened, I slapped myself in the forehead and restarted the
 
 But what kind of programmer puts him/herself through that? To solve this issue once and for all, I've tried using the built-in options of my Macbook.
 
-![screenshot of mac system preferences to prevent mac from sleeping](images/Screen-Shot-2017-10-23-at-11.05.52-PM.png) Tweaking options in Energy Saver in System Preferences doesn't seem to work
+![screenshot of mac system preferences to prevent mac from sleeping](images/Screen-Shot-2017-10-23-at-11.05.52-PM.png) 
+_Tweaking options in Energy Saver in System Preferences doesn't seem to work_
 
 I tried multiple combinations of checked and unchecked boxes, but none of them ever seemed to work.
 
@@ -28,9 +30,11 @@ Today I really needed my Mac to not snooze, so I googled for a solution and foun
 
 Amphetamine tackles a single problem very, very well. (You can read what other users are saying about it on [Product Hunt](https://www.producthunt.com/posts/amphetamine).) It makes sure your Mac doesn't take a nap or even so much as dim its screen if you decide that it needs to stay awake for the entire performance.
 
-![screenshot of amphetamine app to prevent mac from sleeping](images/Screen-Shot-2017-10-23-at-11.05.02-PM.png) Options you get from Amphetamine app
+![screenshot of amphetamine app to prevent mac from sleeping](images/Screen-Shot-2017-10-23-at-11.05.02-PM.png) 
+_Options you get from Amphetamine app_
 
-![screenshot of amphetamine app prevent mac from sleeping](images/Screen-Shot-2017-10-24-at-12.02.22-PM.png) What a satisfying notification to look at!
+![screenshot of amphetamine app prevent mac from sleeping](images/Screen-Shot-2017-10-24-at-12.02.22-PM.png) 
+_What a satisfying notification to look at!_
 
 You use it via the widget in the app tray on the top bar. Click on the icon and select how long you want to prevent your Mac from sleeping from the dropdown, and voila! The job is done. Or I should say, the jobs will be done.
 

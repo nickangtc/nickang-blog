@@ -7,25 +7,30 @@ backlinks:
     title: "(US) A Little Broadway"
 ---
 
-![Few flowers have bloomed even though it's Spring time](images/DSCF6764_edited.jpg) Few flowers have bloomed even though it's Spring time, but these ones are doing well
+![Few flowers have bloomed even though it's Spring time](images/DSCF6764_edited.jpg) 
+_Few flowers have bloomed even though it's Spring time, but these ones are doing well_
 
 Oh, what a day it's been in Manhattan.
 
 Actually, it's kind of been one and a half days. We were so beat at 5pm when we got back to the apartment, we'd slept till this morning, waking with a throbbing head while nursing ourselves with blackberries and grape tomatoes.
 
-![The only food we could scavenge at 4am - $4 for two big boxes of those](images/DSCF6895_edited.jpg) The only food we could scavenge at 4am - USD $4 for two big boxes of those
+![The only food we could scavenge at 4am - $4 for two big boxes of those](images/DSCF6895_edited.jpg) 
+_The only food we could scavenge at 4am - USD $4 for two big boxes of those_
 
 We spent most of the day walking yesterday, exploring the jewel of NYC, Manhattan. Our expedition started well at about 10am, with blue skies, light winds and our first McDonald's breakfast in our bellies (courtesy of Ariell, our Airbnb host who felt bad that she'd given us inaccurate directions to get to her apartment).
 
-![A dogs-and-owners only area in Washington Square Park - wish we have this in Singapore!](images/DSCF6651_edited-1.jpg) A dogs-and-owners only area in Washington Square Park - wish we have this in Singapore!
+![A dogs-and-owners only area in Washington Square Park - wish we have this in Singapore!](images/DSCF6651_edited-1.jpg) 
+_A dogs-and-owners only area in Washington Square Park - wish we have this in Singapore!_
 
 Our first stop was Washington Square Park. We knew nothing about the park except what we'd read on the Lonely Planet guidebook that we brought with us. Apparently it used to be a cemetry for penny-pulling New Yorkers and was saved from development because of that status, and was later revamped into a park that's now very well used.
 
 I can attest to its utility, seeing so many people strolling about, passing through, performing songs, playing chess, even commanding pigeons. It's now one of my favourite parks, perhaps occupying the position just below my favourite Hyde Park in London.
 
-![Chess players at Washing Square Park](images/DSCF6660_edited.jpg) Chess players at Washing Square Park
+![Chess players at Washing Square Park](images/DSCF6660_edited.jpg) 
+_Chess players at Washing Square Park_
 
-![And in Union Square](images/DSCF6845_edited.jpg) And in Union Square
+![And in Union Square](images/DSCF6845_edited.jpg) 
+_And in Union Square_
 
 Like most places in US cities, it's a big rectangle about 1,000m by 400m or so. So we walked along the periphery and began to realise just how great Washington Square Park was - it's functioning like it was designed to, as a square, connecting all four sides together, creating a unified and unique identity for that whole space. We don't have anything like it in Singapore and I now wish we did. I'd sit there even if it was a hot day if I felt like being in public, watching other people going about their daily lives.
 

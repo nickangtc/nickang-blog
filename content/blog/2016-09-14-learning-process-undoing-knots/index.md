@@ -4,7 +4,8 @@ date_published: "2016-09-14"
 backlinks:
 ---
 
-![a whiteboard with a sketched diagram of the relationship between database, server, and client](images/sequelize_node_database-1024x768.jpeg) Our instructor, Jeremiah, illustrating the relationship between the client, server, and database in a web project
+![a whiteboard with a sketched diagram of the relationship between database, server, and client](images/sequelize_node_database-1024x768.jpeg) 
+_Our instructor, Jeremiah, illustrating the relationship between the client, server, and database in a web project_
 
 Once you're over a certain age, enough knowledge of how the world works will be stored in your memory. That knowledge can then serve as the basis from which to draw parallels to other things, and by doing so, our imaginations can relax because you'd already have an inkling of how it _might_ work out.
 

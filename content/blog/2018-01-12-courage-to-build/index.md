@@ -7,7 +7,8 @@ backlinks:
     title: "The rollercoaster ride of a side project"
 ---
 
-![guy with courage to build hands in the air smiling](images/rawpixel-com-284730.jpg) Photo by rawpixel.com on Unsplash
+![guy with courage to build hands in the air smiling](images/rawpixel-com-284730.jpg) 
+_Photo by rawpixel.com on Unsplash_
 
 Before [Becoming Technical](/2016-08-15-entering-digital-jungle/)™, I had about a hundred ideas of what I would build. Something to automate this and that, something else to make this or that less painful. But as I became more and more technical, something insidious started to take root inside me. I became less, not more, confident in building stuff. It's so bad that since [graduating](/2017-03-12-general-assembly-singapore-review/) from General Assembly, I'd stopped working on personal side projects altogether.
 

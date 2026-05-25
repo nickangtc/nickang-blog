@@ -7,7 +7,8 @@ backlinks:
     title: "How to start using the command line (part 2)"
 ---
 
-![BSP how to start using the command line nickang blog](images/BSP-how-to-start-using-the-command-line-nickang-blog.png) Photo by Thanh Tran on Unsplash
+![BSP how to start using the command line nickang blog](images/BSP-how-to-start-using-the-command-line-nickang-blog.png) 
+_Photo by Thanh Tran on Unsplash_
 
 Just getting started with becoming a programmer and want to start using the command line? This post is just for you.
 
@@ -25,7 +26,8 @@ Here's the first thing you need to know about the CLI: you are always working fr
 
 (A "directory" is just a more technical way to say "folder".)
 
-![folder command line nickang blog](images/folder-command-line-nickang-blog.png) What we normally call a "folder" is also known as a "directory"
+![folder command line nickang blog](images/folder-command-line-nickang-blog.png) 
+_What we normally call a "folder" is also known as a "directory"_
 
 That means that whenever you write a command in Terminal, you are giving a command with respect to the current location (ie. directory) you're currently in.
 

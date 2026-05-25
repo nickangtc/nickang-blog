@@ -12,7 +12,8 @@ backlinks:
     title: "What is Git?"
 ---
 
-![guy wearing shades working on laptop in a dark room](images/neonbrand-356967.jpg) Photo by [NeONBRAND](https://unsplash.com/photos/_Kmtj6UIlGo)
+![guy wearing shades working on laptop in a dark room](images/neonbrand-356967.jpg) 
+_Photo by [NeONBRAND](https://unsplash.com/photos/_Kmtj6UIlGo)_
 
 Use case: You want to switch to a different branch on the same project (say from `feature-branch` to `staging`), but you have uncommitted changes and git insists you commit before switching branches.
 
