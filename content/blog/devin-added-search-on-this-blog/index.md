@@ -7,6 +7,8 @@ tags: ["Tech"]
 fav: false
 creation_duration_minutes:
 backlinks:
+  - slug: "/rag-explained/"
+    title: "RAG (Retrieval Augmented Generation) explained"
 ---
 
 I recently added search to this blog and it was yet another engineering task that I could completely outsource to an [AI coding agent](/to-claw-or-not-to-claw/). I wanted to write about that.

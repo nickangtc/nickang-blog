@@ -7,6 +7,8 @@ tags: ["Tech", "Daily Reflection"]
 fav: false
 creation_duration_minutes: 23
 backlinks:
+  - slug: "/rag-explained/"
+    title: "RAG (Retrieval Augmented Generation) explained"
 ---
 
 I'm talking to a friend who was a principal PM turned solo entrepreneur and this topic came up.

@@ -6,6 +6,8 @@ tags: ["Communication"]
 backlinks:
   - slug: "/2021-07-04-reflecting-on-my-career-in-tech-5-years-in/"
     title: "Reflecting on my career in tech: 5 years in"
+  - slug: "/rag-explained/"
+    title: "RAG (Retrieval Augmented Generation) explained"
 ---
 
 Your product probably isn't perfect and that's why you need to provide customer support. This is the imperfect starting point of the whole enterprise of customer support that makes it a challenge from the get go.

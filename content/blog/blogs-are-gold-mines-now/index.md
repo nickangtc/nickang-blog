@@ -7,6 +7,8 @@ tags: ["Tech"]
 fav: false
 creation_duration_minutes:
 backlinks:
+  - slug: "/rag-explained/"
+    title: "RAG (Retrieval Augmented Generation) explained"
 ---
 
 In a recent job application form for a Forward Deployed Engineer, I saw a required field that says:
