@@ -52,14 +52,28 @@ function parseStagedNameStatus() {
   return entries
 }
 
+function isBlogPostIndex(filePath) {
+  return /^content\/blog\/[^/]+\/index\.md$/.test(filePath)
+}
+
+function isEligibleNewBlogPost(filePath) {
+  return Boolean(filePath)
+    && isBlogPostIndex(filePath)
+    && !filePath.includes("/untitled-")
+    && fs.existsSync(path.join(PROJECT_ROOT, filePath))
+    && !pathExistsInHead(filePath)
+}
+
 function getNewStagedBlogPosts() {
   return parseStagedNameStatus()
     .map(entry => entry.path)
-    .filter(Boolean)
-    .filter(filePath => /^content\/blog\/[^/]+\/index\.md$/.test(filePath))
-    .filter(filePath => !filePath.includes("/untitled-"))
-    .filter(filePath => fs.existsSync(path.join(PROJECT_ROOT, filePath)))
-    .filter(filePath => !pathExistsInHead(filePath))
+    .filter(isEligibleNewBlogPost)
+}
+
+function getUntrackedBlogPosts() {
+  return git(["ls-files", "--others", "--exclude-standard", "-z", "content/blog"])
+    .split("\0")
+    .filter(isEligibleNewBlogPost)
 }
 
 function killProcessGroup(child, signal) {
@@ -160,7 +174,7 @@ async function main() {
     return
   }
 
-  const posts = [...new Set(getNewStagedBlogPosts())]
+  const posts = [...new Set([...getNewStagedBlogPosts(), ...getUntrackedBlogPosts()])]
 
   if (posts.length === 0) {
     return

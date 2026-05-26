@@ -1,50 +1,6 @@
 #!/bin/bash
-# Pre-commit hook to rename new post folders, normalize blog posts, and generate backlinks
-
-# Get the directory where this script is located
-HOOK_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-PROJECT_ROOT="$(cd "$HOOK_DIR/.." && pwd)"
-cd "$PROJECT_ROOT"
-
-# Remember what the user explicitly staged before this hook ran. Generated
-# backlink/normalization changes may touch many posts; only re-stage files that
-# were already in the index so `git commit` does not unexpectedly include every
-# modified blog post.
-STAGED_PATHS_FILE="$(mktemp)"
-trap 'rm -f "$STAGED_PATHS_FILE"' EXIT
-git diff --cached --name-only -z --diff-filter=ACMR > "$STAGED_PATHS_FILE"
-
-# Rename newly-created untitled post folders based on frontmatter title
-node scripts/rename-post-folders-from-title.js
-if [ $? -ne 0 ]; then
-  echo "❌ Post folder rename failed"
-  exit 1
-fi
-
-# Add AI-suggested internal links to newly-created posts. This is best-effort:
-# if pi/model access is unavailable, the commit continues without these links.
-node scripts/auto-internal-links.js
-
-# Normalize blog post typography (smart quotes, invisible characters, etc.)
-python3 "$HOOK_DIR/normalize-blog-posts.py"
-if [ $? -ne 0 ]; then
-  echo "❌ Blog post normalization failed"
-  exit 1
-fi
-
-# Generate backlinks
-node scripts/generate-backlinks.js
-if [ $? -ne 0 ]; then
-  echo "❌ Backlinks generation failed"
-  exit 1
-fi
-
-# Re-stage only files that were already staged before the hook ran.
-# Files modified by backlink generation that were not staged remain unstaged.
-while IFS= read -r -d '' path; do
-  if [ -e "$path" ]; then
-    git add -- "$path"
-  fi
-done < "$STAGED_PATHS_FILE"
+# Lightweight pre-commit hook.
+# Heavy/mutating content tasks are intentionally manual now:
+#   npm run polish
 
 exit 0
