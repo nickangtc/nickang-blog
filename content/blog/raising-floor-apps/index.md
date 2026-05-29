@@ -9,6 +9,8 @@ creation_duration_minutes: 23
 backlinks:
   - slug: "/rag-explained/"
     title: "RAG (Retrieval Augmented Generation) explained"
+  - slug: "/what-i-learned-re-watching-chef-2014/"
+    title: "What I learned re-watching Chef (2014)"
 ---
 
 I'm talking to a friend who was a principal PM turned solo entrepreneur and this topic came up.

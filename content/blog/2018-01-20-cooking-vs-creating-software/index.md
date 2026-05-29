@@ -2,6 +2,8 @@
 title: "Cooking vs creating software"
 date_published: "2018-01-20"
 backlinks:
+  - slug: "/what-i-learned-re-watching-chef-2014/"
+    title: "What I learned re-watching Chef (2014)"
 ---
 
 ![two chefs adding final touches to plating food](images/fabrizio-magoni-219347-1024x601.jpg) 

@@ -5,6 +5,8 @@ excerpt: "Imagine you had a native speaker friend who said, 'text or call me any
 tags: ["Project"]
 cover: "/project-covers/youtionary-cover.png"
 backlinks:
+  - slug: "/what-i-learned-re-watching-chef-2014/"
+    title: "What I learned re-watching Chef (2014)"
 ---
 
 <iframe

@@ -9,6 +9,8 @@ backlinks:
     title: "Album"
   - slug: "/ig-2026/"
     title: "Instagram growth hacking (2026)"
+  - slug: "/what-i-learned-re-watching-chef-2014/"
+    title: "What I learned re-watching Chef (2014)"
 ---
 
 <iframe

@@ -3,6 +3,8 @@ title: "Remember why you are programming"
 date_published: "2017-12-26"
 tags: ["Tech"]
 backlinks:
+  - slug: "/what-i-learned-re-watching-chef-2014/"
+    title: "What I learned re-watching Chef (2014)"
 ---
 
 ![spectacles sitting in front of a laptop focusing text on screen - remember why you are programming blog post banner](images/kevin-364843-1024x768.jpg) 
