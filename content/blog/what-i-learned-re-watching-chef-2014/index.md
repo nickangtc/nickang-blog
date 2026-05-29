@@ -11,6 +11,9 @@ backlinks:
 
 Chef is one of my favourite movies. I always get new thoughts watching it - the hallmark of a great show.
 
+![the cubano scene](./images/empingao.png)
+_The cubano making scene is one of the best parts of the show._
+
 This time, I rewatched it (third time?) for a very specific reason: to feel what it's like to be in the chef Casper's shoes, being really good at what he does, but having his agency smothered every day by a restaurant owner (his boss) who is single-minded about profit.
 
 But why? How does this relate to my life?
