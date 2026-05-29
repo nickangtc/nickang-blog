@@ -7,7 +7,8 @@ const path = require("node:path")
 const PROJECT_ROOT = path.resolve(__dirname, "..")
 const SKILL_PATH = path.join(PROJECT_ROOT, ".pi", "skills", "internal-linker")
 const PI_BIN = process.env.PI_BIN || "pi"
-const PI_TIMEOUT_MS = Number(process.env.AUTO_INTERNAL_LINKS_TIMEOUT_MS || 60000)
+const PI_MODEL = "openai-codex/gpt-5.4-mini"
+const PI_TIMEOUT_MS = Number(process.env.AUTO_INTERNAL_LINKS_TIMEOUT_MS || 300000)
 
 function git(args, options = {}) {
   return execFileSync("git", args, {
@@ -95,20 +96,30 @@ function runPiInternalLinker(filePath) {
     `Use the internal-linker skill on this newly created blog post: ${filePath}`,
     "Find and add only strong internal links to older posts.",
     "Edit only this target file. If no strong opportunities exist, make no changes.",
+    "In your final response, include a concise summary of every link added and why it is relevant.",
   ].join("\n")
+  const piArgs = [
+    "--print",
+    "--no-session",
+    "--model",
+    PI_MODEL,
+    "--mode",
+    "json",
+    "--skill",
+    SKILL_PATH,
+    "--tools",
+    "read,bash,edit",
+    prompt,
+  ]
 
   return new Promise((resolve, reject) => {
+    console.log(`   launching: ${PI_BIN} ${piArgs.slice(0, -1).join(" ")} <prompt>`)
+    console.log(`   model: ${PI_MODEL}`)
+    console.log(`   timeout: ${Math.round(PI_TIMEOUT_MS / 1000)}s (override with AUTO_INTERNAL_LINKS_TIMEOUT_MS)`)
+
     const child = spawn(
       PI_BIN,
-      [
-        "--print",
-        "--no-session",
-        "--skill",
-        SKILL_PATH,
-        "--tools",
-        "read,bash,edit",
-        prompt,
-      ],
+      piArgs,
       {
         cwd: PROJECT_ROOT,
         detached: true,
@@ -131,9 +142,11 @@ function runPiInternalLinker(filePath) {
     child.stderr.setEncoding("utf8")
     child.stdout.on("data", chunk => {
       stdout += chunk
+      process.stdout.write(chunk)
     })
     child.stderr.on("data", chunk => {
       stderr += chunk
+      process.stderr.write(chunk)
     })
 
     child.on("error", err => {
@@ -145,7 +158,7 @@ function runPiInternalLinker(filePath) {
       clearTimeout(timeout)
 
       if (timedOut) {
-        reject(new Error(`pi timed out after ${Math.round(PI_TIMEOUT_MS / 1000)}s`))
+        reject(new Error(`pi timed out after ${Math.round(PI_TIMEOUT_MS / 1000)}s. It may still be reading/searching candidate posts or waiting on the LLM/API. Increase AUTO_INTERNAL_LINKS_TIMEOUT_MS to allow a longer run.`))
         return
       }
 
@@ -155,9 +168,6 @@ function runPiInternalLinker(filePath) {
         return
       }
 
-      if (stdout.trim()) {
-        console.log(stdout.trim())
-      }
       resolve()
     })
   })
@@ -174,9 +184,16 @@ async function main() {
     return
   }
 
-  const posts = [...new Set([...getNewStagedBlogPosts(), ...getUntrackedBlogPosts()])]
+  console.log("🔎 Looking for new blog posts eligible for AI internal linking...")
+  const stagedPosts = getNewStagedBlogPosts()
+  const untrackedPosts = getUntrackedBlogPosts()
+  const posts = [...new Set([...stagedPosts, ...untrackedPosts])]
+
+  console.log(`   staged new posts: ${stagedPosts.length}`)
+  console.log(`   untracked new posts: ${untrackedPosts.length}`)
 
   if (posts.length === 0) {
+    console.log("   none found; skipping AI internal linking")
     return
   }
 

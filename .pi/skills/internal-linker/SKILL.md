@@ -20,7 +20,10 @@ Prioritise links where the target phrase is a natural contextual reference, for 
 ## Workflow
 
 1. Read the target Markdown file.
-2. Search existing posts for title/body matches and semantic callbacks.
+2. Do a bounded candidate search instead of an exhaustive crawl:
+   - use `rg`/`find` to identify plausible older posts from distinctive phrases, names, projects, dates, and titles in the target post
+   - read at most 8 candidate posts before deciding
+   - if the first pass finds no strong candidates, stop rather than broadening indefinitely
 3. Pick only links that feel useful to a reader, not SEO filler.
 4. Edit only the target file.
 5. Do not modify frontmatter backlinks; `scripts/generate-backlinks.js` handles that after this skill runs.
@@ -38,4 +41,12 @@ Prioritise links where the target phrase is a natural contextual reference, for 
 
 ## Output expectations
 
-When used non-interactively from a hook, perform the edit directly and keep the final response brief: list links added or say that no strong opportunities were found.
+When used non-interactively from a hook, perform the edit directly and keep the final response brief.
+
+If links were added, include one bullet per link with:
+
+- the linked phrase
+- the destination slug
+- a short reason why this link is relevant/useful to a reader
+
+If no strong opportunities were found, say that no links were added and why.
