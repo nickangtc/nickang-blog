@@ -18,7 +18,11 @@ const {
   role = "Product Engineer · AI & Enterprise Integrations",
   tagline = "Fullstack · Client-facing delivery · Founder/operator",
   summary = "Product engineer with 8+ years across backend/product engineering, customer-facing technical delivery, and startup operations. I have led enterprise partner deployments, built integration tooling and developer docs, productionized messy business-critical data, and recently shipped two AI-assisted products end-to-end as a solo builder. Not a career FDE yet, but strong adjacent experience: working directly with stakeholders, connecting systems, translating business problems into shipped software, and communicating clearly across engineering, product, finance, ops, and customers.",
+  smartlyFirstBullet = "Acted as a bridge between customers, support, product, and engineering, translating operational pain into internal tools and product feedback.",
   smartlySecondBullet = "Led Support Solutions engineers across EMEA/APAC, mentoring a team of 7 and improving technical support delivery.",
+  smartlyExtraBullets = [],
+  teachingQuote = "Nick is patient, logical, and approaches every single challenge with a zealous attitude.",
+  teachingQuoteCite = "Zhao Loong Ng, Software Engineer, GovTech Singapore (was Nick's student)",
   skills = defaultSkills,
   pdfHref = "/cv/Nick_Ang_Product_Engineer_CV.pdf",
   onlineHref = "https://nickang.com/cv/",
@@ -677,10 +681,10 @@ const {
           <div class="context">Ad-tech unicorn. Joined as employee #203; grew through hyper-growth to 600+ employees.
           </div>
           <ul>
-            <li>Acted as a bridge between customers, support, product, and engineering, translating operational pain
-              into internal tools and product feedback.</li>
+            <li>{smartlyFirstBullet}</li>
             <li>{smartlySecondBullet}</li>
             <li>Built internal automation with Jira, Python Airflow, and APIs, reducing manual coordination work.</li>
+            {smartlyExtraBullets.map((bullet) => <li>{bullet}</li>)}
           </ul>
         </article>
 
@@ -703,8 +707,8 @@ const {
         </article>
 
         <aside class="quote experience-separator">
-          <p>"Nick is patient, logical, and approaches every single challenge with a zealous attitude."</p>
-          <cite>— Zhao Loong Ng, Software Engineer, GovTech Singapore (was Nick's student)</cite>
+          <p>"{teachingQuote}"</p>
+          <cite>— {teachingQuoteCite}</cite>
         </aside>
       </section>
 
