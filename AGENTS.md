@@ -6,4 +6,3 @@
 - Avoid accented/non-ASCII filenames for Markdown images. Unicode normalization can differ between macOS and Netlify/Linux, causing Astro `ImageNotFound` even when the file appears to exist locally.
 - Astro serves favicons and project cover assets from `public/`; if restoring Gatsby-era assets, update `public/favicon-*` and `public/project-covers/*` rather than only `static/`, because `static/` is legacy/stale after the migration.
 - Markdown image syntax in `content/blog/**/index.md` should use local relative `./images/...` paths so Astro can process the files. Raw HTML video `<source src="...">` entries are not processed the same way, so keep their referenced video files under `public/`.
-- The CV PDF is generated from `src/pages/cv.astro` using Chrome headless against a local Astro dev server, then saved under `public/cv/`; keep the `Download PDF` link in `cv.astro` pointed at the current generated filename.
