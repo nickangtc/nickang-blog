@@ -19,5 +19,4 @@ Use this skill whenever editing CV pages such as `src/pages/cv.astro`, `src/page
 
 ## Link Behavior
 
-Use root-relative paths for CV route links in HTML, such as `/cv/` and `/cv-support/`, so the source works in both local development and production.
-
+Use hard-coded `https://nickang.com/...` URLs for print/PDF `View online` links so downloaded PDFs never point at localhost.
