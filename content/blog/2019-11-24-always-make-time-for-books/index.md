@@ -2,6 +2,8 @@
 title: "Why we should always make time for books"
 date_published: "2019-11-24"
 backlinks:
+  - slug: "/read-physical-books-ebooks-or-listen-to-audiobooks/"
+    title: "Read physical books, ebooks, or listen to audiobooks?"
 ---
 
 ![Why we should always make time for books](images/why-we-should-always-make-time-for-books-nick-ang-blog-2-1024x683.jpg) 
