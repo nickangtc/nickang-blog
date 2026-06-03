@@ -29,9 +29,9 @@ I'm about 10 years into a career now and my take on selling has become a little 
 
 The truth as I see it now is that selling yourself (and by extension, [your ideas, suggestions, and opinions](/2021-01-10-focus-on-understanding-not-on-what-is-right/)) is as natural as biology.
 
-In World War Z, Brad Pitt's character saves the day by noticing that the zombies would completely ignore severely ill people. They'd shamble right past a sick person because even zombies were looking for healthy hosts to infect.
+In World War Z, Brad Pitt's character saves the day by noticing that the zombies would completely ignore severely ill people. They'd run right past a sick person because even zombies were looking for healthy hosts to infect.
 
-![A sick boy being ignored by zombies in World War Z](./images/world-war-z-sick-boy.jpg)
+![A sick boy being ignored by zombies in World War Z](./images/world-war-z-zombies-ignore-sick-boy.jpg)
 
 I realise now that human beings are the same way. We're constantly looking for signals and proxies to help us decide what deserves our attention.
 
