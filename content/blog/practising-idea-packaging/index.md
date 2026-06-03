@@ -6,6 +6,8 @@ excerpt: There's an art to packaging ideas for consumption.
 tags: ["Communication"]
 fav: false
 backlinks:
+  - slug: "/selling-yourself/"
+    title: "Selling yourself"
 ---
 
 There's an art to packaging ideas for consumption.

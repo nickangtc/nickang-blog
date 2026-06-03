@@ -20,9 +20,10 @@ Prioritise links where the target phrase is a natural contextual reference, for 
 ## Workflow
 
 1. Read the target Markdown file.
-2. Do a bounded candidate search instead of an exhaustive crawl:
-   - use `rg`/`find` to identify plausible older posts from distinctive phrases, names, projects, dates, and titles in the target post
-   - read at most 8 candidate posts before deciding
+2. Do a bounded candidate review instead of an exhaustive crawl:
+   - if the prompt provides a ranked candidate shortlist, use that shortlist and do not broaden the search
+   - read at most the candidate-read limit stated in the prompt before deciding
+   - if no shortlist is provided, use `rg`/`find` to identify plausible older posts from distinctive phrases, names, projects, dates, and titles in the target post
    - if the first pass finds no strong candidates, stop rather than broadening indefinitely
 3. Pick only links that feel useful to a reader, not SEO filler.
 4. Edit only the target file.
