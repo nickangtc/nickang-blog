@@ -31,6 +31,8 @@ The truth as I see it now is that selling yourself (and by extension, [your idea
 
 In World War Z, Brad Pitt's character saves the day by noticing that the zombies would completely ignore severely ill people. They'd shamble right past a sick person because even zombies were looking for healthy hosts to infect.
 
+![A sick boy being ignored by zombies in World War Z](./images/world-war-z-sick-boy.jpg)
+
 I realise now that human beings are the same way. We're constantly looking for signals and proxies to help us decide what deserves our attention.
 
 I finally understand that selling isn't primarily about persuasion but rather [compression](/practising-idea-packaging/).
