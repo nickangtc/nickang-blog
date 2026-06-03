@@ -2,7 +2,20 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Search from "astro-pagefind/components/Search";
 
-const searchQuery = Astro.url.searchParams.get("q") ?? undefined;
+function sanitizeSearchQuery(query: string | null) {
+  if (!query) return undefined;
+
+  const sanitized = query
+    .replace(/[\u0000-\u001F\u007F<>&"'`]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .slice(0, 120)
+    .trim();
+
+  return sanitized || undefined;
+}
+
+const searchQuery = sanitizeSearchQuery(Astro.url.searchParams.get("q"));
 ---
 
 <BaseLayout title="Search" pathname="/search">
@@ -31,7 +44,35 @@ const searchQuery = Astro.url.searchParams.get("q") ?? undefined;
   }
 
   function getSearchQuery() {
-    return new URLSearchParams(window.location.search).get("q");
+    return sanitizeSearchQuery(new URLSearchParams(window.location.search).get("q"));
+  }
+
+  function sanitizeSearchQuery(query: string | null) {
+    if (!query) return null;
+
+    const sanitized = query
+      .replace(/[\u0000-\u001F\u007F<>&"'`]/g, " ")
+      .replace(/\s+/g, " ")
+      .trim()
+      .slice(0, 120)
+      .trim();
+
+    return sanitized || null;
+  }
+
+  function appendSearchQueryToResultLinks() {
+    const query = getSearchQuery();
+    if (!query || !document.querySelector(searchPageSelector)) return;
+
+    document
+      .querySelectorAll<HTMLAnchorElement>(".pagefind-ui .pagefind-ui__result-link")
+      .forEach((link) => {
+        const url = new URL(link.href, window.location.origin);
+        if (url.origin !== window.location.origin) return;
+
+        url.searchParams.set("q", query);
+        link.href = `${url.pathname}${url.search}${url.hash}`;
+      });
   }
 
   function waitForPagefindInput(timeout = 2500) {
@@ -113,6 +154,7 @@ const searchQuery = Astro.url.searchParams.get("q") ?? undefined;
       if (getResultCount() !== lastResultCount) {
         isLoadingMore = false;
       }
+      appendSearchQueryToResultLinks();
       maybeLoadMoreResults();
     });
 
@@ -124,6 +166,7 @@ const searchQuery = Astro.url.searchParams.get("q") ?? undefined;
       window.removeEventListener("scroll", maybeLoadMoreResults);
       window.removeEventListener("resize", maybeLoadMoreResults);
     };
+    appendSearchQueryToResultLinks();
     maybeLoadMoreResults();
   }
 
@@ -250,12 +293,6 @@ const searchQuery = Astro.url.searchParams.get("q") ?? undefined;
     font-size: $base-size;
     line-height: $rhythm;
     color: $darkgray;
-  }
-
-  .pagefind-ui .pagefind-ui__result-excerpt mark {
-    background: rgba($blue, 0.24);
-    color: #111;
-    padding: 0 0.1em;
   }
 
   .pagefind-ui .pagefind-ui__message {

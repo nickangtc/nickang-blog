@@ -140,12 +140,31 @@ const datesLine =
 <script>
   import { navigate } from "astro:transitions/client";
 
-  const scrollRestorationState = window as Window & {
+  const postPageState = window as Window & {
     __postScrollRestorationSetup?: boolean;
+    __postSearchHighlightSetup?: boolean;
   };
   const storageKeyPrefix = "post-scroll-position:";
   let isRestoringScroll = false;
   let pendingScrollSave = 0;
+  const highlightMarkClass = "search-highlight-mark";
+  const highlightedTextSelector = "[data-search-highlighted-text]";
+  const maxHighlightTerms = 8;
+  const maxHighlightTermLength = 48;
+  const searchHighlightSkipSelector = [
+    "code",
+    "pre",
+    "kbd",
+    "samp",
+    "script",
+    "style",
+    "textarea",
+    "input",
+    "button",
+    "select",
+    "mark",
+    "svg",
+  ].join(",");
 
   function isPostPage() {
     return Boolean(document.querySelector("[data-post-scroll-restorable]"));
@@ -215,6 +234,113 @@ const datesLine =
     }, 800);
   }
 
+  function escapeRegExp(value: string) {
+    return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  }
+
+  function sanitizeSearchQuery(query: string | null) {
+    if (!query) return null;
+
+    const sanitized = query
+      .replace(/[\u0000-\u001F\u007F<>&"'`]/g, " ")
+      .replace(/\s+/g, " ")
+      .trim()
+      .slice(0, 120)
+      .trim();
+
+    return sanitized || null;
+  }
+
+  function getHighlightTerms() {
+    const query = sanitizeSearchQuery(new URLSearchParams(window.location.search).get("q"));
+    if (!query) return [];
+
+    return Array.from(
+      new Set(
+        query
+          .trim()
+          .split(/\s+/)
+          .slice(0, maxHighlightTerms)
+          .map(term => term.trim().slice(0, maxHighlightTermLength))
+          .filter(Boolean)
+      )
+    ).sort((a, b) => b.length - a.length);
+  }
+
+  function removeSearchHighlights() {
+    document.querySelectorAll<HTMLElement>(`mark.${highlightMarkClass}`).forEach((mark) => {
+      mark.replaceWith(document.createTextNode(mark.textContent ?? ""));
+    });
+
+    document.querySelectorAll<HTMLElement>(highlightedTextSelector).forEach((element) => {
+      element.normalize();
+      element.removeAttribute("data-search-highlighted-text");
+    });
+  }
+
+  function highlightTextNode(textNode: Text, matcher: RegExp) {
+    const text = textNode.nodeValue ?? "";
+    matcher.lastIndex = 0;
+    if (!matcher.test(text)) return;
+
+    matcher.lastIndex = 0;
+    const fragment = document.createDocumentFragment();
+    let lastIndex = 0;
+    let match;
+
+    while ((match = matcher.exec(text)) !== null) {
+      if (match.index > lastIndex) {
+        fragment.appendChild(document.createTextNode(text.slice(lastIndex, match.index)));
+      }
+
+      const mark = document.createElement("mark");
+      mark.className = highlightMarkClass;
+      mark.textContent = match[0];
+      fragment.appendChild(mark);
+      lastIndex = match.index + match[0].length;
+    }
+
+    if (lastIndex < text.length) {
+      fragment.appendChild(document.createTextNode(text.slice(lastIndex)));
+    }
+
+    const parent = textNode.parentElement;
+    parent?.setAttribute("data-search-highlighted-text", "true");
+    textNode.replaceWith(fragment);
+  }
+
+  function applySearchHighlights() {
+    removeSearchHighlights();
+    if (!isPostPage()) return;
+
+    const terms = getHighlightTerms();
+    if (terms.length === 0) return;
+
+    const article = document.querySelector("[data-post-scroll-restorable]");
+    if (!article) return;
+
+    const matcher = new RegExp(terms.map(escapeRegExp).join("|"), "gi");
+    const walker = document.createTreeWalker(article, NodeFilter.SHOW_TEXT, {
+      acceptNode(node) {
+        if (!node.nodeValue?.trim()) return NodeFilter.FILTER_REJECT;
+
+        const parent = node.parentElement;
+        if (!parent || parent.closest(searchHighlightSkipSelector)) {
+          return NodeFilter.FILTER_REJECT;
+        }
+
+        return NodeFilter.FILTER_ACCEPT;
+      },
+    });
+
+    const textNodes = [];
+    while (walker.nextNode()) {
+      textNodes.push(walker.currentNode as Text);
+    }
+
+    textNodes.forEach((textNode) => highlightTextNode(textNode, matcher));
+  }
+
   function handleKeyPress(event: KeyboardEvent) {
     if (event.metaKey || event.ctrlKey) return;
 
@@ -234,19 +360,27 @@ const datesLine =
     }
   }
 
-  if (!scrollRestorationState.__postScrollRestorationSetup) {
-    scrollRestorationState.__postScrollRestorationSetup = true;
+  if (!postPageState.__postScrollRestorationSetup) {
+    postPageState.__postScrollRestorationSetup = true;
 
     window.addEventListener("keydown", handleKeyPress);
     window.addEventListener("scroll", scheduleScrollPositionSave, { passive: true });
     window.addEventListener("pagehide", saveScrollPosition);
     document.addEventListener("astro:before-preparation", saveScrollPosition);
     document.addEventListener("astro:page-load", () => {
+      applySearchHighlights();
       updateHistoryScrollRestoration();
       restoreScrollPosition();
     });
   }
 
+  if (!postPageState.__postSearchHighlightSetup) {
+    postPageState.__postSearchHighlightSetup = true;
+    document.addEventListener("astro:before-swap", removeSearchHighlights);
+    window.addEventListener("pageshow", applySearchHighlights);
+  }
+
+  applySearchHighlights();
   updateHistoryScrollRestoration();
   restoreScrollPosition();
 </script>
