@@ -17,7 +17,7 @@ creation_duration_minutes:
 backlinks:
 ---
 
-I used to think it was silly that we had to [sell ourselves at interviews](/the-name-card-i-used-to-get-my-first-developer-job/) to land a new job.
+I used to think it was silly that we had to sell ourselves at interviews to land a new job.
 
 When I was in university, I recall being smug about some of my fellow undergrads at another university. My friends and I would sneer at the fact that this other university was enrolling people who were "all talk, no substance."
 
@@ -27,7 +27,7 @@ Invariably after taking these stabs at the unsuspecting undergrads, I'd think qu
 
 I'm about 10 years into a career now and my take on selling has become a little more rounded.
 
-The truth as I see it now is that selling yourself (and by extension, your ideas, suggestions, and opinions) is as natural as biology.
+The truth as I see it now is that selling yourself (and by extension, [your ideas, suggestions, and opinions](/2021-01-10-focus-on-understanding-not-on-what-is-right/)) is as natural as biology.
 
 In World War Z, Brad Pitt's character saves the day by noticing that the zombies would completely ignore severely ill people. They'd shamble right past a sick person because even zombies were looking for healthy hosts to infect.
 
@@ -47,7 +47,7 @@ A friend of mine who's a seasoned pre-sales Solutions Architect once pointed out
 
 I thought that was a bit glib, but it points in the right direction.
 
-[Swyx](https://swyx.io/marketing-yourself) put it more bluntly:
+[Swyx](https://swyx.io/marketing-yourself) puts it more bluntly:
 
 > "Like it or not, **people want to put you in a box**. Help them put you in an expensive, high-sentimental-value, glittering, easy to reach box. Preferably at eye level, near Checkout, next to other nice looking boxes."
 

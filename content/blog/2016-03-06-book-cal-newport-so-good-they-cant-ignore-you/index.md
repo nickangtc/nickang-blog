@@ -5,6 +5,8 @@ tags: ["Books"]
 backlinks:
   - slug: "/2017-11-04-dream-job/"
     title: "Getting good and getting a dream job"
+  - slug: "/selling-yourself/"
+    title: "Selling yourself"
 ---
 
 ### [![so good they cant ignore you book cover](images/so-good-they-cant-ignore-you-book-cover.jpg)](http://amzn.to/1TN6FJY)

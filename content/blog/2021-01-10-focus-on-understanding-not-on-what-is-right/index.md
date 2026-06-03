@@ -5,6 +5,8 @@ excerpt: When you focus exclusively on understanding instead of what is right, y
 tags: ["Living", "Communication", "Leadership"]
 fav: true
 backlinks:
+  - slug: "/selling-yourself/"
+    title: "Selling yourself"
 ---
 
 Tell me if any of this sounds familiar to you: someone gives their opinion and you feel an urge to find and point out the flaws in what they are saying. You then also feel the urge to correct them and most of the time, you do. Eventually, when it is someone's turn to contend with *your* opinion, they appear to have the same urge as you: find flaws, point them out, help you see it the 'right' way. All the time, the 'right' way is either your way or theirs.
