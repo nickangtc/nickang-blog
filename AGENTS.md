@@ -6,3 +6,4 @@
 - Avoid accented/non-ASCII filenames for Markdown images. Unicode normalization can differ between macOS and Netlify/Linux, causing Astro `ImageNotFound` even when the file appears to exist locally.
 - Astro serves favicons and project cover assets from `public/`; if restoring Gatsby-era assets, update `public/favicon-*` and `public/project-covers/*` rather than only `static/`, because `static/` is legacy/stale after the migration.
 - Markdown image syntax in `content/blog/**/index.md` should use local relative `./images/...` paths so Astro can process the files. Raw HTML video `<source src="...">` entries are not processed the same way, so keep their referenced video files under `public/`.
+- With Astro `ClientRouter`, avoid manually forcing `history.scrollRestoration = "manual"` or `window.scrollTo(0)` on the blog list page. Browser Back should restore the list scroll position naturally.
