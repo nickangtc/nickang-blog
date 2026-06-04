@@ -7,6 +7,8 @@ tags: ["Living", "Productivity", "Daily Reflection"]
 fav: false
 creation_duration_minutes:
 backlinks:
+  - slug: "/are-you-shopping-for-the-habit/"
+    title: "Are you shopping for the habit?"
 ---
 
 There's an unresolved debate in my head that comes up every now and then: should I read physical books, ebooks, or listen to audiobooks?

@@ -148,12 +148,7 @@ function renamePostFoldersFromTitle() {
   }
 
   if (renames.length > 0) {
-    const changedPaths = renames.flatMap(rename => [
-      path.relative(PROJECT_ROOT, rename.from),
-      path.relative(PROJECT_ROOT, rename.to),
-    ])
-
-    execFileSync("git", ["add", "-A", "--", ...changedPaths], {
+    execFileSync("git", ["add", "-A", "--", path.relative(PROJECT_ROOT, BLOG_DIR)], {
       cwd: PROJECT_ROOT,
       stdio: "inherit",
     })
