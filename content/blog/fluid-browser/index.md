@@ -17,7 +17,7 @@ But then that thought led to another - why do a Chrome extension at all? This be
 
 Would it make sense to have a single huge extension that augments my entire web browsing experience on Chrome, or would it be better to have them separate?
 
-![mock up with gemini](/images/mock-up-gemini.png)
+![mock up with gemini](./images/mock-up-gemini.png)
 
 Peeling off the layers, I come to what I think could be a new form factor - a personal web browser platform, where the extension layer isn't an extension layer, it's literally baked into the browser renderer.
 
