@@ -6,6 +6,8 @@ excerpt: "10 minutes talking head video about this + more"
 tags: ["Substack", "Business"]
 fav: false
 backlinks:
+  - slug: "/fluid-browser/"
+    title: "Fluid browser?"
 ---
 
 Hey folks. So, just a quick update on what I've been up to in this Slow Riches phase of my life. The whole thing is actually a talking head video that I've recorded on a whim (10 mins). You can either watch the video or you can read the transcript below:)
