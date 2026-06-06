@@ -7,6 +7,8 @@ tags: ["Money", "Living", "Parenting"]
 fav: false
 creation_duration_minutes: 40
 backlinks:
+  - slug: "/the-art-of-spending-money-by-morgan-housel/"
+    title: "The Art of Spending Money by Morgan Housel"
 ---
 
 My wife tells me about a person she knows. We affectionately call him the "Up uncle" because he looks like the uncle from the animated film, Up.

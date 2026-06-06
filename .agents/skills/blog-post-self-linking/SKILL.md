@@ -70,6 +70,38 @@ digraph linking_workflow {
 **Always use:**
 - ✅ Relative path: `/slug/`
 
+## Write Links as Authorial Context
+
+When a new post discusses an idea that resembles an older post, place the link
+inside an explicit reflection from the author. The anchor text should describe
+what the older post actually said, rather than turning the current post's term
+or claim into a link.
+
+This is especially important in book notes. Linking a book concept directly can
+falsely imply that the older post defines, explains, or is the source of that
+concept. Instead, state how the author's earlier thinking relates to the new
+idea: similar, incomplete, changed, contradicted, or newly clarified.
+
+Prefer:
+
+```markdown
+NA: 6 years ago, I came to a similar [conclusion](/older-post/) about "what's the point?"
+
+I used to think of it this way (which I now see is incomplete): [you're buying
+stuff not with money but with time](/older-post/).
+```
+
+Avoid:
+
+```markdown
+To get off the [**hedonic treadmill**](/older-post/), ...
+
+[**There is no such thing as unspent money.**](/older-post/)
+```
+
+The preferred form gives the reader a reason to follow the link and accurately
+describes the relationship between the current passage and the older post.
+
 ### Examples
 
 ```markdown

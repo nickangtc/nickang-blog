@@ -26,7 +26,7 @@ Later that evening, our daughter Charlotte comes home from kindergarten. The fir
 
 It's a black leather-bound Moleskine and Charlotte immediately likes it. She then proclaims that she needs one just like it.
 
-Need, not want. Our 4 year old is telling us she *needs* a Moleskine notebook.
+Need, not want. Our 4 year old is telling us she _needs_ a Moleskine notebook.
 
 So I try to explain, "you don't need this. You want it. But you already have a notebook."
 

@@ -14,6 +14,8 @@ backlinks:
     title: "Hard work is hard work"
   - slug: "/2021-05-15-raising-a-newborn-in-berlin-vs-singapore/"
     title: "Raising a newborn in Berlin vs Singapore"
+  - slug: "/the-art-of-spending-money-by-morgan-housel/"
+    title: "The Art of Spending Money by Morgan Housel"
 ---
 
 Most of us trade time for money. Do you deny it?

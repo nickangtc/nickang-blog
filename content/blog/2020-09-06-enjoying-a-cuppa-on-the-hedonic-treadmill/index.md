@@ -4,6 +4,8 @@ date_published: "2020-09-06"
 backlinks:
   - slug: "/2020-08-30-you-are-not-buying-that-with-money/"
     title: "You are not buying that with money"
+  - slug: "/the-art-of-spending-money-by-morgan-housel/"
+    title: "The Art of Spending Money by Morgan Housel"
 ---
 
 Last week I wrote about how [we don't buy things with money but with time](/2020-08-30-you-are-not-buying-that-with-money/). What's funny is that while I was writing that article, I was simultaneously growing fond of a new coffee machine. Having moved to Berlin almost a year ago and left my excellent home coffee setup in Singapore, I have since only made coffee using a Moka Pot. It's a good-enough coffee maker, but as I've been telling the few coffee aficionados among my friends, the Moka Pot provides, but it does not satisfy.
