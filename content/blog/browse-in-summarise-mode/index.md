@@ -7,6 +7,7 @@ tags: ["Tech", "Good intentions"]
 fav: false
 creation_duration_minutes:
 backlinks:
+ai_summary: "The post announces a new \"Summarise\" toggle for browsing the blog with AI-generated summaries, powered by gpt-5.5 and gpt-5.4-mini. The author says it was built to make the long, uneven blog list easier to scan and to help readers quickly judge whether an article is worth opening, including for the author's own revisits."
 ---
 
 Now you can use the Summarise toggle to browse this blog with AI summaries!
