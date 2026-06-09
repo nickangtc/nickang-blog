@@ -4,7 +4,7 @@ date_published: "2018-05-14"
 backlinks:
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
-ai_summary: "The post reflects on the idea that people can either passively admire others’ achievements or choose to create something remarkable themselves, using examples from baking, writing, music, activism, video, and coffee-making. Inspired by Christina Tosi’s Chef’s Table episode, the author argues that meaningful accomplishments require effort and pain, but that everyone has the ability to produce something amazing if they act instead of watching."
+ai_summary: "The post reflects on the idea that people can either passively admire others' achievements or choose to create something remarkable themselves, using examples from baking, writing, music, activism, video, and coffee-making. Inspired by Christina Tosi's Chef's Table episode, the author argues that meaningful accomplishments require effort and pain, but that everyone has the ability to produce something amazing if they act instead of watching."
 ---
 
 ![christina tosi chefs table](images/christina-tosi-chefs-table-1024x510.png)

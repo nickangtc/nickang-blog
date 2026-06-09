@@ -6,7 +6,7 @@ excerpt: "A growing list of use cases of AIs, including ChatGPT and GitHub Copil
 tags: ["Collection", "Productivity"]
 fav: false
 backlinks:
-ai_summary: "The post describes practical ChatGPT and GitHub Copilot use cases for software engineers, based on the author’s direct experience. Its main point is that these tools are especially useful for interpreting obfuscated post-build code and spotting subtle differences in similar assets like SVGs, helping with tasks that are hard to do quickly by hand. The conclusion is that AI can be a reliable day-to-day aid when applied to specific debugging and code-reading problems."
+ai_summary: "The post describes practical ChatGPT and GitHub Copilot use cases for software engineers, based on the author's direct experience. Its main point is that these tools are especially useful for interpreting obfuscated post-build code and spotting subtle differences in similar assets like SVGs, helping with tasks that are hard to do quickly by hand. The conclusion is that AI can be a reliable day-to-day aid when applied to specific debugging and code-reading problems."
 ---
 
 Everything here is based on my direct experience of successfully using AI to assist me in my day-to-day work and life. Each header is a situation where it worked.

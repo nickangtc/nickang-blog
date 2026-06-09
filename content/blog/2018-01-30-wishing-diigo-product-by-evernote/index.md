@@ -5,7 +5,7 @@ date_published: "2018-01-30"
 backlinks:
   - slug: "/2021-05-20-how-a-daily-note-fixed-my-note-taking-process/"
     title: "How a Daily Note fixed my note taking process"
-ai_summary: "The post argues that Diigo’s web annotation and outlining features feel like a natural fit for Evernote, and the author wishes Diigo were owned by Evernote so the two tools could work as one external brain. The main complaint is the lack of seamless integration, especially for syncing annotations and clipping full pages into Evernote, though the author notes that IFTTT may offer a partial workaround and plans to try it."
+ai_summary: "The post argues that Diigo's web annotation and outlining features feel like a natural fit for Evernote, and the author wishes Diigo were owned by Evernote so the two tools could work as one external brain. The main complaint is the lack of seamless integration, especially for syncing annotations and clipping full pages into Evernote, though the author notes that IFTTT may offer a partial workaround and plans to try it."
 ---
 
 ![diigo and evernote](images/Screen-Shot-2018-01-30-at-9.28.26-PM-1024x302.png) 

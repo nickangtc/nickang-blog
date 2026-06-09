@@ -8,7 +8,7 @@ backlinks:
     title: "Types of Notes in a PKM explained with a Gardening Analogy (Part I)"
   - slug: "/annual-review-2021/"
     title: "My 2021 Annual Review"
-ai_summary: "The post explains several personal knowledge management note types beyond atomic notes, focusing on daily notes, an index note, outline notes for external sources, and maps of content. Its main point is that each note type serves a distinct role: daily notes preserve context and origins of ideas, index notes act as a living manual for the system, outline notes help digest external material into atomic ideas, and MOCs organize and develop original work. The author concludes that PKM should remain personal and flexible, and that these tools should be adopted gradually based on what actually fits one’s workflow."
+ai_summary: "The post explains several personal knowledge management note types beyond atomic notes, focusing on daily notes, an index note, outline notes for external sources, and maps of content. Its main point is that each note type serves a distinct role: daily notes preserve context and origins of ideas, index notes act as a living manual for the system, outline notes help digest external material into atomic ideas, and MOCs organize and develop original work. The author concludes that PKM should remain personal and flexible, and that these tools should be adopted gradually based on what actually fits one's workflow."
 ---
 
 *This is part II of [Types of Notes in a PKM explained with a Gardening Analogy (Part I of II)](/2021-08-29-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-i/).*

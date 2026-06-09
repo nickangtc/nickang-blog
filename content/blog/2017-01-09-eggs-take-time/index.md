@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Eggs that take more time"
 date_published: "2017-01-09"
 backlinks:
-ai_summary: "The post compares Singapore’s traditional hawker-center soft-boiled egg breakfast with a newer mid-priced version that comes with the eggs already cracked, focusing on how this convenience changes the work for stall staff. The author argues that the setup likely creates an incentive mismatch, where workers do extra effort without extra pay while the owner captures the added margin. The conclusion is that paying employees slightly more could better align incentives, improve morale, and support the business."
+ai_summary: "The post compares Singapore's traditional hawker-center soft-boiled egg breakfast with a newer mid-priced version that comes with the eggs already cracked, focusing on how this convenience changes the work for stall staff. The author argues that the setup likely creates an incentive mismatch, where workers do extra effort without extra pay while the owner captures the added margin. The conclusion is that paying employees slightly more could better align incentives, improve morale, and support the business."
 ---
 
 One of my favourite Singaporean foods is the classic eggs and toast breakfast. Two soft-boiled egg heated to just slightly runny, served with soy sauce and a dash of pepper, paired with kaya and butter toasts and a cup of thick local coffee that my parents' parents drank. It's perfect.

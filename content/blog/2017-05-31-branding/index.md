@@ -5,7 +5,7 @@ tags: ["Business"]
 backlinks:
   - slug: "/2021-03-28-notes-from-show-your-work-by-austin-kleon-part-1/"
     title: "Notes from Show Your Work by Austin Kleon (Part 1)"
-ai_summary: "The post compares Uber and Grab in Singapore to show that nearly identical ride-hailing services can attract different customers because of brand perception, with Uber seen as more “executive” and Grab as more local and mixed. Its main point is that brands shape how people assign value and identity to products, so product managers and marketers should think about what associations their product creates and how customers feel about using it."
+ai_summary: "The post compares Uber and Grab in Singapore to show that nearly identical ride-hailing services can attract different customers because of brand perception, with Uber seen as more \"executive\" and Grab as more local and mixed. Its main point is that brands shape how people assign value and identity to products, so product managers and marketers should think about what associations their product creates and how customers feel about using it."
 ---
 
 In Singapore, as it probably is in other countries, we have more than one company fighting for ride-sharing dominance. We have Uber, which everybody knows by now, and then we have Grab - a brand that is less of a household name to most people living outside of Southeast Asia.

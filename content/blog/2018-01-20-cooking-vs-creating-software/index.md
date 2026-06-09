@@ -4,7 +4,7 @@ date_published: "2018-01-20"
 backlinks:
   - slug: "/what-i-learned-re-watching-chef-2014/"
     title: "What I learned re-watching Chef (2014)"
-ai_summary: "The post compares cooking and software creation, defining both as end-to-end processes from concept to finished product, and argues that good work in either field can go beyond copying existing examples. The author suggests that dissatisfaction with merely reproducing others’ work can drive original creation, using React and accomplished chefs as examples of how study, emulation, and eventually invention can produce something unique."
+ai_summary: "The post compares cooking and software creation, defining both as end-to-end processes from concept to finished product, and argues that good work in either field can go beyond copying existing examples. The author suggests that dissatisfaction with merely reproducing others' work can drive original creation, using React and accomplished chefs as examples of how study, emulation, and eventually invention can produce something unique."
 ---
 
 ![two chefs adding final touches to plating food](images/fabrizio-magoni-219347-1024x601.jpg) 

@@ -7,7 +7,7 @@ tags: ["Living", "Strictly 30"]
 fav: false
 creation_duration_minutes: 25
 backlinks:
-ai_summary: "The post reflects on a year-end stay in Spain, covering food, climbing, travel logistics, family festivities, and everyday inconveniences like illness, limited kitchen space, and airport carpark confusion. The author’s main point is that the trip was a mix of small hassles and many pleasures, including good weather, friendly people, and memorable experiences like outdoor bouldering and local holiday meals. The conclusion is that the stay was broadly enjoyable, with practical challenges outweighed by the positive moments."
+ai_summary: "The post reflects on a year-end stay in Spain, covering food, climbing, travel logistics, family festivities, and everyday inconveniences like illness, limited kitchen space, and airport carpark confusion. The author's main point is that the trip was a mix of small hassles and many pleasures, including good weather, friendly people, and memorable experiences like outdoor bouldering and local holiday meals. The conclusion is that the stay was broadly enjoyable, with practical challenges outweighed by the positive moments."
 ---
 
 Sweet juicy persimmons. Cut width-wise, reveal an asterisk.

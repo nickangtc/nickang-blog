@@ -5,7 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-11-18-linked-list-implementation-part-2/"
     title: "How to implement a Linked List in JavaScript"
-ai_summary: "The post explains JavaScript prototypes using constructor functions for objects like Car and Lorry, showing how methods such as sell can be shared through Car.prototype instead of duplicated inside every instance. The author’s main point is that prototypes reduce redundant code and save memory by keeping one shared function definition rather than recreating the same methods for each object. The conclusion is that this was a major optimization insight for the author, though they note they still want to explore prototypes further."
+ai_summary: "The post explains JavaScript prototypes using constructor functions for objects like Car and Lorry, showing how methods such as sell can be shared through Car.prototype instead of duplicated inside every instance. The author's main point is that prototypes reduce redundant code and save memory by keeping one shared function definition rather than recreating the same methods for each object. The conclusion is that this was a major optimization insight for the author, though they note they still want to explore prototypes further."
 ---
 
 ![picture of a small tree blossoming with flowers](images/20160905-IMG_20160905_124834-1024x768.jpg) 

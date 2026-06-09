@@ -7,7 +7,7 @@ backlinks:
     title: "How to find good food"
   - slug: "/2020-05-27-be-whacky-and-compel-feedback/"
     title: "Be whacky and compel feedback"
-ai_summary: "The post reflects on an Anthony Bourdain conversation in Cologne about “cappuccino people,” a term for a future in which racial mixing makes skin color less socially meaningful. The author uses this idea to argue that she has become less focused on race over time, has learned not to assume shared identity from ethnicity, and now values people more by individual values than by background. Her conclusion is optimistic: society is slowly moving toward less “other-ing” and greater acceptance through increasing racial diversity."
+ai_summary: "The post reflects on an Anthony Bourdain conversation in Cologne about \"cappuccino people,\" a term for a future in which racial mixing makes skin color less socially meaningful. The author uses this idea to argue that she has become less focused on race over time, has learned not to assume shared identity from ethnicity, and now values people more by individual values than by background. Her conclusion is optimistic: society is slowly moving toward less \"other-ing\" and greater acceptance through increasing racial diversity."
 ---
 
 ![parts unknown cologne cappuccino people](images/160505132851-02-bourdain-cologne-super-169-1024x576.jpg) 

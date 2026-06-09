@@ -2,7 +2,7 @@
 title: "German word drawings"
 date_published: "2020-08-16"
 backlinks:
-ai_summary: "The post describes the author’s attempt to learn German through a fun drawing-based memory aid inspired by a bookstore book of illustrated words. It introduces the first three entries—der Parkplatz, der Flughafen, and die Ankunft—as examples of this hobbyist word-drawing approach meant to make vocabulary easier to remember."
+ai_summary: "The post describes the author's attempt to learn German through a fun drawing-based memory aid inspired by a bookstore book of illustrated words. It introduces the first three entries—der Parkplatz, der Flughafen, and die Ankunft—as examples of this hobbyist word-drawing approach meant to make vocabulary easier to remember."
 ---
 
 I'm learning German now and I wanted to find a fun way to remember words. Yesterday, a colleague of mine went to a bookstore to buy a pretty book full of drawings that illustrated German words. I thought to myself, "that looks fun".

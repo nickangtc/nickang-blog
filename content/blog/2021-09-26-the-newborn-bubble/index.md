@@ -4,7 +4,7 @@ date_published: "2021-09-26"
 excerpt: 
 tags: ["Living"]
 backlinks:
-ai_summary: "The post describes the intense, sleep-deprived first two weeks after the author’s first child is born, centered on constant caregiving and the isolation of living in a “newborn bubble.” The author argues that asking whether parenthood feels happy is the wrong question; despite frustration, exhaustion, and lost freedom, the suffering is worth it because of a love they have never felt before."
+ai_summary: "The post describes the intense, sleep-deprived first two weeks after the author's first child is born, centered on constant caregiving and the isolation of living in a \"newborn bubble.\" The author argues that asking whether parenthood feels happy is the wrong question; despite frustration, exhaustion, and lost freedom, the suffering is worth it because of a love they have never felt before."
 ---
 
 I have an apartment with a roof and plumbing and this is the bubble I have lived in for the last two weeks since my first child was born. A newborn bubble. I don't sleep much and I don't do very much other than feed, carry, coax, assist in burping, changing diapers, launder, cook, wash, eat, and shit. Notably lacking: long walks in parks, Netflix, eating out, and meeting friends. 

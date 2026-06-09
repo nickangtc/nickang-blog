@@ -8,7 +8,7 @@ backlinks:
     title: "Visiting and evaluating Singapore"
   - slug: "/word-2026/"
     title: "Why I chose this to be my word for 2026"
-ai_summary: "The post explains why the author moved to Berlin with a wife and dog, focusing on a long-held desire to live abroad and experience life outside Singapore. Although Berlin was not the author’s first choice, he found it rewarding and concludes that living there has broadened his perspective, increased appreciation for Singapore, and may inform how he chooses to live in the future."
+ai_summary: "The post explains why the author moved to Berlin with a wife and dog, focusing on a long-held desire to live abroad and experience life outside Singapore. Although Berlin was not the author's first choice, he found it rewarding and concludes that living there has broadened his perspective, increased appreciation for Singapore, and may inform how he chooses to live in the future."
 ---
 
 I regularly get asked why I moved to Berlin. While I'd be glad to answer this question every time I get asked because because *wow*, I *get* to live in Berlin, I wanted to write my answer properly so I can share this article with whoever seems to really want to know my reasons.

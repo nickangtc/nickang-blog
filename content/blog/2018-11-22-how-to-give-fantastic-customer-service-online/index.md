@@ -3,7 +3,7 @@ title: "How to give fantastic customer service online"
 date_published: "2018-11-22"
 tags: ["Business"]
 backlinks:
-ai_summary: "The post discusses an article about Backcountry’s online customer service, where highly knowledgeable support reps build unusually strong customer relationships through proactive, personalized help. The author argues that fantastic e-commerce service depends on deep CRM integration, detailed customer notes, strong onboarding and ongoing training, and tailored shopping experiences. The post concludes that these practices are worth studying for anyone interested in digital customer support and online retail."
+ai_summary: "The post discusses an article about Backcountry's online customer service, where highly knowledgeable support reps build unusually strong customer relationships through proactive, personalized help. The author argues that fantastic e-commerce service depends on deep CRM integration, detailed customer notes, strong onboarding and ongoing training, and tailored shopping experiences. The post concludes that these practices are worth studying for anyone interested in digital customer support and online retail."
 ---
 
 ![How to give fantastic customer service online](images/how-to-give-fantastic-customer-service-online-1024x683.jpg)

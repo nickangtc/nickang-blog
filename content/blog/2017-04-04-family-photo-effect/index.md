@@ -2,7 +2,7 @@
 title: "The family photo effect"
 date_published: "2017-04-04"
 backlinks:
-ai_summary: "The post describes how the author visited a car workshop and quickly came to trust the mechanic manager after noticing family photos of him with his wife and young son displayed at work. The main point is that openly showing family attachment can signal character and make others feel someone is trustworthy and less likely to act selfishly. The author concludes that this “family photo effect” is a mix of instinct and reasoning, but it can meaningfully influence trust."
+ai_summary: "The post describes how the author visited a car workshop and quickly came to trust the mechanic manager after noticing family photos of him with his wife and young son displayed at work. The main point is that openly showing family attachment can signal character and make others feel someone is trustworthy and less likely to act selfishly. The author concludes that this \"family photo effect\" is a mix of instinct and reasoning, but it can meaningfully influence trust."
 ---
 
 Everyone takes photos with their family, but only those who have their priorities straightened pin them up in their cubicles at work. And with that act comes a family photo effect.

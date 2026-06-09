@@ -3,7 +3,7 @@ title: "Optimisation: Is it worth the time? (part 1)"
 date_published: "2017-10-26"
 tags: ["Tech"]
 backlinks:
-ai_summary: "The post examines when spending time optimizing a routine task is actually worthwhile, using examples of saving one minute per task in exchange for a full day of optimization. It argues that such optimization only makes sense if the task is done often enough, and notes xkcd’s rule of thumb that the payoff should be considered over at least five years. The author concludes that many work tasks may meet that threshold and plans to assess common programming tasks in a later post."
+ai_summary: "The post examines when spending time optimizing a routine task is actually worthwhile, using examples of saving one minute per task in exchange for a full day of optimization. It argues that such optimization only makes sense if the task is done often enough, and notes xkcd's rule of thumb that the payoff should be considered over at least five years. The author concludes that many work tasks may meet that threshold and plans to assess common programming tasks in a later post."
 ---
 
 ![lone tree optimisation worth it](images/BSP-optimisation-worth-it-part-1.png) 

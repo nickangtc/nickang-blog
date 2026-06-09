@@ -2,7 +2,7 @@
 title: "How to be lost in thought"
 date_published: "2016-10-01"
 backlinks:
-ai_summary: "The post reflects on the habit of appearing deep in thought and the author’s frustration with how much of their actual thinking is filled with pointless, repetitive worries rather than anything meaningful. The main point is that people should stop wandering into their minds on autopilot and instead choose focused thought deliberately, because even “important” worries are often not worth the mental time. The conclusion is that reflection should be intentional, with the mind treated as a place to enter only when needed."
+ai_summary: "The post reflects on the habit of appearing deep in thought and the author's frustration with how much of their actual thinking is filled with pointless, repetitive worries rather than anything meaningful. The main point is that people should stop wandering into their minds on autopilot and instead choose focused thought deliberately, because even \"important\" worries are often not worth the mental time. The conclusion is that reflection should be intentional, with the mind treated as a place to enter only when needed."
 ---
 
 ![flowering plants in the balcony](images/IMG_20161001_172942-1024x834.jpg) 

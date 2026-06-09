@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Bad software - Kopitiam top up machine"
 date_published: "2017-11-05"
 backlinks:
-ai_summary: "The post criticizes Kopitiam’s card top-up machines in Singapore for only accepting one note at a time, which the author argues is clumsy and unnecessary given modern expectations for software. The main point is that poorly designed, sub-standard software wastes users’ time and reflects badly on developers, and the conclusion is that Kopitiam should patch the machines to make top-ups less frustrating."
+ai_summary: "The post criticizes Kopitiam's card top-up machines in Singapore for only accepting one note at a time, which the author argues is clumsy and unnecessary given modern expectations for software. The main point is that poorly designed, sub-standard software wastes users' time and reflects badly on developers, and the conclusion is that Kopitiam should patch the machines to make top-ups less frustrating."
 ---
 
 ![guy looking stressed presumably because of the kopitiam top up machine](images/nik-shuliahin-251237-1024x668.jpg) 

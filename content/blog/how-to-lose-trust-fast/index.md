@@ -7,7 +7,9 @@ tags: ["Career"]
 fav: false
 creation_duration_minutes: 41
 backlinks:
-ai_summary: "The post describes a software engineer losing a colleague’s trust after repeatedly misreading a project Notion document, missing an explicitly stated launch timeline, and asking a question in Slack based on an inaccurate assumption. The author argues that small, careless mistakes and failing to verify information before asking can erode trust, while meticulous fact-checking, like a colleague named Bobby, helps people become more reliable and speeds up work."
+  - slug: "/support-engineering/"
+    title: "Support Engineering"
+ai_summary: "The post describes a software engineer losing a colleague's trust after repeatedly misreading a project Notion document, missing an explicitly stated launch timeline, and asking a question in Slack based on an inaccurate assumption. The author argues that small, careless mistakes and failing to verify information before asking can erode trust, while meticulous fact-checking, like a colleague named Bobby, helps people become more reliable and speeds up work."
 ---
 
 Recently I caused a colleague to lose some trust in me, and it was due to a minor but frequently repeated mistake on my part.

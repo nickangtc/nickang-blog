@@ -10,7 +10,7 @@ backlinks:
     title: "How to use git stash (and when not to use it)"
   - slug: "/2017-11-03-what-is-git/"
     title: "What is Git?"
-ai_summary: "The post explains how a team discovered that their staging and master branches had different commit counts because GitHub merge commits added extra history to master, even though the code was effectively in sync. It then describes replacing one branch’s code and history with another by force-pushing the source branch into the target branch, using commands like fetch, reset, renaming branches, and pushing to update remote history. It concludes that this works well but requires warning teammates to resync their local branches and temporarily disabling branch protection if the target branch is protected."
+ai_summary: "The post explains how a team discovered that their staging and master branches had different commit counts because GitHub merge commits added extra history to master, even though the code was effectively in sync. It then describes replacing one branch's code and history with another by force-pushing the source branch into the target branch, using commands like fetch, reset, renaming branches, and pushing to update remote history. It concludes that this works well but requires warning teammates to resync their local branches and temporarily disabling branch protection if the target branch is protected."
 ---
 
 ![photo of a branch of leaves](images/leo-rivas-micoud-25480.jpg) 

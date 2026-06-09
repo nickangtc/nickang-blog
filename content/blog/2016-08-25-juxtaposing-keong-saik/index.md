@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Substantial juxtaposition in Keong Saik"
 date_published: "2016-08-25"
 backlinks:
-ai_summary: "The post reflects on the visual contrast in Duxton and Keong Saik, where modern skyscrapers and the Pinnacles @ Duxton sit beside preserved shophouses and older streets, highlighting Singapore’s rapid transformation since independence. The author argues that this juxtaposition feels meaningful rather than pretentious because it reflects real national development and effective governance, making the contrast a symbol of progress. The piece concludes with a quiet sense of pride in seeing how far Singapore has come."
+ai_summary: "The post reflects on the visual contrast in Duxton and Keong Saik, where modern skyscrapers and the Pinnacles @ Duxton sit beside preserved shophouses and older streets, highlighting Singapore's rapid transformation since independence. The author argues that this juxtaposition feels meaningful rather than pretentious because it reflects real national development and effective governance, making the contrast a symbol of progress. The piece concludes with a quiet sense of pride in seeing how far Singapore has come."
 ---
 
 To juxtapose elements in a scene against others is to pick on contrasts. In Duxton where I'm having programming classes, the contrast is stark at every corner: newly erected skyscrapers behind two-storey shophouses that have stood since Singapore was a British colony; adults, mostly corporate workers, walk around the old streets dressed in clothes that are up to date.

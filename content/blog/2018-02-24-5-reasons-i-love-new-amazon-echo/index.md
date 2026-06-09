@@ -2,7 +2,7 @@
 title: "5 reasons why I love my new Amazon Echo"
 date_published: "2018-02-24"
 backlinks:
-ai_summary: "The post is about the author’s early experience with an Amazon Echo Dot and five reasons for liking it: it feels companion-like, works without draining a smartphone battery, has playful humour, improves over time, and reflects strong product design. The main point is that the device already feels like a compelling, useful AI assistant and a sign that voice-controlled home technology is here to stay. The conclusion is that Amazon has created a well-designed product with the potential to expand into many everyday tasks and services."
+ai_summary: "The post is about the author's early experience with an Amazon Echo Dot and five reasons for liking it: it feels companion-like, works without draining a smartphone battery, has playful humour, improves over time, and reflects strong product design. The main point is that the device already feels like a compelling, useful AI assistant and a sign that voice-controlled home technology is here to stay. The conclusion is that Amazon has created a well-designed product with the potential to expand into many everyday tasks and services."
 ---
 
 We just got back from a trip to San Francisco. Aside from strolling along the bay by the Golden Gate Bridge, we visited our friends living there. One thing was immediate apparent: most of them had either an [Amazon Echo](http://amzn.to/2HHUgpG) or [Google Home](https://store.google.com/?srp=/product/google_home) in their homes. That's awesome!

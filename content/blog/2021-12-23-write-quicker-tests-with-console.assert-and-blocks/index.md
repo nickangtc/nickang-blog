@@ -5,7 +5,7 @@ excerpt:
 tags: ["Tech"]
 fav: false
 backlinks:
-ai_summary: "The post explains that in JavaScript, curly braces can be parsed as a block rather than an object, and that this can be combined with console.assert to create very quick, lightweight tests directly alongside implementation code. The author’s main point is that this pattern is useful for simple, “quick and dirty” testing during development, offering an easy way to validate behavior without a full test setup."
+ai_summary: "The post explains that in JavaScript, curly braces can be parsed as a block rather than an object, and that this can be combined with console.assert to create very quick, lightweight tests directly alongside implementation code. The author's main point is that this pattern is useful for simple, \"quick and dirty\" testing during development, offering an easy way to validate behavior without a full test setup."
 ---
 
 Apparently `{}` can be interpreted by the JavaScript engine as a block and not an object. That's the first learning.

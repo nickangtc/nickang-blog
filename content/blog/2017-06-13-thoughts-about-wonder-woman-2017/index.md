@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "A guy's thoughts about Wonder Woman 2017"
 date_published: "2017-06-13"
 backlinks:
-ai_summary: "The post reflects on Wonder Woman 2017, praising its portrayal of Diana as inspiring, emotionally open, and focused on strength and principles, with particular admiration for scenes like No Man’s Land and her reactions to small moments of joy. The author notes some implausible plot elements but argues that the film’s genuine emotion outweighs them and makes it a standout superhero experience. The conclusion is that Wonder Woman works especially well as a long-needed female hero for girls to rally behind."
+ai_summary: "The post reflects on Wonder Woman 2017, praising its portrayal of Diana as inspiring, emotionally open, and focused on strength and principles, with particular admiration for scenes like No Man's Land and her reactions to small moments of joy. The author notes some implausible plot elements but argues that the film's genuine emotion outweighs them and makes it a standout superhero experience. The conclusion is that Wonder Woman works especially well as a long-needed female hero for girls to rally behind."
 ---
 
 **Warning**, I'm going to be sharing my thoughts about Wonder Woman, so spoilers ahead. Please skip this post if you haven't watched the DC movie. (It is in my opinion worth your time, so please don't let me spoil it for you!)

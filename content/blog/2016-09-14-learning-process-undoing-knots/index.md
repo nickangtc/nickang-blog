@@ -2,7 +2,7 @@
 title: "Continually undo knots"
 date_published: "2016-09-14"
 backlinks:
-ai_summary: "The post describes the author’s struggle learning how to connect a web application’s client, server, and database using Node.js and Sequelize, initially understanding the concept through simple metaphors but finding the real implementation difficult. The main point is that coding is a continual process of untangling problems, and the author concludes that finally solving the setup felt satisfying and is a sign of growth worth expecting again in future learning."
+ai_summary: "The post describes the author's struggle learning how to connect a web application's client, server, and database using Node.js and Sequelize, initially understanding the concept through simple metaphors but finding the real implementation difficult. The main point is that coding is a continual process of untangling problems, and the author concludes that finally solving the setup felt satisfying and is a sign of growth worth expecting again in future learning."
 ---
 
 ![a whiteboard with a sketched diagram of the relationship between database, server, and client](images/sequelize_node_database-1024x768.jpeg) 

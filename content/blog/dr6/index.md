@@ -7,7 +7,7 @@ tags: ["Living", "Daily Reflection"]
 fav: false
 creation_duration_minutes: 22
 backlinks:
-ai_summary: "The post describes a father’s frustration when a Gruffalo puppet show would not take reservations by phone, only to later learn the venue had intentionally reserved seats for walk-in customers. The author’s main point is that decisions that seem irrational may have a sensible, humane purpose, and initial judgments can be wrong. The conclusion is to criticize gently and stay open to the possibility that one may be the fool."
+ai_summary: "The post describes a father's frustration when a Gruffalo puppet show would not take reservations by phone, only to later learn the venue had intentionally reserved seats for walk-in customers. The author's main point is that decisions that seem irrational may have a sensible, humane purpose, and initial judgments can be wrong. The conclusion is to criticize gently and stay open to the possibility that one may be the fool."
 ---
 
 I planned to take my daughter to a Gruffalo puppet show, but a friend phoned the roving circus and they said "No reservations. You can come earlier to buy your tickets."

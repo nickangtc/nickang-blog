@@ -5,7 +5,7 @@ date_published: "2016-04-07"
 backlinks:
   - slug: "/2016-04-08-broadway/"
     title: "(US) A Little Broadway"
-ai_summary: "The post describes a day of walking through Manhattan, especially Washington Square Park and the surrounding NYU area, where the author admires the park’s public life and the university’s close connection to the city. The main point is that New York feels open, lively, and culturally different from Singapore, and this makes the author feel envious of students who can study and live there. He concludes by reflecting on missed opportunities as an undergraduate and suggesting that a future master’s programme abroad could still offer that experience."
+ai_summary: "The post describes a day of walking through Manhattan, especially Washington Square Park and the surrounding NYU area, where the author admires the park's public life and the university's close connection to the city. The main point is that New York feels open, lively, and culturally different from Singapore, and this makes the author feel envious of students who can study and live there. He concludes by reflecting on missed opportunities as an undergraduate and suggesting that a future master's programme abroad could still offer that experience."
 ---
 
 ![Few flowers have bloomed even though it's Spring time](images/DSCF6764_edited.jpg) 

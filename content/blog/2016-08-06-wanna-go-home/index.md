@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "I wanna go home!"
 date_published: "2016-08-06"
 backlinks:
-ai_summary: "The post describes the author’s frustration while on a Hong Kong vacation focused on shopping, eating, and walking, which he finds dull and unproductive. His main point is that he would rather be home working on coding, writing, electronics, and other creative projects, because he feels a strong drive to use his time well while his energy lasts. He concludes that time is the most valuable currency and that he wants to be useful to others through work rather than leisure."
+ai_summary: "The post describes the author's frustration while on a Hong Kong vacation focused on shopping, eating, and walking, which he finds dull and unproductive. His main point is that he would rather be home working on coding, writing, electronics, and other creative projects, because he feels a strong drive to use his time well while his energy lasts. He concludes that time is the most valuable currency and that he wants to be useful to others through work rather than leisure."
 ---
 
 ![hong kong police mtr](images/DSCF7873_nickang_edited-1024x683.jpg)For the first time in my life I'm yearning to go home early from a vacation. The only time this has happened was when I was 12 and stuck in the never-ending Women's Street in Hong Kong with my mother and sister. I guess I could blame it on women, or Hong Kong.

@@ -4,7 +4,7 @@ date_published: "2018-07-21"
 backlinks:
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
-ai_summary: "The post describes how the author brought a reusable bowl to a salad shop and was unexpectedly met with encouragement, a discount, and then a wider company-wide incentive for customers to do the same. The author’s main point is that individual actions can matter more than expected when others are receptive, because one small effort can trigger broader environmental change and even business goodwill."
+ai_summary: "The post describes how the author brought a reusable bowl to a salad shop and was unexpectedly met with encouragement, a discount, and then a wider company-wide incentive for customers to do the same. The author's main point is that individual actions can matter more than expected when others are receptive, because one small effort can trigger broader environmental change and even business goodwill."
 ---
 
 ![bowl story time instagram nick ang blog](images/bowl-story-time-instagram-nick-ang-blog.jpg) 

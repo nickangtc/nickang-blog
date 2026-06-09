@@ -3,7 +3,7 @@ title: "Uber the provocateur"
 date_published: "2018-01-08"
 tags: ["Business"]
 backlinks:
-ai_summary: "The post examines an Uber ad that critiques car ownership and public transport policy in Singapore, contrasting the company’s provocative marketing with its controversial history and disregard for local rules. The author is conflicted: he appreciates Uber’s useful product and the value of public pressure on government, but questions whether a foreign tech company should be influencing policy through clever advertising. He concludes that efficiency and marketing should not be mistaken for good governance, and that people should remain alert to the broader consequences of technology-driven change."
+ai_summary: "The post examines an Uber ad that critiques car ownership and public transport policy in Singapore, contrasting the company's provocative marketing with its controversial history and disregard for local rules. The author is conflicted: he appreciates Uber's useful product and the value of public pressure on government, but questions whether a foreign tech company should be influencing policy through clever advertising. He concludes that efficiency and marketing should not be mistaken for good governance, and that people should remain alert to the broader consequences of technology-driven change."
 ---
 
 ![uber the provocateur blog post banner](images/uber-the-provocateur-blog-post-banner.png) 

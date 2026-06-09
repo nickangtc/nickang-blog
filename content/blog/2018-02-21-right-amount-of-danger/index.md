@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "The right amount of danger"
 date_published: "2018-02-21"
 backlinks:
-ai_summary: "The post compares life in Singapore and the San Francisco Bay Area through the lens of danger, arguing that Singapore is so safe that it can make people complacent, while parts of the Bay Area are so risky that they force constant vigilance. The author’s main point is that a meaningful life may require a balance of safety and danger, with enough risk to stay engaged but not so much that daily life becomes exhausting. The conclusion is that the ideal level of danger lies somewhere between the two cities."
+ai_summary: "The post compares life in Singapore and the San Francisco Bay Area through the lens of danger, arguing that Singapore is so safe that it can make people complacent, while parts of the Bay Area are so risky that they force constant vigilance. The author's main point is that a meaningful life may require a balance of safety and danger, with enough risk to stay engaged but not so much that daily life becomes exhausting. The conclusion is that the ideal level of danger lies somewhere between the two cities."
 ---
 
 ![san francisco wells fargo nick ang blog](images/20180220-IMG_20180220_193047-nickang-blog-1024x768.jpg)

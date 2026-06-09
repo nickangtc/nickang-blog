@@ -2,7 +2,7 @@
 title: "What is the most valuable thing you got from this session?"
 date_published: "2020-06-17"
 backlinks:
-ai_summary: "The post describes a simple closing question used in coaching-style meetings: “What is the most valuable thing you got from this session?” The author learned it during an agile workflow discussion with an internal expert and argues that it helps participants identify and remember the most useful takeaway while also giving the expert feedback on what resonated. The conclusion is that it is a highly effective way to end expert-led meetings, and the author plans to use it in future sessions."
+ai_summary: "The post describes a simple closing question used in coaching-style meetings: \"What is the most valuable thing you got from this session?\" The author learned it during an agile workflow discussion with an internal expert and argues that it helps participants identify and remember the most useful takeaway while also giving the expert feedback on what resonated. The conclusion is that it is a highly effective way to end expert-led meetings, and the author plans to use it in future sessions."
 ---
 
 I'm learning a bit of meeting rituals lately, and today I learned one that I know I will use a lot in the future. "What is the most valuable thing you got from this session?" is a question that creates a lot of value when asked at the end of a coaching session.

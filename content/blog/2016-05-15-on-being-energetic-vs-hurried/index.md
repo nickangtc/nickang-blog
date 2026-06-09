@@ -2,7 +2,7 @@
 title: "Energetic Vs. Hurried"
 date_published: "2016-05-15"
 backlinks:
-ai_summary: "The author reflects on the difference between hurrying and being genuinely energetic, inspired by Casey Neistat’s steady high-energy presence and an analogy to Heinz ketchup as a “high-amplitude” whole. After assuming fast-moving people were necessarily unsettled, the author concludes that it is possible to act quickly while remaining calm and present, and says he plans to practice recognizing and embodying that balance."
+ai_summary: "The author reflects on the difference between hurrying and being genuinely energetic, inspired by Casey Neistat's steady high-energy presence and an analogy to Heinz ketchup as a \"high-amplitude\" whole. After assuming fast-moving people were necessarily unsettled, the author concludes that it is possible to act quickly while remaining calm and present, and says he plans to practice recognizing and embodying that balance."
 ---
 
 The main thing that occupied my mind today is the difference between hurrying and being energetic.

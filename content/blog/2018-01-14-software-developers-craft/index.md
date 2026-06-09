@@ -5,7 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2018-01-20-cooking-vs-creating-software/"
     title: "Cooking vs creating software"
-ai_summary: "The post argues that software development should be treated as a craft like cooking, and that there should be a Chef’s Table-style series to show what great developers are like and inspire others by example. The author says textbooks teach skills but not character or practice, and concludes that until such a resource exists, they will keep building technical ability while trying to define and grow toward what great software development means."
+ai_summary: "The post argues that software development should be treated as a craft like cooking, and that there should be a Chef's Table-style series to show what great developers are like and inspire others by example. The author says textbooks teach skills but not character or practice, and concludes that until such a resource exists, they will keep building technical ability while trying to define and grow toward what great software development means."
 ---
 
 ![software developers craft post banner](images/20171223-software-developers-craft-nickang-blog.jpg) 

@@ -4,7 +4,7 @@ date_published: "2021-06-27"
 excerpt: 
 tags: ["Living"]
 backlinks:
-ai_summary: "The post explains why the author and spouse bought several convenience items on Amazon Prime Day, including kitchen appliances, a washer-dryer, a night light, a scale, and an Echo Dot, after a long period of not feeling they needed them in Germany. The author argues that convenience can be problematic in general, but says these purchases are justified because they are preparing for their first child and expect the items to save time, reduce stress, and support the baby’s care and sleep."
+ai_summary: "The post explains why the author and spouse bought several convenience items on Amazon Prime Day, including kitchen appliances, a washer-dryer, a night light, a scale, and an Echo Dot, after a long period of not feeling they needed them in Germany. The author argues that convenience can be problematic in general, but says these purchases are justified because they are preparing for their first child and expect the items to save time, reduce stress, and support the baby's care and sleep."
 ---
 
 ![screenshot of my Amazon order list](./images/amazon-order-list.jpg)

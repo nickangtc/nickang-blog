@@ -7,7 +7,7 @@ tags: ["Tech", "Productivity"]
 fav: false
 creation_duration_minutes: 45
 backlinks:
-ai_summary: "The post explains why the author returned to Claude’s expensive Max subscription for Claude Code, an AI coding tool that can work directly in a computer’s filesystem and dramatically speed up software development. The main point is that frequent usage limits on cheaper plans made pay-per-token usage too costly and restrictive, while the fixed-price Max plan restored an all-you-can-eat workflow that better fits the author’s app-building habits. The conclusion is that Max is worth the higher monthly cost because it removes hesitation and makes intensive Claude Code use practical."
+ai_summary: "The post explains why the author returned to Claude's expensive Max subscription for Claude Code, an AI coding tool that can work directly in a computer's filesystem and dramatically speed up software development. The main point is that frequent usage limits on cheaper plans made pay-per-token usage too costly and restrictive, while the fixed-price Max plan restored an all-you-can-eat workflow that better fits the author's app-building habits. The conclusion is that Max is worth the higher monthly cost because it removes hesitation and makes intensive Claude Code use practical."
 ---
 
 New year, new Claude plan?

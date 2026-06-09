@@ -7,7 +7,7 @@ tags: ["Living", "Creativity", "2025 - Notice"]
 fav: false
 creation_duration_minutes: 20
 backlinks:
-ai_summary: "The post describes the author’s experience after quitting coffee in early 2025 because caffeine seemed to worsen social anxiety, and how they unexpectedly had their first post-caffeine burst of inspiration. The main point is that caffeine is not the only way to trigger productive mental surges, and that such “brainstorms” may also come from being well-rested and generally healthy. The author concludes that the idea that creative work requires coffee should be questioned."
+ai_summary: "The post describes the author's experience after quitting coffee in early 2025 because caffeine seemed to worsen social anxiety, and how they unexpectedly had their first post-caffeine burst of inspiration. The main point is that caffeine is not the only way to trigger productive mental surges, and that such \"brainstorms\" may also come from being well-rested and generally healthy. The author concludes that the idea that creative work requires coffee should be questioned."
 ---
 
 I gave up coffee at the beginning of 2025. I did it because I was increasingly anxious in social contexts – giving an update to a small company town hall, telling the baker what bread I'd like, and even when introducing myself at a parent-teacher conference.

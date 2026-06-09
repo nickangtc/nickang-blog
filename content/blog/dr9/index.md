@@ -7,7 +7,7 @@ tags: ["Tech", "Daily Reflection"]
 fav: false
 creation_duration_minutes:
 backlinks:
-ai_summary: "The post explains that a product manager’s core work includes progressing toward product-market fit, building adjacent features, driving growth in existing markets, and expanding into new products or markets. It argues that strong product leaders also need to anticipate changing customer needs, manage stakeholders effectively, and understand technology well enough to make smart decisions, especially as AI becomes more common."
+ai_summary: "The post explains that a product manager's core work includes progressing toward product-market fit, building adjacent features, driving growth in existing markets, and expanding into new products or markets. It argues that strong product leaders also need to anticipate changing customer needs, manage stakeholders effectively, and understand technology well enough to make smart decisions, especially as AI becomes more common."
 ---
 
 A product manager's bread and butter involves (inspired by [Reforge](https://www.reforge.com/blog/product-work-beyond-product-market-fit)):

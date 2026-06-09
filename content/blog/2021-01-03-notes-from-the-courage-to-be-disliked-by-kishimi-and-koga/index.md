@@ -6,7 +6,7 @@ tags: ["Books"]
 backlinks:
   - slug: "/2021-01-10-focus-on-understanding-not-on-what-is-right/"
     title: "Focus on understanding, not on what is right"
-ai_summary: "The post discusses Kishimi and Koga’s The Courage to Be Disliked, focusing on Adlerian ideas such as teleology, interpersonal problems, and especially the separation of tasks. Its main point is that people can become freer and less burdened by shifting attention from past causes and others’ judgments to what is actually their own responsibility. The conclusion is that living by one’s principles may draw dislike from others, but that can be a sign of courage and personal freedom."
+ai_summary: "The post discusses Kishimi and Koga's The Courage to Be Disliked, focusing on Adlerian ideas such as teleology, interpersonal problems, and especially the separation of tasks. Its main point is that people can become freer and less burdened by shifting attention from past causes and others' judgments to what is actually their own responsibility. The conclusion is that living by one's principles may draw dislike from others, but that can be a sign of courage and personal freedom."
 ---
 
 ![The book cover of The Courage to Be Disliked](./images/the-courage-to-be-disliked-book-cover.jpg)

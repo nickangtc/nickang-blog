@@ -5,7 +5,7 @@ date_published: "2017-10-29"
 backlinks:
   - slug: "/2018-02-01-sleep-is-sacred/"
     title: "Sleep is sacred"
-ai_summary: "The post argues that coffee or strong tea can serve as a personal litmus test for whether enough rest has been had: if someone reaches for it mainly for caffeine, they are likely tired; if they can enjoy it purely for taste and aroma, they are probably well rested. The author’s main point is that distinguishing need from enjoyment can reveal whether life is balanced, and the practical conclusion is that enjoying coffee without relying on its stimulant effect signals being rested, at least for that day."
+ai_summary: "The post argues that coffee or strong tea can serve as a personal litmus test for whether enough rest has been had: if someone reaches for it mainly for caffeine, they are likely tired; if they can enjoy it purely for taste and aroma, they are probably well rested. The author's main point is that distinguishing need from enjoyment can reveal whether life is balanced, and the practical conclusion is that enjoying coffee without relying on its stimulant effect signals being rested, at least for that day."
 ---
 
 ![laptop and cup of cappuccino on wooden table](images/nolan-issac-38299-1024x683.jpg) 

@@ -4,7 +4,7 @@ date_published: "2020-03-25"
 backlinks:
   - slug: "/2020-07-10-not-now/"
     title: "Not now"
-ai_summary: "The author explains switching from Wunderlist to Todoist after Wunderlist announced it would shut down and move into Microsoft To Do, and says the move was driven by a need for a fast, shareable, independent task app with reminders, notes, and images. After comparing alternatives like TickTick and Microsoft To Do, the author found Todoist easy to set up, mostly migrated tasks manually when the importer stalled, and quickly appreciated its clean design, smart date recognition, themes, and nested project structure. The conclusion is that Todoist better fit the author’s workflow and revealed that many old tasks in Wunderlist were outdated."
+ai_summary: "The author explains switching from Wunderlist to Todoist after Wunderlist announced it would shut down and move into Microsoft To Do, and says the move was driven by a need for a fast, shareable, independent task app with reminders, notes, and images. After comparing alternatives like TickTick and Microsoft To Do, the author found Todoist easy to set up, mostly migrated tasks manually when the importer stalled, and quickly appreciated its clean design, smart date recognition, themes, and nested project structure. The conclusion is that Todoist better fit the author's workflow and revealed that many old tasks in Wunderlist were outdated."
 ---
 
 ![wunderlist is becoming microsoft to do](images/wunderlist-is-becoming-microsoft-to-do-1024x588.png)

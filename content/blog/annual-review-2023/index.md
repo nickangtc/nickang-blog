@@ -18,7 +18,7 @@ backlinks:
     title: "My 2025 Annual Review"
   - slug: "/word-2026/"
     title: "Why I chose this to be my word for 2026"
-ai_summary: "The post reflects on the author’s 2023 year, covering a move from Berlin to Düsseldorf, a layoff and quick job transition, building a daily logging habit, and cutting back on social media, while also noting setbacks like overestimating job security and not finishing side projects. The main point is that deliberate action, simpler habits, and clearer priorities brought progress, but uncertainty remained around work’s role in life and reading habits. The conclusion is that music and guitar helped him cope and recover, and that future job choices will favor “good enough” over big-name prestige."
+ai_summary: "The post reflects on the author's 2023 year, covering a move from Berlin to Düsseldorf, a layoff and quick job transition, building a daily logging habit, and cutting back on social media, while also noting setbacks like overestimating job security and not finishing side projects. The main point is that deliberate action, simpler habits, and clearer priorities brought progress, but uncertainty remained around work's role in life and reading habits. The conclusion is that music and guitar helped him cope and recover, and that future job choices will favor \"good enough\" over big-name prestige."
 ---
 
 An Annual Review is a personal note that is designed to spark self-reflection about the year that just went by. The goal is to take stock of the year, appreciate the little things, digest the learnings, and apply them in the years to come.

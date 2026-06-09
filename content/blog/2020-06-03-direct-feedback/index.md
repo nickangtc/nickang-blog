@@ -3,6 +3,8 @@ title: "Direct feedback"
 date_published: "2020-06-03"
 tags: ["Leadership", "Communication"]
 backlinks:
+  - slug: "/support-engineering/"
+    title: "Support Engineering"
 ai_summary: "The post describes the author noticing a colleague, who is also a Team Lead, lingering on a customer support chat longer than necessary and considering how to raise the issue. The main point is that direct feedback is preferable to avoidance, gossip, or relaying criticism through others because it better preserves trust and aligns with radical candour. In the end, the author gave the feedback privately by direct message, and the colleague received it well."
 ---
 

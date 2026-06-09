@@ -15,7 +15,7 @@ backlinks:
     title: "My 2023 Annual Review"
   - slug: "/annual-review-2025/"
     title: "My 2025 Annual Review"
-ai_summary: "The post is an annual review of the author’s 2020, covering wins, setbacks, and lessons across writing, meditation, health, tech independence, and life abroad. The main point is that consistent habits and intentional self-reflection brought meaningful progress, while lack of exercise, excessive TV, and an unfinished novel were clear shortcomings. The author concludes that writing improves through rewrites, journaling is only needed when the mind feels cluttered, and people should respond thoughtfully rather than internalize others’ hurt."
+ai_summary: "The post is an annual review of the author's 2020, covering wins, setbacks, and lessons across writing, meditation, health, tech independence, and life abroad. The main point is that consistent habits and intentional self-reflection brought meaningful progress, while lack of exercise, excessive TV, and an unfinished novel were clear shortcomings. The author concludes that writing improves through rewrites, journaling is only needed when the mind feels cluttered, and people should respond thoughtfully rather than internalize others' hurt."
 ---
 
 This is the first time I am writing an Annual Review in this format. I've experimented with various formats over the last three years ([2017](/annual-review-2017/), [2018](/annual-review-2018/), [2019](/annual-review-2019/)) and I think it is time to bring some consistency into these year-end reflections.

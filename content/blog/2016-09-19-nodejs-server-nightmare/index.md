@@ -11,7 +11,7 @@ backlinks:
     title: "You don't know everything"
   - slug: "/2018-03-24-create-simple-command-line-program-node/"
     title: "How to create simple Command Line Program with Node"
-ai_summary: "The post describes the author’s frustration with building a Node.js server, especially the complicated setup required for common backend tasks like user authentication with Passport.js, sessions, bcrypt, and Sequelize. The main point is that server-side development in Node.js feels unnecessarily fragmented and complex compared with front-end coding, and the author argues it should be streamlined. The conclusion is that until better tools exist, developers have to push through the complexity and learn the required pieces."
+ai_summary: "The post describes the author's frustration with building a Node.js server, especially the complicated setup required for common backend tasks like user authentication with Passport.js, sessions, bcrypt, and Sequelize. The main point is that server-side development in Node.js feels unnecessarily fragmented and complex compared with front-end coding, and the author argues it should be streamlined. The conclusion is that until better tools exist, developers have to push through the complexity and learn the required pieces."
 ---
 
 ![lion lying restlessly on the ground](images/lion-lying-down-1024x684.jpeg)

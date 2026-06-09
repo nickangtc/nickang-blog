@@ -2,7 +2,7 @@
 title: "The newly rich"
 date_published: "2016-08-14"
 backlinks:
-ai_summary: "The post reflects on the behavior of newly wealthy people and countries, arguing that new wealth often leads to spending on protection, status, and power rather than wiser long-term priorities. Using Singapore’s military spending and Canada’s more mature approach as examples, the author suggests societies tend to get better at managing wealth over time and using it more responsibly. The conclusion is that time and accumulated wisdom are the main antidotes to wasteful, self-serving use of newfound riches."
+ai_summary: "The post reflects on the behavior of newly wealthy people and countries, arguing that new wealth often leads to spending on protection, status, and power rather than wiser long-term priorities. Using Singapore's military spending and Canada's more mature approach as examples, the author suggests societies tend to get better at managing wealth over time and using it more responsibly. The conclusion is that time and accumulated wisdom are the main antidotes to wasteful, self-serving use of newfound riches."
 ---
 
 The newly rich spend their money lavishing themselves and those they know with items, but also with protection. Money buys protection. From paying penalties that don't hurt their net worth to buying favours from people in power. This goes on everywhere, just in varying degrees, private and public.

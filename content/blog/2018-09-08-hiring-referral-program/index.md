@@ -2,7 +2,7 @@
 title: "How a hiring referral program changes an organisation"
 date_published: "2018-09-08"
 backlinks:
-ai_summary: "The post discusses how introducing a hiring referral program at a fast-growing company changes organizational dynamics, especially as the team expands from around 200 to 250 people. The author argues that the program is a practical way to extend recruiting beyond the People team without necessarily damaging culture, provided it is viewed as part of growth rather than a sign of corporate bureaucracy. The conclusion is that the impact depends largely on perspective, and that strong company values can keep the program aligned with the organization’s culture."
+ai_summary: "The post discusses how introducing a hiring referral program at a fast-growing company changes organizational dynamics, especially as the team expands from around 200 to 250 people. The author argues that the program is a practical way to extend recruiting beyond the People team without necessarily damaging culture, provided it is viewed as part of growth rather than a sign of corporate bureaucracy. The conclusion is that the impact depends largely on perspective, and that strong company values can keep the program aligned with the organization's culture."
 ---
 
 ![people working nick ang blog](images/nikita-vantorin-680489-unsplash-1.jpg)

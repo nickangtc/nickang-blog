@@ -3,7 +3,7 @@ title: "Underdogs to incumbents (Grab buys Uber in Southeast Asia)"
 date_published: "2018-03-26"
 tags: ["Business"]
 backlinks:
-ai_summary: "The post discusses Grab’s acquisition of Uber’s Southeast Asia business and a Singapore inquiry into Facebook’s Cambridge Analytica scandal, using both examples to examine how tech underdogs become powerful incumbents. The author argues that once companies gain dominance, they should be watched closely because concentrated power and data can affect society, not just individual users. The conclusion is that strong public oversight is important, especially in fast-moving technology sectors where regulators may struggle to keep up."
+ai_summary: "The post discusses Grab's acquisition of Uber's Southeast Asia business and a Singapore inquiry into Facebook's Cambridge Analytica scandal, using both examples to examine how tech underdogs become powerful incumbents. The author argues that once companies gain dominance, they should be watched closely because concentrated power and data can affect society, not just individual users. The conclusion is that strong public oversight is important, especially in fast-moving technology sectors where regulators may struggle to keep up."
 ---
 
 We root for the underdog at first.

@@ -4,7 +4,7 @@ date_published: "2020-04-16"
 backlinks:
   - slug: "/annual-review-2020/"
     title: "My 2020 Annual Review"
-ai_summary: "The post shares Derek Sivers’ warning against relying on major tech companies for anything personally important, illustrated by a story of a man who lost nine years of family photos after merging Google accounts. The main point is that people should not entrust precious data to companies that care less about it than they do, and instead should host and back up their own images, videos, music, writing, and other important files. The author concludes by planning to figure out a self-hosted setup and write a follow-up on it."
+ai_summary: "The post shares Derek Sivers' warning against relying on major tech companies for anything personally important, illustrated by a story of a man who lost nine years of family photos after merging Google accounts. The main point is that people should not entrust precious data to companies that care less about it than they do, and instead should host and back up their own images, videos, music, writing, and other important files. The author concludes by planning to figure out a self-hosted setup and write a follow-up on it."
 ---
 
 This article isn't my own, but I was so moved by this story shared by Derek Sivers in his interview with Jordan Paris that I felt like I needed to publish it as an article on my blog.

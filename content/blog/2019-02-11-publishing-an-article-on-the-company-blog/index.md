@@ -2,7 +2,7 @@
 title: "Publishing an article on the company blog"
 date_published: "2019-02-11"
 backlinks:
-ai_summary: "The post describes how an article about learnings from Smartly.io’s company offsite, Futurio 2019, was published on the company blog after earlier work reflections caught a colleague’s attention. The author’s main point is that consistent blogging and small experiments can create unexpected opportunities, and the takeaway is that the “crumbs” left by regular work can lead others to notice and invite further contributions."
+ai_summary: "The post describes how an article about learnings from Smartly.io's company offsite, Futurio 2019, was published on the company blog after earlier work reflections caught a colleague's attention. The author's main point is that consistent blogging and small experiments can create unexpected opportunities, and the takeaway is that the \"crumbs\" left by regular work can lead others to notice and invite further contributions."
 ---
 
 ![Smartly.io Futurio group photo ](images/Smartly_2019_Group_Purple-1024x559.jpg) 

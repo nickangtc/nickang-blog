@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Bruises mean progress"
 date_published: "2017-10-10"
 backlinks:
-ai_summary: "The post describes the author’s first serious Muay Thai training session, after which he developed bruises and swelling on his foot and shin. He argues that bruising and soreness are signs of real progress because they reflect effort and adaptation, as long as the pain is not excessive, and extends that lesson to software engineering, where mistakes and bugs are part of learning."
+ai_summary: "The post describes the author's first serious Muay Thai training session, after which he developed bruises and swelling on his foot and shin. He argues that bruising and soreness are signs of real progress because they reflect effort and adaptation, as long as the pain is not excessive, and extends that lesson to software engineering, where mistakes and bugs are part of learning."
 ---
 
 ![muay thai guy kicking opponent in the ring](images/solal-ohayon-202417-1024x683.jpg) 

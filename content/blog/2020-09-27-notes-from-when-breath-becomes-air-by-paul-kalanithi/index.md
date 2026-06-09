@@ -3,7 +3,7 @@ title: "Notes from When Breath Becomes Air by Paul Kalanithi"
 date_published: "2020-09-27"
 tags: ["Books"]
 backlinks:
-ai_summary: "The post reflects on Paul Kalanithi’s When Breath Becomes Air, a memoir about a neurosurgeon confronting terminal cancer and the meaning of life, love, work, and mortality. The author argues that the book’s power lies less in its plot than in the intense feelings it evokes and in its reminders about the value of language, direct experience, and meaningful work. The main conclusion is that it leaves readers more grateful for life and more aware that death is inevitable, making it especially worthwhile for anyone thinking about purpose."
+ai_summary: "The post reflects on Paul Kalanithi's When Breath Becomes Air, a memoir about a neurosurgeon confronting terminal cancer and the meaning of life, love, work, and mortality. The author argues that the book's power lies less in its plot than in the intense feelings it evokes and in its reminders about the value of language, direct experience, and meaningful work. The main conclusion is that it leaves readers more grateful for life and more aware that death is inevitable, making it especially worthwhile for anyone thinking about purpose."
 ---
 
 *When Breath Becomes Air* is a precious book about life as it is experienced through the lens of impending cancer-induced death. It is poignantly written by the neurosurgeon Paul Kalanithi and it reads like a part memoir, part treatise on the meaning of life. Reading it, I felt inspired, sad, melancholic, but perhaps most importantly, alive knowing my death is not far away. Paul died in his 40's.

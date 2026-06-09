@@ -15,7 +15,7 @@ tags:
 fav: false
 creation_duration_minutes:
 backlinks:
-ai_summary: "The post reflects on the role of “selling yourself” in job interviews and everyday work, arguing that it is less about empty persuasion and more about making one’s value easy for others to recognize amid too much noise. The author concludes that substance and selling are not opposites: if someone has real expertise or useful ideas, helping others see that value is part of the job rather than vanity."
+ai_summary: "The post reflects on the role of \"selling yourself\" in job interviews and everyday work, arguing that it is less about empty persuasion and more about making one's value easy for others to recognize amid too much noise. The author concludes that substance and selling are not opposites: if someone has real expertise or useful ideas, helping others see that value is part of the job rather than vanity."
 ---
 
 I used to think it was silly that we had to sell ourselves at interviews to land a new job.

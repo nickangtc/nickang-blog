@@ -7,7 +7,7 @@ backlinks:
     title: "Job searching is not about the numbers"
   - slug: "/2021-05-09-hard-work-is-hard-work/"
     title: "Hard work is hard work"
-ai_summary: "The post describes an unusually involved software engineering job application that goes beyond standard HR screening, coding interviews, and onsite rounds to include a technical riddle, marketing-domain study, and a role-play with a CMO. The author’s main point is that technical job searching is already a full-time effort, and spending so much preparation on one application is hard to justify even when the company is attractive. The conclusion is that the outcome will ultimately show whether the tradeoff was worthwhile, but the experience highlights how candidates must make uncertain choices and accept missed alternatives."
+ai_summary: "The post describes an unusually involved software engineering job application that goes beyond standard HR screening, coding interviews, and onsite rounds to include a technical riddle, marketing-domain study, and a role-play with a CMO. The author's main point is that technical job searching is already a full-time effort, and spending so much preparation on one application is hard to justify even when the company is attractive. The conclusion is that the outcome will ultimately show whether the tradeoff was worthwhile, but the experience highlights how candidates must make uncertain choices and accept missed alternatives."
 ---
 
 ![Riding on Stevens road ](images/img_20180403_2328428105026912879685680.jpg "Riding on Stevens road ")Today's thoughts were formed while riding in the Singaporean traffic jam

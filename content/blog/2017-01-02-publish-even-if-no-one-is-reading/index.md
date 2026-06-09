@@ -2,7 +2,7 @@
 title: "Publish, even if you think no one is reading"
 date_published: "2017-01-02"
 backlinks:
-ai_summary: "The post argues that writers should keep publishing even when they think no one is reading, because clear, thoughtful writing can still be discovered and shared online. It uses the example of a little-known blog post that coined “The Moffat Effect” to show how good ideas can spread without a big platform, concluding that writers should trust their work, write more, and let discoverability do the rest."
+ai_summary: "The post argues that writers should keep publishing even when they think no one is reading, because clear, thoughtful writing can still be discovered and shared online. It uses the example of a little-known blog post that coined \"The Moffat Effect\" to show how good ideas can spread without a big platform, concluding that writers should trust their work, write more, and let discoverability do the rest."
 ---
 
 As crowded as the internet is in 2017, anything well thought out and clearly written will be read, as long as it is discoverable.

@@ -5,7 +5,7 @@ tags: ["Business"]
 backlinks:
   - slug: "/2020-05-28-marketing-feels-dirty/"
     title: "Marketing feels dirty"
-ai_summary: "The post asks whether marketing has any fundamental goodness, despite its role in consumerism and its potential to encourage overconsumption, environmental harm, and manipulation. It argues that marketing can still serve positive purposes by helping better products reach people and by bringing people together around shared causes, including politics and nonprofits. The author concludes that while marketing has clear downsides, these benefits are enough to justify its existence and ease the author’s conscience about working in the field."
+ai_summary: "The post asks whether marketing has any fundamental goodness, despite its role in consumerism and its potential to encourage overconsumption, environmental harm, and manipulation. It argues that marketing can still serve positive purposes by helping better products reach people and by bringing people together around shared causes, including politics and nonprofits. The author concludes that while marketing has clear downsides, these benefits are enough to justify its existence and ease the author's conscience about working in the field."
 ---
 
 ![Is there fundamental goodness in marketing](images/is-there-fundamental-goodness-in-marketing-1024x576.jpg)

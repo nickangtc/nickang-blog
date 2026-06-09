@@ -2,7 +2,7 @@
 title: "Thoughts from watching Do You Trust This Computer"
 date_published: "2018-04-08"
 backlinks:
-ai_summary: "The post reflects on the documentary Do You Trust This Computer, which examines artificial intelligence, data collection, and the power of major tech companies. The author’s main point is that AI is advancing rapidly with little regulation and could drive major social harms such as surveillance, manipulation, and unemployment. The conclusion is a personal wake-up call to learn about AI urgently and encourage others to watch the film."
+ai_summary: "The post reflects on the documentary Do You Trust This Computer, which examines artificial intelligence, data collection, and the power of major tech companies. The author's main point is that AI is advancing rapidly with little regulation and could drive major social harms such as surveillance, manipulation, and unemployment. The conclusion is a personal wake-up call to learn about AI urgently and encourage others to watch the film."
 ---
 
 One thing led to another, as usual. Elon Musk shared a video on Instagram and I followed his prompt to watch the full version of the video snippet he posted.

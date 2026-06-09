@@ -5,7 +5,7 @@ date_published: "2016-03-26"
 backlinks:
   - slug: "/2016-04-03-what-to-do-at-455pm/"
     title: "What To Do At 4:55PM"
-ai_summary: "The author describes how listening to a Tim Ferriss interview with Cal Fussman led him to watch Muhammad Ali vs. George Foreman and become fascinated by boxing. He argues that the sport’s appeal lies in reading damage, fatigue, fear, and strategy in the ring, and that boxing feels like a metaphor for life. He concludes that boxing is a serious, compelling sport, especially compared with WWE."
+ai_summary: "The author describes how listening to a Tim Ferriss interview with Cal Fussman led him to watch Muhammad Ali vs. George Foreman and become fascinated by boxing. He argues that the sport's appeal lies in reading damage, fatigue, fear, and strategy in the ring, and that boxing feels like a metaphor for life. He concludes that boxing is a serious, compelling sport, especially compared with WWE."
 ---
 
 It was 8:30pm when I entered into the Youtube search bar: "George Foreman vs Muhammad Ali".

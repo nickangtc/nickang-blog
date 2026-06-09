@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "(US) Chicago, San Francisco, Bakersfield and Oakhurst"
 date_published: "2016-04-21"
 backlinks:
-ai_summary: "The post recounts a road trip from Los Angeles through Bakersfield and Oakhurst toward Yosemite, mixing travel details with reflections on car rentals, driving in the US, and visiting the national park during a free-admission week. The author’s main point is that travel makes people more self-reliant and savvy as consumers, while also highlighting how Yosemite’s scenery and driving experience were memorable despite minor setbacks. The conclusion is that the trip felt valuable overall, with the camera, the park visit, and the unexpected savings reinforcing the enjoyment of the journey."
+ai_summary: "The post recounts a road trip from Los Angeles through Bakersfield and Oakhurst toward Yosemite, mixing travel details with reflections on car rentals, driving in the US, and visiting the national park during a free-admission week. The author's main point is that travel makes people more self-reliant and savvy as consumers, while also highlighting how Yosemite's scenery and driving experience were memorable despite minor setbacks. The conclusion is that the trip felt valuable overall, with the camera, the park visit, and the unexpected savings reinforcing the enjoyment of the journey."
 ---
 
 ![Took a picture of this roadside wildflower with stunning colours](images/DSCF8275_edited-1024x683.jpg) 

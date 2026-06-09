@@ -12,7 +12,7 @@ backlinks:
     title: "Do your best not to obfuscate"
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
-ai_summary: "The post explains why the author is switching toward vegetarianism after several experiences that changed his view of meat, including seeing a likely slaughterhouse in California, reflecting on animal suffering, observing a vegetarian colleague’s fitness and conviction, and watching What the Health. His main point is that vegetarianism appeals to him both for health reasons and because he wants to stop supporting animal farming and the cruelty he associates with meat consumption. He concludes that, at least for now, he is committing to a vegetarian diet, though he still briefly considers pescatarianism."
+ai_summary: "The post explains why the author is switching toward vegetarianism after several experiences that changed his view of meat, including seeing a likely slaughterhouse in California, reflecting on animal suffering, observing a vegetarian colleague's fitness and conviction, and watching What the Health. His main point is that vegetarianism appeals to him both for health reasons and because he wants to stop supporting animal farming and the cruelty he associates with meat consumption. He concludes that, at least for now, he is committing to a vegetarian diet, though he still briefly considers pescatarianism."
 ---
 
 ![why i am going vegetarian nickang blog](images/alex-mercado-585615-unsplash-1024x683.jpg) 

@@ -3,7 +3,7 @@ title: "A tool to find differences between JSON files"
 date_published: "2018-11-07"
 tags: ["Tech"]
 backlinks:
-ai_summary: "The post describes the author’s discovery and use of JSON Diff, an online tool for comparing two JSON files, while debugging an API issue at Smartly.io involving a Facebook Ad Set update error. The main point is that the tool made it easy to spot the differences between the existing and intended JSON configurations, helping identify the change that caused the problem. The author concludes that the tool saved time, reduced human error, and made debugging much more efficient."
+ai_summary: "The post describes the author's discovery and use of JSON Diff, an online tool for comparing two JSON files, while debugging an API issue at Smartly.io involving a Facebook Ad Set update error. The main point is that the tool made it easy to spot the differences between the existing and intended JSON configurations, helping identify the change that caused the problem. The author concludes that the tool saved time, reduced human error, and made debugging much more efficient."
 ---
 
 A very cool tool that I discovered today from google searching is [JSON Diff](http://www.jsondiff.com/). It does exactly what you expect it to. Paste two JSON files into the tool and it shows you the differences between them.

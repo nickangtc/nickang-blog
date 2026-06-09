@@ -2,7 +2,7 @@
 title: "Minimalist personal finance"
 date_published: "2018-08-15"
 backlinks:
-ai_summary: "The post discusses Matt D’Avelas minimalist approach to personal finance, centered on the rule to spend less than one makes. The author agrees that the rule is simple and sensible, but notes that real life, advertising, and irregular purchases make it difficult to follow consistently. The main conclusion is that despite its difficulty, the rule is easy to remember and worth trying because it can reduce money stress and create more financial freedom."
+ai_summary: "The post discusses Matt D'Avelas minimalist approach to personal finance, centered on the rule to spend less than one makes. The author agrees that the rule is simple and sensible, but notes that real life, advertising, and irregular purchases make it difficult to follow consistently. The main conclusion is that despite its difficulty, the rule is easy to remember and worth trying because it can reduce money stress and create more financial freedom."
 ---
 
 Matt D'Avela is a filmmaker and rising YouTuber who has managed to build a community of people who are or aspire to be minimalists. 

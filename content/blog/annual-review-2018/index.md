@@ -15,7 +15,7 @@ backlinks:
     title: "My 2023 Annual Review"
   - slug: "/annual-review-2025/"
     title: "My 2025 Annual Review"
-ai_summary: "The post reviews the author’s 2018 blogging year, noting sharp increases in posts, views, and visitors, and highlighting a curated list of favorite articles on topics such as habits, learning, simplicity, work-life balance, vegetarianism, and reflection. Its main point is that the blog reached more readers and that the author felt encouraged that the writing resonated, with the overall conclusion that the year’s output was both productive and meaningful."
+ai_summary: "The post reviews the author's 2018 blogging year, noting sharp increases in posts, views, and visitors, and highlighting a curated list of favorite articles on topics such as habits, learning, simplicity, work-life balance, vegetarianism, and reflection. Its main point is that the blog reached more readers and that the author felt encouraged that the writing resonated, with the overall conclusion that the year's output was both productive and meaningful."
 ---
 
 ![favourite posts from 2018 nick ang](images/favourite-posts-from-2018-nick-ang-1024x682.jpg)

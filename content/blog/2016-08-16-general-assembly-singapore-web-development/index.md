@@ -7,7 +7,7 @@ backlinks:
     title: "How to get started with programming (part 1)"
   - slug: "/2019-12-15-first-impressions-of-the-astrohaus-freewrite/"
     title: "First impressions of the Astrohaus Freewrite"
-ai_summary: "The post describes the author’s first day in a General Assembly Singapore web development course, where the author enjoys meeting instructors and TAs, learns practical setup tips, and reflects on the benefits of in-person teaching compared with self-study. It also uses early lessons about DNS, file permissions, and editors to argue that learning from experienced programmers makes things easier, but that learners should still appreciate how much knowledge sits behind each simple tip."
+ai_summary: "The post describes the author's first day in a General Assembly Singapore web development course, where the author enjoys meeting instructors and TAs, learns practical setup tips, and reflects on the benefits of in-person teaching compared with self-study. It also uses early lessons about DNS, file permissions, and editors to argue that learning from experienced programmers makes things easier, but that learners should still appreciate how much knowledge sits behind each simple tip."
 ---
 
 ![classroom at general assembly singapore](images/ga-image-1024x1024.jpg) 

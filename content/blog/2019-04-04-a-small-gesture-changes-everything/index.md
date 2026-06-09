@@ -2,7 +2,7 @@
 title: "A small gesture changes everything"
 date_published: "2019-04-04"
 backlinks:
-ai_summary: "The author revisits the General Assembly campus in Singapore and reflects on meeting someone who said the author’s review helped him choose to enrol in a web development course. The main point is that small acts of kindness and sharing can ripple outward, with the conclusion that these gestures help make society stronger and more connected."
+ai_summary: "The author revisits the General Assembly campus in Singapore and reflects on meeting someone who said the author's review helped him choose to enrol in a web development course. The main point is that small acts of kindness and sharing can ripple outward, with the conclusion that these gestures help make society stronger and more connected."
 ---
 
 ![a small gesture changes everything nick ang blog](images/a-small-gesture-changes-everything-nick-ang-blog-1024x621.jpg) 

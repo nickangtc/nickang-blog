@@ -7,7 +7,7 @@ tags: ["Tech"]
 fav: false
 creation_duration_minutes:
 backlinks:
-ai_summary: "The post is about a redesign of a 10-year-old personal blog to better reflect the author’s current identity, values, and role, especially after ending a Substack newsletter. The main point is that the new layout should feel more direct, personal, and competent by surfacing full posts on the homepage, flattening navigation into a sidebar, and adopting a more melancholic serif aesthetic inspired by Seth Godin’s blog. The author concludes that the revamp is a solid step in the right direction and plans to add search so readers can filter the 559 posts already published."
+ai_summary: "The post is about a redesign of a 10-year-old personal blog to better reflect the author's current identity, values, and role, especially after ending a Substack newsletter. The main point is that the new layout should feel more direct, personal, and competent by surfacing full posts on the homepage, flattening navigation into a sidebar, and adopting a more melancholic serif aesthetic inspired by Seth Godin's blog. The author concludes that the revamp is a solid step in the right direction and plans to add search so readers can filter the 559 posts already published."
 ---
 
 this blog is now 10 years old! the first post was about [deciding what cities to visit](/2016-03-01-how-to-decide-what-cities-to-visit/), published on March 1, 2016, so i thought it's time to pause and reflect on the simple question:

@@ -8,7 +8,7 @@ fav: false
 backlinks:
   - slug: "/blogs-are-gold-mines-now/"
     title: "Blogs are gold mines now"
-ai_summary: "The post argues that career advancement in software engineering is partly a game of visibility, self-marketing, and strategic relationship-building, not just technical skill. It uses the author’s experience and a conversation with a mid-level engineer who felt overlooked to show how senior people are often given more chances by default, while also explaining tactics the author used to get promoted and stay seen. The conclusion is that some workplaces will still overlook people, but consciously playing the career ladder game—and, if needed, moving on—can create a path forward."
+ai_summary: "The post argues that career advancement in software engineering is partly a game of visibility, self-marketing, and strategic relationship-building, not just technical skill. It uses the author's experience and a conversation with a mid-level engineer who felt overlooked to show how senior people are often given more chances by default, while also explaining tactics the author used to get promoted and stay seen. The conclusion is that some workplaces will still overlook people, but consciously playing the career ladder game—and, if needed, moving on—can create a path forward."
 ---
 
 I was recently spending time with a friend who used to be colleague. We talked about the company we used to work for, about how it had a systemic problem of giving opportunities to lead projects directly to senior engineers.

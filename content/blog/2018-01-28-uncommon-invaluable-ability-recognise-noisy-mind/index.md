@@ -4,7 +4,7 @@ date_published: "2018-01-28"
 backlinks:
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
-ai_summary: "The post argues that daily meditation helps the author recognize when the mind is noisy, which is crucial because mental clarity directly affects the quality of decisions, actions, and overall life. The main conclusion is that even if constant thought cannot be eliminated, developing the ability to notice mental noise and “snap out of it” on demand is a valuable skill that meditation can strengthen and use to regain calm and better judgment."
+ai_summary: "The post argues that daily meditation helps the author recognize when the mind is noisy, which is crucial because mental clarity directly affects the quality of decisions, actions, and overall life. The main conclusion is that even if constant thought cannot be eliminated, developing the ability to notice mental noise and \"snap out of it\" on demand is a valuable skill that meditation can strengthen and use to regain calm and better judgment."
 ---
 
 ![water droplet noisy mind metaphor](images/levi-xu-125529-1024x683.jpg) 

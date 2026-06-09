@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "On Buy-Baity Book Titles"
 date_published: "2016-03-03"
 backlinks:
-ai_summary: "The post discusses the awkwardness of buying self-help books with flashy, “touch-baity” titles like So Good They Can’t Ignore You and How to Win Friends and Influence People. The author argues that these titles can deter readers by making them feel judged or insecure, even when they are genuinely interested in the content. The conclusion is that while such naming is not fatal to a book’s success, publishers may be turning away some readers by making the titles feel too performative or self-help-like."
+ai_summary: "The post discusses the awkwardness of buying self-help books with flashy, \"touch-baity\" titles like So Good They Can't Ignore You and How to Win Friends and Influence People. The author argues that these titles can deter readers by making them feel judged or insecure, even when they are genuinely interested in the content. The conclusion is that while such naming is not fatal to a book's success, publishers may be turning away some readers by making the titles feel too performative or self-help-like."
 ---
 
 I'm currently reading Cal Newport's _So Good They Can't Ignore You_. If you haven't heard of this book before, I have to ask: Did you flinch when you first read the book title?

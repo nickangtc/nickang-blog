@@ -3,7 +3,7 @@ title: "We're on Free SSL!"
 date_published: "2018-07-15"
 tags: ["Tech"]
 backlinks:
-ai_summary: "The post announces that the blog has switched to SSL for the first time, enabled through a free certificate from Bluehost backed by Let’s Encrypt. The author explains that SSL encrypts site traffic, improves trust and browser security warnings, and argues that hosting providers are likely adopting it because it is becoming the standard. The conclusion is that readers should check for similar free SSL offers from their hosts, or consider switching providers if none is available."
+ai_summary: "The post announces that the blog has switched to SSL for the first time, enabled through a free certificate from Bluehost backed by Let's Encrypt. The author explains that SSL encrypts site traffic, improves trust and browser security warnings, and argues that hosting providers are likely adopting it because it is becoming the standard. The conclusion is that readers should check for similar free SSL offers from their hosts, or consider switching providers if none is available."
 ---
 
 I have a little news to share. For the first time in this blog's history, we have [SSL (secure sockets layer)](https://en.wikipedia.org/wiki/Transport_Layer_Security)!

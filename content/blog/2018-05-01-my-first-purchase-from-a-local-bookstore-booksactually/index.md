@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "My first purchase from a local bookstore - BooksActually"
 date_published: "2018-05-01"
 backlinks:
-ai_summary: "The post describes the author’s first purchase at BooksActually, a local Singapore bookstore and publisher, where he bought Have Phone, Will Paint by the local artist Zhu Hong. He says his growing appreciation for Singapore and local creative work, especially as he contemplates leaving the country, made him more willing to support artists whose work explores local themes. He concludes that the purchase felt both like a meaningful memento and a small way to help a community artist keep creating."
+ai_summary: "The post describes the author's first purchase at BooksActually, a local Singapore bookstore and publisher, where he bought Have Phone, Will Paint by the local artist Zhu Hong. He says his growing appreciation for Singapore and local creative work, especially as he contemplates leaving the country, made him more willing to support artists whose work explores local themes. He concludes that the purchase felt both like a meaningful memento and a small way to help a community artist keep creating."
 ---
 
 ![have phone will sketch book nickang blog](images/Have_Phone_Will_Paint-nickang-sketch.png) 

@@ -2,7 +2,7 @@
 title: "Our first sale for ang veil yú"
 date_published: "2018-11-20"
 backlinks:
-ai_summary: "The post describes ang veil yú, an online wedding veil shop, making its first sale 11 days after launch, with the buyer being one of the author’s wife’s bridal clients purchasing a lace-trimmed elbow-length veil. The author sees the quick sale, despite veils costing $200 to $500, as evidence of unmet demand for high-quality wedding veils in Singapore and credits word of mouth as the source of the purchase."
+ai_summary: "The post describes ang veil yú, an online wedding veil shop, making its first sale 11 days after launch, with the buyer being one of the author's wife's bridal clients purchasing a lace-trimmed elbow-length veil. The author sees the quick sale, despite veils costing $200 to $500, as evidence of unmet demand for high-quality wedding veils in Singapore and credits word of mouth as the source of the purchase."
 ---
 
 ![First sale for ang veil yu](images/ang-veil-yu-first-sale.png)

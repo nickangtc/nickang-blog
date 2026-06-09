@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Remember your juxtaposition"
 date_published: "2016-08-11"
 backlinks:
-ai_summary: "The post uses the author’s early-morning gym run ahead of a Singapore National Service fitness test and a conversation with his mother-in-law to show how people often compare themselves only with those nearby. The main point is that one person’s behavior can become a misleading benchmark when viewed up close, because proximity shapes what seems normal or admirable. The conclusion is that people should deliberately look beyond their immediate surroundings and compare themselves against the larger direction they want to move in."
+ai_summary: "The post uses the author's early-morning gym run ahead of a Singapore National Service fitness test and a conversation with his mother-in-law to show how people often compare themselves only with those nearby. The main point is that one person's behavior can become a misleading benchmark when viewed up close, because proximity shapes what seems normal or admirable. The conclusion is that people should deliberately look beyond their immediate surroundings and compare themselves against the larger direction they want to move in."
 ---
 
 We all compare. What some of us may not realise is how much we tend to compare ourselves with things and people _around_ us. That's a pretty small radius.

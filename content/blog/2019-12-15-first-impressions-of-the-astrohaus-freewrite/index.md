@@ -14,7 +14,7 @@ backlinks:
     title: "Free time default activity"
   - slug: "/2021-07-04-reflecting-on-my-career-in-tech-5-years-in/"
     title: "Reflecting on my career in tech: 5 years in"
-ai_summary: "The post reviews the Astrohaus Freewrite, a distraction-free e-ink writing device, from the author’s first day of use after years of wanting a tool like it. The main point is that its single-purpose design, mechanical keyboard, solid build, and lack of a cursor make drafting easier and more focused, though the fixed screen angle causes neck strain. The author concludes that, despite that drawback, the device is likely a worthwhile investment that could help him write much more."
+ai_summary: "The post reviews the Astrohaus Freewrite, a distraction-free e-ink writing device, from the author's first day of use after years of wanting a tool like it. The main point is that its single-purpose design, mechanical keyboard, solid build, and lack of a cursor make drafting easier and more focused, though the fixed screen angle causes neck strain. The author concludes that, despite that drawback, the device is likely a worthwhile investment that could help him write much more."
 ---
 
 ![My very own Astrohaus Freewrite just arrived!](images/the-astrohaus-freewrite-nick-ang-blog-1024x767.jpg)

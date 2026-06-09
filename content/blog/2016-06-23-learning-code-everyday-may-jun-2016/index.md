@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "My first full month of learning code everyday"
 date_published: "2016-06-23"
 backlinks:
-ai_summary: "The post reflects on the author’s first full month of learning to code every day after returning from a U.S. trip, including building small web projects like a Wikipedia search page and struggling through a weather app challenge. The main point is that learning to program is difficult, especially when translating ideas into exact code, but persistence, breaks, and repeated attempts eventually lead to understanding. The conclusion is that coding is becoming a meaningful long-term skill for the author’s goal of building a socially beneficial company."
+ai_summary: "The post reflects on the author's first full month of learning to code every day after returning from a U.S. trip, including building small web projects like a Wikipedia search page and struggling through a weather app challenge. The main point is that learning to program is difficult, especially when translating ideas into exact code, but persistence, breaks, and repeated attempts eventually lead to understanding. The conclusion is that coding is becoming a meaningful long-term skill for the author's goal of building a socially beneficial company."
 ---
 
 A blink of an eye and it's been almost a month since I posted anything here.

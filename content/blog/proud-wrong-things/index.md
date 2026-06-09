@@ -9,7 +9,7 @@ creation_duration_minutes: 40
 backlinks:
   - slug: "/the-art-of-spending-money-by-morgan-housel/"
     title: "The Art of Spending Money by Morgan Housel"
-ai_summary: "The post describes a Singaporean couple who constantly display their spending on luxury watches, bags, and shopping, which the author sees as pride in frivolous consumption rather than real achievement. It argues that Singapore’s dense, status-driven culture encourages this behavior, while Germany’s larger, more nature-oriented environment makes materialism less central, and concludes that people should not be proud of the wrong things."
+ai_summary: "The post describes a Singaporean couple who constantly display their spending on luxury watches, bags, and shopping, which the author sees as pride in frivolous consumption rather than real achievement. It argues that Singapore's dense, status-driven culture encourages this behavior, while Germany's larger, more nature-oriented environment makes materialism less central, and concludes that people should not be proud of the wrong things."
 ---
 
 My wife tells me about a person she knows. We affectionately call him the "Up uncle" because he looks like the uncle from the animated film, Up.

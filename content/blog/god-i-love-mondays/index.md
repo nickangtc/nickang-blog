@@ -8,7 +8,7 @@ fav: false
 backlinks:
   - slug: "/you-always-have-a-choice-and-thats-the-hard-part/"
     title: "You always have a choice, and that's the hard part"
-ai_summary: "The post describes how quitting employment and working for himself changed the author’s attitude toward Mondays, shifting them from dread to excitement because he can choose his own projects, priorities, and pace. He argues that this freedom has created real energy, curiosity, and joy in his work, especially in growing his Instagram, writing on Substack, and building his app. His conclusion is that he has become someone who looks forward to Mondays and does not want to return to traditional employment."
+ai_summary: "The post describes how quitting employment and working for himself changed the author's attitude toward Mondays, shifting them from dread to excitement because he can choose his own projects, priorities, and pace. He argues that this freedom has created real energy, curiosity, and joy in his work, especially in growing his Instagram, writing on Substack, and building his app. His conclusion is that he has become someone who looks forward to Mondays and does not want to return to traditional employment."
 ---
 
 When you work for yourself, when you get to dictate what you focus on, where to pour your heart, who to ignore and who to engage... life changes completely.

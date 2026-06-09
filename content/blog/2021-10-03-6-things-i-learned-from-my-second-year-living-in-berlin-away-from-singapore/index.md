@@ -9,7 +9,7 @@ todos: "add links"
 backlinks:
   - slug: "/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/"
     title: "7 Things I've Learned from my First Year Living in Berlin (away from Singapore)"
-ai_summary: "The post reflects on the author’s second year living in Berlin after moving from Singapore, focusing on how Germany’s welfare system, parental leave, reuse culture, bottle deposits, and car-sharing have shaped daily life. The main point is that many of Berlin’s systems reduce stress, support families, and encourage practical sustainability, while also showing that what makes a place “good” is subjective. The author concludes that higher taxes can be worth it for peace of mind and that Berlin has become a humane and workable place for his family."
+ai_summary: "The post reflects on the author's second year living in Berlin after moving from Singapore, focusing on how Germany's welfare system, parental leave, reuse culture, bottle deposits, and car-sharing have shaped daily life. The main point is that many of Berlin's systems reduce stress, support families, and encourage practical sustainability, while also showing that what makes a place \"good\" is subjective. The author concludes that higher taxes can be worth it for peace of mind and that Berlin has become a humane and workable place for his family."
 ---
 
 In a few days it will be my second full year having relocated to Berlin. A lot has happened. A full year of grappling with covid, for one. And our first child was born here last month! Here are some of my learnings from the past year.

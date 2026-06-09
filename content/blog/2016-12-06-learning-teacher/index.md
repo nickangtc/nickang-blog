@@ -2,7 +2,7 @@
 title: "Learning doesn't stop even when you become the teacher"
 date_published: "2016-12-06"
 backlinks:
-ai_summary: "The post describes the author’s first day as a teaching assistant at General Assembly Singapore and reflects on how teaching also deepens their own learning. The main takeaway is that learning never stops, and a class insight about HTML’s lack of graceful error handling prompted the author to start using a linter to avoid simple mistakes like unclosed tags."
+ai_summary: "The post describes the author's first day as a teaching assistant at General Assembly Singapore and reflects on how teaching also deepens their own learning. The main takeaway is that learning never stops, and a class insight about HTML's lack of graceful error handling prompted the author to start using a linter to avoid simple mistakes like unclosed tags."
 ---
 
 I'm starting a new (short) chapter in my life as a teaching assistant at General Assembly Singapore. Actually, yesterday was my first day and it was great. Questions I used to ask myself are now aimed at me and my fellow instructors, and being able to answer most of them (well, it's still early to say) is satisfying because you know you've helped someone attain a clear understanding.

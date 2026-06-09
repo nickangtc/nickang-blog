@@ -4,7 +4,7 @@ date_published: "2020-10-25"
 date_updated: "2022-04-02"
 tags: ["Career"]
 backlinks:
-ai_summary: "The author reflects on a preference for being broadly competent across many skills rather than pursuing deep mastery in programming or any single craft, arguing that “good enough” is usually sufficient and more rewarding than chasing diminishing returns. Although they sometimes doubt this choice after seeing specialists excel, they conclude that their strength lies in combining multiple skills, while the 2022 update notes that senior software work may require pushing further toward mastery even if broad competence remains their natural preference."
+ai_summary: "The author reflects on a preference for being broadly competent across many skills rather than pursuing deep mastery in programming or any single craft, arguing that \"good enough\" is usually sufficient and more rewarding than chasing diminishing returns. Although they sometimes doubt this choice after seeing specialists excel, they conclude that their strength lies in combining multiple skills, while the 2022 update notes that senior software work may require pushing further toward mastery even if broad competence remains their natural preference."
 ---
 
 I can code and I think I can code well. But for some reason, I'm just not inclined to try and become an amazing programmer. For me, with programming as with many other skills, I ascribe to the mantra that *good enough is good enough*. Why pace the long end of the curve of diminishing returns? I just see no point in it.

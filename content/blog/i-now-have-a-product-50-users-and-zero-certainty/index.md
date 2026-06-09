@@ -10,7 +10,7 @@ backlinks:
     title: "Moved Show"
   - slug: "/you-always-have-a-choice-and-thats-the-hard-part/"
     title: "You always have a choice, and that's the hard part"
-ai_summary: "The post follows the author’s seven months after leaving his job, moving from a YouTube expat-story channel to a video-editing tool and then to Youtionary, an iOS language-learning app inspired by his German classes and early user feedback. His main point is that startup ideas are disposable and execution matters most, with each pivot shaped by real-world friction and testing rather than planning. He concludes that Youtionary is live with about 50 free users and 1 paying user, but its future remains uncertain and he is comfortable either growing it or moving on."
+ai_summary: "The post follows the author's seven months after leaving his job, moving from a YouTube expat-story channel to a video-editing tool and then to Youtionary, an iOS language-learning app inspired by his German classes and early user feedback. His main point is that startup ideas are disposable and execution matters most, with each pivot shaped by real-world friction and testing rather than planning. He concludes that Youtionary is live with about 50 free users and 1 paying user, but its future remains uncertain and he is comfortable either growing it or moving on."
 ---
 
 When I first went solo in mid-June 2025, I pursued the idea of a **YouTube channel** relentlessly.

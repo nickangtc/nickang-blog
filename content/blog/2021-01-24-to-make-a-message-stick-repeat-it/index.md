@@ -4,6 +4,8 @@ date_published: "2021-01-24"
 excerpt: We say most things just once. To make a message a signal above the noise, we need to repeat it a few more times.
 tags: ["Leadership", "Communication"]
 backlinks:
+  - slug: "/support-engineering/"
+    title: "Support Engineering"
 ai_summary: "The post argues that repeating an important message helps it stand out from the many things people hear only once, making it more likely to be remembered and acted on. Using company-wide goals and a new team split as examples, the author shows how saying the same core idea in different settings helped align people, and concludes that leaders should share a good-enough message early, repeat it at suitable moments, then refine it as the work evolves."
 ---
 

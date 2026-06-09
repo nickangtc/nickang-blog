@@ -4,7 +4,7 @@ title: "Markdown bullet points - hyphen or asterisk?"
 date_published: "2018-03-05"
 date_updated: "2022-12-07"
 backlinks:
-ai_summary: "The post discusses whether Markdown bullet lists should use hyphens or asterisks, and argues that asterisks are preferable because they are less likely to appear in normal text and are easier to select and convert in editors like VS Code. It concludes that while both work, asterisks are the more practical choice for the author’s workflow, especially when changing bulleted lists into numbered lists."
+ai_summary: "The post discusses whether Markdown bullet lists should use hyphens or asterisks, and argues that asterisks are preferable because they are less likely to appear in normal text and are easier to select and convert in editors like VS Code. It concludes that while both work, asterisks are the more practical choice for the author's workflow, especially when changing bulleted lists into numbered lists."
 ---
 
 Markdown is amazing. It's like HTML but much, much more readable and less work. But some things can get confusing, especially if there is more than one way to do the same thing. Bullet points--or unordered lists if you're a web developer--are one of those things.

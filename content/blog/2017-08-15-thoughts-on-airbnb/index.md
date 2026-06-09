@@ -3,7 +3,7 @@ title: "Thoughts on Airbnb"
 date_published: "2017-08-15"
 tags: ["Business"]
 backlinks:
-ai_summary: "The post reflects on Airbnb stays during a trip to Perth and Busselton, comparing hosts who were mostly hands-off with one who treated guests like house guests and served breakfast. The author’s main point is that Airbnb is appealing because each host’s approach is different, making every stay unique and sometimes deeply personal. The conclusion is that these home stays have become a travel highlight because they offer not just accommodation, but opportunities to meet people, connect, and learn from them."
+ai_summary: "The post reflects on Airbnb stays during a trip to Perth and Busselton, comparing hosts who were mostly hands-off with one who treated guests like house guests and served breakfast. The author's main point is that Airbnb is appealing because each host's approach is different, making every stay unique and sometimes deeply personal. The conclusion is that these home stays have become a travel highlight because they offer not just accommodation, but opportunities to meet people, connect, and learn from them."
 ---
 
 One of the things I find myself enjoying more about travelling is the accommodation. No it is not about being able to afford to live in nicer hotels now that Charlane and I are both working adults. Money has little to do with the joy we are getting from staying in people's homes through Airbnb!

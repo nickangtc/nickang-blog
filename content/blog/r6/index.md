@@ -6,7 +6,7 @@ excerpt: "These days, people call this first principles thinking. I call it thin
 tags: ["Living", "Raw essays"]
 fav: false
 backlinks:
-ai_summary: "The post reflects on the author’s loss of confidence in his own judgment and his habit of googling answers instead of thinking directly. Using childhood reasoning about why adults work and how labor creates value, he argues that thinking for oneself is a basic skill that should remain primary, while online searching should be optional. The conclusion is that most things are still meant to be reasoned through personally, and the internet should not replace first-principles thinking."
+ai_summary: "The post reflects on the author's loss of confidence in his own judgment and his habit of googling answers instead of thinking directly. Using childhood reasoning about why adults work and how labor creates value, he argues that thinking for oneself is a basic skill that should remain primary, while online searching should be optional. The conclusion is that most things are still meant to be reasoned through personally, and the internet should not replace first-principles thinking."
 ---
 
 *(This is #6 of 30 raw essays in 30 days.)*

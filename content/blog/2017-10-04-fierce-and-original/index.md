@@ -13,7 +13,7 @@ backlinks:
     title: "Reconsidering a beloved quote"
   - slug: "/annual-review-2019/"
     title: "Goals for 2020"
-ai_summary: "The author reflects on Gustave Flaubert’s advice that one must be steady and well-ordered in life to be fierce and original in work, using a friend building a startup for caregivers of people with dementia as an example of someone who seems to embody it. The main point is that maintaining healthy relationships, physical strength, and mental clarity through regular self-care is the foundation for creative, effective work, and that returning to basics is often the best way forward."
+ai_summary: "The author reflects on Gustave Flaubert's advice that one must be steady and well-ordered in life to be fierce and original in work, using a friend building a startup for caregivers of people with dementia as an example of someone who seems to embody it. The main point is that maintaining healthy relationships, physical strength, and mental clarity through regular self-care is the foundation for creative, effective work, and that returning to basics is often the best way forward."
 ---
 
 ![hand reaching towards the sun in a jungle](images/aaron-blanco-tejedor-270469.jpg) 

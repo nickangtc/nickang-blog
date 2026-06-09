@@ -7,7 +7,7 @@ backlinks:
     title: "How to implement a Linked List in JavaScript"
   - slug: "/2020-01-05-the-quickest-way-to-try-new-javascript-libraries/"
     title: "The quickest way to try new JavaScript libraries"
-ai_summary: "The post is about the author’s frequent use of Repl.it, a web-based coding environment, as a quick way to test and understand code behavior. The main example shows the author using it to figure out chained JavaScript assignments, concluding that Repl.it is a fast, intuitive, and free tool that helps developers resolve confusing code and learn by experimentation."
+ai_summary: "The post is about the author's frequent use of Repl.it, a web-based coding environment, as a quick way to test and understand code behavior. The main example shows the author using it to figure out chained JavaScript assignments, concluding that Repl.it is a fast, intuitive, and free tool that helps developers resolve confusing code and learn by experimentation."
 ---
 
 ![screenshot of a repl.it document](images/Screen-Shot-2017-09-12-at-7.04.18-PM.png)

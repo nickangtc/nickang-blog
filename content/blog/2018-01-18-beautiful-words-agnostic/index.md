@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Agnostic"
 date_published: "2018-01-18"
 backlinks:
-ai_summary: "The post reflects on the word agnostic, explaining how programmers use it to mean neutral or compatible across technologies, and arguing that precise word choice is essential in programming to avoid confusion. It then links that usage to a personal encounter on a hike, where the author wished they had described their beliefs as agnostic rather than free-thinker, since it would have conveyed a more accurate stance of openness and uncertainty about God. The concluding point is that a term with religious origins has been productively adopted by programmers and even shaped the author’s everyday vocabulary."
+ai_summary: "The post reflects on the word agnostic, explaining how programmers use it to mean neutral or compatible across technologies, and arguing that precise word choice is essential in programming to avoid confusion. It then links that usage to a personal encounter on a hike, where the author wished they had described their beliefs as agnostic rather than free-thinker, since it would have conveyed a more accurate stance of openness and uncertainty about God. The concluding point is that a term with religious origins has been productively adopted by programmers and even shaped the author's everyday vocabulary."
 ---
 
 Programming is a precision sport. I've personally encountered--and many times have been the reason for--situations where an imprecise word is used to describe a line of code to another person, leading to confusion or worse, insidious misunderstandings that unravel only down the line.

@@ -4,7 +4,7 @@ date_published: "2021-05-15"
 excerpt: "This is speculative since our newborn hasn't yet arrived. But I believe we will be a happier family in Berlin."
 tags: ["Living"]
 backlinks:
-ai_summary: "The author compares raising a newborn in Berlin and Singapore, arguing that Germany’s parental leave and family-oriented policies make it easier for both parents to share childcare and bond with their child. He concludes that, despite being away from family and friends, he and his wife will likely manage better and be happier in Berlin because they will both have more time to parent during the crucial early years."
+ai_summary: "The author compares raising a newborn in Berlin and Singapore, arguing that Germany's parental leave and family-oriented policies make it easier for both parents to share childcare and bond with their child. He concludes that, despite being away from family and friends, he and his wife will likely manage better and be happier in Berlin because they will both have more time to parent during the crucial early years."
 ---
 
 All of this is speculative.

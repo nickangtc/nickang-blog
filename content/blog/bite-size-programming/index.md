@@ -9,7 +9,7 @@ backlinks:
     title: "Saying the obvious"
   - slug: "/2021-10-10-specialist-or-generalist/"
     title: "Specialist or Generalist?"
-ai_summary: "Bite Size Programming was a writing project that explained programming concepts one at a time in plain language, covering topics such as the command line, Git, Big O notation, linked lists, binary search, and other fundamentals. The author’s main point was that writing simple explanations helped both teach others and test their own understanding, while also making programming feel less intimidating to beginners."
+ai_summary: "Bite Size Programming was a writing project that explained programming concepts one at a time in plain language, covering topics such as the command line, Git, Big O notation, linked lists, binary search, and other fundamentals. The author's main point was that writing simple explanations helped both teach others and test their own understanding, while also making programming feel less intimidating to beginners."
 ---
 
 [Bite Size Programming](/2017-10-14-introducing-bite-size-programming/) was a writing project about programming, written in small pieces.

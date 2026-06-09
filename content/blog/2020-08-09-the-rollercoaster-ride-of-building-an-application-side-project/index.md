@@ -2,7 +2,7 @@
 title: "The rollercoaster ride of a side project"
 date_published: "2020-08-09"
 backlinks:
-ai_summary: "The post describes the author’s side project to build a remote sprint-planning tool that aggregates team votes in real time, aimed at making remote estimation sessions less clunky. The main point is that side projects can be psychologically slow and frustrating because capability is not the same as proficiency, and the author spent significant time relearning technologies, changing approaches, and questioning whether the effort was worth it. The conclusion is that the project is still worth finishing for its practical use at work, and that the author rejects the pressure to treat every personal learning effort as a productivity or ROI calculation."
+ai_summary: "The post describes the author's side project to build a remote sprint-planning tool that aggregates team votes in real time, aimed at making remote estimation sessions less clunky. The main point is that side projects can be psychologically slow and frustrating because capability is not the same as proficiency, and the author spent significant time relearning technologies, changing approaches, and questioning whether the effort was worth it. The conclusion is that the project is still worth finishing for its practical use at work, and that the author rejects the pressure to treat every personal learning effort as a productivity or ROI calculation."
 ---
 
 ![demo gif of nickang's remote sprint planing side project](images/remote-sprint-planner-demo-nickang-blog.gif)

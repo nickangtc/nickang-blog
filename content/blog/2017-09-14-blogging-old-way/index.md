@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Blogging the old way"
 date_published: "2017-09-14"
 backlinks:
-ai_summary: "The post reflects on how blogging has shifted from a personal online log of daily life to a more career-driven, polished form, and argues for reclaiming that older style of mixing reflections, photos, and varied experiences. The author says blogging this way feels more personal and creative, even if it is less formal and less SEO-friendly, and notes that the pressure to publish only “worthy” posts has been reducing their writing. The conclusion is that the best approach is whichever one encourages more thinking, photographing, and writing, even if the final draft is never published."
+ai_summary: "The post reflects on how blogging has shifted from a personal online log of daily life to a more career-driven, polished form, and argues for reclaiming that older style of mixing reflections, photos, and varied experiences. The author says blogging this way feels more personal and creative, even if it is less formal and less SEO-friendly, and notes that the pressure to publish only \"worthy\" posts has been reducing their writing. The conclusion is that the best approach is whichever one encourages more thinking, photographing, and writing, even if the final draft is never published."
 ---
 
 The idea of blogging has changed. In the past when people first started to use Blogger to publicly share stories about their lives, blogs were like a sort of public log - you know, like a b-log. I think that's actually the etymology of the word. Now, most of us have blogs because they aid us in our careers, and I'm starting to miss blogging the old way.

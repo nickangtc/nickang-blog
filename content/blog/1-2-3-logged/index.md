@@ -8,7 +8,7 @@ fav: false
 backlinks:
   - slug: "/annual-review-2023/"
     title: "My 2023 Annual Review"
-ai_summary: "The author describes adapting Michael Dean’s logloglog method into a faster iPhone shortcut that appends one-line stream-of-consciousness entries to a single Dropbox text file. They argue that this streamlined workflow is better than writing in a notes app because it reduces friction, makes searching and scanning easier, and has led to frequent use over 110 days. The conclusion is that this logging approach has significantly improved how they capture and organize thoughts, even though the setup is a bit finicky."
+ai_summary: "The author describes adapting Michael Dean's logloglog method into a faster iPhone shortcut that appends one-line stream-of-consciousness entries to a single Dropbox text file. They argue that this streamlined workflow is better than writing in a notes app because it reduces friction, makes searching and scanning easier, and has led to frequent use over 110 days. The conclusion is that this logging approach has significantly improved how they capture and organize thoughts, even though the setup is a bit finicky."
 ---
 
 One of the more impactful discoveries for me in terms of organising my messy head is something Michael Dean calls *logloglog*. In this post, I'll talk about how I've adapted his workflow and made it my own, and what impact it has had.

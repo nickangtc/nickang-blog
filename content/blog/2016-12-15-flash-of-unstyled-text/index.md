@@ -3,7 +3,7 @@ title: "The flash of unstyled text"
 date_published: "2016-12-15"
 tags: ["Tech", "Personal"]
 backlinks:
-ai_summary: "The post discusses the Flash of Unstyled Text (FOUT) in web development, using Lettering.js as an example of how JavaScript-driven text styling can cause visible restyling if scripts run after the page loads. The author’s main point is that developers must balance faster initial loading against avoiding distracting flashes, and that script placement should be chosen based on the needs of each project. The conclusion is that something as simple as moving script tags can meaningfully affect user perception of speed, even if the implementation tradeoff is small."
+ai_summary: "The post discusses the Flash of Unstyled Text (FOUT) in web development, using Lettering.js as an example of how JavaScript-driven text styling can cause visible restyling if scripts run after the page loads. The author's main point is that developers must balance faster initial loading against avoiding distracting flashes, and that script placement should be chosen based on the needs of each project. The conclusion is that something as simple as moving script tags can meaningfully affect user perception of speed, even if the implementation tradeoff is small."
 ---
 
 When I entered the web development industry-complex (is it okay to refer to it as such?) in August this year, the first thing I noticed was how fast it moved. This year EJS and HAML is hot, next year it's testing frameworks Mocha and Chai, and then Angular2 and React. In our industry, there has been a hot new thing every year.

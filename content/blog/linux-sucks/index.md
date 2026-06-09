@@ -7,7 +7,7 @@ tags: ["Tech"]
 fav: false
 creation_duration_minutes: 15
 backlinks:
-ai_summary: "The post argues that installing apps on Ubuntu, especially popular ones like Cursor, is unnecessarily difficult and often requires users to rely on obscure tutorials or learn the operating system first. The author’s main point is that software installation should be simple and user-friendly, without forcing people to deal with terminal commands, filesystems, or sudo just to launch an app. The conclusion is that Linux developers should reduce this friction and design for empathy, since ease of installation strongly shapes the user experience."
+ai_summary: "The post argues that installing apps on Ubuntu, especially popular ones like Cursor, is unnecessarily difficult and often requires users to rely on obscure tutorials or learn the operating system first. The author's main point is that software installation should be simple and user-friendly, without forcing people to deal with terminal commands, filesystems, or sudo just to launch an app. The conclusion is that Linux developers should reduce this friction and design for empathy, since ease of installation strongly shapes the user experience."
 ---
 
 Try installing an app, like Cursor, which I hear is all the rage among my friends who aren't professional developers, on Ubuntu. It doesn't just work!

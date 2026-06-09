@@ -3,7 +3,7 @@ tags: ["Personal", "Business"]
 title: "Selling better with machine learning"
 date_published: "2017-07-29"
 backlinks:
-ai_summary: "The post describes the author’s decision to take Andrew Ng’s Coursera Machine Learning course after realizing that limited understanding of the company’s data science and machine learning systems was hurting sales conversations and costing enterprise opportunities. The main point is that deeper product knowledge makes selling more effective, especially for someone who feels uncomfortable pitching what he cannot fully explain. He concludes that the course is a worthwhile investment in both sales ability and long-term technical understanding, and hopes it will help him bridge the “black box” gap."
+ai_summary: "The post describes the author's decision to take Andrew Ng's Coursera Machine Learning course after realizing that limited understanding of the company's data science and machine learning systems was hurting sales conversations and costing enterprise opportunities. The main point is that deeper product knowledge makes selling more effective, especially for someone who feels uncomfortable pitching what he cannot fully explain. He concludes that the course is a worthwhile investment in both sales ability and long-term technical understanding, and hopes it will help him bridge the \"black box\" gap."
 ---
 
 I'm a firm believer that you can only effectively sell if you know the thing you're selling.

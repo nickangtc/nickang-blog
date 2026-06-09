@@ -10,7 +10,7 @@ backlinks:
     title: "How to completely replace git branch code with another branch's code"
   - slug: "/2017-11-03-what-is-git/"
     title: "What is Git?"
-ai_summary: "The post explains how to use git stash to temporarily set aside uncommitted changes when switching branches, then restore them later with git stash pop. It also argues that stash is not ideal when the person may be away from the branch for an unknown amount of time, because the work can be forgotten, and recommends making a “reluctant commit” instead so the changes are safely recorded and can later be cleaned up with squash commits."
+ai_summary: "The post explains how to use git stash to temporarily set aside uncommitted changes when switching branches, then restore them later with git stash pop. It also argues that stash is not ideal when the person may be away from the branch for an unknown amount of time, because the work can be forgotten, and recommends making a \"reluctant commit\" instead so the changes are safely recorded and can later be cleaned up with squash commits."
 ---
 
 ![guy wearing shades working on laptop in a dark room](images/neonbrand-356967.jpg) 

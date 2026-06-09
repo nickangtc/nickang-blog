@@ -10,7 +10,7 @@ backlinks:
     title: "How to tunnel HTTP requests into localhost"
   - slug: "/2017-10-13-junior-developer/"
     title: "How to know you are a junior developer"
-ai_summary: "The post uses tea-making to explain callbacks in JavaScript: instead of waiting around with a stopwatch, a timer lets someone do other tasks and then run a function when the steeping time is done. Its main point is that callbacks enable this “when X is done, do Y” pattern in asynchronous programming, avoiding wasted attention and preventing oversteeped tea."
+ai_summary: "The post uses tea-making to explain callbacks in JavaScript: instead of waiting around with a stopwatch, a timer lets someone do other tasks and then run a function when the steeping time is done. Its main point is that callbacks enable this \"when X is done, do Y\" pattern in asynchronous programming, avoiding wasted attention and preventing oversteeped tea."
 ---
 
 ![Me pulling out an overly steeped teabag with a phone timer showing 7 minutes and 17 seconds](./images/teabag-infusing-stopwatch.jpg)

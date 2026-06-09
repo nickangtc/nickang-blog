@@ -3,7 +3,7 @@ title: "Good marketing example: Combining two things that already go well togeth
 date_published: "2018-09-29"
 tags: ["Business"]
 backlinks:
-ai_summary: "The post examines a Gymshark YouTube video that pairs intense workout footage with upbeat motivational music, arguing that the brand’s marketing works because it combines two things that naturally fit together. The author’s main point is that simple, congruent ideas can hide strong strategic execution, especially when collaboration with musicians, strong visuals, and a short on-brand story make the content feel like a recommendation rather than an ad. The conclusion is that this approach can build awareness and move viewers into the sales funnel for free, even if they are not ready to buy immediately."
+ai_summary: "The post examines a Gymshark YouTube video that pairs intense workout footage with upbeat motivational music, arguing that the brand's marketing works because it combines two things that naturally fit together. The author's main point is that simple, congruent ideas can hide strong strategic execution, especially when collaboration with musicians, strong visuals, and a short on-brand story make the content feel like a recommendation rather than an ad. The conclusion is that this approach can build awareness and move viewers into the sales funnel for free, even if they are not ready to buy immediately."
 ---
 
 YouTube recommended me this video from Gymshark today and I found myself immediately connecting with what it stood for.

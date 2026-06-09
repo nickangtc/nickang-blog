@@ -3,7 +3,7 @@ title: "Free text expander software for Apple devices"
 date_published: "2020-03-29"
 tags: ["Communication"]
 backlinks:
-ai_summary: "The post explains how the author found a free text expander for Apple devices by using the built-in keyboard text replacement feature in macOS, iPadOS, and iOS instead of paying for Alfred’s premium snippets. The main point is that this built-in tool is easy to set up, syncs across Apple devices, and can save time by automating repeated text entry, though it does not work in the Chrome address bar. The author concludes that it is a practical and permanent addition to daily workflow and recommends it to others."
+ai_summary: "The post explains how the author found a free text expander for Apple devices by using the built-in keyboard text replacement feature in macOS, iPadOS, and iOS instead of paying for Alfred's premium snippets. The main point is that this built-in tool is easy to set up, syncs across Apple devices, and can save time by automating repeated text entry, though it does not work in the Chrome address bar. The author concludes that it is a practical and permanent addition to daily workflow and recommends it to others."
 ---
 
 I recently went on a hunt for a suitable text expander software and in this post I share how I arrived at a perfect free tool.

@@ -8,7 +8,7 @@ fav: false
 backlinks:
   - slug: "/blogs-are-gold-mines-now/"
     title: "Blogs are gold mines now"
-ai_summary: "The post explains how a foreign parent in Berlin can collect a child’s residence permit after a Germany-born child’s application, based on experience at Bürgeramt Rathaus Mitte. The main point is that the permit may simply be ready for in-person pickup at the same Bürgeramt about five weeks after applying, with no email or postal notification, though procedures may vary by office. The author concludes that applicants should check directly with the Bürgeramt, since there is a document collection room there and waiting for a notification may waste time."
+ai_summary: "The post explains how a foreign parent in Berlin can collect a child's residence permit after a Germany-born child's application, based on experience at Bürgeramt Rathaus Mitte. The main point is that the permit may simply be ready for in-person pickup at the same Bürgeramt about five weeks after applying, with no email or postal notification, though procedures may vary by office. The author concludes that applicants should check directly with the Bürgeramt, since there is a document collection room there and waiting for a notification may waste time."
 ---
 
 This is one of those public service announcement posts that really needs to be searchable on the internet because bureaucracy is piece of work.

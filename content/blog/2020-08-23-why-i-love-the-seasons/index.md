@@ -8,7 +8,7 @@ backlinks:
     title: "Learning in public"
   - slug: "/annual-review-2020/"
     title: "My 2020 Annual Review"
-ai_summary: "The author argues that living in a place with distinct seasons, like Berlin, feels more natural and meaningful than Singapore’s constant weather, which he finds monotonous. He says seasonal variation provides a humbling external force that keeps people grounded, appreciative, and less convinced they can control everything through human effort. He concludes that while balance is ideal, he prefers reminders from nature because they help him feel more in touch with what he is."
+ai_summary: "The author argues that living in a place with distinct seasons, like Berlin, feels more natural and meaningful than Singapore's constant weather, which he finds monotonous. He says seasonal variation provides a humbling external force that keeps people grounded, appreciative, and less convinced they can control everything through human effort. He concludes that while balance is ideal, he prefers reminders from nature because they help him feel more in touch with what he is."
 ---
 
 Deep within me, I yearn for variation. Very few things in life are truly monotonous, so when the weather actually is, it makes me sad. Most things like our heartbeats have a rhythm to it! So by that argument, I've been rather sad my whole life having lived in Singapore.

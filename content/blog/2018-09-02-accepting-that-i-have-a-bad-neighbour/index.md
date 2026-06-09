@@ -2,7 +2,7 @@
 title: "Accepting that I have a bad neighbour"
 date_published: "2018-09-02"
 backlinks:
-ai_summary: "The post reflects on the frustration of having a bad neighbour and the author’s shift from wanting to complain to considering acceptance. The main point is that bad neighbours may be an unavoidable part of city life, and it may be healthier to accept the situation or question whether urban living is worth the stress. The author concludes that the only way to know would be to try living elsewhere for a while."
+ai_summary: "The post reflects on the frustration of having a bad neighbour and the author's shift from wanting to complain to considering acceptance. The main point is that bad neighbours may be an unavoidable part of city life, and it may be healthier to accept the situation or question whether urban living is worth the stress. The author concludes that the only way to know would be to try living elsewhere for a while."
 ---
 
 ![frustrated nick ang blog](images/chuttersnap-135797-unsplash.jpg)

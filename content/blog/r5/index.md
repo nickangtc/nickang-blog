@@ -6,7 +6,7 @@ excerpt: "Failure, success, and the next thing and the nex thing."
 tags: ["Fiction", "Raw essays"]
 fav: false
 backlinks:
-ai_summary: "The post follows Howard as he daydreams about the life of a wrestler-turned-celebrity “People’s Champion” who became an actor, entrepreneur, and larger-than-life public figure, while Howard contrasts that fantasy with his own desk-bound, family-centered routine. Its main point is that the glamour of fame comes with its own pressures and tradeoffs, and Howard ultimately settles back into ordinary work, glancing at a photo of his son and accepting his own life."
+ai_summary: "The post follows Howard as he daydreams about the life of a wrestler-turned-celebrity \"People's Champion\" who became an actor, entrepreneur, and larger-than-life public figure, while Howard contrasts that fantasy with his own desk-bound, family-centered routine. Its main point is that the glamour of fame comes with its own pressures and tradeoffs, and Howard ultimately settles back into ordinary work, glancing at a photo of his son and accepting his own life."
 ---
 
 *(This is #5 of 30 raw essays in 30 days.)*

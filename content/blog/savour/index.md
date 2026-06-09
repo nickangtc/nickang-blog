@@ -7,7 +7,7 @@ tags: ["Living", "Parenting"]
 fav: false
 creation_duration_minutes: 33
 backlinks:
-ai_summary: "The post describes a late-night conflict with the author’s three-year-old daughter, who cried and fussed over how she wanted to hold her milk until the chance to drink it was taken away. The author’s main point is that people should appreciate and act on what they already have while it is available, because failing to do so can mean losing it. The concluding lesson is to savour and use desired opportunities immediately rather than wasting them through indecision or complaining."
+ai_summary: "The post describes a late-night conflict with the author's three-year-old daughter, who cried and fussed over how she wanted to hold her milk until the chance to drink it was taken away. The author's main point is that people should appreciate and act on what they already have while it is available, because failing to do so can mean losing it. The concluding lesson is to savour and use desired opportunities immediately rather than wasting them through indecision or complaining."
 ---
 
 It's 10:30pm on a weekday. We just got home from a Chinese orchestra concert. Charlotte is sleeping on my shoulder but I gently wake her up because it's time to drink her milk, brush her teeth, and slide under her sheets.

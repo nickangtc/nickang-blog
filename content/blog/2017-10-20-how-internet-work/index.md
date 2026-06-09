@@ -3,7 +3,7 @@ title: "Bite Size Programming - How does the internet work?"
 date_published: "2017-10-20"
 tags: ["Tech"]
 backlinks:
-ai_summary: "The post explains how the internet works at a basic level by describing what happens when a URL is entered into a browser: the browser sends a GET request to a server, the server returns the requested content, and the browser renders it. The author’s main point is that web and mobile experiences are built on a simple request-response process between client and server, even though many technical steps are omitted for clarity. The conclusion is that a URL is effectively a pointer that helps users retrieve and display content from across the internet."
+ai_summary: "The post explains how the internet works at a basic level by describing what happens when a URL is entered into a browser: the browser sends a GET request to a server, the server returns the requested content, and the browser renders it. The author's main point is that web and mobile experiences are built on a simple request-response process between client and server, even though many technical steps are omitted for clarity. The conclusion is that a URL is effectively a pointer that helps users retrieve and display content from across the internet."
 ---
 
 ![bite size programming how internet work banner](images/bite-size-programming-how-does-the-internet-work-banner-nickang-blog.png) 

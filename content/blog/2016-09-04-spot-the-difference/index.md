@@ -2,7 +2,7 @@
 title: "What I learned making 'Spot the difference' game"
 date_published: "2016-09-04"
 backlinks:
-ai_summary: "The post describes the author’s experience building a browser-based Spot the Difference game, including a midweek redesign when a grid-based click system failed because differences did not fit neatly into boxes. The main point is that limited time and inexperience require prioritising workable solutions, learning from failed approaches, and sometimes choosing user experience over extra functionality. The author concludes that the project was good enough to present despite remaining bugs, and that the lessons learned would help with bigger challenges ahead."
+ai_summary: "The post describes the author's experience building a browser-based Spot the Difference game, including a midweek redesign when a grid-based click system failed because differences did not fit neatly into boxes. The main point is that limited time and inexperience require prioritising workable solutions, learning from failed approaches, and sometimes choosing user experience over extra functionality. The author concludes that the project was good enough to present despite remaining bugs, and that the lessons learned would help with bigger challenges ahead."
 ---
 
 ![brick wall](images/photo-1465210649170-0c88267775be-1024x682.jpg)

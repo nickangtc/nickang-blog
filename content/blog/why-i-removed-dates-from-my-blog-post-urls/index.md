@@ -6,7 +6,7 @@ excerpt: "I no longer see my blog posts as static after publication. They're"
 tags: ["Creativity"]
 fav: false
 backlinks:
-ai_summary: "The author explains that they removed publication dates from future blog post URLs because shorter URLs look cleaner and because they no longer see posts as fixed newspaper-like pieces. They now treat posts as evergreen, updateable documentation, showing both published and updated dates when needed. They keep existing dated URLs to avoid breaking search access and note that GitHub’s edit history provides useful accountability and a record of changing views."
+ai_summary: "The author explains that they removed publication dates from future blog post URLs because shorter URLs look cleaner and because they no longer see posts as fixed newspaper-like pieces. They now treat posts as evergreen, updateable documentation, showing both published and updated dates when needed. They keep existing dated URLs to avoid breaking search access and note that GitHub's edit history provides useful accountability and a record of changing views."
 ---
 
 At the time of writing, I'm running this blog on Gatsby.js. It's [open sourced](https://github.com/nickangtc/nickang-blog-gatsby) and you can view the code on GitHub

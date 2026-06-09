@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Bye Inconsolata"
 date_published: "2018-02-20"
 backlinks:
-ai_summary: "The author describes replacing the blog’s Inconsolata typeface after deciding they were tired of it and curious whether a different font would change the reading experience. The experiment made the blog feel unfamiliar even to its owner, leading to the conclusion that Inconsolata had to be removed and Georgia was chosen instead."
+ai_summary: "The author describes replacing the blog's Inconsolata typeface after deciding they were tired of it and curious whether a different font would change the reading experience. The experiment made the blog feel unfamiliar even to its owner, leading to the conclusion that Inconsolata had to be removed and Georgia was chosen instead."
 ---
 
 ![inconsolata font on nickang blog](images/Screen-Shot-2018-02-19-at-10.37.52-PM-1024x544.png) 

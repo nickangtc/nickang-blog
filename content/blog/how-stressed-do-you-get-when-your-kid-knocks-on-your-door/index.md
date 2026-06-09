@@ -6,7 +6,7 @@ excerpt: "A simple realisation to improve both productivity and relationships."
 tags: ["Career", "Living"]
 fav: false
 backlinks:
-ai_summary: "The post reflects on a podcast discussion between Cal Newport and Ali Abdaal about whether a person’s reaction to being interrupted by a child can reveal if they are treating life too much like work. The author describes becoming frustrated when his daughter interrupted him during a stressful work call, then feeling regret and realising that if he keeps prioritising productivity over family, he may lose something valuable. The conclusion is that he needs to slow down and be more open to “welcome distractions” in personal life rather than carrying hustling habits into it."
+ai_summary: "The post reflects on a podcast discussion between Cal Newport and Ali Abdaal about whether a person's reaction to being interrupted by a child can reveal if they are treating life too much like work. The author describes becoming frustrated when his daughter interrupted him during a stressful work call, then feeling regret and realising that if he keeps prioritising productivity over family, he may lose something valuable. The conclusion is that he needs to slow down and be more open to \"welcome distractions\" in personal life rather than carrying hustling habits into it."
 ---
 
 Cal Newport and Ali Abdaal are on a [podcast](https://open.spotify.com/episode/0qpL8GD6UHRaaJpYfmJkhf?ref=nicks-notes.ghost.io). The former just published a book called Slow Productivity and the latter, a book called Feel Good Productivity. Both productivity thought leaders in their own way.

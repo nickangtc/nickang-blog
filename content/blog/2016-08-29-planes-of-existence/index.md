@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Planes of existence"
 date_published: "2016-08-29"
 backlinks:
-ai_summary: "The post reflects on riding a motorcycle in Singapore, weighing the convenience of bypassing traffic against the real risk of injury or death. The author’s main point is that life must be accepted on its actual terms, with mind and action aligned to the plane one is on, rather than living in envy or denial. The conclusion is that he is content with his current trade-off and believes happiness comes from fully accepting one’s situation while still striving for improvement."
+ai_summary: "The post reflects on riding a motorcycle in Singapore, weighing the convenience of bypassing traffic against the real risk of injury or death. The author's main point is that life must be accepted on its actual terms, with mind and action aligned to the plane one is on, rather than living in envy or denial. The conclusion is that he is content with his current trade-off and believes happiness comes from fully accepting one's situation while still striving for improvement."
 ---
 
 ![woman floating in water](images/photo-1468818519844-64bc429824de-1024x683.jpeg)

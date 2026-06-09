@@ -2,7 +2,7 @@
 title: "How to prevent jQuery from loading image in parseHTML"
 date_published: "2017-12-14"
 backlinks:
-ai_summary: "The post explains a bug encountered while using jQuery’s parseHTML in a drag-and-drop email builder, where parsing an img tag unexpectedly triggered image requests before the node was inserted into the document. The author found that this is expected jQuery behavior and that the fix is to parse the HTML in a new document context, which prevents unwanted resource loading and reduces unnecessary server traffic."
+ai_summary: "The post explains a bug encountered while using jQuery's parseHTML in a drag-and-drop email builder, where parsing an img tag unexpectedly triggered image requests before the node was inserted into the document. The author found that this is expected jQuery behavior and that the fix is to parse the HTML in a new document context, which prevents unwanted resource loading and reduces unnecessary server traffic."
 ---
 
 This post is inspired by a recent bug fix at work related to jQuery's `parseHTML()` method.

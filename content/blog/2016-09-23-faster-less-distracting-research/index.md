@@ -2,7 +2,7 @@
 title: "Spidey - the faster, less distracting way to do research online"
 date_published: "2016-09-23"
 backlinks:
-ai_summary: "The post describes the author’s week in a General Assembly web development course and the creation of Spidey, a dashboard for doing online research quickly and with fewer distractions. The main point is that the project was challenging, especially on the Node.js server side, but it taught the author valuable lessons about experimenting, using existing tools, and continuing to build despite difficulty. The conclusion is that Spidey still needs work, but the author feels confident about having learned enough to keep improving it and other future projects."
+ai_summary: "The post describes the author's week in a General Assembly web development course and the creation of Spidey, a dashboard for doing online research quickly and with fewer distractions. The main point is that the project was challenging, especially on the Node.js server side, but it taught the author valuable lessons about experimenting, using existing tools, and continuing to build despite difficulty. The conclusion is that Spidey still needs work, but the author feels confident about having learned enough to keep improving it and other future projects."
 ---
 
 ![general assembly singapore web development course in session](images/20160923-IMG_20160923_140726-1024x768.jpg) 

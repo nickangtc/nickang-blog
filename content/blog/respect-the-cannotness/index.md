@@ -7,7 +7,7 @@ tags: ["Living"]
 fav: false
 
 backlinks:
-ai_summary: "The post describes how the author and his wife handle moments when one of them is too exhausted to keep parenting or working, especially after they became parents. His main point is that when a partner says they “cannot,” responding with trust, kindness, and immediate relief rather than skepticism strengthens the relationship and creates a reliable circuit-breaker against burnout. He concludes that this dynamic comes from mutual respect and trust, and encourages partners to practice the kindness first so it can become a virtuous cycle."
+ai_summary: "The post describes how the author and his wife handle moments when one of them is too exhausted to keep parenting or working, especially after they became parents. His main point is that when a partner says they \"cannot,\" responding with trust, kindness, and immediate relief rather than skepticism strengthens the relationship and creates a reliable circuit-breaker against burnout. He concludes that this dynamic comes from mutual respect and trust, and encourages partners to practice the kindness first so it can become a virtuous cycle."
 ---
 
 These days there is not a thing that I'm more grateful for than my wife. I have much to say about her, about how much she has influenced who I am today, which I fully expect to write about in this newsletter over time. In this post I want to examine something that I've been thinking about a lot lately - it's about her respecting and granting my need for respite.

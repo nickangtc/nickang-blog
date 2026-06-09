@@ -2,7 +2,7 @@
 title: "Overcooked 2 and the power of seasonal content"
 date_published: "2019-02-12"
 backlinks:
-ai_summary: "The post focuses on Overcooked 2 and its seasonal content, especially the Christmas and Lunar New Year updates that add new levels and unlockable avatars. The author’s main point is that seasonal updates make games feel more dynamic and enjoyable by expanding a familiar world over time, showing how modern game releases can continue evolving after launch."
+ai_summary: "The post focuses on Overcooked 2 and its seasonal content, especially the Christmas and Lunar New Year updates that add new levels and unlockable avatars. The author's main point is that seasonal updates make games feel more dynamic and enjoyable by expanding a familiar world over time, showing how modern game releases can continue evolving after launch."
 ---
 
 ![overcooked 2 chinese new year update nick ang](images/overcooked-2-chinese-new-year-update-nick-ang-1024x576.jpg) 

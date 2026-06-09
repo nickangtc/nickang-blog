@@ -7,7 +7,7 @@ tags: ["Career", "Living"]
 fav: false
 creation_duration_minutes:
 backlinks:
-ai_summary: "The post reflects on rewatching Chef (2014) to compare the film’s tension between a chef’s craft and a profit-driven boss with the author’s own software engineering career. The main point is that cooking offers a tighter, more human feedback loop than typical software work, and the author increasingly wants work that lets them see and feel the impact on users directly. The conclusion is that small teams and closer contact with users may help engineers do their best work, much like a kitchen where each person plays a clear role."
+ai_summary: "The post reflects on rewatching Chef (2014) to compare the film's tension between a chef's craft and a profit-driven boss with the author's own software engineering career. The main point is that cooking offers a tighter, more human feedback loop than typical software work, and the author increasingly wants work that lets them see and feel the impact on users directly. The conclusion is that small teams and closer contact with users may help engineers do their best work, much like a kitchen where each person plays a clear role."
 ---
 
 Chef is one of my favourite movies. I always get new thoughts watching it - the hallmark of a great show.

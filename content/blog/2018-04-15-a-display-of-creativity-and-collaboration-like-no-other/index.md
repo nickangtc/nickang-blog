@@ -5,7 +5,7 @@ date_published: "2018-04-15"
 backlinks:
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
-ai_summary: "The post describes Casey Neistat and Jack Conte announcing a collaboration after Conte used a carefully made video to get Neistat’s attention and pitch an idea. The author’s main point is that the way they connected is a remarkable example of creativity and collaboration, with the conclusion that one creative act can open doors to major opportunities for creators."
+ai_summary: "The post describes Casey Neistat and Jack Conte announcing a collaboration after Conte used a carefully made video to get Neistat's attention and pitch an idea. The author's main point is that the way they connected is a remarkable example of creativity and collaboration, with the conclusion that one creative act can open doors to major opportunities for creators."
 ---
 
 Today is a glorious day. Not in some grand way though. Today is the day Casey Neistat uploaded a video on his channel (recently rebranded as 368) where he and Jack Conte, the CEO of crowdfunding platform for creators, Patreon, declared to the world that they will be collaborating.

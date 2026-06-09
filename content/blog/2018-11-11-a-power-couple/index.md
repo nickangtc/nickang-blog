@@ -3,7 +3,7 @@ title: "A power couple"
 date_published: "2018-11-11"
 tags: ["Business"]
 backlinks:
-ai_summary: "The post discusses the author and his wife launching ang veil yú, a business selling handmade bridal veils, after a friend called them a “power couple.” The author’s main point is that their effort was not about looking impressive but about pursuing a meaningful small business, and that the hardest part was simply taking the leap and trusting themselves to do the work. He concludes that launching a business is achievable for ordinary people and that they are just a couple pursuing their own dreams."
+ai_summary: "The post discusses the author and his wife launching ang veil yú, a business selling handmade bridal veils, after a friend called them a \"power couple.\" The author's main point is that their effort was not about looking impressive but about pursuing a meaningful small business, and that the hardest part was simply taking the leap and trusting themselves to do the work. He concludes that launching a business is achievable for ordinary people and that they are just a couple pursuing their own dreams."
 ---
 
 ![power couple nick ang blog](images/milan-popovic-596860-unsplash.jpg) 

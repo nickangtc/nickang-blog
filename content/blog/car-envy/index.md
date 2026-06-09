@@ -7,7 +7,7 @@ tags: ["Money", "Living"]
 fav: false
 creation_duration_minutes: 22
 backlinks:
-ai_summary: "The post argues that car envy is normal because cars symbolize socioeconomic mobility, safety, and access to opportunities, especially for people who rely on them to live, work, and travel. Using the author’s own van as an example, it concludes that admiring ordinary cars is understandable, but luxury cars cross into status signaling and offer diminishing practical value."
+ai_summary: "The post argues that car envy is normal because cars symbolize socioeconomic mobility, safety, and access to opportunities, especially for people who rely on them to live, work, and travel. Using the author's own van as an example, it concludes that admiring ordinary cars is understandable, but luxury cars cross into status signaling and offer diminishing practical value."
 ---
 
 Car as symbol of socioeconomic mobility

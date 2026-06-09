@@ -3,7 +3,7 @@ title: "Inspiration is a spark"
 date_published: "2018-11-08"
 tags: ["Business"]
 backlinks:
-ai_summary: "The post describes how the author and his wife turned a casual conversation into a new business: Singapore’s first bridal veil boutique, launched after about six weeks of preparation. His main point is that inspiration is only a spark and must be acted on quickly, with action providing the momentum that turns an idea into reality. He concludes that responding immediately to inspiration can transform a small idea into something much bigger and worth growing."
+ai_summary: "The post describes how the author and his wife turned a casual conversation into a new business: Singapore's first bridal veil boutique, launched after about six weeks of preparation. His main point is that inspiration is only a spark and must be acted on quickly, with action providing the momentum that turns an idea into reality. He concludes that responding immediately to inspiration can transform a small idea into something much bigger and worth growing."
 ---
 
 ![inspiration is a spark nick ang blog](images/j-a-n-u-p-r-a-s-a-d-259192-unsplash.jpg)

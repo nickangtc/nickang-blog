@@ -5,7 +5,7 @@ date_published: "2018-02-01"
 backlinks:
   - slug: "/2021-04-17-free-time-default-activity/"
     title: "Free time default activity"
-ai_summary: "The post argues that sleep should be treated as sacred, using the author’s experience of staying up late to finish a software project as an example of why pushing through fatigue backfires. The main point is that lost sleep is not truly recoverable and that sleep deprivation quickly leads to regret, so people should stop working and sleep when tired, even if they are on a roll."
+ai_summary: "The post argues that sleep should be treated as sacred, using the author's experience of staying up late to finish a software project as an example of why pushing through fatigue backfires. The main point is that lost sleep is not truly recoverable and that sleep deprivation quickly leads to regret, so people should stop working and sleep when tired, even if they are on a roll."
 ---
 
 ![sleep is sacred nickang blog](images/natalia-figueredo-350529-1024x684.jpg) 

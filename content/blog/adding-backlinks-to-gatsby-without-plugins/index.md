@@ -5,7 +5,7 @@ date_updated: "2025-12-19"
 excerpt: "A practical approach to bidirectional linking in Gatsby by pre-computing backlinks at build time and storing them in frontmatter"
 tags: ["Tech", "Gatsby"]
 backlinks:
-ai_summary: "The post explains how the author added backlinks to a custom Gatsby blog without using plugins by precomputing reverse links with a Node.js script and storing them in each post’s frontmatter. The main point is that this approach keeps the system simple, transparent, and fast, while a git pre-commit hook ensures backlinks stay updated automatically. The author concludes that for their blog, this was a practical, dependency-free solution that also clarified how Gatsby and the site’s content connect."
+ai_summary: "The post explains how the author added backlinks to a custom Gatsby blog without using plugins by precomputing reverse links with a Node.js script and storing them in each post's frontmatter. The main point is that this approach keeps the system simple, transparent, and fast, while a git pre-commit hook ensures backlinks stay updated automatically. The author concludes that for their blog, this was a practical, dependency-free solution that also clarified how Gatsby and the site's content connect."
 ---
 
 **Warning, this was written by AI**: I asked Claude to write this post for me after I guided it to implement the backlinks feature in this custom-rolled blog of mine. I have taken time to read the post and it's 80% in my tone, and 100% what I would have written. If you hate AI-generated write-ups, read other posts. Only posts with this disclaimer are written by AI.

@@ -5,7 +5,7 @@ tags: ["Business"]
 backlinks:
   - slug: "/2018-06-02-philippines-field-trip/"
     title: "Reflecting on 15 days in the Philippines fields"
-ai_summary: "The post contrasts the author’s experience in tech with his time teaching environmental studies fieldwork in Bohol, Philippines, while also noting his upcoming software engineering job in Singapore. His main point is that both professions operate in their own echo chambers, but environmental work feels more grounded, and moving between these worlds has shown him how narrow a single professional identity can be. He concludes that blending his background in science and software may be more valuable than trying to define himself by only one field."
+ai_summary: "The post contrasts the author's experience in tech with his time teaching environmental studies fieldwork in Bohol, Philippines, while also noting his upcoming software engineering job in Singapore. His main point is that both professions operate in their own echo chambers, but environmental work feels more grounded, and moving between these worlds has shown him how narrow a single professional identity can be. He concludes that blending his background in science and software may be more valuable than trying to define himself by only one field."
 ---
 
 ![flight into Bohol Philippines nickang blog](images/20180517-BES-ENV3102-flight-arrival-nickang-blog-1024x768.jpg) 

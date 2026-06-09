@@ -4,7 +4,7 @@ date_published: "2019-10-20"
 backlinks:
   - slug: "/ig-2026/"
     title: "Instagram growth hacking (2026)"
-ai_summary: "The post describes how the author left Instagram after feeling drained by constant comparison and the platform’s highlight-reel culture, then returned after a six-month break with a new purpose. By using the Close Friends feature to share daily updates about life in Berlin with family and friends, the author found a healthier, more intentional way to use Instagram that reduced scrolling and made the platform feel useful again."
+ai_summary: "The post describes how the author left Instagram after feeling drained by constant comparison and the platform's highlight-reel culture, then returned after a six-month break with a new purpose. By using the Close Friends feature to share daily updates about life in Berlin with family and friends, the author found a healthier, more intentional way to use Instagram that reduced scrolling and made the platform feel useful again."
 ---
 
 Earlier this year in February, I published my last post on Instagram and left the platform. I left because I was feeling what every magazine has discussed as the detrimental effects of using something like Instagram. I was constantly and, worse, subconsciously, comparing my life to other people's.

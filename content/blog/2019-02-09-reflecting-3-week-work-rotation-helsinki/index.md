@@ -10,7 +10,7 @@ backlinks:
     title: "From shock to love: How the closed-on-Sunday law in Germany improved my life"
   - slug: "/ig-2026/"
     title: "Instagram growth hacking (2026)"
-ai_summary: "The post reflects on a three-week work rotation in Helsinki, where the author worked more closely with a remotely based team and observed Finnish workplace habits, including a calmer pace, a strong bias toward getting work done quickly, and greater trust built through in-person interaction. The main point is that the trip highlighted the value of balancing hard work with time off, embracing “done is better than perfect,” and being willing to ask questions and build interests outside work. The conclusion is that the experience left the author with practical lessons about work, relationships, and personal wellbeing that they want to carry forward."
+ai_summary: "The post reflects on a three-week work rotation in Helsinki, where the author worked more closely with a remotely based team and observed Finnish workplace habits, including a calmer pace, a strong bias toward getting work done quickly, and greater trust built through in-person interaction. The main point is that the trip highlighted the value of balancing hard work with time off, embracing \"done is better than perfect,\" and being willing to ask questions and build interests outside work. The conclusion is that the experience left the author with practical lessons about work, relationships, and personal wellbeing that they want to carry forward."
 ---
 
 I recently spent three weeks in Helsinki as a sort of mini-rotation within [Smartly.io](https://smartly.io). While I was there, I worked a lot more closely with the team I belong to but have been working remotely with from Singapore, and I've learned a lot.

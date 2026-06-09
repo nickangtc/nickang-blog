@@ -7,7 +7,7 @@ tags: ["Tech", "Daily Reflection"]
 fav: false
 creation_duration_minutes: 40
 backlinks:
-ai_summary: "The post discusses Bill Gates’s 1995 book The Road Ahead and reflects on its early predictions about personal computers, software, and the coming impact of networked technology and AI. The author’s main point is that Gates’s insights feel prescient, and that the founding of Microsoft grew from deep curiosity, hands-on experimentation, and close attention to emerging hardware trends. The useful conclusion is that cultivating intense, sustained interests can help people notice opportunities others miss."
+ai_summary: "The post discusses Bill Gates's 1995 book The Road Ahead and reflects on its early predictions about personal computers, software, and the coming impact of networked technology and AI. The author's main point is that Gates's insights feel prescient, and that the founding of Microsoft grew from deep curiosity, hands-on experimentation, and close attention to emerging hardware trends. The useful conclusion is that cultivating intense, sustained interests can help people notice opportunities others miss."
 ---
 
 I just started reading The Road Ahead by Bill Gates, a book published in 1995.

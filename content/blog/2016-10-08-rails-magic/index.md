@@ -2,7 +2,7 @@
 title: "Accepting Rails magic"
 date_published: "2016-10-08"
 backlinks:
-ai_summary: "The post reflects on learning Ruby on Rails after a progression through HTML, CSS, JavaScript, Node/Express, and other web development tools, arguing that Rails feels remarkably intuitive and productive compared with bare-bones server coding, even if its “magic” can sometimes be confusing. It also discusses an upcoming team project at General Assembly to build a skilled-jobs portal, emphasizing that the goal is to strengthen Rails fundamentals and improve confidence in future web applications."
+ai_summary: "The post reflects on learning Ruby on Rails after a progression through HTML, CSS, JavaScript, Node/Express, and other web development tools, arguing that Rails feels remarkably intuitive and productive compared with bare-bones server coding, even if its \"magic\" can sometimes be confusing. It also discusses an upcoming team project at General Assembly to build a skilled-jobs portal, emphasizing that the goal is to strengthen Rails fundamentals and improve confidence in future web applications."
 ---
 
 This is the order we learned about web development:

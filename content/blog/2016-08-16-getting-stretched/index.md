@@ -3,7 +3,7 @@ title: "Getting stretched"
 date_published: "2016-08-16"
 tags: ["Tech"]
 backlinks:
-ai_summary: "The post describes the author’s second day in a web development immersive course, where they struggled through CSS and GitHub basics while recreating landing pages like Instagram and Airbnb, including issues with file linking and relative image paths. The main point is that learning to code is difficult but clarifying, with repeated mistakes helping the author understand the workflow better. The conclusion is that the mental strain is part of the process and is beginning to build coding ability, much like exercise builds muscle."
+ai_summary: "The post describes the author's second day in a web development immersive course, where they struggled through CSS and GitHub basics while recreating landing pages like Instagram and Airbnb, including issues with file linking and relative image paths. The main point is that learning to code is difficult but clarifying, with repeated mistakes helping the author understand the workflow better. The conclusion is that the mental strain is part of the process and is beginning to build coding ability, much like exercise builds muscle."
 ---
 
 I'm going to keep this post short because I think tonight's homework is going to take over 3 more hours…

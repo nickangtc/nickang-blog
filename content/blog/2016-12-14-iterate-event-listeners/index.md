@@ -3,7 +3,7 @@ title: "How to add event listeners without repeating yourself"
 date_published: "2016-12-14"
 tags: ["Tech"]
 backlinks:
-ai_summary: "The post explains a simple DRY technique for adding the same event listener to multiple elements by looping over an array with `.forEach`, using jQuery selectors as the example. The author’s main point is that this approach reduces repetition when attaching handlers like `mousedown` to `#up`, `#down`, `#left`, and `#right`, and they invite readers to suggest an even cleaner solution."
+ai_summary: "The post explains a simple DRY technique for adding the same event listener to multiple elements by looping over an array with `.forEach`, using jQuery selectors as the example. The author's main point is that this approach reduces repetition when attaching handlers like `mousedown` to `#up`, `#down`, `#left`, and `#right`, and they invite readers to suggest an even cleaner solution."
 ---
 
 One of the key principles of good programming is DRY - Don't Repeat Yourself!

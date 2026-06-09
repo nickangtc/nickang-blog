@@ -6,7 +6,7 @@ backlinks:
     title: "Word rafting"
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
-ai_summary: "The post reflects on the vastness of knowledge and the limits of any individual’s ability to learn it all, arguing that this should be encouraging rather than discouraging. The author’s main point is that people should be selective about what they learn because time is limited, but if uncertain, it is still better to learn something than nothing."
+ai_summary: "The post reflects on the vastness of knowledge and the limits of any individual's ability to learn it all, arguing that this should be encouraging rather than discouraging. The author's main point is that people should be selective about what they learn because time is limited, but if uncertain, it is still better to learn something than nothing."
 ---
 
 No matter how many posts covering how many topics in however much depth that I write and publish here, they will only ever add up to an infinitesimally tiny fraction of all there is to know in this world.

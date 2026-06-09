@@ -7,7 +7,7 @@ tags: ["Career"]
 fav: false
 creation_duration_minutes:
 backlinks:
-ai_summary: "The post examines the author’s dilemma between continuing solo AI startup work or returning to a job, including the possibility of an acqui-hire versus building an enterprise AI product in a narrow hardware procurement niche. The main point is that the hardest decision is not the available options but choosing to keep going despite limited results, uncertainty about landing early enterprise customers, and the risk of spending more savings. The conclusion is that both paths carry tradeoffs, but enterprise software may offer more controllable upside than searching for a rare high-autonomy job."
+ai_summary: "The post examines the author's dilemma between continuing solo AI startup work or returning to a job, including the possibility of an acqui-hire versus building an enterprise AI product in a narrow hardware procurement niche. The main point is that the hardest decision is not the available options but choosing to keep going despite limited results, uncertainty about landing early enterprise customers, and the risk of spending more savings. The conclusion is that both paths carry tradeoffs, but enterprise software may offer more controllable upside than searching for a rare high-autonomy job."
 ---
 
 Few weeks ago I [lamented the crossroads I was at and how difficult it was to decide](/should-i-keep-going-solo-after-8-months-i-honestly-dont-know/): to return to a job, or to continue trying to build my own business.

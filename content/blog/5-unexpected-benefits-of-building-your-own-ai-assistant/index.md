@@ -6,7 +6,7 @@ excerpt: "Field notes from a week of using NanoClaw as my personal productivity 
 tags: ["Substack", "Business"]
 fav: false
 backlinks:
-ai_summary: "The post argues that building a personal AI assistant with NanoClaw/OpenClaw offers five practical advantages over generic chat apps: asynchronous conversation, offline message handling, user-controlled feature upgrades, centralized portable memory, and the ability to keep working on a schedule while the user sleeps. The author’s main point is that these agents are worth tinkering with because they make AI more like a real personal assistant and can materially improve productivity, despite early bugs and hype."
+ai_summary: "The post argues that building a personal AI assistant with NanoClaw/OpenClaw offers five practical advantages over generic chat apps: asynchronous conversation, offline message handling, user-controlled feature upgrades, centralized portable memory, and the ability to keep working on a schedule while the user sleeps. The author's main point is that these agents are worth tinkering with because they make AI more like a real personal assistant and can materially improve productivity, despite early bugs and hype."
 ---
 
 I've been tinkering with [NanoClaw](https://nanoclaw.dev/) for almost a week now and it's been a rollercoaster (i.e. some ups, some downs). In this post I'll take you through why I decided it's a good use of time to play with these "personal agents" and the top 5 non-obvious benefits of having one over, say, the generic Claude or ChatGPT app.

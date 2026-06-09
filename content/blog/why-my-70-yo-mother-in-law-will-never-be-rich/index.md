@@ -6,7 +6,7 @@ excerpt: "The lesson my 4-year-old may have learned that her grandmother missed 
 tags: ["Substack"]
 fav: false
 backlinks:
-ai_summary: "The post describes the author’s frustration after his 70-year-old mother-in-law spends a large sum on a dubious TikTok course despite years of poor money habits, prompting a broader reflection on scarcity thinking. He argues that happiness and “richness” come from paying attention to what one already has rather than constantly chasing more, using his daughter’s notebook tantrum as a lesson in contentment."
+ai_summary: "The post describes the author's frustration after his 70-year-old mother-in-law spends a large sum on a dubious TikTok course despite years of poor money habits, prompting a broader reflection on scarcity thinking. He argues that happiness and \"richness\" come from paying attention to what one already has rather than constantly chasing more, using his daughter's notebook tantrum as a lesson in contentment."
 ---
 
 In the morning, my mother-in-law tells Charlane (my wife, her daughter) that she'd just bought an online course from a TikTok creator. A TikTok creator selling a course on how to become a band keyboardist.

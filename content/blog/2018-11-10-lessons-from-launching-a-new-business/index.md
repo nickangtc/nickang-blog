@@ -3,7 +3,7 @@ title: "Lessons from launching a new business"
 date_published: "2018-11-10"
 tags: ["Business"]
 backlinks:
-ai_summary: "The post describes the launch of the author’s and his wife’s new business and the early marketing lessons learned from the process, including keeping details secret, setting up Instagram and analytics early, creating an Instagrammable event space, and collaborating with related vendors. The main point is that thoughtful pre-launch branding, social media, and partnerships can generate strong interest and useful data even before revenue starts. The author concludes that launching this business will give him firsthand experience in marketing, branding, and customer experience as he works to grow it."
+ai_summary: "The post describes the launch of the author's and his wife's new business and the early marketing lessons learned from the process, including keeping details secret, setting up Instagram and analytics early, creating an Instagrammable event space, and collaborating with related vendors. The main point is that thoughtful pre-launch branding, social media, and partnerships can generate strong interest and useful data even before revenue starts. The author concludes that launching this business will give him firsthand experience in marketing, branding, and customer experience as he works to grow it."
 ---
 
 ![bird launching off into flight nick ang blog](images/phil-botha-304769-unsplash.jpg)

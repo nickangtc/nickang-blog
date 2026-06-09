@@ -2,7 +2,7 @@
 title: "My problems are mine to bear"
 date_published: "2018-02-13"
 backlinks:
-ai_summary: "The author contrasts the Bay Area’s more openly individualistic and emotionally expressive behavior with the self-restraint expected in Singapore and, to a lesser extent, Japan, using unpleasant service interactions as examples. The main point is that while suppressing emotions can be harmful, people should still not offload their frustration onto others, and the author concludes that personal sadness, anger, and fatigue are one’s own burden to bear."
+ai_summary: "The author contrasts the Bay Area's more openly individualistic and emotionally expressive behavior with the self-restraint expected in Singapore and, to a lesser extent, Japan, using unpleasant service interactions as examples. The main point is that while suppressing emotions can be harmful, people should still not offload their frustration onto others, and the author concludes that personal sadness, anger, and fatigue are one's own burden to bear."
 ---
 
 ![sunset glowing horizon nickang blog](images/20180212-IMG_20180212_174838-nickang-blog-1024x768.jpg) 

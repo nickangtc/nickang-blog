@@ -2,7 +2,7 @@
 title: "Not newer or shinier, but what gets the job done"
 date_published: "2018-09-24"
 backlinks:
-ai_summary: "The post reflects on choosing between a 13-inch and 15-inch MacBook Pro at a new job, and how the author initially assumed the larger, newer machine would improve productivity. The main point is that bigger or newer technology is not automatically better; in this case, the older 13-inch MacBook Air is more practical because it is more focused, easier to carry, and has much longer battery life. The conclusion is that the best device is the one that gets the job done and fits the user’s life."
+ai_summary: "The post reflects on choosing between a 13-inch and 15-inch MacBook Pro at a new job, and how the author initially assumed the larger, newer machine would improve productivity. The main point is that bigger or newer technology is not automatically better; in this case, the older 13-inch MacBook Air is more practical because it is more focused, easier to carry, and has much longer battery life. The conclusion is that the best device is the one that gets the job done and fits the user's life."
 ---
 
 ![man wearing headphones while sitting on chair in front of MacBook nick ang blog](images/wes-hicks-480398-unsplash.jpg)

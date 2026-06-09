@@ -5,7 +5,7 @@ date_published: "2016-03-04"
 backlinks:
   - slug: "/2018-07-30-where-to-buy-electronics-in-singapore/"
     title: "Where to buy electronics in Singapore"
-ai_summary: "The post contrasts internet-connected home automation with simpler mecha-tronic devices, arguing that many genuinely useful household conveniences, like electric kettles, washing machines, and door locks, do not need the internet to be “smart.” The author is skeptical of gimmicky IoT products such as smart egg trays and forks, while praising practical automation and accessible tools like Arduino for letting non-engineers build helpful devices at home. The conclusion is that home automation should focus less on connectivity for its own sake and more on simple, useful solutions that make daily life easier."
+ai_summary: "The post contrasts internet-connected home automation with simpler mecha-tronic devices, arguing that many genuinely useful household conveniences, like electric kettles, washing machines, and door locks, do not need the internet to be \"smart.\" The author is skeptical of gimmicky IoT products such as smart egg trays and forks, while praising practical automation and accessible tools like Arduino for letting non-engineers build helpful devices at home. The conclusion is that home automation should focus less on connectivity for its own sake and more on simple, useful solutions that make daily life easier."
 ---
 
 There are at least two kinds of home automation:

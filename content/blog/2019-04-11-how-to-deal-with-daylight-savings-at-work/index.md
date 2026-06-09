@@ -2,7 +2,9 @@
 title: "How to deal with Daylight savings at work"
 date_published: "2019-04-11"
 backlinks:
-ai_summary: "The post explains how the author, who helps staff a global 24/5 support operation, learned to manage Daylight Savings Time across regions such as the Americas, Europe, and Australia/New Zealand. The main point is that the simplest way to prevent scheduling problems is to create recurring calendar reminders for each region’s clock changes and notify the relevant team in advance. The conclusion is that this small setup helps the company adjust support staffing proactively and avoid service disruptions."
+  - slug: "/support-engineering/"
+    title: "Support Engineering"
+ai_summary: "The post explains how the author, who helps staff a global 24/5 support operation, learned to manage Daylight Savings Time across regions such as the Americas, Europe, and Australia/New Zealand. The main point is that the simplest way to prevent scheduling problems is to create recurring calendar reminders for each region's clock changes and notify the relevant team in advance. The conclusion is that this small setup helps the company adjust support staffing proactively and avoid service disruptions."
 ---
 
 ![how to deal with daylight savings at work nick ang](images/how-to-deal-with-daylight-savings-at-work-nick-ang-1024x798.jpg) 

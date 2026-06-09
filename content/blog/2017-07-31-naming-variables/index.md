@@ -3,7 +3,7 @@ title: "Naming variables well"
 date_published: "2017-07-31"
 tags: ["Tech"]
 backlinks:
-ai_summary: "The post argues that variable names should make a program’s intent immediately clear, using a Django recommender system example where a variable like `use_sku` is too ambiguous to understand without digging through the code. It recommends renaming such variables to reflect their meaning and adding docstrings to classes and methods so future readers can understand the code’s purpose and dependencies more quickly."
+ai_summary: "The post argues that variable names should make a program's intent immediately clear, using a Django recommender system example where a variable like `use_sku` is too ambiguous to understand without digging through the code. It recommends renaming such variables to reflect their meaning and adding docstrings to classes and methods so future readers can understand the code's purpose and dependencies more quickly."
 ---
 
 Let's talk about naming variables.

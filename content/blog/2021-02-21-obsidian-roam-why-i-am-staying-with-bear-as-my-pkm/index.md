@@ -10,7 +10,7 @@ backlinks:
     title: "How a Daily Note fixed my note taking process"
   - slug: "/2021-07-25-7-signs-that-my-knowledge-management-process-is-broken/"
     title: "7 Signs that my Knowledge Management process is broken"
-ai_summary: "The post compares Bear, Roam, and Obsidian as personal knowledge management tools after the author briefly tried the latter two while looking for block-level linking and other advanced note features. The main point is that those extras were mostly nice-to-haves, while Bear’s simplicity, reliability, and low friction better suited the author’s needs and reduced mental clutter. The conclusion is that the best PKM tool is usually the one that is already good enough, so the focus should stay on thinking and writing rather than endlessly changing software."
+ai_summary: "The post compares Bear, Roam, and Obsidian as personal knowledge management tools after the author briefly tried the latter two while looking for block-level linking and other advanced note features. The main point is that those extras were mostly nice-to-haves, while Bear's simplicity, reliability, and low friction better suited the author's needs and reduced mental clutter. The conclusion is that the best PKM tool is usually the one that is already good enough, so the focus should stay on thinking and writing rather than endlessly changing software."
 ---
 
 My mind is cluttered and my notes system should help reduce that clutter, not add to it. For the past 3 weeks, as I let a small unfulfilled need push me to explore new tools, my mind got more and more cluttered. Today, I realised that I'm just going to stick with the trusty old **Bear app** as my [PKM (personal knowledge management) system](/2020-07-05-personal-knowledge-management-system).

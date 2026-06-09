@@ -4,7 +4,7 @@ date_published: "2017-10-05"
 backlinks:
   - slug: "/2018-01-19-get-out-of-your-own-head/"
     title: "Get out of your own head"
-ai_summary: "The post describes how an arbitrary rule for organizing Instagram posts helped the author’s wife keep making creative makeup work by giving herself a simple pattern to follow. The author argues that progress is hardest after the first attempt, and that self-imposed, game-like rules can exploit people’s preference for order and symmetry to maintain momentum. The conclusion is that this kind of trick can help catalyse progress, even though the author is still figuring out how to apply it to his own projects."
+ai_summary: "The post describes how an arbitrary rule for organizing Instagram posts helped the author's wife keep making creative makeup work by giving herself a simple pattern to follow. The author argues that progress is hardest after the first attempt, and that self-imposed, game-like rules can exploit people's preference for order and symmetry to maintain momentum. The conclusion is that this kind of trick can help catalyse progress, even though the author is still figuring out how to apply it to his own projects."
 ---
 
 ![cute child boy standing at the foot of a huge flight of stairs](images/mikito-tateisi-333584-1024x576.jpg) 

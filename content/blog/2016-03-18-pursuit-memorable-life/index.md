@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Pursuit of a Memorable Life"
 date_published: "2016-03-18"
 backlinks:
-ai_summary: "The post reflects on why time seems to pass faster with age, using Dustin Garis’s TED talk and his year-long search for an answer as the central example. Its main point is that a memorable life depends less on the number of days lived than on the number of days remembered, which increases through novelty, not routine. It concludes that people can make life feel fuller by choosing fresh experiences and varying everyday habits so more of their time becomes memorable."
+ai_summary: "The post reflects on why time seems to pass faster with age, using Dustin Garis's TED talk and his year-long search for an answer as the central example. Its main point is that a memorable life depends less on the number of days lived than on the number of days remembered, which increases through novelty, not routine. It concludes that people can make life feel fuller by choosing fresh experiences and varying everyday habits so more of their time becomes memorable."
 ---
 
 ![You're not going to forget this](images/bee-guy.jpg)

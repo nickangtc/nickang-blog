@@ -5,7 +5,7 @@ date_published: "2016-03-01"
 backlinks:
   - slug: "/a-new-look-on-this-blog/"
     title: "A new look on this blog"
-ai_summary: "The post discusses how the author and his wife are planning a month-long trip across the United States and are struggling to decide which cities to visit because they know too little about American places and culture. He argues that last-minute travel planning leaves too little time to learn meaningfully, and that reading broadly about history and culture is the best way to choose cities and travel with real context rather than “blindly.”"
+ai_summary: "The post discusses how the author and his wife are planning a month-long trip across the United States and are struggling to decide which cities to visit because they know too little about American places and culture. He argues that last-minute travel planning leaves too little time to learn meaningfully, and that reading broadly about history and culture is the best way to choose cities and travel with real context rather than \"blindly.\""
 ---
 
 ![The eagle is landing](images/american-eagle-1024x683.jpeg)

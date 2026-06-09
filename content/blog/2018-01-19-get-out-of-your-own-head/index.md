@@ -2,7 +2,7 @@
 title: "Get out of your own head"
 date_published: "2018-01-19"
 backlinks:
-ai_summary: "The post discusses a chapter from Ryan Holiday’s Ego Is the Enemy, focusing on the idea that people waste energy imagining an audience judging them when, in reality, others are mostly absorbed in their own lives. The author connects this to personal struggles with pride and finds the chapter’s core lesson to be that getting out of one’s own head removes the pressure to perform and allows focus on meaningful work."
+ai_summary: "The post discusses a chapter from Ryan Holiday's Ego Is the Enemy, focusing on the idea that people waste energy imagining an audience judging them when, in reality, others are mostly absorbed in their own lives. The author connects this to personal struggles with pride and finds the chapter's core lesson to be that getting out of one's own head removes the pressure to perform and allows focus on meaningful work."
 ---
 
 That's the no bullshit name of a chapter in [_Ego Is The Enemy_](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818) by Ryan Holiday that I'd read today. It's one of the best chapters in what I can tell so far as a very useful book.

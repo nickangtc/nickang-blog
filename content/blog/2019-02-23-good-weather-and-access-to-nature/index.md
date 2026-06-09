@@ -6,7 +6,7 @@ backlinks:
     title: "7 Things I've Learned from my First Year Living in Berlin (away from Singapore)"
   - slug: "/2020-12-27-shops-closed-on-sunday-germany/"
     title: "From shock to love: How the closed-on-Sunday law in Germany improved my life"
-ai_summary: "The post reflects on how climate and access to nature shape the author’s well-being, contrasting Singapore’s hot, humid urban life with Helsinki’s cold and snow and describing San Francisco as an ideal middle ground. The author argues that good weather makes it easier to spend time in nature, which helps provide perspective and humility, unlike city life alone. The conclusion is a desire to live somewhere with better weather and closer access to natural places soon."
+ai_summary: "The post reflects on how climate and access to nature shape the author's well-being, contrasting Singapore's hot, humid urban life with Helsinki's cold and snow and describing San Francisco as an ideal middle ground. The author argues that good weather makes it easier to spend time in nature, which helps provide perspective and humility, unlike city life alone. The conclusion is a desire to live somewhere with better weather and closer access to natural places soon."
 ---
 
 ![san francisco bixby creek bridge nick ang](images/san-francisco-bixby-bridge-nick-ang-1024x683.jpg) 

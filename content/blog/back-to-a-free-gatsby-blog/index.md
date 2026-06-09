@@ -6,7 +6,7 @@ excerpt: A quick explanation for why I switched to Ghost and back to Gatsby in 5
 tags: ["Tech"]
 fav: false
 backlinks:
-ai_summary: "The author explains switching the blog back from Ghost to a free Gatsby site on Netlify because Ghost’s $11 monthly cost outweighed the low subscription revenue and because the simpler setup better fits quiet publishing. They plan to use Substack only for periodic newsletters linking back to the blog, keeping full ownership of the content at no cost. They conclude that the change feels right for now, though they expect their publishing setup may change again later."
+ai_summary: "The author explains switching the blog back from Ghost to a free Gatsby site on Netlify because Ghost's $11 monthly cost outweighed the low subscription revenue and because the simpler setup better fits quiet publishing. They plan to use Substack only for periodic newsletters linking back to the blog, keeping full ownership of the content at no cost. They conclude that the change feels right for now, though they expect their publishing setup may change again later."
 ---
 
 In July this year I was possessed by an idea -- that I could combine the idea of a blog and a newsletter into one. I might even have given it a crazy name like 'bletter'.

@@ -5,7 +5,7 @@ tags: ["Business"]
 backlinks:
   - slug: "/2018-06-16-much-marketing-topics-blog/"
     title: "Much more marketing topics on this blog"
-ai_summary: "The post examines Facebook’s ad auction system, especially the concern that Facebook could overcharge advertisers because it controls the opaque bidding process. The author’s main point is that Facebook has a strong incentive not to do this, since charging more than necessary would worsen advertisers’ cost per action and drive them to other platforms. The conclusion is that advertisers can reasonably trust Facebook’s automatic bidding and bid-cap system not to systematically overcharge them."
+ai_summary: "The post examines Facebook's ad auction system, especially the concern that Facebook could overcharge advertisers because it controls the opaque bidding process. The author's main point is that Facebook has a strong incentive not to do this, since charging more than necessary would worsen advertisers' cost per action and drive them to other platforms. The conclusion is that advertisers can reasonably trust Facebook's automatic bidding and bid-cap system not to systematically overcharge them."
 ---
 
 ![Facebook app on mobile nickang blog](images/tim-bennett-538189-unsplash-1024x768.jpg) 

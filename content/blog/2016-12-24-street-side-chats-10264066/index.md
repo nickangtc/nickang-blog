@@ -2,7 +2,7 @@
 title: "Street side chats - 10264066"
 date_published: "2016-12-24"
 backlinks:
-ai_summary: "The post describes an unexpected Christmas Eve conversation at a Singapore coffee shop between the author, a 66-year-old Malay man, and a 10-year-old boy, all talking about tea, life, and the businesses around them. The author’s main point is that spontaneous street-level encounters can ease stress and reveal shared humanity, reinforcing the value of pedestrian spaces for social life. The conclusion is to stay open to conversations with strangers, set aside the phone when possible, and welcome serendipitous moments."
+ai_summary: "The post describes an unexpected Christmas Eve conversation at a Singapore coffee shop between the author, a 66-year-old Malay man, and a 10-year-old boy, all talking about tea, life, and the businesses around them. The author's main point is that spontaneous street-level encounters can ease stress and reveal shared humanity, reinforcing the value of pedestrian spaces for social life. The conclusion is to stay open to conversations with strangers, set aside the phone when possible, and welcome serendipitous moments."
 ---
 
 Merry Christmas!

@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Alfred and other apps for the programmer"
 date_published: "2016-08-28"
 backlinks:
-ai_summary: "The post discusses a programmer’s recent adoption of productivity tools such as Atom, Emmet, Dash, Slack, ColorZilla, and Alfred, with examples of how they help with coding, documentation, and workflow. The author’s main point is that these tools save cognitive effort and time by automating repetitive tasks and providing quick access to useful functions, even offline. The conclusion is a positive endorsement of the free tools available to developers, along with the idea of eventually contributing back through open source work."
+ai_summary: "The post discusses a programmer's recent adoption of productivity tools such as Atom, Emmet, Dash, Slack, ColorZilla, and Alfred, with examples of how they help with coding, documentation, and workflow. The author's main point is that these tools save cognitive effort and time by automating repetitive tasks and providing quick access to useful functions, even offline. The conclusion is a positive endorsement of the free tools available to developers, along with the idea of eventually contributing back through open source work."
 ---
 
 ![relaxing in a pool by snow mountains](images/chilling-1024x683.jpeg) 

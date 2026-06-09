@@ -6,7 +6,7 @@ excerpt: Boredom is, surprisingly, both the problem and the solution to getting 
 tags: ["Productivity", "Living"]
 fav: false
 backlinks:
-ai_summary: "The post argues that procrastination is driven by a contrast effect: repeated stimulation from entertainment raises a person’s baseline, making ordinary tasks feel unbearably boring by comparison. Its main conclusion is that the way to reduce procrastination is to deliberately lower that baseline by embracing more boredom, so everyday work feels relatively more engaging."
+ai_summary: "The post argues that procrastination is driven by a contrast effect: repeated stimulation from entertainment raises a person's baseline, making ordinary tasks feel unbearably boring by comparison. Its main conclusion is that the way to reduce procrastination is to deliberately lower that baseline by embracing more boredom, so everyday work feels relatively more engaging."
 ---
 
 It's not often that a YouTube video makes you pause to think, oh shit, that sounds right, why the heck did I not see it before… THIS IS HUGE!!!

@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "So subtle, so good"
 date_published: "2018-05-12"
 backlinks:
-ai_summary: "The post highlights a small Google News app interface detail: article thumbnails turn grayscale after being read. The author’s main point is that this subtle visual change makes it easy to track what has already been read and helps decide when to stop browsing. The conclusion is that the design is simple, effective, and still usable even without the color cue."
+ai_summary: "The post highlights a small Google News app interface detail: article thumbnails turn grayscale after being read. The author's main point is that this subtle visual change makes it easy to track what has already been read and helps decide when to stop browsing. The conclusion is that the design is simple, effective, and still usable even without the color cue."
 ---
 
 ![](images/screenshot_20180512-1001162121481910078424255.jpg)

@@ -7,7 +7,7 @@ tags: ["Living", "Parenting", "2025 - Notice"]
 fav: false
 creation_duration_minutes:
 backlinks:
-ai_summary: "The post describes a young daughter being forced into kindergarten by an impatient child minder after she was already reluctant and possibly coming down with a cold. The author’s main point is that children should be given patience, time, and the chance to make choices and mistakes so they can develop confidence and respect, rather than being treated as passive objects. The conclusion is that the child minder acted wrongly, but the parents still have responsibility to teach these values outside kindergarten."
+ai_summary: "The post describes a young daughter being forced into kindergarten by an impatient child minder after she was already reluctant and possibly coming down with a cold. The author's main point is that children should be given patience, time, and the chance to make choices and mistakes so they can develop confidence and respect, rather than being treated as passive objects. The conclusion is that the child minder acted wrongly, but the parents still have responsibility to teach these values outside kindergarten."
 ---
 
 It's 8:30 am, we're at home preparing to send our daughter to kindergarten. Charlotte's seems under the weather, so I ask her if she's good enough to go.

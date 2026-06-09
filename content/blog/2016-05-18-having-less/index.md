@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Having Less is Great"
 date_published: "2016-05-18"
 backlinks:
-ai_summary: "The post reflects on an interview with Casey Neistat and the author’s own comfortable circumstances, arguing that having fewer resources or more constraints can increase creativity, productivity, and drive. The author wonders whether scarcity can be artificially created to replicate that effect, and concludes that while dramatic options like downsizing or taking on a daunting project might help, the most realistic path may simply be to get to work with greater discipline."
+ai_summary: "The post reflects on an interview with Casey Neistat and the author's own comfortable circumstances, arguing that having fewer resources or more constraints can increase creativity, productivity, and drive. The author wonders whether scarcity can be artificially created to replicate that effect, and concludes that while dramatic options like downsizing or taking on a daunting project might help, the most realistic path may simply be to get to work with greater discipline."
 ---
 
 Stranded in the rain earlier today, I had time to kill. (That phrase should be illegal.)

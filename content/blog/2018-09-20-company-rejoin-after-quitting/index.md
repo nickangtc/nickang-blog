@@ -5,7 +5,7 @@ tags: ["Business"]
 backlinks:
   - slug: "/2019-04-09-my-view-on-changing-jobs/"
     title: "My view on changing jobs"
-ai_summary: "The post discusses Smartly.io, where former employees sometimes return after quitting, and argues that this is unusual because rejoining a company can create social, career, and compensation concerns. The author’s main point is that Smartly.io’s low turnover and repeat returns reflect a strong, human-centered culture and leadership that make people feel safe coming back. The conclusion is that good company culture cannot be reduced to a price tag and is what makes this kind of loyalty possible."
+ai_summary: "The post discusses Smartly.io, where former employees sometimes return after quitting, and argues that this is unusual because rejoining a company can create social, career, and compensation concerns. The author's main point is that Smartly.io's low turnover and repeat returns reflect a strong, human-centered culture and leadership that make people feel safe coming back. The conclusion is that good company culture cannot be reduced to a price tag and is what makes this kind of loyalty possible."
 ---
 
 ![people working laughing over laptop at cafe nick ang blog](images/helena-lopes-592971-unsplash.jpg) 

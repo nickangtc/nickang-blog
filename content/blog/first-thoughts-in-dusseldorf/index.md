@@ -6,7 +6,7 @@ excerpt:
 tags: ["Living"]
 fav: false
 backlinks:
-ai_summary: "The post describes the author’s first impressions after moving to Düsseldorf, focusing on an exciting but somewhat overwhelming new apartment with an open kitchen-living space, a balcony, and plans to make it a cosy, active home. The author hopes to meet neighbours, buy a quality dining table, and use the space for family life and creative activities, while noting a few frustrations such as parking, blackout blinds, and the apartment’s messy condition."
+ai_summary: "The post describes the author's first impressions after moving to Düsseldorf, focusing on an exciting but somewhat overwhelming new apartment with an open kitchen-living space, a balcony, and plans to make it a cosy, active home. The author hopes to meet neighbours, buy a quality dining table, and use the space for family life and creative activities, while noting a few frustrations such as parking, blackout blinds, and the apartment's messy condition."
 ---
 
 We've arrived in Düsseldorf! Some thoughts below.

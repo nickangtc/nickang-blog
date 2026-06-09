@@ -6,7 +6,7 @@ tags: ["PKM"]
 backlinks:
   - slug: "/2021-09-05-types-of-notes-in-a-pkm-explained-with-a-gardening-analogy-part-ii/"
     title: "Types of Notes in a PKM explained with a Gardening Analogy (Part II)"
-ai_summary: "The post argues that a daily note fixed the author’s note-taking workflow by making one note the default entry point for everything captured each day, instead of forcing constant decisions about where information belongs. The author says this simple process, adopted after seeing Roam Research’s approach and adapted back into Bear, reduced friction, preserved context, and made it easier to revisit past ideas, sources, and related memories. The conclusion is that the tool matters less than the process, and using a daily note is recommended as an effective way to improve note-taking."
+ai_summary: "The post argues that a daily note fixed the author's note-taking workflow by making one note the default entry point for everything captured each day, instead of forcing constant decisions about where information belongs. The author says this simple process, adopted after seeing Roam Research's approach and adapted back into Bear, reduced friction, preserved context, and made it easier to revisit past ideas, sources, and related memories. The conclusion is that the tool matters less than the process, and using a daily note is recommended as an effective way to improve note-taking."
 ---
 
 ![hand-drawn illustration of a Daily Note](./images/daily-note-nickang-blog-illustration.png)

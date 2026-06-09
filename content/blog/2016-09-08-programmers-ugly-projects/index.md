@@ -6,7 +6,7 @@ fav: true
 backlinks:
   - slug: "/2020-07-26-notes-from-the-year-without-pants-by-scott-berkun/"
     title: "Notes from The Year Without Pants by Scott Berkun"
-ai_summary: "The post reflects on why many programmer-made projects look visually unpolished, using the complexity of a simple profile-editing workflow and a basic Best Buy mockup to show how much hidden work goes into making websites function smoothly. The author’s main point is that developers often prioritize correctness, reliability, and intuitive behavior over styling because ensuring the product works is already a full-time challenge. The conclusion is that ugly interfaces are often a byproduct of technical focus rather than neglect, and that building something that feels natural online requires substantial behind-the-scenes effort."
+ai_summary: "The post reflects on why many programmer-made projects look visually unpolished, using the complexity of a simple profile-editing workflow and a basic Best Buy mockup to show how much hidden work goes into making websites function smoothly. The author's main point is that developers often prioritize correctness, reliability, and intuitive behavior over styling because ensuring the product works is already a full-time challenge. The conclusion is that ugly interfaces are often a byproduct of technical focus rather than neglect, and that building something that feels natural online requires substantial behind-the-scenes effort."
 ---
 
 ![people laughing and talking with one another general assembly wdi singapore](images/20160907-IMG_20160907_211409-1024x578.jpg)

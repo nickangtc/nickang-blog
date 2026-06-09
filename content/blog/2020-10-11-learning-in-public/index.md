@@ -6,7 +6,7 @@ backlinks:
     title: "Notes from Show Your Work by Austin Kleon (Part 1)"
   - slug: "/annual-review-2020/"
     title: "My 2020 Annual Review"
-ai_summary: "The post argues that the author has not figured out a clear calling, but that publishing writing online helps him improve and discover his interests by “learning in public.” He describes how sharing articles on social media can lead to feedback, debate, or even silence, but says all of it is useful because the process sharpens thinking and may reveal what he is good at."
+ai_summary: "The post argues that the author has not figured out a clear calling, but that publishing writing online helps him improve and discover his interests by \"learning in public.\" He describes how sharing articles on social media can lead to feedback, debate, or even silence, but says all of it is useful because the process sharpens thinking and may reveal what he is good at."
 ---
 
 Often, I let myself believe that many people just "get it," that they know what they want to do in life and they just dove into it and became excellent.

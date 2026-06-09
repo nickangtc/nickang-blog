@@ -3,7 +3,7 @@ title: "Consumers are not stupid"
 date_published: "2017-08-14"
 tags: ["Business"]
 backlinks:
-ai_summary: "The post argues that companies should not assume users can be easily fooled, using Airbnb’s pricing practices as the example. The author says hidden fees and unclear communication make customers feel deceived, and that even if such tactics go unnoticed at first, they will eventually damage trust. The conclusion is that businesses should be upfront and transparent, and if they cannot be honest about a decision, they should rethink it."
+ai_summary: "The post argues that companies should not assume users can be easily fooled, using Airbnb's pricing practices as the example. The author says hidden fees and unclear communication make customers feel deceived, and that even if such tactics go unnoticed at first, they will eventually damage trust. The conclusion is that businesses should be upfront and transparent, and if they cannot be honest about a decision, they should rethink it."
 ---
 
 Startups and established companies should not think for a moment that their users can be easily fooled. Users in 2017 are usually astute consumers who notice every detail about your product and brand.

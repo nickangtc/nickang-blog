@@ -3,7 +3,7 @@ title: "Don't code for code's sake"
 date_published: "2016-09-13"
 tags: ["Tech"]
 backlinks:
-ai_summary: "The post argues that coding should be treated as a tool to build useful products, not something to romanticise for its own sake. The author says an instructor’s pragmatic view helped refocus them on priorities like bug fixing, user testing, and making software valuable to people, even if the code is only decent rather than elegant. The conclusion is that how someone should think about programming depends on their goals, but for the author, practicality matters more than chasing the latest or most admired code."
+ai_summary: "The post argues that coding should be treated as a tool to build useful products, not something to romanticise for its own sake. The author says an instructor's pragmatic view helped refocus them on priorities like bug fixing, user testing, and making software valuable to people, even if the code is only decent rather than elegant. The conclusion is that how someone should think about programming depends on their goals, but for the author, practicality matters more than chasing the latest or most admired code."
 ---
 
 ![person welding metal](images/welding-1024x683.jpeg)

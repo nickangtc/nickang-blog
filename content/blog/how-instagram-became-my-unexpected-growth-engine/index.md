@@ -8,7 +8,7 @@ fav: false
 backlinks:
   - slug: "/ig-2026/"
     title: "Instagram growth hacking (2026)"
-ai_summary: "The post describes the author’s week-long experiment growing a new Instagram account from zero to 327 followers, including two reels that reached about 160,000 views each. The main point is that Instagram functions as a powerful meme-distribution and growth engine, and that “copying” successful reel formats is really remixing that can outperform trying to be completely original. The author concludes that short-form viral content can provide meaningful distribution for solopreneurs, help package ideas effectively, and ultimately support sales."
+ai_summary: "The post describes the author's week-long experiment growing a new Instagram account from zero to 327 followers, including two reels that reached about 160,000 views each. The main point is that Instagram functions as a powerful meme-distribution and growth engine, and that \"copying\" successful reel formats is really remixing that can outperform trying to be completely original. The author concludes that short-form viral content can provide meaningful distribution for solopreneurs, help package ideas effectively, and ultimately support sales."
 ---
 
 Alright I've got about an hour to write this newsletter so let's dive right into it!

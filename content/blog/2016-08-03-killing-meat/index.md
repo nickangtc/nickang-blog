@@ -8,7 +8,7 @@ backlinks:
     title: "How to find good food"
   - slug: "/2020-10-18-do-your-best-not-to-obfuscate/"
     title: "Do your best not to obfuscate"
-ai_summary: "The post reflects on an episode of Anthony Bourdain’s Parts Unknown in Scotland, especially the filmed killing of a red stag, and uses it to think about the relationship between hunting, meat consumption, and moral discomfort. The author argues that while recreational hunting is inhumane, personally killing an animal for food may force a more honest understanding of meat, and concludes that the experience has made them want to try killing and eating an animal at least once."
+ai_summary: "The post reflects on an episode of Anthony Bourdain's Parts Unknown in Scotland, especially the filmed killing of a red stag, and uses it to think about the relationship between hunting, meat consumption, and moral discomfort. The author argues that while recreational hunting is inhumane, personally killing an animal for food may force a more honest understanding of meat, and concludes that the experience has made them want to try killing and eating an animal at least once."
 ---
 
 ![anthony bourdain parts unknown scotland](images/150505094809-01-parts-unknown-scotland-super-169-1024x576.jpg) 

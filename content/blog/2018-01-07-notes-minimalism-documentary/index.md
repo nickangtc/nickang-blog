@@ -2,7 +2,7 @@
 title: "Notes from watching Minimalism documentary"
 date_published: "2018-01-07"
 backlinks:
-ai_summary: "The post reflects on the Minimalism documentary and argues that modern life is shaped by mindless consumption, marketing, oversized homes, and attention-grabbing media that push people toward unnecessary spending and misplaced ideas of success. Its main point is that minimalism and mindfulness can help people question what they bring into their lives, distinguish happiness from wealth, and let go of excess. It concludes that society should stop treating “I want that” as a default impulse and instead focus on what is truly needed and meaningful."
+ai_summary: "The post reflects on the Minimalism documentary and argues that modern life is shaped by mindless consumption, marketing, oversized homes, and attention-grabbing media that push people toward unnecessary spending and misplaced ideas of success. Its main point is that minimalism and mindfulness can help people question what they bring into their lives, distinguish happiness from wealth, and let go of excess. It concludes that society should stop treating \"I want that\" as a default impulse and instead focus on what is truly needed and meaningful."
 ---
 
 ![minimalism documentary poster](images/p12124131_p_v7_aa-200x300.jpg)

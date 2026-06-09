@@ -5,7 +5,7 @@ tags: ["Books"]
 backlinks:
   - slug: "/2020-10-25-not-interested-in-mastery/"
     title: "Not interested in mastery"
-ai_summary: "The post reflects on Yvon Chouinard’s Let My People Go Surfing, a memoir-manifesto about Patagonia’s approach to business, design, and environmental responsibility. It argues that mastery comes from simplicity and restraint, and that Patagonia’s success stems from treating environmental ethics, durable products, and measured growth as core business practices. The useful conclusion is that companies can be both profitable and principled when they focus on quality, reduce complexity, and align their operations with their values."
+ai_summary: "The post reflects on Yvon Chouinard's Let My People Go Surfing, a memoir-manifesto about Patagonia's approach to business, design, and environmental responsibility. It argues that mastery comes from simplicity and restraint, and that Patagonia's success stems from treating environmental ethics, durable products, and measured growth as core business practices. The useful conclusion is that companies can be both profitable and principled when they focus on quality, reduce complexity, and align their operations with their values."
 ---
 
 This books is part memoir, part philosophical manifesto derived from Patagonia's founder's experience in applying them to business, environment, and life.

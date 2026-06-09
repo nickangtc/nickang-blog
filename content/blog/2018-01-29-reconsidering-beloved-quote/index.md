@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Reconsidering a beloved quote"
 date_published: "2018-01-29"
 backlinks:
-ai_summary: "The author questions Flaubert’s quote about being steady in life to do fierce, original work, arguing that it gives work too central a place and can encourage unhealthy pride in achievement. After reflecting while reading Eckhart Tolle’s The Power of Now, the author concludes that work is secondary to the human purposes it serves and that present-mindedness can reveal flaws in even cherished beliefs."
+ai_summary: "The author questions Flaubert's quote about being steady in life to do fierce, original work, arguing that it gives work too central a place and can encourage unhealthy pride in achievement. After reflecting while reading Eckhart Tolle's The Power of Now, the author concludes that work is secondary to the human purposes it serves and that present-mindedness can reveal flaws in even cherished beliefs."
 ---
 
 > Be steady and well-ordered in your life, so that you can be fierce and original in your work.

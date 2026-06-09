@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "Recognise a tool for what it is"
 date_published: "2018-04-29"
 backlinks:
-ai_summary: "The post describes the author’s purchase of an iPad and Apple Pencil to resume drawing and add sketches to the blog, but also his tendency to spend time watching other artists draw on YouTube instead of creating. He argues that this habit is procrastination that makes him feel less capable, and concludes that he should stop comparing himself to others, use the tool for its intended purpose, and start sketching more."
+ai_summary: "The post describes the author's purchase of an iPad and Apple Pencil to resume drawing and add sketches to the blog, but also his tendency to spend time watching other artists draw on YouTube instead of creating. He argues that this habit is procrastination that makes him feel less capable, and concludes that he should stop comparing himself to others, use the tool for its intended purpose, and start sketching more."
 ---
 
 ![drawing app iPad overwhelm 2 nickang sketch](images/drawing-app-iPad-overwhelm-2-1024x768.png) 

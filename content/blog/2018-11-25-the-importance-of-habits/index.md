@@ -4,7 +4,7 @@ date_published: "2018-11-25"
 backlinks:
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
-ai_summary: "The post reflects on a YouTube animated film about habits and the author’s own habits, listing a few they are proud of, several they want to stop, and new ones they want to build. The main point is that a small set of strong habits can support a healthy, fulfilling life, and the author concludes that three to five good habits may be enough to make a meaningful difference."
+ai_summary: "The post reflects on a YouTube animated film about habits and the author's own habits, listing a few they are proud of, several they want to stop, and new ones they want to build. The main point is that a small set of strong habits can support a healthy, fulfilling life, and the author concludes that three to five good habits may be enough to make a meaningful difference."
 ---
 
 [YouTube video link](https://www.youtube.com/watch?v=_HEnohs6yYw)

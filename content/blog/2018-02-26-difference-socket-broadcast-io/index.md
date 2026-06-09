@@ -3,7 +3,7 @@ title: "Difference between socket.broadcast and io.to"
 date_published: "2018-02-26"
 tags: ["Tech"]
 backlinks:
-ai_summary: "The post explains a subtle Socket.IO API difference in a chatroom app: `socket.broadcast.to(room).emit()` sends a message to everyone in the room except the originating socket, while `io.to(room).emit()` sends it to everyone including the sender. The author’s main point is that using `io.to()` for a message already optimistically rendered on the sender’s client can cause duplicate messages, so `socket.broadcast.to()` is the correct choice in that case."
+ai_summary: "The post explains a subtle Socket.IO API difference in a chatroom app: `socket.broadcast.to(room).emit()` sends a message to everyone in the room except the originating socket, while `io.to(room).emit()` sends it to everyone including the sender. The author's main point is that using `io.to()` for a message already optimistically rendered on the sender's client can cause duplicate messages, so `socket.broadcast.to()` is the correct choice in that case."
 ---
 
 ![socket io logo](images/socket-io-logo.png)

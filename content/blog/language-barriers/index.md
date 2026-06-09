@@ -7,7 +7,7 @@ tags: ["Living", "Communication", "2025 - Notice"]
 fav: false
 creation_duration_minutes:
 backlinks:
-ai_summary: "A father at his daughter’s dance class sees her upset because a new teacher did not give the usual hand stamp, and he notices he chose not to speak to the teacher because the teacher may not have spoken English. His main point is that language barriers can stop people from even starting conversations, not just make communication difficult once they begin. He concludes that even with moderate German ability, he still felt too uncertain to risk giving feedback for fear of misunderstanding."
+ai_summary: "A father at his daughter's dance class sees her upset because a new teacher did not give the usual hand stamp, and he notices he chose not to speak to the teacher because the teacher may not have spoken English. His main point is that language barriers can stop people from even starting conversations, not just make communication difficult once they begin. He concludes that even with moderate German ability, he still felt too uncertain to risk giving feedback for fear of misunderstanding."
 ---
 
 I'm at the dance studio with my daughter who is taking classes. The class is over. She comes out with a quivering voice, "Daddy..."

@@ -5,7 +5,7 @@ date_published: "2017-10-02"
 backlinks:
   - slug: "/2017-10-29-litmus-test-enough-rest/"
     title: "Litmus test for having enough rest"
-ai_summary: "The post compares mindfulness and caffeine using a video-game “mana bar” metaphor, describing mindfulness as a morning state that gradually fades and coffee as a brief artificial boost. The author argues that caffeine temporarily increases energy but eventually costs the body and builds tolerance, whereas mindfulness does not drain energy and becomes stronger with practice. The conclusion is that mindfulness is a more sustainable way to stay clear-minded over time than relying on caffeine."
+ai_summary: "The post compares mindfulness and caffeine using a video-game \"mana bar\" metaphor, describing mindfulness as a morning state that gradually fades and coffee as a brief artificial boost. The author argues that caffeine temporarily increases energy but eventually costs the body and builds tolerance, whereas mindfulness does not drain energy and becomes stronger with practice. The conclusion is that mindfulness is a more sustainable way to stay clear-minded over time than relying on caffeine."
 ---
 
 ![pouring coffee in cup](images/pouring-coffee-in-cup.jpg)

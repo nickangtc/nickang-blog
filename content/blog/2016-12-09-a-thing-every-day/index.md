@@ -3,7 +3,7 @@ tags: ["Personal"]
 title: "A thing every day"
 date_published: "2016-12-09"
 backlinks:
-ai_summary: "The post argues that creators should show up and make something every day rather than waiting for inspiration, because only a large volume of work reveals their true ability and what resonates with people. Using the law of large numbers and Ira Glass’s advice, it concludes that consistent practice both improves skills and increases the chances of producing meaningful, well-received work."
+ai_summary: "The post argues that creators should show up and make something every day rather than waiting for inspiration, because only a large volume of work reveals their true ability and what resonates with people. Using the law of large numbers and Ira Glass's advice, it concludes that consistent practice both improves skills and increases the chances of producing meaningful, well-received work."
 ---
 
 Show up.

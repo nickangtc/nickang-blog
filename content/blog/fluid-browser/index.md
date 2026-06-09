@@ -7,7 +7,7 @@ tags: ["Tech"]
 fav: false
 creation_duration_minutes:
 backlinks:
-ai_summary: "The post explores the idea of making web browsing more fluid and customizable, starting with an editable version of the author’s own blog directly in Chrome so changes could be made inline without using VS Code or git. The author concludes that browser extensions may be the wrong abstraction for this and instead imagines a personal browser platform with built-in augmentation, enabling immediate on-the-fly features and agentic updates across sites."
+ai_summary: "The post explores the idea of making web browsing more fluid and customizable, starting with an editable version of the author's own blog directly in Chrome so changes could be made inline without using VS Code or git. The author concludes that browser extensions may be the wrong abstraction for this and instead imagines a personal browser platform with built-in augmentation, enabling immediate on-the-fly features and agentic updates across sites."
 ---
 
 Since [new software can be written really quickly now](/2026-is-the-year-you-cant-afford-to-ignore-ai/), why should our primary way of interacting with webpages not be completely customised?

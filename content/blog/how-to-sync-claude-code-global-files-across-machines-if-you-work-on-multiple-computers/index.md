@@ -7,7 +7,7 @@ tags: ["Tech", "Productivity"]
 fav: false
 creation_duration_minutes:
 backlinks:
-ai_summary: "The post explains how to keep Claude Code’s global config files, memory, skills, and plugin settings synced across multiple Macs by storing only the useful parts of `~/.claude` in a Git-backed dotfiles repo and using a macOS LaunchAgent for automatic two-way sync. The author’s main point is that this setup is quick, reliable, and should whitelist only the important files because most of `~/.claude` is machine-specific clutter. The conclusion is that, with a small caveat about absolute project paths for memory files, the approach makes Claude Code settings effectively portable and nearly automatic across machines."
+ai_summary: "The post explains how to keep Claude Code's global config files, memory, skills, and plugin settings synced across multiple Macs by storing only the useful parts of `~/.claude` in a Git-backed dotfiles repo and using a macOS LaunchAgent for automatic two-way sync. The author's main point is that this setup is quick, reliable, and should whitelist only the important files because most of `~/.claude` is machine-specific clutter. The conclusion is that, with a small caveat about absolute project paths for memory files, the approach makes Claude Code settings effectively portable and nearly automatic across machines."
 ---
 
 If you use Claude Code on more than one Mac, you've probably noticed the problem: your carefully tuned `CLAUDE.md`, memory files, settings, and custom skills live in `~/.claude` and don't travel with you.

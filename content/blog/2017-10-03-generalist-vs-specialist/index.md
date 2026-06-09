@@ -6,7 +6,7 @@ fav: true
 backlinks:
   - slug: "/2021-10-10-specialist-or-generalist/"
     title: "Specialist or Generalist?"
-ai_summary: "The post compares specialists, who go deeply into one area such as front-end development, with generalists, who contribute across multiple functions and technologies. The author argues that generalists may be more common because they are easier to become, often have broader job opportunities, and can be useful in startups, but also concludes that both types matter and the best fit depends on a company’s stage of growth."
+ai_summary: "The post compares specialists, who go deeply into one area such as front-end development, with generalists, who contribute across multiple functions and technologies. The author argues that generalists may be more common because they are easier to become, often have broader job opportunities, and can be useful in startups, but also concludes that both types matter and the best fit depends on a company's stage of growth."
 ---
 
 I had an interesting conversation with my friend Rama today. We talked about many things, from management to meditation, creating music to digging shell scrapes. The most interesting topic that we explored was the idea of a generalist versus a specialist.

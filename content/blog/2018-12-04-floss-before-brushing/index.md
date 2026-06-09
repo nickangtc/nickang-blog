@@ -2,7 +2,7 @@
 title: "Floss before brushing"
 date_published: "2018-12-04"
 backlinks:
-ai_summary: "The post reflects on a dentist’s advice that flossing should come before brushing so debris is removed first and toothpaste can better protect those areas. The author admits this simple routine was new to them and concludes that the experience is a reminder to stay humble, since they likely have many other everyday habits wrong."
+ai_summary: "The post reflects on a dentist's advice that flossing should come before brushing so debris is removed first and toothpaste can better protect those areas. The author admits this simple routine was new to them and concludes that the experience is a reminder to stay humble, since they likely have many other everyday habits wrong."
 ---
 
 ![Floss before brushing ](images/815cb50d-1e01-422d-82a5-f28dc79b14ce-7284-00000227c2209455.jpg)

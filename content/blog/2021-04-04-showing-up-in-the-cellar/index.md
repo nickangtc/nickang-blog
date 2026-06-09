@@ -4,7 +4,7 @@ date_published: "2021-04-04"
 excerpt: "I showed up this morning, of all places, in the cellar to write my novel."
 tags: ["Creativity"]
 backlinks:
-ai_summary: "The post describes the author listening to Steven Pressfield discuss the shift from the hero’s journey to the artist’s journey and realizing he had reached that turning point in his own life. Motivated by that insight, he got up early, wrote first on his balcony and then alone in the apartment cellar, seeing the experience as a way to confront Resistance and begin showing up as a writer. His conclusion is that the location or word count mattered less than establishing the habit of returning to write again."
+ai_summary: "The post describes the author listening to Steven Pressfield discuss the shift from the hero's journey to the artist's journey and realizing he had reached that turning point in his own life. Motivated by that insight, he got up early, wrote first on his balcony and then alone in the apartment cellar, seeing the experience as a way to confront Resistance and begin showing up as a writer. His conclusion is that the location or word count mattered less than establishing the habit of returning to write again."
 ---
 
 ![An illustration of the author Steven Pressfield, originally from the Tim Ferriss blog](./images/steve-pressfield-illustration.png)

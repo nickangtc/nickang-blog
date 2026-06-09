@@ -7,7 +7,7 @@ backlinks:
     title: "I work in a company where people rejoin after quitting"
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
-ai_summary: "The post reflects on work-life balance at Smartly.io’s Singapore office, arguing that the company’s culture genuinely encourages employees to rest, avoid burnout, and treat work as only one part of life. The author’s main point is that this balance is practical and humane, benefiting employees, colleagues, and the company, and that it is reinforced by small everyday actions from everyone, not just leadership. The conclusion is that healthy work culture depends on people actively embodying these values and creating an environment where others feel comfortable doing the same."
+ai_summary: "The post reflects on work-life balance at Smartly.io's Singapore office, arguing that the company's culture genuinely encourages employees to rest, avoid burnout, and treat work as only one part of life. The author's main point is that this balance is practical and humane, benefiting employees, colleagues, and the company, and that it is reinforced by small everyday actions from everyone, not just leadership. The conclusion is that healthy work culture depends on people actively embodying these values and creating an environment where others feel comfortable doing the same."
 ---
 
 ![working in smartly singapore office nickang blog](images/smartly-singapore-office-nickang-blog-e1531540364775-768x1024.jpg)

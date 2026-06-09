@@ -4,7 +4,7 @@ date_published: "2019-01-31"
 backlinks:
   - slug: "/2019-02-09-reflecting-3-week-work-rotation-helsinki/"
     title: "Reflecting on my 3-week work rotation in Helsinki"
-ai_summary: "The post argues that moving deliberately slowly at work can help a person feel calmer and gain perspective, using Finnish colleagues’ unhurried pace as an example. It suggests that anxiety often comes from tying self-worth too closely to work, and that treating work as only one part of life makes criticism and failure easier to handle. The conclusion is that calmness, enjoyment, and better work are more likely when someone sets expectations, slows down, and does not define themselves by their job."
+ai_summary: "The post argues that moving deliberately slowly at work can help a person feel calmer and gain perspective, using Finnish colleagues' unhurried pace as an example. It suggests that anxiety often comes from tying self-worth too closely to work, and that treating work as only one part of life makes criticism and failure easier to handle. The conclusion is that calmness, enjoyment, and better work are more likely when someone sets expectations, slows down, and does not define themselves by their job."
 ---
 
 ![how to be calm - Smartly office](images/how-to-be-calm-1024x595.jpg)

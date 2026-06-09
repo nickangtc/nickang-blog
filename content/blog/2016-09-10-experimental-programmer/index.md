@@ -2,7 +2,7 @@
 title: "Two modes of programming"
 date_published: "2016-09-10"
 backlinks:
-ai_summary: "The post contrasts two modes of programming: problem-solving, where a programmer focuses on fixing a specific issue, and experimental programming, where a programmer tries ideas freely to discover unexpected possibilities. The author argues that experimentation can help avoid solving the wrong problem and can lead to better, more creative results, as illustrated by a friend’s exploratory approach to building a two-player Tetris game. The conclusion is that stepping back into an experimental mindset can help programmers find the key idea that simplifies everything else."
+ai_summary: "The post contrasts two modes of programming: problem-solving, where a programmer focuses on fixing a specific issue, and experimental programming, where a programmer tries ideas freely to discover unexpected possibilities. The author argues that experimentation can help avoid solving the wrong problem and can lead to better, more creative results, as illustrated by a friend's exploratory approach to building a two-player Tetris game. The conclusion is that stepping back into an experimental mindset can help programmers find the key idea that simplifies everything else."
 ---
 
 ![rack of old vinyl records](images/records-rack-1024x680.jpeg)
