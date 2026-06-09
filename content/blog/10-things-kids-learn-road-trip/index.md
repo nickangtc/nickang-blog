@@ -7,6 +7,7 @@ tags: ["Living", "Parenting"]
 fav: false
 creation_duration_minutes: 120
 backlinks:
+ai_summary: "During a 5-day road trip from Germany to Spain with their 3-year-old daughter, the author describes a series of everyday moments that became lessons about seat-belt safety, healthy eating, independence, scale, adaptability, kindness, responsibility, and home safety. The main point is that driving long distances creates far more teachable experiences than flying, because ordinary disruptions and surprises can be turned into practical lessons. The conclusion is that road trips can offer both bonding and unexpected education through real-world situations."
 ---
 
 Our daughter is 3 years old during this trip. This post is a collection of the valuable, teachable moments that would never have occurred if we simply flew 3 hours rather than drive for 5 days to Spain.

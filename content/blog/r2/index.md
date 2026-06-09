@@ -6,6 +6,7 @@ excerpt: "Once we become parents, our lives start revolving around our children'
 tags: ["Living", "Raw essays"]
 fav: false
 backlinks:
+ai_summary: "The post examines how parenthood changes the relationship between work and personal priorities, arguing that choosing to have children creates a new hierarchy in which a child’s needs must come before career ambitions or hobbies. The author says this shift can be difficult but also makes them more focused and productive by forcing greater selectivity about commitments and time use. The conclusion is that parents should remember their children as the priority and, when in doubt, reconnect emotionally with their child to realign their choices."
 ---
 
 *(This is #2 of 30 raw essays in 30 days. The topic was submitted by D.)*

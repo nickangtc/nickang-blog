@@ -6,6 +6,7 @@ excerpt:
 tags: ["Communication"]
 fav: true
 backlinks:
+ai_summary: "The post argues that people should stop calling feedback a gift, because real feedback often feels uncomfortable or unpleasant in the moment, especially when it is direct criticism. The author says the better response is to thank the person and show understanding of what they said, since that action proves feedback was valued more than repeating the phrase itself."
 ---
 
 Stop pretending that you like everything about feedback. A gift is something that is meant to be liked. Feedback is not.

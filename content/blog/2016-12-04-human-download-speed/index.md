@@ -2,6 +2,7 @@
 title: "Human download speed"
 date_published: "2016-12-04"
 backlinks:
+ai_summary: "The post compares the speed of modern digital data transfer with the much slower pace of human learning and attention, arguing that people still process information at a limited, essentially single-threaded rate. Its main point is that this constraint should be acknowledged and planned for, rather than ignored, while also noting that much can still be achieved with the minds people already have. It concludes that the author values the ability to learn slowly and deliberately, even as faster future brain technology may eventually change that."
 ---
 
 This is 2016 - our phones receive and send data packets by the megabytes per second, simultaneously. Sometimes I imagine seeing lines of data shooting across in front of me, crisscrossing into multi coloured highways. So much data is moving so quickly it would indeed be a spectacular sight. 

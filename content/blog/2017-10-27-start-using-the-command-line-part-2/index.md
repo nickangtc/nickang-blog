@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-10-21-start-using-the-command-line-part-1/"
     title: "Bite Size Programming - How to start using the command line (part 1)"
+ai_summary: "The post continues an introduction to the command line by explaining basic commands for creating, deleting, copying, and moving files and directories, including touch, mkdir, rm, cp, and mv. It also introduces flags such as -r for recursive actions and points readers to man pages for command documentation. The author’s main point is that these core commands, along with understanding flags, provide enough groundwork for beginners to start using the command line and prepare them for learning paths next."
 ---
 
 ![BSP how to start using the command line nickang blog](images/BSP-how-to-start-using-the-command-line-nickang-blog-part-2.png) 

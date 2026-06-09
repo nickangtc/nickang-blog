@@ -5,6 +5,7 @@ date_published: "2018-05-15"
 backlinks:
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
+ai_summary: "The post argues that the key to building new habits is to focus on only one at a time, using the HabitBull app as a tracking tool but not the main subject. The author explains that trying to form several habits at once led to repeated, quiet failures because priorities became unclear and easier tasks crowded out the harder ones. The conclusion is that habits should be built sequentially, since once one becomes automatic, it is easier to add the next and make lasting changes."
 ---
 
 ![single red rose against brick wall](images/masaaki-komori-582888-unsplash-1024x684.jpg) 

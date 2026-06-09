@@ -3,6 +3,7 @@ title: "Warm spots"
 date_published: "2016-12-10"
 tags: [Love, "Personal"]
 backlinks:
+ai_summary: "The post reflects on the author’s dog Brownie waiting by the door and leaving a warm spot on the floor, which becomes a symbol of loyal love and belonging. The author’s main point is that being the center of another being’s world is deeply heartwarming and inspires a desire to be better for others. It concludes that in any relationship, people should strive to be that source of warmth, because that kind of care can build a lifelong bond."
 ---
 
 Every time when Mei and I come home from a trip to the bank or a nice movie date, we'd come home searching for that warm spot on our marble floors.

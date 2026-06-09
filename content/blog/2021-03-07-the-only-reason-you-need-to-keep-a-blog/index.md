@@ -6,6 +6,7 @@ tags: [Writing]
 backlinks:
   - slug: "/2021-04-29-my-biggest-fear/"
     title: "My biggest fear"
+ai_summary: "The author argues that the main reason to keep a blog is to help someone feel less alone by offering authentic writing that connects with readers. Drawing on a Matthew McConaughey quote, the post says a blog does not need original ideas or a large audience, only sincerity and even one reader who feels understood. The conclusion is that this sense of human connection is reason enough to keep blogging."
 ---
 
 My friends often ask me how I stay motivated to write and publish articles on my blog. I can easily think of several reasons I keep a blog, but I wanted to know *the one* - that singularly important reason why I keep showing up.

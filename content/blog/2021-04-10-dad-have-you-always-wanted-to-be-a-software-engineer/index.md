@@ -4,6 +4,7 @@ date_published: "2021-04-10"
 excerpt: "One of many hard questions I'm imagining my daughter asking me in the future..."
 tags: ["Living", "Tech"]
 backlinks:
+ai_summary: "The post reflects on how financial necessity often pushes people into careers they did not originally want, using the author’s own path from wanting to be a writer to becoming a software engineer as the example. The author argues that adulthood and the need to earn money can bury personal dreams, even when a job is tolerable and pays well. The conclusion is that this explanation feels incomplete and unsatisfying, both to the author and, imaginatively, to a future child asking why the career turned out this way."
 ---
 
 ![A hand drawn illustration with the capture "how am i going to make money?"](./images/how-am-i-going-to-make-money-nickang.PNG)

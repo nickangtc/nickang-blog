@@ -3,6 +3,7 @@ title: "Is Google Sheets robust enough for downloading data?"
 date_published: "2020-03-04"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post describes how an ad automation system at an ad tech company unexpectedly deleted ads after downloading an incomplete Google Sheets feed from a public URL, even though the spreadsheet’s version history showed no data changes. The author argues that relying on Google Sheets’ publish-to-web export may be unreliable for sensitive business workflows and suggests using the Google Sheets API or adding safeguards such as repeated downloads and row-count checks. The conclusion is that teams should assume external data sources can be unstable and build protections rather than depend on them working perfectly."
 ---
 
 ![one way to make the data in Google Sheets downloadable is to publish to the web](images/google-sheets-publish-to-the-web-nickang-1024x592.png)

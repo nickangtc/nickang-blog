@@ -2,6 +2,7 @@
 title: "Bite Size Programming - A tool to prevent Mac from sleeping"
 date_published: "2017-10-23"
 backlinks:
+ai_summary: "The post describes a Mac sleep-prevention problem that interrupts long-running SSH-based tasks, such as cloning a production database, when the computer goes idle. The author says built-in Energy Saver settings did not solve it, but the Amphetamine app reliably keeps the Mac awake and prevents the work from stopping. The conclusion is that Amphetamine is a simple, free, ad-free tool that effectively solves this niche but useful problem."
 ---
 
 ![woman sleeping in bed concealed under blanket with hand showing](images/BSP-prevent-mac-from-sleeping.png) 

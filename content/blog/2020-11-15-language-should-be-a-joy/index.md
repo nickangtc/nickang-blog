@@ -2,6 +2,7 @@
 title: "Language should be a joy"
 date_published: "2020-11-15"
 backlinks:
+ai_summary: "The post reflects on Stephen Fry’s argument that English should be allowed to evolve and that rigid language rules can stifle creativity rather than improve communication. The author agrees, drawing on personal experience in Singapore with strict grammar teaching to argue that writers should have the freedom to choose words and forms that best express meaning. The conclusion is that language is a choice, and using it creatively should be embraced rather than policed."
 ---
 
 I recently rewatched a short sporting Stephen Fry's wisdom on the English language (as well as his wonderful British accent in the voiceover). I remember being struck by some of the ideas encapsulated in it many years ago when I first watched it, but I didn't fully fathom them. Today, after watching it again, I can safely say that I fathom most of it and that I love it. This short soliloquy is ingenious in prose and format equally.

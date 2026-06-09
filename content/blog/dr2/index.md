@@ -7,6 +7,7 @@ tags: ["Daily Reflection"]
 fav: false
 creation_duration_minutes: 18
 backlinks:
+ai_summary: "The post discusses the author’s attempt to move from engineering into product management and reflects that the pitch should have been framed more as a win for the business, such as offering to help the team by taking on PM responsibilities. It also notes a UX insight about sorting dropdown options by relevance or affinity instead of strictly alphabetically, and explains “wheelhouse” as company lingo for a core area of expertise. The overall takeaway is that framing ideas strategically matters, both when asking for role changes and when designing user experiences."
 ---
 
 ## What I would do differently in asking for a role change

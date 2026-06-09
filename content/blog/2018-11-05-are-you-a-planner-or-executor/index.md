@@ -2,6 +2,7 @@
 title: "Are you a planner or executor?"
 date_published: "2018-11-05"
 backlinks:
+ai_summary: "The post reflects on whether the author is more of a planner or an executor, or a strategist or implementor, and the uncertainty this label creates. He concludes that he is likely both: he values shaping the big picture to understand intent, then executing with confidence that the work supports the strategy."
 ---
 
 ![planner or executor nick ang blog](images/studio-ease-629076-unsplash.jpg)

@@ -5,6 +5,7 @@ tags: ["Business"]
 backlinks:
   - slug: "/2018-12-01-is-there-fundamental-goodness-in-marketing/"
     title: "Is there fundamental goodness in marketing?"
+ai_summary: "The post reflects on the author’s discomfort with marketing, especially the feeling that product photos and ads are deliberately designed to manipulate attention. He acknowledges marketing’s practical value for helping people discover products and services, but says his emotional reaction still rejects it even though he works in ad tech. The conclusion is that this tension is an ironic but harmless part of his day-to-day life."
 ---
 
 Marketing feels dirty. When a model poses with a perfect smile, just so happening to be holding a product in her hand... that thought makes me uneasy.

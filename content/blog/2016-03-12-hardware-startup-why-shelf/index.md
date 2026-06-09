@@ -13,6 +13,7 @@ backlinks:
     title: "Specialist or Generalist?"
   - slug: "/flowriter/"
     title: "Flowriter"
+ai_summary: "The post describes the founder’s decision to shut down a hardware startup after six months, centered on a “writer’s laptop” idea. He concludes the market is too small to support a sustainable business, he lacks the technical readiness to lead the product himself, and he is not in a life situation that suits the long commitment a startup demands."
 ---
 
 ![Talking to aspiring makers at a local Apprenticeship Programme ](images/talking-to-onemaker-apprentices-1024x768.jpg)

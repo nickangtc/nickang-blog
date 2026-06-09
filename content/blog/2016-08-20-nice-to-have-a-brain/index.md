@@ -2,6 +2,7 @@
 title: "Nice to have a brain"
 date_published: "2016-08-20"
 backlinks:
+ai_summary: "The post reflects on learning to code and the contrast between human brains and computers, arguing that while machines vastly outperform people at storage and speed, humans are far better at comprehension and pattern-making. It says memory improves through repetition and practice, building neural pathways that turn beginners into experts over time. The conclusion is that people should choose their information inputs wisely and trust their slower but more powerful ability to understand and solve problems."
 ---
 
 ![classroom with people at general assembly singapore](images/20160819-DSCF8116-1024x683.jpg) 

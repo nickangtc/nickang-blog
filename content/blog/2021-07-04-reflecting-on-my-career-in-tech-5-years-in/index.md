@@ -12,6 +12,7 @@ backlinks:
     title: "The raising floor of building apps in 2026"
   - slug: "/word-2026/"
     title: "Why I chose this to be my word for 2026"
+ai_summary: "The post reflects on a five-year tech career that began with an environmental studies graduate learning to code through a bootcamp, then moving through teaching, software engineering, and eventually a team lead role in Berlin. The author’s main point is that software engineering opened major life opportunities, including living abroad, but a support-heavy job at Smartly.io gradually reduced interest in hands-on development. The conclusion is that while the author is grateful and has options, the next career move should be chosen carefully based on personal priorities and circumstances."
 ---
 
 ![a picture of Nick and Charlane in an empty new rental apartment](./images/nickang-new-rental-apartment-berlin.jpg)

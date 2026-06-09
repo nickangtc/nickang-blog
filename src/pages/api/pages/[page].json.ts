@@ -44,6 +44,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
             month: "long",
             day: "numeric",
           }),
+          ai_summary: post.data.ai_summary || "",
           html: await container.renderToString(Content),
         };
       })

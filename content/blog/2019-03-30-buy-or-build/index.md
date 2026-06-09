@@ -3,6 +3,7 @@ title: "Buy or build?"
 date_published: "2019-03-30"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The author reflects on the recurring dilemma of whether to buy software or build it himself, using a macOS eye-break app as the example after experiencing eye strain. He concludes that although he could make the app, the immediate benefit, low cost, and lack of real desire to build it make buying the existing app the better choice."
 ---
 
 ![buy or build nick ang](images/buy-or-build-nick-ang-1024x698.jpg) 

@@ -3,6 +3,7 @@ title: "Software developers, please learn rapid prototyping"
 date_published: "2016-10-21"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post argues that software developers should treat rapid prototyping as a user-validation process, not just a coding exercise, and that teams should first build wireframes and test assumptions before writing production code. Using a talk by Chardy Wang of Stacck as an example, it concludes that this approach saves time, reduces ego-driven building, and leads to more confident, better-targeted development."
 ---
 
 ![a person using an iphone next to a laptop](images/c9e42240-1024x683.jpeg)

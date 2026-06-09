@@ -4,6 +4,7 @@ date_published: "2020-08-02"
 backlinks:
   - slug: "/annual-review-2020/"
     title: "My 2020 Annual Review"
+ai_summary: "The post reflects on the author’s 100-day streak of daily morning meditation using the Calm app, describing how the practice was built into an early routine and gradually moved from guided sessions toward more independent meditation. The main point is that meditation has made the author more aware of mental “rabbit holes,” resulting in greater mood stability and a stronger sense of having time by noticing how much of it is lost to an unchecked mind. The author concludes that meditation is worth recommending, while aiming to keep improving patience, adaptability to noise, and the ability to explain its benefits more clearly."
 ---
 
 This week I crossed the 100 day streak of meditating daily!

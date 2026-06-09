@@ -9,6 +9,7 @@ creation_duration_minutes:
 backlinks:
   - slug: "/are-you-shopping-for-the-habit/"
     title: "Are you shopping for the habit?"
+ai_summary: "The author reflects on the recurring question of whether physical books, ebooks, or audiobooks are best, concluding that there is no universal answer because the right format depends on context and personal preference. He notes the advantages of each medium but argues that the real mistake is spending too much time deciding, when the more important thing is simply to read; for him, Libby on an old iPad is currently the fastest and most convenient option, and especially useful books are distilled into blog posts so the insights outlast the format."
 ---
 
 There's an unresolved debate in my head that comes up every now and then: should I read physical books, ebooks, or listen to audiobooks?

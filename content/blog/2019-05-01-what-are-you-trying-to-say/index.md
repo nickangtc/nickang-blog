@@ -2,6 +2,7 @@
 title: "What are you trying to say?"
 date_published: "2019-05-01"
 backlinks:
+ai_summary: "The post reflects on the author’s struggle to know what to say and connects it to Seth Godin’s point that no platform can compensate for not having a clear message or purpose. Its main argument is that effective communication starts with understanding the change one wants to make, and the practical conclusion is that the author is still figuring this out but now has a clearer sense of the target."
 ---
 
 ![what are you trying to say nick ang blog](images/what-are-you-trying-to-say-nick-ang-blog-1024x683.jpg) 

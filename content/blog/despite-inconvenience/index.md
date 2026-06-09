@@ -6,6 +6,7 @@ excerpt: More fun, surprising, fulfilling, rewarding, and memorable experiences 
 tags: ["Living"]
 fav: true
 backlinks:
+ai_summary: "The post describes a parent letting an infant daughter play with spilled water and later a bucket of water, which created a mess but also led to unusually joyful, focused play and learning. The author’s main point is that convenience should not be the default basis for decisions, because the inconvenient option can sometimes be more rewarding, memorable, and enriching. The conclusion is to pause when choices are made too quickly and avoid treating convenience as the only factor."
 ---
 
 The older I've become, the more I've started to make decisions based on convenience. Based on a hunch and a recent experience, I think it may be time to reconsider that as my default approach.

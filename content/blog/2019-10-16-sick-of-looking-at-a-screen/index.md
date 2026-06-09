@@ -4,6 +4,7 @@ date_published: "2019-10-16"
 backlinks:
   - slug: "/2019-12-15-first-impressions-of-the-astrohaus-freewrite/"
     title: "First impressions of the Astrohaus Freewrite"
+ai_summary: "The post describes the author feeling overwhelmed after a long remote workday and becoming tired of interacting with screens for almost everything, including sketching and writing. The main point is that this is less about eye strain than digital fatigue and a desire for more tactile, real-world activities; the author concludes that the feeling is likely to return and wishes there were a specific word for it."
 ---
 
 ![sick of looking at a screen](images/adrien-olichon-0RoIEgga6vs-unsplash-1024x683.jpg) 

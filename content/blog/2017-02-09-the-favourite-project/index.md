@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "The favourite project"
 date_published: "2017-02-09"
 backlinks:
+ai_summary: "The post discusses a talk by Yihui, who built the e-commerce site Hush after joining General Assembly, and highlights his approach to side projects: he prefers to focus on one project at a time rather than juggling several. The author argues that it is better to get deeply good at one worthwhile project first, ideally a day job, because real competence takes years to develop; only once boredom signals mastery should someone move on to another side project."
 ---
 
 Yesterday I got my friend, Yihui, to come in to give a talk to the current WDI batch at General Assembly. He was gracious with his time and came in to share with us his joining-GA story and the (huge) product that came out of it - his e-commerce website, [Hush](http://hush.sg). It was a great talk. I kept hearing the word "inspiring" from the audience. Great!

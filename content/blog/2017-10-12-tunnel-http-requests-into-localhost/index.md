@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-10-27-start-using-the-command-line-part-2/"
     title: "How to start using the command line (part 2)"
+ai_summary: "The post explains how developers can tunnel HTTP requests from live websites to a local machine using ngrok, instead of deploying untested code to production or relying only on a local test setup. The author’s main point is that ngrok makes it easy to safely test development features against real internet traffic and existing live apps by exposing a local localhost port through a temporary public URL. The conclusion is that it is a practical time-saving tool with manageable free-tier limits, especially for testing integrations in real-world conditions."
 ---
 
 ![ngrok explanation illustration](images/ngrok-1024x683.png)

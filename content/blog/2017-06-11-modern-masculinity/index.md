@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Modern masculinity: Men have much to learn from women"
 date_published: "2017-06-11"
 backlinks:
+ai_summary: "The post reflects on modern masculinity through a small anecdote about a man feeling unable to use an umbrella in the sun, arguing that many men remain insecure and resistant to vulnerability while women have advanced through feminism by showing strength, humility, and collaboration. The author says men can learn from women by being more selfless, open to learning, less ego-driven, and more willing to be vulnerable. The conclusion is that men should first challenge their own limiting ideas about masculinity before trying to change anything broader."
 ---
 
 "I can't. Ok I should say, I shouldn't. For some stupid reason, as a male person it is not appropriate to shade yourself under an umbrella", I explained to my wife when she asked me to do said taboo activity.

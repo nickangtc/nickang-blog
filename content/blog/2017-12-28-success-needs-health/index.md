@@ -2,6 +2,7 @@
 title: "Success needs health"
 date_published: "2017-12-28"
 backlinks:
+ai_summary: "The post argues that health should never be sacrificed in pursuit of success, wealth, fame, or recognition, using the author’s wife’s sudden food poisoning as a reminder of how quickly poor health can make normal life impossible. Its conclusion is that hard work is worthwhile only if it stays within reasonable bounds that protect one’s health, since success is meaningless without the ability to enjoy it."
 ---
 
 ![](images/20171227-laksa-nickang-blog-1024x768.jpg) 

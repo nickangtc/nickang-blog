@@ -3,6 +3,7 @@ title: "Why do some developers use Object.prototype.hasOwnProperty.call()?"
 date_published: "2018-02-04"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains why JavaScript developers often use Object.prototype.hasOwnProperty.call() instead of calling hasOwnProperty directly on an object. It argues that this approach is safer because some objects have no prototype at all and prototype methods can be overridden, making direct calls unreliable. The conclusion is to prefer the Object.prototype version as the more robust way to check whether a property belongs to an object."
 ---
 
 ![BSP object hasownproperty](images/BSP-object-hasownproperty-1024x610.jpg) 

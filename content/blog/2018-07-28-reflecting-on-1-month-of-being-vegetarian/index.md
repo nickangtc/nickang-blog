@@ -6,6 +6,7 @@ backlinks:
     title: "Be whacky and compel feedback"
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
+ai_summary: "The author reflects on a month of experimenting with vegetarianism, motivated by ethics, health concerns, and influence from vegetarian friends, and finds the change mostly easy with little meat craving but some desire for fish. He says he feels lighter after meals, more at ease ethically, and more conviction in his choices, while also noting practical issues such as limited food options and occasional social awkwardness. He ends undecided but leaning toward becoming pescatarian rather than returning to eating meat regularly."
 ---
 
 ![being vegetarian nick ang blog](images/becoming-vegetarian-sketch.png) 

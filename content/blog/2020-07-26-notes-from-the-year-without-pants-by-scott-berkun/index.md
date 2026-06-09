@@ -7,6 +7,7 @@ backlinks:
     title: "The magic of a light touch"
   - slug: "/a-framework-for-prioritising-chunks-of-work/"
     title: "A framework for prioritising workchunks?"
+ai_summary: "The post discusses Scott Berkun’s The Year Without Pants, a book about his experience at Automattic and the lessons it offers about remote work, communication, and software product development. The author’s main point is that the book is especially useful for people in tech because it shows how trust, small teams, clear writing, private conversations, and careful product judgment matter more than heavy process or metrics. The conclusion is that the book is worth reading for anyone in software or distributed teams, and that the best approach is usually a balanced one rather than rigidly favoring structure or spontaneity."
 ---
 
 This was a book that I originally thought was written by the founder of WordPress, Matt Mullenweg. Turns out, it was written by someone who joined Automattic (the company behind WordPress.com) as the first experimental Team Lead in the company's history. He believes this book is "a contribution I believed would be more important than my involvement with any number of teams" and it's easy to agree. Maybe that's because I relate to him as someone who is in tech and enjoys writing.

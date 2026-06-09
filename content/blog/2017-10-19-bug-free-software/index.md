@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-10-31-bugs/"
     title: "What are bugs in software?"
+ai_summary: "The post argues that users expect software to work reliably and generally do not care about the technical reasons behind bugs or failures, especially when they are paying for the product. It urges developers to anticipate edge cases, write tests, and use their own products regularly so they can deliver an experience that feels bug-free."
 ---
 
 ![people using ipad phone and laptop](images/users-using-ipad-phone-and-laptop-1024x683.jpg) 

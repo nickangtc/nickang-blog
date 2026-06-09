@@ -3,6 +3,7 @@ title: "The debugging advantage"
 date_published: "2016-08-18"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post argues that debugging is central to programming because buggy software can damage trust and even a business if it is unreliable or hard to use. It says beginners should spend time learning to troubleshoot on their own, since being stuck alone builds independence and resourcefulness, and concludes by recommending freeCodeCamp as a free way to start learning programming."
 ---
 
 ![keong saik road singapore](images/intown-1024x810.jpeg)

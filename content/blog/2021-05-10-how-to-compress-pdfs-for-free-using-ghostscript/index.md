@@ -4,6 +4,7 @@ date_published: "2021-05-10"
 excerpt: "Faced with a limited file size upload? Compress your file for free using the copyleft licensed software Ghostscript."
 tags: ["Tutorial", "Tech"]
 backlinks:
+ai_summary: "The post explains how the author compressed a large PDF to meet a government upload limit without using an online service, because the documents were sensitive medical records. It says that using Ghostscript commands such as pdf2ps and ps2pdf reduced the file by about 30–50% with no visible quality loss, and concludes by warning that the commands may overwrite files, so a backup copy should be made first."
 ---
 
 I recently had to submit an online government form that limited file size uploads of supporting documents to 3 MB. By the time I was done compiling my documents, it was 12 MB, well over that limit.

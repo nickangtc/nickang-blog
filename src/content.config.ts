@@ -8,6 +8,7 @@ const blog = defineCollection({
     date_published: z.string(),
     date_updated: z.string().nullable().optional().transform((val) => val ?? undefined),
     excerpt: z.string().nullable().optional().transform((val) => val ?? undefined),
+    ai_summary: z.string().nullable().optional().transform((val) => val ?? undefined),
     tags: z.array(z.string()).nullable().optional().transform((val) => val ?? undefined),
     status: z.string().nullable().optional().transform((val) => val ?? undefined),
     fav: z.boolean().nullable().optional().transform((val) => val ?? undefined),

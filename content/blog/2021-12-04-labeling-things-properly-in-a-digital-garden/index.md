@@ -5,6 +5,7 @@ excerpt: "Labeling posts by their maturity will help readers browse the digital 
 tags: ["Communication", "PKM"]
 fav: false
 backlinks:
+ai_summary: "The post argues for adding status labels to a personal website styled as a digital garden, using gardening metaphors such as seedling, sapling, and evergreen to show how developed each entry is and when it was last updated. The author believes this would help readers judge whether a post is tentative or well-formed, while also reminding the writer that ideas are always works in progress. The broader conclusion is that clearer metadata could make the site feel more like a true digital garden and may lead to further changes later."
 ---
 
 [Maggie Appleton](https://maggieappleton.com/) had just revamped her website that she refers to as a digital garden and two clicks later, I've read her essay entitled [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) and took notes. And, I'm inspired.

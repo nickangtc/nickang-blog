@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2021-10-10-specialist-or-generalist/"
     title: "Specialist or Generalist?"
+ai_summary: "The post examines whether JavaScript queues should be built with the native Array or with a custom Queue class. It argues that Arrays are fine for smaller queues, but repeated shift operations become slow at large sizes because of internal re-indexing, making a custom object-based queue more efficient for queues that may exceed about 100,000 items."
 ---
 
 Yesterday I [asked myself](/2017-12-24-implement-stack-javascript-array/) whether it was necessary to implement a **stack** abstract data type in JavaScript. The answer turned out to be "no," because you can just use the built-in `Array` data type to simulate a stack without obvious performance penalties.

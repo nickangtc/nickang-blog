@@ -7,6 +7,7 @@ tags: ["Daily Reflection"]
 fav: false
 creation_duration_minutes: 40
 backlinks:
+ai_summary: "The author describes three small experiments: a custom GPT for daily reflection that felt like an interrogation and added little value, Cursor helping diagnose and fix a checkout bug in about a minute, and a new understanding of browser transient activation while opening tabs. They conclude that AI is most useful when it performs real synthesis or problem-solving rather than simply asking questions, and that simple workflow tools like Alfred can also remove everyday friction more reliably than a generic AI assistant."
 ---
 
 ## AI - When a custom GPT is not going to be useful

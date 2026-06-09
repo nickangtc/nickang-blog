@@ -15,6 +15,7 @@ backlinks:
     title: "My 2023 Annual Review"
   - slug: "/annual-review-2025/"
     title: "My 2025 Annual Review"
+ai_summary: "The post lays out the author’s 2020 goals after turning 30: create value for 1,000 people through blogging and newsletters, build daily habits of journaling, reading, and meditating, and travel more across Europe after relocating from Singapore to Berlin. The main point is that he wants to keep the year simple and focus on consistent routines and flexible execution to grow personally and professionally. He concludes that 2020 will be a year for maximizing value to others, developing calm discipline, and broadening his perspective through travel."
 ---
 
 Hello world! It's that time of the year again to plan to make dreams happen. I've summarised [my learnings for 2019](/2019-12-22-what-ive-learned-in-2019/) already so in this post, I look into the new year.

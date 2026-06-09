@@ -6,6 +6,7 @@ fav: true
 backlinks:
   - slug: "/2018-06-22-why-im-going-vegetarian/"
     title: "Why I'm going vegetarian"
+ai_summary: "The post explains that the author is a flexitarian: mostly vegetarian, but willing to eat meat occasionally for immediate enjoyment, cultural experiences, or when practical. He argues that this limited meat consumption does not undermine the benefits of eating far less meat overall, especially for animal welfare, the environment, and health, and he sees food as an important way to connect with culture and other people. He concludes that he expects to remain a flexitarian for life."
 ---
 
 ![vegan patty grill next to actual meat steaks](images/vegan-patty-grill.jpg) 

@@ -3,6 +3,7 @@ title: "Find the smallest number in an array with JavaScript"
 date_published: "2016-11-24"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains how to find the smallest number in a JavaScript array, comparing a straightforward loop-based approach with a shorter, more elegant solution using Math.min.apply(null, numbers). The author’s main point is that combining built-in methods can produce cleaner code, though apply has a practical array-length limit, and ES6 spread syntax makes the same task even simpler."
 ---
 
 Let's say you're given an array of numbers, and you're required to find the smallest number in the array. How would you do it?

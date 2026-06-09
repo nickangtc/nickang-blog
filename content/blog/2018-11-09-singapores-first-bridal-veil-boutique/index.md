@@ -5,6 +5,7 @@ tags: ["Business"]
 backlinks:
   - slug: "/2018-11-19-interrupt-the-pattern/"
     title: "Want to be heard? Interrupt the pattern"
+ai_summary: "The post describes the launch of Singapore’s first bridal veil boutique, ang veil yú, an online store started by the author and his wife, with her designing the veils and him handling the writing, web, and marketing. The main point is that launching the business was not just a product debut but a personal step into entrepreneurship, made possible by their complementary strengths and a successful launch party. The author concludes that the focus now is on learning through testing pricing, paid social ads, and branding to grow the business."
 ---
 
 https://vimeo.com/300023705

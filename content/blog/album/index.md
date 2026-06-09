@@ -11,6 +11,7 @@ backlinks:
     title: "Instagram growth hacking (2026)"
   - slug: "/what-i-learned-re-watching-chef-2014/"
     title: "What I learned re-watching Chef (2014)"
+ai_summary: "The post describes how the author documented his daughter’s early life with daily Instagram posts for over 300 days, found the resulting memory archive deeply rewarding, then stopped because of privacy concerns and distrust of the platform. He concludes that important family media should be easier to preserve in a private, ad-free space, which led him to build Album, an app for posting photos and videos privately in an Instagram-style format."
 ---
 
 <iframe

@@ -3,6 +3,7 @@ title: "How to add prefix or suffix to image urls in Python"
 date_published: "2017-07-27"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains how to add a suffix or prefix to image URL strings in Python using the re module, by matching the file extension and inserting text before it. It notes that suffixes are useful for servers that serve different image sizes, such as Shopify, while prefixes are mentioned as less common and handled by adjusting the regex pattern."
 ---
 
 To add a suffix to an image url string in Python, you'll need to use the `re` (regular expression) module. We can use regex to identify the file format (eg .jpg or .png) and insert some text just before it.

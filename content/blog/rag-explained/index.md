@@ -7,6 +7,7 @@ tags: ["Tech"]
 fav: false
 creation_duration_minutes:
 backlinks:
+ai_summary: "The post explains retrieval augmented generation (RAG) as a core AI technique that lets LLMs use relevant external documents alongside a user prompt to produce better, more useful responses. The author argues that RAG is especially important for AI engineers and FDEs because it helps coding and support agents work effectively with existing codebases and private knowledge bases, and notes that the retrieval pipeline includes document sources, keyword and semantic search, metadata filtering, and reranking. It concludes by positioning RAG as the first foundational concept to learn before exploring the search algorithms behind it."
 ---
 
 I might as well make it public: I'm interested in FDE roles right now and have been actively applying at a few companies. The interview processes made it clear that even though I've built applications with LLMs, I still have gaps in foundational concepts. You can [build functional, reliable AI apps now without knowing the underlying tech and algorithms](/raising-floor-apps/), until the abstraction leaks and you need to know where the manhole is, climb in with a headlamp, and hopefully know where you're going in the plumbings.

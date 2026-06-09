@@ -5,6 +5,7 @@ excerpt: "A YouTube interview project about real expat stories in Europe, and my
 tags: ["Project", "Business"]
 cover: "/project-covers/moved-show-cover.svg"
 backlinks:
+ai_summary: "The post describes Moved Show, a YouTube channel featuring real expat stories in Europe, where the author interviewed friends in Berlin about how they moved, what changed, and what life abroad felt like. The main takeaway is that while the channel produced 12 long-form videos and valuable conversations, the editing workload was too slow and draining to sustain, revealing the harsh economics of video production. That experience did not turn into the intended media business, but it uncovered a real problem and directly inspired the next project, TrimScribe."
 ---
 
 Moved Show was a YouTube channel about real expat stories in Europe.

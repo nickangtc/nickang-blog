@@ -7,6 +7,7 @@ backlinks:
     title: "Getting good and getting a dream job"
   - slug: "/selling-yourself/"
     title: "Selling yourself"
+ai_summary: "The post reviews Cal Newport’s So Good They Can’t Ignore You, arguing that passion is a poor starting point for career choice and that people usually come to love their work by building rare, valuable skills, gaining career capital, and increasing autonomy over time. It highlights deliberate practice, feedback, and small experiments as the best ways to develop a fulfilling path, while warning against chasing control or a “true calling” too early. The author concludes that the book offers a persuasive, practical answer to why some people end up loving what they do, even if the title is misleading."
 ---
 
 ### [![so good they cant ignore you book cover](images/so-good-they-cant-ignore-you-book-cover.jpg)](http://amzn.to/1TN6FJY)

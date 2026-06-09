@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2021-10-10-specialist-or-generalist/"
     title: "Specialist or Generalist?"
+ai_summary: "The post explains bubble sort, a simple algorithm for sorting arrays by repeatedly comparing adjacent elements and swapping them until the list is ordered. It notes that the algorithm uses constant extra space but has poor quadratic time complexity, making it workable mainly for small inputs. The author concludes that bubble sort is generally a poor choice in practice and that faster algorithms such as insertion sort, quick sort, or merge sort are usually preferable."
 ---
 
 ![bubble sort explained banner ](images/BSP-bubble-sort-explained.png)

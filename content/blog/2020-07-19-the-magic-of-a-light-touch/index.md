@@ -11,6 +11,7 @@ backlinks:
     title: "Notes from Show Your Work by Austin Kleon (Part 1)"
   - slug: "/are-you-shopping-for-the-habit/"
     title: "Are you shopping for the habit?"
+ai_summary: "The post argues that reading, filmmaking, and writing are all done better when approached with a light touch: staying attentive without overanalyzing, using simple tools and tight constraints, and accepting that early drafts or outputs can be imperfect. The author illustrates this through examples of more efficient note-taking while reading, producing a daily travel film in under an hour, and writing quickly without clinging to every draft. The main conclusion is that bending with circumstances instead of forcing perfection helps people keep pursuing creative interests sustainably."
 ---
 
 ![photo of the Austrian alps in the town of Bichlbach](images/bichl-bach-light-touch.png)

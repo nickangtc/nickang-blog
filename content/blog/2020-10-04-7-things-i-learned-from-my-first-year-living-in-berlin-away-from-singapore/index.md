@@ -13,6 +13,7 @@ backlinks:
     title: "6 Things I've Learned from my Second Year Living in Berlin (away from Singapore)"
   - slug: "/annual-review-2020/"
     title: "My 2020 Annual Review"
+ai_summary: "The post reflects on the author’s first year living in Berlin after relocating from Singapore, describing how the city’s diversity, language barrier, nature, Sunday closures, dog-friendliness, privacy norms, and historical context shaped the experience. The main point is that living abroad exposed the author to new ways of thinking and improved wellbeing, self-awareness, and freedom from old assumptions. The conclusion is that being away from home teaches valuable lessons, and the author plans to continue reflecting on what prolonged time abroad means beyond this first year."
 ---
 
 In two days, I will mark my first year living away from Singapore in Berlin. I moved here with my wife and dog last year when I managed to get transferred to the Berlin office of my current employer. As you can imagine, life has been different since. 

@@ -4,6 +4,7 @@ date_published: "2020-05-07"
 excerpt: An in-house technical bootcamp is highly valuable to the business, the employees who are participants, and the teacher (me).
 tags: ["Tech"]
 backlinks:
+ai_summary: "The author reflects on teaching in-house web development bootcamps to colleagues at Smartly.io and concludes that such programs can be highly effective because they create a safe, self-selected learning environment and deliver practical skills directly relevant to coworkers’ jobs. The post also argues that remote teaching works well when everyone is equally remote and expectations are set clearly, and it notes that teaching improves over time through repeated practice, clearer explanations, and adapting to what learners need."
 ---
 
 I joined Smartly.io as a Service Operations Engineer close to 2 years ago. One of the first impactful things I did was to establish an in-house web development bootcamp that I called the "Tech AM Bootcamp" (AM = Account Manager) and I've since conducted it with two groups, each spanning 13 weeks.

@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Machine learning is kind of dry"
 date_published: "2017-08-19"
 backlinks:
+ai_summary: "The post discusses the author’s experience taking Andrew Ng’s Coursera machine learning course and finding the subject intellectually exciting but the practical implementation unexpectedly dry. After listening to an AI podcast interview with Ng, the author regains some motivation, weighs the field’s future career potential against the tedium of the work, and ultimately decides to continue the course for now."
 ---
 
 _San Francisco, we have a problem._

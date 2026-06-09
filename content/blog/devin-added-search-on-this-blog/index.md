@@ -9,6 +9,7 @@ creation_duration_minutes:
 backlinks:
   - slug: "/rag-explained/"
     title: "RAG (Retrieval Augmented Generation) explained"
+ai_summary: "The post describes how the author added search to a personal blog by using an AI coding agent, Devin, to evaluate and implement a search solution for an Astro site hosted on Netlify, including rebuilding the index on every deployment. The author’s main point is that well-scoped engineering tasks can be outsourced effectively to AI agents, saving significant time and making previously low-priority work worth doing. The conclusion is that AI agents are reliable for end-to-end implementation when guided by clear prompts and domain knowledge, even if some polishing is still needed afterward."
 ---
 
 I recently added search to this blog and it was yet another engineering task that I could completely outsource to an [AI coding agent](/to-claw-or-not-to-claw/). I wanted to write about that.

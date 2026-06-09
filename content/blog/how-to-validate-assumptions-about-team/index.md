@@ -7,6 +7,7 @@ tags: ["Leadership", "Communication", "Productivity"]
 fav: false
 creation_duration_minutes: 36
 backlinks:
+ai_summary: "The post describes a software engineer who noticed a colleague was hesitant to start a public Slack huddle out of concern about disturbing teammates, so he ran a quick team poll to test whether that assumption was true. The results showed the team was comfortable with public huddles, leading to the conclusion that lightweight surveys are an effective way to quickly validate or invalidate team best-practice assumptions and should be documented if possible."
 ---
 
 Regular day, I'm doing my work as a software engineer when I receive a DM from a colleague:

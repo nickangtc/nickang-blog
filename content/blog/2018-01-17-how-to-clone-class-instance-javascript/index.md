@@ -3,6 +3,7 @@ title: "How to clone class instance in JavaScript"
 date_published: "2018-01-17"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains why cloning is often needed in JavaScript functions to avoid accidentally mutating objects or arrays passed by reference, and distinguishes shallow copying from deep copying. It then shows that cloning a custom class instance requires copying both its instance properties and its prototype chain so that its methods are preserved. The main conclusion is that using the right cloning approach helps prevent subtle side effects, especially with nested data and class-based objects."
 ---
 
 One very common scenario for wanting to clone a class instance is inside a function.

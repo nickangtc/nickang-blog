@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "(US) A Little Broadway"
 date_published: "2016-04-08"
 backlinks:
+ai_summary: "The post describes a budget trip in New York City, focusing on the subway’s loud, rough ride, a visit to Times Square, and an attempt to buy discounted Broadway tickets through TKTS. The author’s main point is that Broadway felt too expensive for this trip, so they chose not to attend and instead treated the city as an outsider seeing only a short slice of it. The conclusion is that they will likely return later, when money is less tight, to experience Broadway properly."
 ---
 
 ![Every train has a thunderous arrival in NYC](images/DSCF6992_edited-1.jpg) 

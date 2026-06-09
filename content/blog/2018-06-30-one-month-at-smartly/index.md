@@ -5,6 +5,7 @@ tags: ["Business"]
 backlinks:
   - slug: "/2019-12-22-what-ive-learned-in-2019/"
     title: "What I've learned in 2019"
+ai_summary: "The post reflects on the author’s first month at Smartly.io, highlighting generous benefits, strong workplace culture, and a team described as intelligent, humble, and self-motivated. The main point is that being valued by the company has made the author more motivated to contribute and help the business grow from $1 billion in annual ad spend to even larger goals. The conclusion is a sense of confidence and excitement about learning the product and returning value to the company."
 ---
 
 ![smartly futurio june 2018](images/futurio-june-2018.jpg) 

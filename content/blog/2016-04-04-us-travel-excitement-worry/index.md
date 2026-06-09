@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "(US) Anticipation, Excitement and Worry"
 date_published: "2016-04-04"
 backlinks:
+ai_summary: "The author is on the eve of a month-long trip from Singapore to New York and across the United States, feeling both excited about seeing iconic places and worried about being away from a beloved dog, keeping up daily writing, and living up to high expectations. The main point is that travel inspires both anticipation and anxiety, and the trip is also intended as a way to understand why travel feels so compelling. The author concludes that the journey will likely be memorable regardless, and plans to stay observant, take original photos, and write about the experience each day."
 ---
 
 A day before our big trip! I'm feeling a mixture of excitement and worry.

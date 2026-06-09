@@ -4,6 +4,7 @@ date_published: "2018-09-14"
 backlinks:
   - slug: "/2020-08-30-you-are-not-buying-that-with-money/"
     title: "You are not buying that with money"
+ai_summary: "The post argues for a “three second rule” for purchases: if something genuinely makes someone smile for at least three seconds and can be bought, it is worth buying. Using a watermelon plushie as the example, the author concludes that rare, small bursts of happiness are valuable enough to justify the expense, even at a high price."
 ---
 
 Here's my version of the three second rule applied to purchases: if something puts a stupid little grin on your face for three seconds or more, and it's something money can buy, spend and buy it.

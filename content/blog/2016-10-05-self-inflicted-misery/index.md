@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Stop the self-inflicted misery!"
 date_published: "2016-10-05"
 backlinks:
+ai_summary: "The post argues that much of modern misery is self-inflicted, driven by obsession with quick success, status, and comparison, and that happiness is available now through deliberate choice and practices like meditation and perspective-taking. It suggests that accepting one’s current life, easing off arbitrary ambitions, and focusing on enjoying the process and making memories with loved ones leads to a more resilient and meaningful kind of success."
 ---
 
 ![two people lying side by side looking into each other's eyes](images/photo-1461009209120-103a8f970745-1024x683.jpeg)

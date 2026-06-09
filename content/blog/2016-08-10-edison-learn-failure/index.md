@@ -2,6 +2,7 @@
 title: "Opportunities in failure"
 date_published: "2016-08-10"
 backlinks:
+ai_summary: "The post describes the author building a Raspberry Pi-based surveillance camera for an Airbnb, then repeatedly fixing it after it kept falling from the ceiling because of weak mounting and poor joins between parts. The main point is that each failure revealed a different lesson about design and installation, and the author sees repeated trial and error as a valuable way to learn, ending with a more permanent glued setup."
 ---
 
 Recently we realised the need to protect ourselves with a surveillance camera in case of one of our Airbnb guests decides to be an idiot and doodle all over the walls, or something worse. So I did what I thought was the perfect thing to do: make one myself.

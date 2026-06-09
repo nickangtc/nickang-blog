@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Adapt and forget"
 date_published: "2017-11-06"
 backlinks:
+ai_summary: "The author uses a loud office air conditioner as a small example of how people adapt to discomfort and then forget they adapted, arguing that this same process makes both hardships and blessings fade into the background. The main conclusion is that adaptation can reduce awareness and gratitude, and the author suggests travel as the strongest antidote, with mindfulness as a secondary option."
 ---
 
 ![sapling](images/francesco-gallarotti-72602-1024x683.jpg) 

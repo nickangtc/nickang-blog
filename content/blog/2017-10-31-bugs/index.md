@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2021-02-14-software-bugs-and-trash/"
     title: "Software bugs and trash"
+ai_summary: "The post explains what software bugs are: unintended and unwanted behaviours in code that engineers need to fix. It argues that bugs arise from edge cases, incomplete testing, changing code interactions, and misunderstandings about requirements or existing systems, because software must explicitly handle situations that real life physics would cover automatically. The conclusion is that when developers fail to anticipate or catch these cases, software may crash or behave unexpectedly, which is why programs often seem buggy."
 ---
 
 ![bite size programming what is a bug banner](images/BSP-what-is-a-bug-nickang-blog.png) 

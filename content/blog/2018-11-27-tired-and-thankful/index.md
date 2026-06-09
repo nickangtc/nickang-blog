@@ -2,6 +2,7 @@
 title: "Tired and thankful"
 date_published: "2018-11-27"
 backlinks:
+ai_summary: "The post describes the author’s exhaustion after 12 straight hours of coding at work and several weeks of long hours, including evenings, while reflecting on the strain of working outside office hours. The main point is that the effort stemmed from setting the wrong expectations with the team, so the author chose to push through and meet the commitment, while also feeling grateful for family support. The conclusion is that the difficult period made small acts of care feel more meaningful, reinforcing the idea that sweetness is sharper after hardship."
 ---
 
 I've just spent 12 hours straight coding at work. Combined with the last couple of weeks of coding, sometimes late into the evening, I'm close to exhaustion. It was hard to even bring myself to look at the screen to write this post.

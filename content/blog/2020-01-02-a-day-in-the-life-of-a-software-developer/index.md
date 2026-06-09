@@ -4,6 +4,7 @@ date_published: "2020-01-02"
 tags: ["Tech"]
 fav: true
 backlinks:
+ai_summary: "The post describes a software developer’s day-to-day work, focusing on coding, brief stand-up meetings, and the problem-solving process behind implementing features like validation for a form. The author’s main point is that software development is generally rewarding but can be stressful when tasks span multiple days or become harder than expected, so enjoying coding and handling uncertainty is important. The conclusion is that despite frustrations, developers usually reach a clear solution eventually, and the satisfaction of solving difficult problems makes the work worthwhile."
 ---
 
 If you have ever wondered what it is like to be a software developer, like what a week in the life looks like, this post is for you. I will share from my experience when I was a software developer leading a small team and also draw from my observations of other software developers in companies that I've worked at.

@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
+ai_summary: "The post explains how to set up ESLint for a JavaScript project, including installing the npm package and editor plugin, creating an .eslintrc configuration, and adding plugins or shared style guides as needed. The author’s main point is that ESLint is easy to configure and can help developers learn better programming habits through its warnings, such as preferring trailing commas for cleaner diffs. The conclusion is that once ESLint is properly installed and configured, it becomes a useful project-specific linter that quietly enforces code quality while the developer writes."
 ---
 
 ![how to setup ESLint for your next project nickang blog banner](images/BSP-how-to-setup-ESLint-for-your-next-project.png) 

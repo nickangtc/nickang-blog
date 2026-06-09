@@ -8,6 +8,7 @@ fav: false
 backlinks:
   - slug: "/white-tesla-interiors/"
     title: "White Tesla interiors: hell-yeah or oh-no for a family?"
+ai_summary: "The author explains buying a Tesla Model Y after a decade-long dream that began with visiting a Tesla showroom and sitting in a Roadster, and after months of considering the purchase. The main reasons were Tesla’s inspiring driving experience and features, plus admiration for the company’s role in making electric cars mainstream, despite concerns about the car’s speed and suspension. The author concludes that the appeal of the vehicle and the brand outweighed the doubts, leading to the purchase decision."
 ---
 
 Why a Tesla?

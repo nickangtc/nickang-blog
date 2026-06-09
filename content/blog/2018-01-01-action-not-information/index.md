@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Action, not information"
 date_published: "2018-01-01"
 backlinks:
+ai_summary: "The post describes the author struggling with LeetCode’s Generate Parentheses challenge, then trying to learn from a solution that was initially hard to understand. The main point is that information alone is not enough; real understanding comes from actively working through it, and the author concludes that action matters more than simply finding answers."
 ---
 
 I was struggling quite a lot today with an algorithm challenge on LeetCode called "[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)". It was hard enough that after trying for 2 hours, I decided it'd be for the better to look for solutions and learn from them.

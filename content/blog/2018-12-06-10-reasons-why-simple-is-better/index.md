@@ -4,6 +4,7 @@ date_published: "2018-12-06"
 backlinks:
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
+ai_summary: "The post argues that simplicity is preferable because it is easier to understand, remember, use, and maintain, and it illustrates this with examples from software, habits, dogs, Apple products, and communication. Its main point is that simple design and thinking reflect clarity and make life more accessible and reliable. The conclusion is that in a complex world, simple is rare, beautiful, and often the most effective choice."
 ---
 
 ![Why simple is better](images/Why-simple-is-better-1024x686.jpg)

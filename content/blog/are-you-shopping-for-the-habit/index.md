@@ -7,6 +7,7 @@ tags: ["Living", "Daily Reflection"]
 fav: false
 creation_duration_minutes:
 backlinks:
+ai_summary: "The post argues that people often get distracted by product reviews and optimization when trying to build a habit, using reading as the example. The author says the better approach is to start with the habit itself, choose the reading medium that feels best by personal criteria, and only worry about devices or apps after reading is already underway. The conclusion is that a backlit iPad with Libby works well for the author, showing that personal experience matters more than reviewers’ opinions."
 ---
 
 YouTube product reviews should be viewed as junk food for your lifestyle.

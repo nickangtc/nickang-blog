@@ -8,6 +8,7 @@ backlinks:
     title: "Silly useful things on my Repl.it"
   - slug: "/2020-01-05-the-quickest-way-to-try-new-javascript-libraries/"
     title: "The quickest way to try new JavaScript libraries"
+ai_summary: "The post explains that a REPL is a read-evaluate-print-loop, an interactive program that lets a developer enter code, immediately see the result, and keep running new inputs. Its main point is that REPLs are useful for quickly testing snippets, doing ad hoc computations, and sanity-checking code, with common examples like the Chrome console for JavaScript. It concludes that REPLs exist in most major programming languages and work on the same basic principle across them."
 ---
 
 REPL stands for read-evaluate-print-loop and it is basically a program that is an active session running a programming language and awaiting additional inputs.

@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "The things we can but don't do"
 date_published: "2016-08-03"
 backlinks:
+ai_summary: "The post reflects on the many things people are capable of doing but usually choose not to, using examples like drones, Airbnb, and unusual activities in New York, and suggests that the period before something becomes regulated can be an especially good time to try it. It also notes that restraint often comes from choice rather than inability, even in everyday frustrations like hotel showers, and ends on the idea that people could do more of what they imagine if they acted on it."
 ---
 
 The transitional space between pre-regulation and regulation might be the best time to get in on something.

@@ -2,6 +2,7 @@
 title: "Workout duration does not matter"
 date_published: "2018-11-04"
 backlinks:
+ai_summary: "The author argues that workout duration is not a good measure of workout quality, using a 30-minute gym session that felt as tiring as a usual one-hour workout. The main point is that focused, efficient exercise can be just as effective as longer sessions, and the author’s conclusion is that shorter workouts should not be dismissed as improper."
 ---
 
 ![](images/a7b4fa9f-417e-46f3-bd89-fff0968d313b-29283-00000741da735904.jpg)

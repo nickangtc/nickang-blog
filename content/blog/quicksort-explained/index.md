@@ -6,6 +6,7 @@ excerpt:
 tags: ["Tech"]
 fav: false
 backlinks:
+ai_summary: "The post explains how quicksort works, using a random pivot to split an array into less and greater subarrays and then recursively sort them. Its main point is that quicksort is efficient on average at O(n log n), but can degrade to O(n^2) and O(n) space if the pivot choice is poor, such as always picking the first element. The useful conclusion is to avoid hardcoding the pivot and instead use randomness or another sensible heuristic, with tail recursion suggested as an additional optimization."
 ---
 
 Quicksort – stylised as a single word for some reason unknown to me – is a practical sorting algorithm that is often used in production code because it is very efficient for a sorting algorithm.

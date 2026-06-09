@@ -4,6 +4,7 @@ date_published: "2020-11-08"
 backlinks:
   - slug: "/2019-12-15-first-impressions-of-the-astrohaus-freewrite/"
     title: "First impressions of the Astrohaus Freewrite"
+ai_summary: "The post argues that everyday self-improvement and internet advice-gathering are forms of science because people form hypotheses about what works for them, test them, and revise their approach based on results. Using the author’s attempt to write a novel as an example, it concludes that individuals are effectively scientists whenever they keep testing ideas until they find durable truths about themselves."
 ---
 
 We are all very scientific, each of us, even if we don't necessarily think about ourselves as scientists.

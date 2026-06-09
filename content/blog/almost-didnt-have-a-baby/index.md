@@ -7,6 +7,7 @@ tags: ["Living"]
 fav: false
 
 backlinks:
+ai_summary: "The post recounts how a couple in Berlin spent years debating whether to have a child, weighing fears about losing their lifestyle, relationship stability, physical and mental strain, inadequate support, and the moral unease of bringing someone into a world seen as suffering. After discussing the question with friends, the author says only one real motivation emerged: a deep desire to care for and nurture someone younger, which eventually tipped them toward parenthood. The conclusion is that deciding to have a child was less a rational calculation than a leap of faith, and that a single sincere reason can be enough."
 ---
 
 _This is Part 1 of a two-, maybe three-, part series on how we almost decided not to have kids and become parents._

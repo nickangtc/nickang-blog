@@ -2,6 +2,7 @@
 title: Bad timing vs poor decisions
 date_published: "2020-05-25"
 backlinks:
+ai_summary: "The author contrasts bad timing with poor decisions through examples including moving to Germany just before COVID-19, a colleague forced onto maternity leave days before finishing a coding bootcamp, and a friend losing money in the market during the pandemic. The main point is that when an outcome could not reasonably have been foreseen or controlled, it should be accepted as bad timing, but when risks were foreseeable and could have been managed, it reflects poor decision-making that deserves reflection and learning."
 ---
 
 A pandemic brings the global economy to its knees when you had *just* moved to a new city in a new continent, ready to explore? That's bad timing, and it is happening to me now.

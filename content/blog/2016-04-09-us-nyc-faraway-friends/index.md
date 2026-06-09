@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "(US) The Gem of Dumbo and Faraway Friends"
 date_published: "2016-04-09"
 backlinks:
+ai_summary: "The post describes the fourth day of a US trip, highlighting a relaxed travel rhythm, a first discovery in Brooklyn’s Dumbo district, and dinner with former Airbnb guests who had become friends in New York. The author’s main point is that travel is most rewarding when it allows calm reflection and open, unforced experiences, especially shared with friends in unfamiliar places. The conclusion is that slowing down made the day memorable and confirmed the value of finding genuine connections and unexpected places rather than rushing through tourist sights."
 ---
 
 ![manhattan skyline](images/DSCF7235-1024x683.jpg)

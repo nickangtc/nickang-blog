@@ -9,6 +9,7 @@ creation_duration_minutes:
 backlinks:
   - slug: "/dr5/"
     title: "National pride is a weird thing"
+ai_summary: "The post argues that people should not feel proud or superior because of traits like race, ethnicity, nationality, or a passport, since these are birth circumstances rather than achievements. It illustrates this with a story about a beer-holding game at a German birthday party and references to racist gestures by public figures, concluding that people should stop acting entitled and recognize such advantages as luck, not merit."
 ---
 
 We can't choose the parents we were born to, nor can we choose which country we were born in.

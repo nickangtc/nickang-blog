@@ -5,6 +5,7 @@ excerpt: "Small vibe coded apps to prove real magic exists (and taking the oppor
 tags: ["Project"]
 cover: "/project-covers/magic-canvas.png"
 backlinks:
+ai_summary: "The post describes a father building simple “magic” computer experiments for his 4-year-old daughter, inspired by her question about whether real magic exists. He says AI agents made it easy to create local, browser-based hand-motion and sound effects without APIs, and he guided the system with a clear constraint to keep everything computed locally. His conclusion is that AI can be resourceful and effective when given a well-defined goal and boundaries, making it useful for low-complexity creative coding projects."
 ---
 
 <iframe

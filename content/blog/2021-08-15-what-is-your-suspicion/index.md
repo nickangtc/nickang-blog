@@ -6,6 +6,7 @@ tags: ["Communication"]
 backlinks:
   - slug: "/2021-09-12-9-useful-questions-for-1-1s/"
     title: "9 Questions for 1-1s"
+ai_summary: "The post uses a veterinarian treating a vomiting dog to argue that good troubleshooting should ask not only standard diagnostic questions but also what the client suspects may be causing the problem. It concludes that suspected causes can reveal overlooked possibilities, because relying on a fixed checklist may lead to a wrong diagnosis and wasted time, money, and suffering."
 ---
 
 Imagine this situation: Your dog has been vomiting regularly for the last two days so you visit the animal clinic. There, the veterinarian asks you a series of questions:

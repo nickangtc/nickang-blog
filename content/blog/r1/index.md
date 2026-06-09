@@ -6,6 +6,7 @@ excerpt: "Why do some of us wonder if becoming a parent (newly minted or an old 
 tags: ["Living", "Raw essays"]
 fav: false
 backlinks:
+ai_summary: "The post examines whether starting a new job is compatible with caring for a newborn, based on the author’s experience of joining Shopify when his daughter was three months old. He argues that it can be manageable when there is strong partner support, remote work, a flexible and understanding employer, and some parental-leave timing that creates room to transition. His conclusion is that the experience was difficult but workable, and that others in similar circumstances will likely be okay if they have the right support and workplace conditions."
 ---
 
 *(This is #1 of 30 raw essays in 30 days. The topic was submitted by someone.)*

@@ -2,6 +2,7 @@
 title: "Notes from watching 13th (documentary)"
 date_published: "2020-06-07"
 backlinks:
+ai_summary: "The post reflects on the documentary 13th, which traces how anti-Black racism in the US evolved from slavery and Jim Crow to lynching, drug policy, policing, mass incarceration, and felony disenfranchisement. The author’s main point is that these systems were not accidental but were sustained by political, media, and corporate incentives that continued to control and criminalize Black communities. The conclusion is that the documentary is a powerful, eye-opening account of how racial oppression persisted through legal and economic structures long after slavery ended."
 ---
 
 ![13th documentary poster](images/13th-poster.jpg)

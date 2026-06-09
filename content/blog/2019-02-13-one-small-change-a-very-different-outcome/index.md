@@ -3,6 +3,7 @@ title: "One small change, a very different outcome"
 date_published: "2019-02-13"
 tags: ["Leadership"]
 backlinks:
+ai_summary: "The post uses a pilot turning the plane one degree as a metaphor for how a tiny change can lead to a dramatically different result over time. Its main point is that for long-term goals, people should focus on staying on the right trajectory rather than expecting immediate visible progress, because small consistent actions can eventually produce the desired outcome."
 ---
 
 ![small change nick ang blog](images/small-change-nick-ang-blog-1024x683.jpg) 

@@ -7,6 +7,7 @@ backlinks:
     title: "Regaining the courage to build"
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
+ai_summary: "The post discusses the author’s urge to build custom Chrome extensions for focus and website-time tracking, then realizing that existing tools already meet the need. The main point is that people should search for and use existing solutions first, and only build something when it is missing, insufficient, or intended as a real business. The conclusion is that building for its own sake is often a waste of time, especially when driven by curiosity or prestige rather than genuine need."
 ---
 
 ![mannequin wearing santa hat looking broken](images/buzz-andersen-138897-1024x681.jpg) 

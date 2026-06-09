@@ -2,6 +2,7 @@
 title: "Go wherever you lack a mental model of"
 date_published: "2016-12-16"
 backlinks:
+ai_summary: "The post argues that people rely on mental models built from past experiences to predict and handle familiar situations, which makes repeated tasks feel easier and safer. It urges seeking out unfamiliar jobs, places, skills, and experiences because lacking a mental model leads to greater fear and excitement, and often to the most vivid learning and best discoveries."
 ---
 
 Humans have mental models of everything. How is that birthday party going to be like? How does it feel to be entering a new stage in life? What are some challenges I'll likely face when I'm in it?

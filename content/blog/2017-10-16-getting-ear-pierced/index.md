@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Getting my ear pierced"
 date_published: "2017-10-16"
 backlinks:
+ai_summary: "He describes deciding after a two-day buildup to get his first ear piercing in Bali, despite never having considered piercings before or thinking he would suit one. He says the experience was quick and satisfying, and uses it as a reminder to challenge assumptions and try new things."
 ---
 
 ![bali kuta beach sunset](images/20171016-sunset_bali-1024x768.jpg) 

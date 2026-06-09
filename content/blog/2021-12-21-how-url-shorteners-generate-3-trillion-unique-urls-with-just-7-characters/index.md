@@ -5,6 +5,7 @@ excerpt: "The answer is elegant: count up to 62 with base 62 counting!"
 tags: ["Tech"]
 fav: false
 backlinks:
+ai_summary: "The post explains how URL shorteners can create about 3.5 trillion unique links using only 7 characters by counting in base62 instead of base10. Its main point is that expanding the character set from 10 digits to 62 alphanumeric characters massively increases the number of possible combinations, making short URLs practical."
 ---
 
 How do URL shorteners support 3.5 trillion unique URLs with just 7 characters?

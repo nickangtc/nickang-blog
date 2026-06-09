@@ -6,6 +6,7 @@ backlinks:
     title: "Reflecting on 1 month of being vegetarian"
   - slug: "/2020-06-21-flexitarianism/"
     title: "Flexitarianism"
+ai_summary: "On a flight home from Helsinki, the author was unexpectedly given beef lasagna because no vegetarian meal had been requested, and after weighing hunger against a new commitment to vegetarianism, he ate it. He later felt heavier, thirstier, and somewhat unwell, which reinforced his sense that his body prefers avoiding meat. He concludes that the lapse was a useful lesson and does not reset his month-long vegetarian countdown."
 ---
 
 I met a small surprise challenge on my flight home from Helsinki today.

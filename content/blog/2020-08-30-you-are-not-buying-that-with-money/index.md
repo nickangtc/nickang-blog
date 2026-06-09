@@ -16,6 +16,7 @@ backlinks:
     title: "Raising a newborn in Berlin vs Singapore"
   - slug: "/the-art-of-spending-money-by-morgan-housel/"
     title: "The Art of Spending Money by Morgan Housel"
+ai_summary: "The post argues that people do not really buy things with money alone, but with the time they spent earning that money, so every unnecessary purchase also costs time. It uses examples like eating out versus cooking at home to show that spending less can free up more time and reduce dependence on work, concluding that many people would be better off treating time as the scarce resource and buying less useless stuff."
 ---
 
 Most of us trade time for money. Do you deny it?

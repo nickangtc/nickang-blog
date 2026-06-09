@@ -5,6 +5,7 @@ excerpt: By changing the label I use to refer to this website from "blog" to "di
 backlinks:
   - slug: "/2021-12-04-labeling-things-properly-in-a-digital-garden/"
     title: "Labeling things properly in a digital garden"
+ai_summary: "The author argues that calling the site a digital garden is a more accurate fit than calling it a blog, because he no longer wants to treat it as a calculated, searchable platform but as a personal space for frequent, imperfect experimentation. His main point is that consistency and prolific writing matter more than polished expertise, and that openly being a work in progress is a better way to grow an audience and discover a niche. He concludes that this new label reflects both his current approach to writing and the simple joy he finds in tending something small and human."
 ---
 
 I think labelling things accurately is an underrated pursuit. If every label slapped onto every thing in this world was given careful thought, we would save a lot of time and energy on explaining ourselves. And for me, the label "blog", which I have used to refer to this website for the last 5 years, is starting to feel dated.

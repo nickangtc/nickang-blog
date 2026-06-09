@@ -2,6 +2,7 @@
 title: "Be whacky and compel feedback"
 date_published: "2020-05-27"
 backlinks:
+ai_summary: "The post argues that doing something deliberately unusual or “whacky” can prompt people to notice it and offer feedback, because the oddness invites comment. Using examples like a strange homemade “China burger” and quirky academic or social media posts, the author concludes that he will test this idea by adding a photo of where each of his next 30 blog posts was first written."
 ---
 
 I like feedback. No, let me make that clearer: I *love* feedback. When I receive it, I'm presented with an opportunity to grow. When I give it, I in turn offer that opportunity to someone. Feedback makes us better people.

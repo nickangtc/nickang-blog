@@ -4,6 +4,7 @@ date_published: "2020-07-10"
 backlinks:
   - slug: "/2020-08-02-reflecting-on-100-days-of-daily-meditation/"
     title: "Reflecting on 100 days of daily meditation"
+ai_summary: "The author describes feeling energized after a Zoom conversation with two Twitter acquaintances about writing regularly, but choosing to postpone writing about it in favor of other work. The main point is that it is possible to resist the stress of not doing something immediately by trusting one’s discipline and using a “boomerang” approach to revisit tasks later. The conclusion is that life is short, so it is better to stay calm and present than to waste time worrying about unfinished work."
 ---
 
 Today I experienced something I haven't experienced ever before: I spoke to two people I know only from twitter. We are on a [journey to write more regularly together](/2020-06-28-word-rafting), a part writing support group, part "let's try this thing and talk about our blogs and life and whatever comes up" group. I hung up from our 30 minutes chat energised and I wanted to write about it right after it happened, but I had more work to finish and couldn't.

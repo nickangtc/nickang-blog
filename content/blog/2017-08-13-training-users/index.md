@@ -2,6 +2,7 @@
 title: "Training users to do the right thing"
 date_published: "2017-08-13"
 backlinks:
+ai_summary: "The post describes how a Mitsubishi Mirage’s green ECO dashboard light taught the author to drive more fuel-efficiently by rewarding smoother, lower-RPM gear use. The main point is that simple feedback features can effectively train users to do the right thing without requiring advanced AI, reducing waste, noise, and wear. The conclusion is that product designers should look for small, practical ways to nudge users toward better behavior, because such features can have a large cumulative impact."
 ---
 
 ![the dashboard of a Mitsubishi Mirage car with eco mode indicator on](images/driving_eco_mode-1024x768.jpg)

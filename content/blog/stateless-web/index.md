@@ -6,6 +6,7 @@ excerpt: "It's independent requests all the way down."
 tags: ["Tech"]
 fav: false
 backlinks:
+ai_summary: "The post explains that when a browser loads a website, it makes a discrete HTTP request to a server, receives a response, and then renders the returned file locally; the page can usually still be viewed offline until a new action requires another request. Its main point is that the web is stateless: browser and server do not keep track of each other across requests, so each interaction is independent and the server does not remember prior ones."
 ---
 
 When I load a website, what really happens?

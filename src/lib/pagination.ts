@@ -25,6 +25,7 @@ export interface PostEntry {
   slug: string;
   title: string;
   date_published: string;
+  ai_summary?: string;
   html?: string;
 }
 

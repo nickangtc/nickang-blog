@@ -4,6 +4,7 @@ date_published: "2019-12-29"
 tags: ["Tech"]
 fav: true
 backlinks:
+ai_summary: "The post argues that the best way to begin learning programming is to dabble first through hands-on, low-commitment practice with instant feedback, rather than choosing a language immediately or overthinking the decision. The author says beginners should try free online coding courses for about 1–2 weeks, let interest guide whether they continue, and only then commit to a deeper learning path such as a bootcamp or a specific language like JavaScript."
 ---
 
 **If there is a skill in this world that is perfect for learning by iterating, it is programming.**

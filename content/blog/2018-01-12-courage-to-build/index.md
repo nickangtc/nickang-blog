@@ -5,6 +5,7 @@ date_published: "2018-01-12"
 backlinks:
   - slug: "/2020-08-09-the-rollercoaster-ride-of-building-an-application-side-project/"
     title: "The rollercoaster ride of a side project"
+ai_summary: "The post reflects on how becoming more technically skilled paradoxically made the author less willing to start personal projects, because he could better anticipate the difficulty, time cost, and risk of failure. After talking with an engineer-entrepreneur, he concludes that building gets easier through repetition, since each completed project makes similar future ones faster, less daunting, and more reusable, giving him renewed confidence to build again."
 ---
 
 ![guy with courage to build hands in the air smiling](images/rawpixel-com-284730.jpg) 

@@ -6,6 +6,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-11-01-saying-the-obvious/"
     title: "Saying the obvious"
+ai_summary: "The post explains how browser JavaScript debugging relies on `console.log()`, using a gameState variable as an example to show a better way to inspect values while code runs. The author argues that logging text and variables as separate arguments is superior to string concatenation because it preserves the variable’s true type and representation, especially for arrays and other non-string values. The conclusion is that this small change makes debugging faster and more accurate."
 ---
 
 As JavaScript code is being executed by the browser, the value stored in variables change dynamically. When a user clicks on a button on a page, for example, a block of code (usually a function) gets executed. In a typical programme, executing a function will make use of the computer's ability to, well, compute, to do some computation and store the value in a variable.

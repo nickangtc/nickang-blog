@@ -3,6 +3,7 @@ title: "Encoding for programmers"
 date_published: "2017-10-09"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains ASCII, ANSI code pages, Unicode, and UTF-8 through the author’s recent encounter with a Python email encoding error, showing how different character encodings affect text storage and display. Its main point is that strings are never truly “plain text” and must always be handled with an explicit encoding, because failing to do so causes garbled output and encoding errors. The practical conclusion is to specify encodings wherever possible, including early in HTML via a meta tag, to avoid ambiguity and reprocessing."
 ---
 
 ![red book with 8 bit bytes carved on the cover](images/hope-house-press-390262-768x1024.jpg) 

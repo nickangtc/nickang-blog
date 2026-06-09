@@ -7,6 +7,7 @@ backlinks:
     title: "Litmus test for having enough rest"
   - slug: "/2017-12-28-success-needs-health/"
     title: "Success needs health"
+ai_summary: "The post describes how the author became deeply absorbed in sketching and coding a new software idea, to the point of skipping lunch and becoming physically unwell. The main point is that while flow and intense focus can be enjoyable, neglecting basic health to keep working is not worth it because good work depends on a healthy body and mind. The conclusion is that time spent eating and caring for oneself would likely be better than pushing through work in an unhealthy state."
 ---
 
 It's ok to be busy at work, but being overly engrossed is almost never worth it. Perhaps the only exception is when the deadline is the next day, or when you know that if you stopped, you would cut the tap and never experience the same flow again.

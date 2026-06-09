@@ -3,6 +3,7 @@ title: "Programming is like exercise"
 date_published: "2018-03-11"
 tags: ["Tech", "Personal"]
 backlinks:
+ai_summary: "The post compares programming to exercise, arguing that both become easier and feel more natural with regular practice, while taking a break makes restarting harder and more tiring. It uses the example of climbing Bukit Timah Hill to show how consistency builds familiarity, then applies that lesson to coding by noting that language syntax and habits fade without use. The author concludes that constantly maintaining many languages is unrealistic, but regular, even weekly, practice may be a more sustainable way to stay sharp."
 ---
 
 ![exercise](images/tikkho-maciel-72251-unsplash-1024x683.jpg) 

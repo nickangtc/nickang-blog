@@ -13,6 +13,7 @@ backlinks:
     title: "My 2021 Annual Review"
   - slug: "/ig-2026/"
     title: "Instagram growth hacking (2026)"
+ai_summary: "The author explains that he returned to Instagram after a year and a half away because his daughter’s life gave him a new reason to document memories, and he found the platform useful for preserving and revisiting daily moments. He argues that posting regularly helps him reflect, practice writing and visual design, and keep showing up consistently despite the noise and downsides of social media."
 ---
 
 I started to use Instagram again, prompted by the entry of my daughter into my life.

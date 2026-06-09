@@ -3,6 +3,7 @@ title: "Bite Size Programming - How programmers are like doctors"
 date_published: "2017-10-24"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post describes how a programmer team diagnosed a memory leak in a machine learning algorithm that was causing server crashes, using Python’s memory_profiler to trace memory growth line by line. The author’s main point is that debugging software can feel like medical diagnosis, requiring careful investigation to locate the underlying problem before treating it through refactoring. The team ultimately found a variable that was not being deallocated by Python’s garbage collector and fixed the code so memory would be released each loop."
 ---
 
 ![BSP programmers are like doctors nickang blog](images/BSP-programmers-are-like-doctors-nickang-blog.png) 

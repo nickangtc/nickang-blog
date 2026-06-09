@@ -3,6 +3,7 @@ title: "Fun but deregatory terms"
 date_published: "2018-11-12"
 tags: ["Business"]
 backlinks:
+ai_summary: "The author describes a colleague discovering a LinkedIn ads reporting issue that turned out to be a simple timeframe-setting mistake, which led to the amusing tech acronym PEBKAC. The main point is that while such terms are funny, they can easily become derogatory in workplace settings, so they should be used only sparingly and privately rather than casually among colleagues."
 ---
 
 ![people laughing nick ang blog](images/helena-lopes-633154-unsplash.jpg)

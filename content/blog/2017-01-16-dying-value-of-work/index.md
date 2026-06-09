@@ -2,6 +2,7 @@
 title: "Dying and the value of our work"
 date_published: "2017-01-16"
 backlinks:
+ai_summary: "The post reflects on mortality and its implications for work, arguing that remembering limited time should push people to choose work that improves others’ lives now or soon. It concludes that all work has value, but it becomes more meaningful and impactful when people pause to consider whether it truly benefits others before time runs out."
 ---
 
 Bit by bit, we're inching closer to our deathbeds. While this isn't meant to bring anyone down, I am trying to elicit an emotional response. Why? Because without evoking emotions, we tend to forget that we all eventually move on.

@@ -4,6 +4,7 @@ date_published: "2016-05-14"
 backlinks:
   - slug: "/2020-06-28-word-rafting/"
     title: "Word rafting"
+ai_summary: "The post reflects on Seneca’s advice to stop scattering attention across too many books and ideas, using it to argue that one should choose a few things and fully absorb them rather than constantly moving on. The author extends this to thinking itself, concluding that picking one thought each day to digest thoroughly could reduce mental clutter and bring greater serenity."
 ---
 
 Few things are consistent about me. I like change much more than most people are comfortable with, and I see that as a strength, not disadvantage.

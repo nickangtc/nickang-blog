@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Thicker, please"
 date_published: "2016-03-02"
 backlinks:
+ai_summary: "The post uses the author’s experience with a coffee sachet that tasted much better when made with less water to argue that concentrated, “thicker” material is usually more effective. It applies this idea to blogging, suggesting that writers build stronger tribes by focusing on specific niches and delivering useful, high-quality content rather than thin clickbait. The author concludes that both readers and creators increasingly prefer substance over watered-down material, though good packaging can still help attract attention."
 ---
 
 ![Microground...? ](images/essenso-1024x534.png)

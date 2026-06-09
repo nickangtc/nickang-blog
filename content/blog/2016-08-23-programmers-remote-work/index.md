@@ -9,6 +9,7 @@ backlinks:
     title: "What is Git?"
   - slug: "/2020-03-06-how-to-setup-access-to-github-from-terminal-with-2fa/"
     title: "How to setup access to GitHub from Terminal with 2FA"
+ai_summary: "The post explains how programmers collaborate on the same codebase from different locations using Git and GitHub, contrasting this workflow with Dropbox-style file syncing. Its main point is that Git helps teams manage version control, prevent overwrites, and merge changes or flag conflicts for manual resolution, making remote and shared development much smoother. It also concludes that Git and GitHub Pages are useful tools for both team workflow and quick deployment, especially for projects that do not require custom server-side code."
 ---
 
 The label 'digital nomad' exists because people whose job was to write programmes have become so fluid in the workplace that they can work from virtually anywhere in the world on the single, simple condition that there is an internet connection.

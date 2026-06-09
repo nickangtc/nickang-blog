@@ -5,6 +5,7 @@ tags: ["Tech", "Personal"]
 backlinks:
   - slug: "/bite-size-programming/"
     title: "Bite Size Programming"
+ai_summary: "The post introduces Bite Size Programming, a new blog series of short, focused posts about programming that the author plans to use alongside a daily writing challenge. The author says the project is meant to combine writing and software development, share knowledge in an honest and approachable way, and help invite others into programming. He concludes by setting basic rules for the series and inviting readers to follow along via the mailing list."
 ---
 
 ![introducing bite size programming banner nickang blog](images/introducing-bite-size-programming-banner-nickang-blog.png) 

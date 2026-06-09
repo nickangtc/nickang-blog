@@ -7,6 +7,7 @@ backlinks:
     title: "How to get started with programming (part 2)"
   - slug: "/2017-10-25-programming-is-not-for-everyone/"
     title: "Bite Size Programming - Programming is not for everyone"
+ai_summary: "The post argues that anyone wanting to start programming should first identify a clear personal or professional reason for learning, rather than choosing a language right away. The author says programming is difficult and that a strong motivation is necessary to persist through early frustration and repeated setbacks. The conclusion is that writing down the most compelling reason and keeping it in mind provides the best foundation for beginning to learn."
 ---
 
 ![how to get started with programming banner nickang blog](images/how-to-get-started-with-programming-banner-nickang-blog.png) 

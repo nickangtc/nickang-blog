@@ -6,6 +6,7 @@ excerpt: "A counter to my own argument to always default to writing instead of r
 tags: ["Living", "Creativity"]
 fav: false
 backlinks:
+ai_summary: "The post examines whether a writer should use free time mainly for reading or writing, arguing that while writing distills knowledge, reading is often the better default when trying to understand an important but unclear problem. The author concludes that broad reading helps identify where useful ideas come from and can provide the raw material needed before writing can produce clarity."
 ---
 
 As a writerly person, should you spend your down time reading or writing by default?

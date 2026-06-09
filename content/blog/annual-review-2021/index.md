@@ -18,6 +18,7 @@ backlinks:
     title: "My 2025 Annual Review"
   - slug: "/why-i-removed-dates-from-my-blog-post-urls/"
     title: "Why I removed dates from my blog post URLs"
+ai_summary: "The post reviews the author’s 2021 through three questions about what went well, what did not, and what was learned, covering major themes such as the birth of a child, leadership at work, personal knowledge management, consistency in writing, and rekindled interests like software development and climbing. The author’s main point is that the year brought major growth and clarity, especially around family life, living abroad, and remote work, while also revealing gaps in reading and community-building. The overall conclusion is that regularity, adaptability, and meaningful relationships made the year feel purposeful, and that the author wants to continue this path in the years ahead."
 ---
 
 An Annual Review is a personal note that is designed to spark self-reflection about the year that just went by. The goal is to take stock of the year, appreciate the little things, digest the learnings, and apply them in the years to come.

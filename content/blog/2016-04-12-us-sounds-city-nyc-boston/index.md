@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "(US) Sounds of The City - NYC to Boston"
 date_published: "2016-04-12"
 backlinks:
+ai_summary: "The post follows a rainy trip from New York City to Boston, including a stay with a friend, a walk through Harvard, and impressions of Boston sights and subway sounds recorded for the travel diary. The author’s main points are criticism of Harvard’s elitist culture and a strong complaint about American tipping, which is described as socially awkward, inefficient, and effectively mandatory. The post concludes with a mix of travel observations and audio snippets that aim to capture the feel of both cities."
 ---
 
 It's Tuesday now, which means I missed two days of writing and posting, so I'm going to make up for it now in subsections.

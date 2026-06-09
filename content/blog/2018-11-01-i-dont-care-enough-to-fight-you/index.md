@@ -4,6 +4,7 @@ date_published: "2018-11-01"
 backlinks:
   - slug: "/2020-06-03-direct-feedback/"
     title: "Direct feedback"
+ai_summary: "The post discusses how the author blends ideas from The Subtle Art of Not Giving a F*ck and Radical Candour to decide when to give feedback or confront someone. The main point is that caring enough about a person or team should lead to thoughtful candour, but if the author does not care enough, blunt honesty is a more efficient alternative than avoiding the issue. The conclusion is that, in a difficult military training interaction, the author chose to be direct with a defensive coworker and considered it a small personal win because it saved emotional effort."
 ---
 
 Recently I was back in the military for training. This time it was in Australia and a handful of us conscripted soldiers coincidentally had a personal book in tow. Just in case there's ever a "rush to wait, wait to rush" situation. There was.

@@ -3,6 +3,7 @@ title: "The quickest way to try new JavaScript libraries"
 date_published: "2020-01-05"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post argues that the fastest way to try new JavaScript libraries is to use the browser console on the library’s documentation site, where globals like lodash’s `_` or Moment.js’s `moment` are already loaded for immediate testing. It says this avoids the time and cleanup involved in installing packages or creating test files, and notes the same approach can also be used for built-in JavaScript methods and Web APIs."
 ---
 
 **Real software engineers don't reinvent libraries that already exist, they build something better on top of them.**

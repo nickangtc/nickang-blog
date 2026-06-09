@@ -6,6 +6,7 @@ excerpt: "(Contains a Tesla Referral Code for $1,000 off.) One year in, I have a
 tags: ["Tech"]
 fav: true
 backlinks:
+ai_summary: "The post reviews one year of ownership of a Tesla Model Y Long Range, arguing that it is the best car the author has driven thanks to its safety features, Autopilot, Supercharger network, smooth one-pedal driving, practical interior space, and EV convenience. It also notes drawbacks such as non-adjustable headrests, a wide turning radius, firmer suspension, and awkward rear-door opening angles, concluding that the car is excellent overall but should be bought based on personal needs rather than hype."
 ---
 
 Hello folks!

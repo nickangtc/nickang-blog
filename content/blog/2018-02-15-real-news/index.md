@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Real news"
 date_published: "2018-02-15"
 backlinks:
+ai_summary: "After hearing coverage of a Florida school shooting during a Lyft ride in San Francisco, the author reflects on how media interviews often portray shooters as socially awkward outsiders and wonders whether that framing may be incomplete or selectively reported. The main point is that news about such events should be treated skeptically, because if perpetrators can also appear normal or popular, the real causes of gun violence may be broader than individual instability. The author concludes that gun ownership and U.S. gun laws cannot be judged from a brief visit and that society should question comforting narratives in the news."
 ---
 
 I was in a Lyft ride in San Francisco city this afternoon when the news of the [school shooting in Florida](https://www.nytimes.com/2018/02/14/us/parkland-school-shooting.html) broke over the radio. Spawned from my ensuing conversation with my Lyft driver, a black woman in her 40s, about gun ownership, I started thinking about the way the news was reported over the air waves.

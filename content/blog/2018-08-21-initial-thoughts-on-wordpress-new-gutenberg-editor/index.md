@@ -2,6 +2,7 @@
 title: "Initial thoughts on WordPress' new Gutenberg editor"
 date_published: "2018-08-21"
 backlinks:
+ai_summary: "The post discusses the author’s initial reaction to WordPress’s Gutenberg editor, which they find loud, intrusive, and less suited to their preferred Markdown-based, distraction-free writing workflow. They argue that the new editor adds unnecessary complexity and could make WordPress less pleasant to use, though they acknowledge they may change their view later. The conclusion is that writing and ideas matter more than the editor, and if WordPress becomes too cumbersome, they may switch to a simpler workflow or software."
 ---
 
 ![sky](images/aidan-hancock-787756-unsplash.jpg)

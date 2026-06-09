@@ -20,6 +20,7 @@ backlinks:
     title: "How to implement an LRU cache in JavaScript"
   - slug: "/bite-size-programming/"
     title: "Bite Size Programming"
+ai_summary: "The post explains algorithm time complexity and Big O notation, showing how programmers use it to describe how runtime and memory usage grow as input size increases. Its main point is that Big O focuses on growth rate rather than exact time, so constants and lower-order terms are usually ignored while worst-case behavior is emphasized. It concludes that understanding time complexity also helps build intuition for space complexity, which follows the same basic idea applied to memory use."
 ---
 
 ![bite size programming algorithm time complexity and big o notation banner](images/BSP-algorithm-time-complexity-and-big-o-notation-2.png)

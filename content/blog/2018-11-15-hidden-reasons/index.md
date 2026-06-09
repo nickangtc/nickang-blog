@@ -2,6 +2,7 @@
 title: "Hidden reasons"
 date_published: "2018-11-15"
 backlinks:
+ai_summary: "The post discusses why enterprise users may resist adopting a new product feature, using Video Templates for video ads as the example. It argues that the stated reason, such as lacking creative confidence, is often an alternative excuse masking deeper concerns like inter-team politics, fear of overstepping, or added scrutiny. The conclusion is that product teams should look past surface objections to uncover the real reason and better support adoption."
 ---
 
 ![woman listening to another person talk](images/mimi-thian-737626-unsplash.jpg)

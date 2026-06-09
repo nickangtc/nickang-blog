@@ -3,6 +3,7 @@ title: "Intro to Web Development Workshop in San Francisco"
 date_published: "2018-02-17"
 tags: ["Tech", "Personal"]
 backlinks:
+ai_summary: "The author describes organizing a free two-hour intro to web development workshop in San Francisco for NUS Overseas Colleges students to help non-technical participants understand the basics of the internet, HTML, CSS, and JavaScript. The main point is that giving value first, taking initiative even when success seems unlikely, and creating a helpful setting can build goodwill and lead to useful connections, including job referrals in the Bay Area."
 ---
 
 Today was interesting. Despite being a tourist, I got in touch with the right people and put together an Intro to Coding workshop (it was probably more like intro to _web development_) for a small group of [NUS](http://www.nus.edu.sg/) Overseas Colleges (NOC) students. I learned a few things along the way.

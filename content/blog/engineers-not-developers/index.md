@@ -8,6 +8,7 @@ fav: false
 backlinks:
   - slug: "/raising-floor-apps/"
     title: "The raising floor of building apps in 2026"
+ai_summary: "The post reflects on the Boeing crashes in the documentary Downfall, arguing that a profit-first corporate culture undermined engineering safety and contributed to catastrophe. The author connects this to software work, using the MCAS system as an example of the dangers of assuming valid inputs and single points of failure, and concludes that calling oneself a software engineer rather than a developer encourages higher standards and greater responsibility."
 ---
 
 I just watched the documentary [DOWNFALL: The Case Against Boeing](https://www.imdb.com/title/tt11893274) and have feelings stirring inside me that I want to get down in writing.

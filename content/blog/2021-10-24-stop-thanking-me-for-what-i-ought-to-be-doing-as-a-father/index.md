@@ -5,6 +5,7 @@ excerpt:
 tags: ["Living"]
 fav: false
 backlinks:
+ai_summary: "The post argues that fathers should not be praised for doing basic parenting and household tasks like diaper changes, cooking, and cleanup, because these are responsibilities they ought to share equally with their partners. The author says men are often given too much credit while mothers, who bear pregnancy, birth, and postpartum recovery, receive less recognition for far greater effort. The conclusion is that fathers should stop using work as an excuse and become equal partners in raising their children."
 ---
 
 This is going to sound utterly self-congratulatory, but it's rather the complete opposite. Since our daughter was born a little over a month ago, I've received messages from a few people saying how happy they were to see that I've been a present father.

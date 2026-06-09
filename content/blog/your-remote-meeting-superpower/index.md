@@ -8,6 +8,7 @@ fav: false
 backlinks:
   - slug: "/blogs-are-gold-mines-now/"
     title: "Blogs are gold mines now"
+ai_summary: "The post argues that remote work gives people an underused “superpower”: the ability to leave unproductive group meetings with little social cost. It explains that because video calls are low-friction and often less valuable than other uses of time, it is reasonable to drop off when one cannot contribute, provided the meeting is large enough and the person is not responsible for running it. The conclusion is that remote workers should use this freedom thoughtfully rather than remain in meetings out of habit."
 ---
 
 There's a party question that some people ask, which goes, "If you could have a superpower, what would you like it to be?" In the last few years I've refined my answer as this: "I would like to be able to slip out of any social situation without repercussions." _Ha ha_. It usually gets a few knowing nods, especially from other introverts.

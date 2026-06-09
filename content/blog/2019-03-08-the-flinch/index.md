@@ -2,6 +2,7 @@
 title: "The flinch"
 date_published: "2019-03-08"
 backlinks:
+ai_summary: "The post argues that instead of becoming more comfortable with age and income, people should deliberately seek “the flinch” by doing things that feel momentarily scary or uncomfortable, such as cold showers, public speaking, or moving abroad. The author’s main point is that regularly choosing such challenges expands experience and builds resilience, making it easier to cope when comforts disappear. The concluding takeaway is that pursuing discomfort should be part of maximizing adulthood and personal growth."
 ---
 
 We grow older and earn luxuries with our steadily increasing income. Instead of shrinking into comforts and doing less and less with each passing day, we ought to seek _the flinch_.

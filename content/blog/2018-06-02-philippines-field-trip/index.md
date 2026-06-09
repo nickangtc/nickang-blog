@@ -6,6 +6,7 @@ backlinks:
     title: "Why I'm going vegetarian"
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
+ai_summary: "The post reflects on a 15-day NUS Bachelor of Environmental Studies field trip in Bohol, Philippines, where the author served as a teaching assistant and revisited the experience years later. The main point is that the trip exposed how disconnected the author feels from nature, physical labor, and accumulated possessions, while also highlighting the value of simpler living, human memory, and genuine human connection. The conclusion is a renewed awareness of personal change and a sense of moving into a more stable new phase of life."
 ---
 
 ![dao diamond hotel bohol philippines NUS BES field trip](images/IMG_20180523_074422_Fotor-1024x431.jpg) 

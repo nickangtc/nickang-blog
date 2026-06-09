@@ -8,6 +8,7 @@ fav: false
 backlinks:
   - slug: "/devin-added-search-on-this-blog/"
     title: "Devin added search on this blog"
+ai_summary: "The author describes struggling to get OpenClaw, a personal AI agent codebase, working and argues that AlphaClaw, a wrapper with a simpler web interface and sensible defaults, makes it far easier to set up and use. He highlights two practical wins: automatically porting Substack posts to his personal blog and creating Google Docs through Telegram, showing that even a single successful use case can make the tool feel worthwhile. His conclusion is that people should start with one concrete task, because AlphaClaw can reduce the frustration enough to unlock real value from OpenClaw."
 ---
 
 I have to admit something: I may have worked 10 years as a software engineer, but I couldn't get OpenClaw to work meaningfully even after 4 attempts.

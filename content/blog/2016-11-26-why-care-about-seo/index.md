@@ -2,6 +2,7 @@
 title: "Why care about SEO?"
 date_published: "2016-11-26"
 backlinks:
+ai_summary: "The post questions why a personal blogger should care about SEO or try to rank highly on Google, arguing that useful writing should matter more than keyword tweaks and search snippets. The author concludes that writing should be guided by enjoyment and usefulness, and that periodically pausing to reassess routine habits can help eliminate unnecessary effort."
 ---
 
 Why get involved when you know it's not necessary?

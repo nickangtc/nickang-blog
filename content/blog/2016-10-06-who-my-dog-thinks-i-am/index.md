@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Who my dog thinks I am"
 date_published: "2016-10-06"
 backlinks:
+ai_summary: "The post reflects on Eckhart Tolle’s teachings on mindfulness and being fully present, using the author’s experience listening to a retreat recording as the starting point. It argues that genuine presence shows in a person’s behavior and that many spiritual ideas are really practical ideas about life, then uses the author’s dog as a playful example of pure presence. The conclusion is that dogs do not think or worry about the past and future; they simply exist, unlike humans."
 ---
 
 > God, please make me who my dog thinks I am!

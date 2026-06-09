@@ -10,6 +10,7 @@ backlinks:
     title: "Focus on understanding, not on what is right"
   - slug: "/annual-review-2020/"
     title: "My 2020 Annual Review"
+ai_summary: "The post argues that an apolitical stance can be reasonable because politics is inefficient, costly to follow, fuels tribalism, and makes even careful voters’ efforts easily outweighed by uninformed ballots. The author concludes that, for ordinary citizens, disengaging from politics may offer more peace of mind and personal benefit than staying closely involved, with the suggestion that those truly capable of governing should enter office rather than merely participate from the sidelines."
 ---
 
 Recently, I saw a tweet quoting a minister back home saying something that was supposedly incendiary. I did not get why as the words seemed innocuous when read without context. So I tweeted asking for context and I understood why some tweets later.

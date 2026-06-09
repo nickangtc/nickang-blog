@@ -4,6 +4,7 @@ date_published: "2021-06-21"
 excerpt: "What the contrast between quarantine and daily socialisation helped me realise."
 tags: ["Living", "Creativity"]
 backlinks:
+ai_summary: "After a six-week trip to Singapore that included quarantine and then constant social visits, the author describes feeling a unique loneliness from being busy with others and never stopping to think alone. The main point is that regular solitude and writing are necessary to reconnect mind and body and preserve independent thought, with weekly blog posts serving as the author’s way to do that."
 ---
 
 I recently went back to Singapore for a 6-week visit. After being in COVID-19 quarantine upon arrival for 3 weeks with my wife at a hotel, I spent every day in the remaining 3 weeks meeting friends and family. 

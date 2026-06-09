@@ -4,6 +4,7 @@ date_published: "2020-11-01"
 backlinks:
   - slug: "/2020-11-08-are-we-not-all-scientists/"
     title: "Are we not all scientists?"
+ai_summary: "The post describes the author’s first attempt at NaNoWriMo 2020, aiming to draft a novel in November despite limited preparation and lingering imposter syndrome. The main point is that the challenge is less about competition than testing whether the desire to write fiction is genuine, and the author argues that consistent blogging and writing habits give some reason for confidence. The conclusion is to focus on producing a “draft zero” this month, leave editing for later, and track progress publicly while wishing luck to others doing the same."
 ---
 
 Today I'm setting myself a hairy goal of writing a book in November. I made the decision just now to participate in the [National Novel Writing Month](https://nanowrimo.org/) (NaNoWriMo). So far I've only done minimal preparation like reading [*Take Off Your Pants*](https://www.goodreads.com/book/show/25126763-take-off-your-pants-outline-your-books-for-faster-better-writing) by Libbie Hawker, while many other writers have already finished preparations in October, or *Prep-tober*. I'm not bothered by this since this is a personal challenge, not a competition, but I do feel like I could be more prepared.

@@ -8,6 +8,7 @@ backlinks:
     title: "6 Things I've Learned from my Second Year Living in Berlin (away from Singapore)"
   - slug: "/blogs-are-gold-mines-now/"
     title: "Blogs are gold mines now"
+ai_summary: "The author explains why, in Berlin, they chose to list a free coffee machine and tea maker online instead of leaving them in a street box, even though both methods are common for giving things away. They conclude that requiring effort to claim an item may make it seem more valuable and increase the chance it goes to someone who will actually use it, a view supported by cognitive psychology research on how perceived costs affect consumption."
 ---
 
 ![Box on the street with a sign that says zu verschenken](./images/berlin-verschenken.jpeg)

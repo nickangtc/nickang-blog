@@ -4,6 +4,7 @@ date_published: "2021-07-11"
 excerpt: 
 tags: 
 backlinks:
+ai_summary: "After returning from a weekend trip to Hamburg, the author reflects on how the idea of home has changed from being singularly associated with Singapore to being tied to a place of rest and ease. He concludes that home is wherever one can feel mentally and emotionally settled, and for him that is now the apartment he shares with his wife and dog in a city that offers safety, green space, and security."
 ---
 
 My wife and I just came back from a 3-day trip over the weekend to Hamburg and if I've learned anything on this trip, it is this: home is a fluid concept.

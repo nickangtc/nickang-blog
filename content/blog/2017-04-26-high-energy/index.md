@@ -2,6 +2,7 @@
 title: "How to appear to have high energy all the time"
 date_published: "2017-04-26"
 backlinks:
+ai_summary: "The post argues that apparent high energy is not an inborn trait but a result of treating free-time activities as expressions of identity and creativity rather than as more work. The author describes realizing that this mindset reduced resistance to writing and other productive habits, making action feel natural instead of burdensome. The conclusion is that focusing on expressing oneself instead of consuming or overthinking can create both the appearance and the reality of higher energy and greater happiness."
 ---
 
 I'm inspired by how driven some people can be. It's not everyday that you get genuinely impressed by someone's energy, particularly not through social media. But I did today and after the inspiration surged through my veins, I find myself just sitting here and wondering two things. Why the hell am I sitting here watching people do stuff? What will I do if I had that kind of energy?

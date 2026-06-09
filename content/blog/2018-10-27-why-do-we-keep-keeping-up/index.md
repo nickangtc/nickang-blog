@@ -2,6 +2,7 @@
 title: "Why do we keep keeping up?"
 date_published: "2018-10-27"
 backlinks:
+ai_summary: "The post reflects on why people keep chasing higher needs and busier lives instead of deliberately simplifying their lives to the bare essentials. The author suggests the tendency may come from psychology, habit, practicality, or a belief that modern life requires constant striving, and asks whether reducing needs is actually possible and what it would feel like. The implied conclusion is that simplifying could be freeing, but it may be difficult because people are deeply accustomed to the old way of living."
 ---
 
 We do so much just to keep up, why not reduce our needs so we free ourselves from having to do so much?

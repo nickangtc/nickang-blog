@@ -9,6 +9,7 @@ backlinks:
     title: "Specialist or Generalist?"
   - slug: "/2021-10-17-employment-sweet-spot/"
     title: "Employment sweet spot"
+ai_summary: "The post argues that regular one-on-one meetings between managers and direct reports are valuable for building trust, spotting blockers, improving feedback, and supporting growth, but that they work best when structured to suit each person. It then offers nine questions, such as what someone has been working on, what decisions they are unsure about, how they feel about work and life outside it, and what they plan to focus on next, to make 1-1s more useful and productive."
 ---
 
 After nine months of being a team lead, I've learned that having 1-1s (one on ones; i.e. a private meeting between a direct report and their manager) is fantastic for many reasons:

@@ -6,6 +6,7 @@ tags:
 backlinks:
   - slug: "/2021-11-07-why-active-on-instagram-again/"
     title: "Why I'm active on Instagram again"
+ai_summary: "The author says he is stepping away from social media for personal interaction after becoming a father, realizing his online relationships are shallow, and wanting to protect his limited time and attention. He argues that direct, private conversations are more meaningful than public posting and that reducing social media will help him think more clearly and live better. He plans to keep writing weekly on his blog and invites people who want deeper contact to email him directly."
 ---
 
 I've decided to stop using social media indefinitely. Specifically, I'm not going to use it for engaging in "personal" conversations. That means I'll not be tweeting at anyone to reply to something they've said, or commenting on people's life updates on IG or Facebook or LinkedIn. I will be keeping my accounts but I won't be using them much.

@@ -7,6 +7,7 @@ backlinks:
     title: "Saying the obvious"
   - slug: "/2020-06-28-word-rafting/"
     title: "Word rafting"
+ai_summary: "The author argues that writing every day has made them more observant and more likely to notice and record something new each day, even in ordinary details. They compare this to coding, where starting is hardest but momentum builds as patterns become easier to recognize and reuse, concluding that persistence turns initial effort into confidence and faster learning."
 ---
 
 ![patterns](images/unsplashpic-min-1024x576.jpeg) 

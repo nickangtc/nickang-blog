@@ -2,6 +2,7 @@
 title: "Nike shoes designer Tinker Hatfield on design"
 date_published: "2017-11-02"
 backlinks:
+ai_summary: "The post reflects on a documentary episode about Nike designer Tinker Hatfield, focusing on how his experience as an athlete shaped his shoe design work and his role in creating iconic Air Jordans. Its main point is that Hatfield sees design as problem-solving rather than self-expression, with meaningful design drawing from real-world experience and personal significance. It concludes that strong design should provoke a reaction, since work that is neither loved nor hated may not have gone far enough."
 ---
 
 ![tinker hatfield](images/tinker-hatfield-1.jpg) 

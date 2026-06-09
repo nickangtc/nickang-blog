@@ -7,6 +7,7 @@ tags: ["Tech"]
 fav: false
 creation_duration_minutes:
 backlinks:
+ai_summary: "The post argues that long-running personal blogs become valuable archives when combined with LLMs, because they let someone quickly surface real-life stories for tasks like job applications that require evidence of resourcefulness and judgment. The author describes using AI to search 560 blog posts for a suitable one-minute video anecdote and concludes that blogging preserved useful experiences that would otherwise have been forgotten or hard to retrieve."
 ---
 
 In a recent job application form for a Forward Deployed Engineer, I saw a required field that says:

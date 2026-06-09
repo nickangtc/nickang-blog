@@ -7,6 +7,7 @@ tags: ["Update"]
 fav: false
 creation_duration_minutes: 30
 backlinks:
+ai_summary: "The author explains that he is winding down Substack because he no longer wants to chase email-list growth, finds the platform awkward to use compared with markdown-based blogging, and realizes his writing does not fit the narrow thematic focus that helps newsletters succeed. He also says the newsletter format made him write less often because each post felt like it had to be especially worthy of entering inboxes. His conclusion is that he will return to his own blog, post more freely there, and only send occasional emails for especially shareable pieces."
 ---
 
 hello folks!

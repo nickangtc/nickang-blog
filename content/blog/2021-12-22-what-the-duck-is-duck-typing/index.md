@@ -5,6 +5,7 @@ excerpt:
 tags: ["Tech"]
 fav: false
 backlinks:
+ai_summary: "The post explains duck typing as calling a method based on whether an object has that method, rather than checking its specific type first. Its main point is that this approach is useful when the focus is on what something can do, but it depends on programmers naming and implementing methods consistently, since misuse can cause failures."
 ---
 
 Boiled down to a sentence: it's the choice of invoking a method based on whether something has the method, rather than based on whether something is of a certain type.

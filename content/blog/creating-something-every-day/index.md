@@ -6,6 +6,7 @@ excerpt: "Why and how"
 tags: ["Creativity"]
 fav: false
 backlinks:
+ai_summary: "The author reflects on sustaining a gym habit and wanting to build a similar daily habit of creating, especially writing, after losing consistency more than a year ago. He argues that stories are what make habits stick for him, citing a personal story about staying physically strong to deter racism and proposing a new story that daily creation could eventually help him leave software engineering and find more fulfilling work."
 ---
 
 Gym - 5 months straight. Nice.

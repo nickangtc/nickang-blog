@@ -7,6 +7,7 @@ tags: ["Living", "Productivity", "Good intentions"]
 fav: false
 creation_duration_minutes: 120
 backlinks:
+ai_summary: "The post discusses how habitual iPhone use, especially checking apps like Gmail, Instagram, and LinkedIn, can create subtle but cumulative overstimulation, mental fatigue, and anxiety. The author argues that built-in iPhone tools such as Screen Time app limits, Downtime, and a greyscale filter can automatically reduce stimulation and interrupt compulsive checking. The conclusion is that combining always-on restrictions with a tactical greyscale shortcut can help users reclaim time and feel less drained."
 ---
 
 I often get overstimulated when using my iPhone. For me, it's a subtle build-up of smaller moments of stimulation that leads to overstimulation by the afternoon. It goes something like this:

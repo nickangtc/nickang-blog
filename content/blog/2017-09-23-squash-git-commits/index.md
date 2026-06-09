@@ -10,6 +10,7 @@ backlinks:
     title: "How to completely replace git branch code with another branch's code"
   - slug: "/2017-11-03-what-is-git/"
     title: "What is Git?"
+ai_summary: "The post explains how to squash multiple Git commits from the command line using interactive rebase, since Git has no direct git squash command. It argues that squashing feature-branch commits into one commit keeps shared history cleaner and makes pull requests easier to review, then concludes that after editing the rebase and commit message, the branch should show a single combined commit."
 ---
 
 In this short post, I'll demystify the process to squash git commits from the command line. This process is simple if you're using a remote like GitHub, which can be done with the click of a few buttons in the Pull Request UI. This post focuses on squashing commits on the command line.

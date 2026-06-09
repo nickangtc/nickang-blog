@@ -4,6 +4,7 @@ date_published: "2021-08-22"
 excerpt: "A short letter to my soon to be born daughter."
 tags: ["Living"]
 backlinks:
+ai_summary: "The post is a letter to the author’s soon-to-be-born daughter, Charlotte, expressing excitement to meet her and warning of his own vulnerability and love. It emphasizes the physical and emotional toll her mother endured during pregnancy, praising her as a kind warrior who should be appreciated above all. The author concludes that he is already proud to be her father and will do his best to be a good dad."
 ---
 
 Dear Charlotte,

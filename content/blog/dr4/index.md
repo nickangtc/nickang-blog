@@ -7,6 +7,7 @@ tags: ["Career", "Living", "Daily Reflection"]
 fav: false
 creation_duration_minutes: 60
 backlinks:
+ai_summary: "The post argues that the phrase best practice is often misused in software engineering because it ignores context and can hide contradictions between competing principles like DRY and single source of truth. Using an example of climbing with a fearless child and a backend/frontend validation dilemma, the author suggests that people should think independently, evaluate trade-offs honestly, and stop relying on the term altogether."
 ---
 
 ## (Courage) Which one? Okay.

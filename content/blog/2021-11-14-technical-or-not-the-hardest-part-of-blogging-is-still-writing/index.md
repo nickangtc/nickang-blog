@@ -5,6 +5,7 @@ excerpt:
 tags: ["Creativity"]
 fav: false
 backlinks:
+ai_summary: "The post reflects on a blog built with Gatsby and argues that both technical and non-technical blogging setups create distractions, whether through maintenance and setup headaches or endless configuration and customization. The author’s main point is that the hardest part of blogging is not the platform but consistently writing and publishing, and if the tools start getting in the way, a different CMS may be worth considering."
 ---
 
 This blog is run on Gatsby.js, a [decision](https://www.nickang.com/2020-05-30-why-i-migrated-my-blog-from-wordpress-to-gatsby/) I made 1.5 years ago and haven't looked back on. Well, until recently. I'm not planning to change the CMS behind this blog any time soon (who has time for that after only less than 2 years?), but I do want to pause and reflect on this idea of a Technical vs Non-Technical blogger.

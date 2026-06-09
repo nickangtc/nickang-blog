@@ -3,6 +3,7 @@ title: "Treasure! That's just what you are"
 date_published: "2016-10-09"
 tags: ["Living", "Personal"]
 backlinks:
+ai_summary: "The author describes finding useful items left near the trash in their apartment complex, including a wireframe, a collapsible desk, and fake plants, and reflects on how discarded objects are often still valuable to someone else. The main point is that much of what gets thrown away is not truly useless but simply in the wrong place, suggesting an opportunity to recover and reuse it rather than send it to landfill."
 ---
 
 ![bruno mars treasure music video](images/bruno-mars-treasure.jpg)

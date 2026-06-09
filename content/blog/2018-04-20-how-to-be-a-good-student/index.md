@@ -2,6 +2,7 @@
 title: "How to be a good student"
 date_published: "2018-04-20"
 backlinks:
+ai_summary: "The post argues that being a good student means looking inward, clarifying why one wants to learn, and actively identifying the questions needed to reach proficiency rather than waiting passively for teaching. Its main point is that adult learners should drop ego, take responsibility for their own learning, and ask precise questions of knowledgeable people, because that is how real understanding develops."
 ---
 
 ![](images/chalis007-189517-unsplash-1024x683.jpg) 

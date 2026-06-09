@@ -6,6 +6,7 @@ excerpt:
 tags: ["Tech", "Interviewing"]
 fav: false
 backlinks:
+ai_summary: "The post explains how to write tests during live coding interviews, especially when an interviewer explicitly wants testing to be part of the assessment. The author argues that instead of using a full test framework, candidates should keep things simple by using console.assert with a structured array of test cases containing inputs, expected outputs, and descriptions. The main conclusion is that this approach makes tests easier for both the candidate and interviewer to read, debug, and trust during the interview."
 ---
 
 This post is for anyone who is wondering what might be a good approach to writing tests during a software engineering live coding interview.

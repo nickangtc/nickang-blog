@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Irritability overseas versus at home"
 date_published: "2017-10-22"
 backlinks:
+ai_summary: "The post reflects on a trip to Bali and the author’s surprise that he is much more tolerant of heat, discomfort, and imperfect conditions while overseas than he is in Singapore. He suggests that being abroad may make him more adaptable and less prone to complain, whereas at home he may expect greater comfort. He concludes that he prefers his overseas self because he is more easygoing and complains less."
 ---
 
 ![singapore roads viewed from overhead bridge](images/IMG_20171021_173405-1024x768.jpg) 

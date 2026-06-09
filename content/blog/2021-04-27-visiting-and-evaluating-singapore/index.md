@@ -4,6 +4,7 @@ date_published: "2021-04-27"
 excerpt: "I'm going home for a visit and I will be evaluating everything with a brand new, outsider's perspective."
 tags: ["Living"]
 backlinks:
+ai_summary: "The post describes the author’s return to Singapore from Berlin for a pandemic-era visit, including a costly hotel quarantine and plans to spend three weeks rediscovering the country as a tourist. The main point is that time away has given the author perspective to reevaluate whether Singapore or Berlin is the better long-term home, especially with a child on the way. The conclusion is that the trip should clarify the choice, though the author remains undecided by the end."
 ---
 
 > God grant me the serenity to accept the things I cannot change; the courage to change the things I can; and wisdom to know the difference.

@@ -6,6 +6,7 @@ excerpt: The story of my almost-catastrophic encounter with ambition.
 tags: ["Living"]
 fav: true
 backlinks:
+ai_summary: "The post reflects on how the author once believed he needed to achieve something huge, like Elon Musk or Richard Branson, for life to be meaningful, but gradually realized that such ambitions can demand major personal sacrifices. He describes a turning point in Rome when his partner confronted him about his emotional absence, leading him to choose the relationship over vague dreams of changing the world. His conclusion is that meaningful impact does not require being exceptionally famous or building a giant company, and that being present for one’s loved ones and helping people directly can be just as worthwhile."
 ---
 
 Edit 23 Feb 2025: A note from me about Elon Musk. He has become very much the kind of person I do not support. His meddling with US politics was one thing, but his nazi salute was way over the line. People apparently change. I'm leaving this artcile available for reading because it is at its core a personal story about ambition, not about Musk. I ask that you read with this in mind.

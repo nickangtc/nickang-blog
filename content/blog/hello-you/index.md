@@ -6,6 +6,7 @@ excerpt:
 tags: ["Creativity"]
 fav: false
 backlinks:
+ai_summary: "The post reflects on the difference between human writing and generative AI, arguing that shared human frailties, emotions, and lived experience create a deeper connection than AI can replicate. After reading articles about writers in the AI era, the author concludes that while AI may produce content cheaply and well, the distinct value of human authorship still lies in authentic human connection."
 ---
 
 Hello, you.

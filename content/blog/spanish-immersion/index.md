@@ -7,6 +7,7 @@ tags: ["Living"]
 fav: false
 creation_duration_minutes: 35
 backlinks:
+ai_summary: "The post describes how the author learned 15 Spanish words and phrases through everyday immersion, using moments with friends, family, shops, restaurants, and travel to attach each term to a real situation. Its main point is that repeated exposure in context makes vocabulary easier to remember than rote study, especially when the words are tied to funny or memorable stories. The useful conclusion is that living and speaking around the language helped the author learn practical Spanish naturally, from common expressions like la cuenta and no pasa nada to food, place names, and pronunciation."
 ---
 
 ## No pasa nada

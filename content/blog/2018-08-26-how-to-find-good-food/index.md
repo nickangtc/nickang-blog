@@ -2,6 +2,7 @@
 title: "How to find good food"
 date_published: "2018-08-26"
 backlinks:
+ai_summary: "The post argues that good food is usually made by people who care about their guests, and that this kind of place is often worth protecting from publicity and fame. Using Jamie Oliver and Anthony Bourdain as references, the author suggests that travelers relying on review sites may end up with only ordinary food, and concludes that wandering off the beaten path or asking locals for guidance is the best way to find truly good meals."
 ---
 
 ![japanese restaurant where to find good food nick ang blog](images/lan-pham-132875-unsplash.jpg)

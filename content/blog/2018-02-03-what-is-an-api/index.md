@@ -9,6 +9,7 @@ backlinks:
     title: "Code readability or efficiency?"
   - slug: "/2019-12-27-technical-skills-are-not-just-for-software-developers/"
     title: "Technical skills are not just for software developers"
+ai_summary: "The post explains that API is used in two main ways: most commonly as server endpoints that let clients create, read, update, or delete data, and more broadly as an interface that lets one piece of software use another, such as browser Web APIs. Its main point is that the term is broader than many people assume and is best understood as a software interface rather than only a data-access tool. It concludes that browser APIs like Drag and Drop are examples of the second meaning, helping developers build richer web applications."
 ---
 
 ![what is an api blog post banner nickang](images/igor-ovsyannykov-165874-1024x683.jpg)

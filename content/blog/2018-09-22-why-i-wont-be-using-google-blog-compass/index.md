@@ -3,6 +3,7 @@ title: "Why I won't be using Google Blog Compass"
 date_published: "2018-09-22"
 tags: ["Business"]
 backlinks:
+ai_summary: "The post discusses Google Blog Compass, a tool meant to help bloggers choose topics that will attract readers. The author argues that this approach suits business or traffic-driven blogs but not personal blogging, where writing freely without chasing readership is the point. He concludes that he does not want to turn his blog into a transaction or lose the enjoyment of writing for its own sake."
 ---
 
 ![dancing on my own nick ang blog](images/ahmad-odeh-705334-unsplash.jpg)

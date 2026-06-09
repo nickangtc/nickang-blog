@@ -5,6 +5,7 @@ date_published: "2017-11-10"
 backlinks:
   - slug: "/2017-12-14-prevent-jquery-loading-image-parsehtml/"
     title: "How to prevent jQuery from loading image in parseHTML"
+ai_summary: "The author argues that email HTML is unnecessarily difficult because major email clients render it differently, forcing developers to wrestle with brittle, hard-to-read code even for simple campaigns. Drawing on their experience building a drag-and-drop email editor, they conclude that email will remain important and should become easier and more standardized for developers to work with."
 ---
 
 ![i hate email html banner with a cat with mouth open wide looking unhappy](images/BSP-i-hate-email-html.png) 

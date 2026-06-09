@@ -6,6 +6,7 @@ excerpt: "No Plan B, only a solid purpose to fulfil Plan A and build a strong bo
 tags: ["Living"]
 fav: false
 backlinks:
+ai_summary: "The post argues that the author’s real motivation to prioritize fitness is not appearance, energy, or external approval, but the desire to become strong enough to protect his wife and daughter and deter harassment, especially as an Asian man living in Germany. He reflects on past lapses in exercise after army service and marriage, then concludes that fitness matters to him as a lifelong commitment to self-defense, resilience, and family protection."
 ---
 
 ![my head transposed onto arnold's body for fun](./images/nick-arnold.png)

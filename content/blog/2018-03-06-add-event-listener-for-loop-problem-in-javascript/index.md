@@ -3,6 +3,7 @@ title: "Add event listener for loop problem in JavaScript"
 date_published: "2018-03-06"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains a JavaScript event listener bug where using a `for` loop to attach click handlers to multiple buttons causes every button to log the final loop value instead of its own index. It says this happens because the handlers share the same loop scope, and suggests using `forEach()` or block-scoped `let` to preserve the correct index for each button. The conclusion is that this is a confusing JavaScript quirk for beginners, but it can be avoided with a better iteration pattern."
 ---
 
 In web development class today, many of our students faced a problem adding event listeners to an array of HTML elements (ok, DOM nodes to be specific).

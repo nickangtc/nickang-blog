@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-10-26-optimisation-worth-time-part-1/"
     title: "Optimisation: Is it worth the time? (part 1)"
+ai_summary: "The post discusses speeding up bulk deletion of rows in Django for a recommendations table that was slowing down daily dataset processing. It compares raw SQL, Django’s private `_raw_delete()`, and the standard `delete()` method, concluding that raw SQL is fastest, `_raw_delete()` is nearly as fast and more maintainable, while `delete()` is much slower and should be used only when full model-layer behavior is needed."
 ---
 
 Was faced with an optimisation problem today at work. Our [product](https://askmetisa.com) analyses large datasets every day and as our number of user grew over the last few months, we've had to optimise our algorithm that generates and saves recommendations to our database. Poking around a bit, I noticed the step that deleted rows in our recommendations table was taking a long time to process.

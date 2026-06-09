@@ -7,6 +7,7 @@ fav: true
 backlinks:
   - slug: "/2021-10-10-specialist-or-generalist/"
     title: "Specialist or Generalist?"
+ai_summary: "The post compares software bugs to city trash, arguing that bug reports should be treated as inboxes that capture problems directly and with minimal friction, rather than relying on informal Slack messages that can be forgotten. It suggests automatically creating Jira bugs from reports, and says that if a team is overwhelmed by bug volume, the solution is to expand capacity or split the team rather than leave reports unhandled."
 ---
 
 Software bugs are in many ways analogous to everyday trash.

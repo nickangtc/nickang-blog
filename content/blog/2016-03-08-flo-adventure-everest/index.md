@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Adventure of Flo on Everest"
 date_published: "2016-03-08"
 backlinks:
+ai_summary: "The post follows Nick and his alien friend Flo as they visit Everest Base Camp, where Flo teleports to the summit while Nick treks normally. The author’s main point is that reaching Everest only matters when it is earned through the climb, not achieved by shortcuts, even if the destination is the same. It ends by questioning whether Flo is the weird one or whether humans are, for treating effort as what gives an achievement meaning."
 ---
 
 "Welcome, Flo, to Everest. Well, sort of. This is Everest Base Camp", I said in Zee.

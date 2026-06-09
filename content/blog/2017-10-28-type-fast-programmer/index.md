@@ -4,6 +4,7 @@ date_published: "2017-10-28"
 backlinks:
   - slug: "/2017-10-25-programming-is-not-for-everyone/"
     title: "Bite Size Programming - Programming is not for everyone"
+ai_summary: "The author argues that programming does not require fast typing because modern editors reduce the amount of manual input and most of a programmer’s time is spent thinking through solutions rather than writing code. He says typing matters mainly insofar as it should not interrupt thought, and that speed offers only a small additional benefit beyond typing comfortably and accurately. The conclusion is that fast typing is optional for programmers, though improving it can still be enjoyable."
 ---
 
 ![type fast to be a programmer nickang blog](images/BSP-type-fast-to-be-a-programmer.png) 

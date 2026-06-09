@@ -3,6 +3,7 @@ title: "Basic HTML Video Tutorials"
 date_published: "2020-03-23"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post discusses a set of five Basic HTML video tutorials the author recorded as part of a larger freeCodeCamp web development series, with the goal of continuing until the Responsive Web Design certificate is completed. The author says the first attempt at video tutorials taught lessons about improving audio quality, remembering to teach concepts clearly rather than just work through exercises, and leaving small mistakes in to make the recordings more useful and easier to produce."
 ---
 
 This is a group of videos that are part of a bigger series of video walkthroughs. Read [Experienced Developer does FreeCodeCamp's Web Development course](/2020-03-21-experienced-developer-does-freecodecamps-web-development-course-and-explain-everything/) for more details about the video series.

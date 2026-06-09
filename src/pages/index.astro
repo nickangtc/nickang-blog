@@ -28,6 +28,20 @@ const hasMore = config.numPages > 1;
 ---
 
 <BaseLayout title="Blog posts" pathname="/">
+  <div class="view-controls">
+    <button
+      id="summary-toggle"
+      class="summary-toggle"
+      type="button"
+      role="switch"
+      aria-checked="false"
+    >
+      <span class="summary-toggle-track" aria-hidden="true">
+        <span class="summary-toggle-knob"></span>
+      </span>
+      <span>Summarise</span>
+    </button>
+  </div>
   <LightboxableContent>
     <div id="post-list-container" data-blog-list-page>
       {initialPosts.map(async (post) => {
@@ -37,8 +51,11 @@ const hasMore = config.numPages > 1;
             <h1 class="article-title">
               <a href={`/${post.id}/`}>{post.data.title}</a>
             </h1>
-            <section class="body">
+            <section class="body post-full-content">
               <Content />
+            </section>
+            <section class="body post-summary" hidden>
+              <p>{post.data.ai_summary}</p>
             </section>
             <hr class="divider" />
             <p class="meta">
@@ -102,16 +119,19 @@ const hasMore = config.numPages > 1;
             for (const post of data.posts) {
               const article = document.createElement("article");
               const postHtml = post.html || "";
+              const summary = post.ai_summary || "";
               article.className = "entry";
               article.innerHTML = `
                 <h1 class="article-title"><a href="/${post.slug}/">${escapeHtml(post.title)}</a></h1>
-                <section class="body">${postHtml}</section>
+                <section class="body post-full-content">${postHtml}</section>
+                <section class="body post-summary" hidden><p>${escapeHtml(summary)}</p></section>
                 <hr class="divider" />
                 <p class="meta">${escapeHtml(post.date_published)}</p>
               `;
               fragment.appendChild(article);
             }
             container.appendChild(fragment);
+            applySummaryMode();
             if (statusEl) statusEl.textContent = "";
             nextPage++;
             if (nextPage > numPages) {
@@ -131,7 +151,41 @@ const hasMore = config.numPages > 1;
     observer.observe(trigger);
   }
 
-  initInfiniteScroll();
+  const SUMMARY_MODE_KEY = "blog-summary-mode";
+
+  function isSummaryMode() {
+    return localStorage.getItem(SUMMARY_MODE_KEY) === "true";
+  }
+
+  function applySummaryMode() {
+    const summaryMode = isSummaryMode();
+    const toggle = document.getElementById("summary-toggle");
+
+    toggle?.setAttribute("aria-checked", String(summaryMode));
+    document.querySelectorAll(".post-full-content").forEach((element) => {
+      element.toggleAttribute("hidden", summaryMode);
+    });
+    document.querySelectorAll(".post-summary").forEach((element) => {
+      element.toggleAttribute("hidden", !summaryMode);
+    });
+  }
+
+  function initBlogIndex() {
+    const toggle = document.getElementById("summary-toggle");
+    if (!toggle || toggle.dataset.initialized === "true") return;
+
+    toggle.dataset.initialized = "true";
+    toggle.addEventListener("click", () => {
+      localStorage.setItem(SUMMARY_MODE_KEY, String(!isSummaryMode()));
+      applySummaryMode();
+    });
+
+    applySummaryMode();
+    initInfiniteScroll();
+  }
+
+  initBlogIndex();
+  document.addEventListener("astro:page-load", initBlogIndex);
 </script>
 
 <style lang="scss" is:global>
@@ -139,6 +193,61 @@ const hasMore = config.numPages > 1;
 
   .entry {
     margin: 0 0 4rem;
+  }
+
+  .view-controls {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: $space-xl;
+  }
+
+  .summary-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: $space-xs;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: $darkgray;
+    font-family: $sans-serif;
+    font-size: 0.8 * $base-size;
+    cursor: pointer;
+  }
+
+  .summary-toggle-track {
+    position: relative;
+    width: 2.1rem;
+    height: 1.15rem;
+    border: 1px solid $darkgray;
+    border-radius: 999px;
+    background: white;
+    transition: background-color 0.15s ease;
+  }
+
+  .summary-toggle-knob {
+    position: absolute;
+    top: 0.14rem;
+    left: 0.15rem;
+    width: 0.75rem;
+    height: 0.75rem;
+    border-radius: 50%;
+    background: $darkgray;
+    transition: transform 0.15s ease, background-color 0.15s ease;
+  }
+
+  .summary-toggle[aria-checked="true"] .summary-toggle-track {
+    border-color: $blue;
+    background: $blue;
+  }
+
+  .summary-toggle[aria-checked="true"] .summary-toggle-knob {
+    background: white;
+    transform: translateX(0.95rem);
+  }
+
+  .summary-toggle:focus-visible {
+    outline: 2px solid $blue;
+    outline-offset: $space-xxs;
   }
 
   .article-title {

@@ -3,6 +3,7 @@ title: "The era of food delivery services"
 date_published: "2018-01-11"
 tags: ["Business"]
 backlinks:
+ai_summary: "The post examines food delivery services like Foodpanda, Deliveroo, and Uber Eats, arguing that their success depends on three pillars: people, marketing, and technology. Its main point is that while riders are essential, modern smartphones, online ordering, and digital payments are what recently made these services flourish. It concludes that people should identify the real question being asked and check their biases before deciding which factor matters most."
 ---
 
 ![fast food delivery](images/christopher-flowers-267934.jpg)

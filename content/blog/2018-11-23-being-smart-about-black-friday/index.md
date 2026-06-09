@@ -3,6 +3,7 @@ title: "Being smart about Black Friday"
 date_published: "2018-11-23"
 tags: ["Business"]
 backlinks:
+ai_summary: "The post argues that Black Friday and similar year-end sales events are designed to drive consumer spending through hype, with retailers benefiting when shoppers buy more than they intended. Its main advice is to use these sales only for planned purchases at lower prices, keep the basket minimal, and not treat the event as a holiday."
 ---
 
 ![Being smart about Black Friday](images/black-friday-nick-ang-blog.png)

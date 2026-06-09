@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Meta Work Talk"
 date_published: "2016-05-24"
 backlinks:
+ai_summary: "The author argues that talking and consuming content about work is often a distraction unless it directly matches one’s current situation, since most such material falls into the unhelpful 95 percent rather than the useful 5 percent. He concludes that people should be honest about whether they are seeking genuinely relevant guidance or just avoiding the harder task of doing the work, and should prioritize action over meta discussions about productivity."
 ---
 
 ![man working with his hands](images/man-craftsman-1024x683.jpeg) 

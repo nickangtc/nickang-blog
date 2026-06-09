@@ -7,6 +7,7 @@ cover: "/project-covers/youtionary-cover.png"
 backlinks:
   - slug: "/what-i-learned-re-watching-chef-2014/"
     title: "What I learned re-watching Chef (2014)"
+ai_summary: "Youtionary is an iOS AI language-learning app that lets users ask questions and have real voice calls for practicing languages like German, French, Italian, and Spanish. Its main idea is to act like a native-speaking practice partner that tracks what the learner still struggles with and generates spaced-repetition, Duolingo-style exercises based on those gaps. The post’s takeaway is that it aims to make practice feel more personal, relevant, and ongoing."
 ---
 
 <iframe

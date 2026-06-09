@@ -8,6 +8,7 @@ backlinks:
     title: "How a Daily Note fixed my note taking process"
   - slug: "/2021-11-07-why-active-on-instagram-again/"
     title: "Why I'm active on Instagram again"
+ai_summary: "The post records notes from Austin Kleon’s Show Your Work, focusing on how artists and creators can build visibility by sharing their process, learning in public, crediting others properly, and telling the stories behind their work. Its main point is that creative work is strengthened by openness, daily sharing, and participation in a broader “scenius” rather than by solitary genius. The author concludes that these ideas are especially motivating for someone aspiring to be an artist and plans to continue digesting the book in later parts."
 ---
 
 ![Show your work by Austin Kleon book cover](./images/show-your-work-by-austin-kleon.png)

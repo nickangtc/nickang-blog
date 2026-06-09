@@ -6,6 +6,7 @@ excerpt: "The simplest way to automatically snap out of junk internet content bi
 tags: ["Good intentions", "Living"]
 fav: false
 backlinks:
+ai_summary: "The author describes using an electro-mechanical timer to shut off a bedroom WiFi router at 23:00 and turn it back on at 06:00, originally to reduce exposure from the router near the bed. A useful side effect is that it also interrupts late-night internet scrolling, which the author says is a strong benefit. The conclusion is that putting a timer on a WiFi router is highly recommended and was a very good decision."
 ---
 
 Among my favourite decisions lately is buying a electro-mechanical timer wall plug that I use with my WiFi router's power adapter. Now my WiFi router is automatically turned off at 23:00 and turned on again at 06:00 sharp.

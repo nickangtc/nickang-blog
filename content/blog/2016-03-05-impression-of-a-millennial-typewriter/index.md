@@ -5,6 +5,7 @@ date_published: "2016-03-05"
 backlinks:
   - slug: "/flowriter/"
     title: "Flowriter"
+ai_summary: "The post describes the author’s experience with OverType, a web app that simulates a real typewriter, and how it challenged his romanticized idea that typewriters would be distraction-free and simple. He finds the app frustrating but enlightening, noting that it forces slower, more deliberate writing and reveals how inconvenient actual typewriters are. In the end, he concludes that the app is a clever free tool that changed his view of typewriters and may even tempt him to buy one."
 ---
 
 Oh how naive I've been.

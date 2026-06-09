@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-10-27-start-using-the-command-line-part-2/"
     title: "How to start using the command line (part 2)"
+ai_summary: "The post introduces beginners to the macOS command line by explaining that commands act on the current directory and walking through four basic commands: pwd, ls, cd, and rm. Its main point is that learning these core commands is enough to start using Terminal confidently, and the author encourages readers to practice them and develop their own workflow."
 ---
 
 ![BSP how to start using the command line nickang blog](images/BSP-how-to-start-using-the-command-line-nickang-blog.png) 

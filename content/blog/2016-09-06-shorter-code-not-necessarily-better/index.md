@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-10-26-optimisation-worth-time-part-1/"
     title: "Optimisation: Is it worth the time? (part 1)"
+ai_summary: "The post compares two class code solutions, one shorter and more compact and the other longer but more readable and commented. The author argues that shorter code can use less memory and look neater, but longer code may be better for human understanding and future maintenance, so brevity is not always the best measure of quality. In the specific classroom example, the shorter version is preferred, but the broader conclusion is that clarity can outweigh compactness in real projects."
 ---
 
 ![people smiling in front of pinnacles at duxton](images/20160906-IMG_20160906_123527-1024x768.jpg) 

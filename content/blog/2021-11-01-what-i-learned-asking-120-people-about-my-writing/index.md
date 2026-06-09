@@ -7,6 +7,7 @@ fav: false
 backlinks:
   - slug: "/2021-12-04-labeling-things-properly-in-a-digital-garden/"
     title: "Labeling things properly in a digital garden"
+ai_summary: "The author describes emailing 120 newsletter subscribers to ask why they subscribed, then using the replies to learn about his audience and his writing. He concludes that most readers connect with him personally rather than merely seeking utility, and that the best approach is to write about what genuinely interests him while making it enjoyable to read."
 ---
 
 About a week ago I sent out a [letter](https://buttondown.email/nickang/archive/why-are-you-subscribed-to-this/) to my subscribers asking them to tell me one question: Why are you subscribed? 

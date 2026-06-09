@@ -7,6 +7,7 @@ fav: false
 backlinks:
   - slug: "/2021-09-12-9-useful-questions-for-1-1s/"
     title: "9 Questions for 1-1s"
+ai_summary: "The post argues that good management depends on understanding that employees want to be useful and grow, sometimes by taking on new challenges. It presents an “employment sweet spot” where an employee’s strengths, motivations, and business impact overlap, saying both the employee and company benefit most there. The practical conclusion is that managers and employees should regularly discuss how work feels to ensure they stay in that sweet spot."
 ---
 
 How to be a great employer/manager?

@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "The reality of game development"
 date_published: "2016-10-15"
 backlinks:
+ai_summary: "The post reflects on a first encounter with game development through a General Assembly instructor’s Unity-based game, using it as a springboard to think about how games, simulations, and even web applications can create alternate realities. The author is struck by the creativity and philosophical implications of game development, but concludes that despite admiring it, the unstable economics of the field and a growing pragmatic outlook make it an impractical path for them personally."
 ---
 
 ![grave matters gameplay screenshot](images/grave-matters-game-1024x576.jpg) 

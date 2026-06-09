@@ -8,6 +8,7 @@ backlinks:
     title: "How to implement a Linked List in JavaScript"
   - slug: "/2021-11-28-how-to-implement-an-lru-cache-in-javascript/"
     title: "How to implement an LRU cache in JavaScript"
+ai_summary: "The post explains what a linked list is, describing it as a sequence of nodes connected by pointers, with singly and doubly linked variants, and contrasts it with array-like primitives. It argues that linked lists are useful because they allow flexible memory allocation and fast insertion and deletion, but concludes that they are weaker than arrays for random access because finding a node requires linear traversal."
 ---
 
 ![linked list explained banner nickang](images/BSP-linked-list-explained.png) 

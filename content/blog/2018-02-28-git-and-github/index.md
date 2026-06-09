@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2020-03-06-how-to-setup-access-to-github-from-terminal-with-2fa/"
     title: "How to setup access to GitHub from Terminal with 2FA"
+ai_summary: "The post explains the difference between Git and GitHub for beginners: Git is free version-control software used on a computer to track file changes and help teams merge work, while GitHub is a company and cloud-based platform that uses Git to store repositories and coordinate collaboration. Its main point is that the two are not the same, and the useful conclusion is that Git handles local version control whereas GitHub provides a web-based place to back up, share, and manage projects with features like pull requests, forks, and issues."
 ---
 
 ![git and github nickang blog](images/git-and-github-nickang-blog.png) 

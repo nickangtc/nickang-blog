@@ -3,6 +3,7 @@ title: "What needs evaluating here?"
 date_published: "2020-12-20"
 excerpt: "Always judge a book strictly by its contents. If the author is an alcoholic and misogynist, it should not matter in your consideration of his ideas."
 backlinks:
+ai_summary: "The post argues that when judging work or people, one should focus only on criteria relevant to the task, such as the quality of an author’s ideas or a job candidate’s skills, communication, and receptiveness to feedback. It says unrelated personal traits, political views, appearance, taxes, or private history should be treated as noise unless they clearly affect the specific evaluation."
 ---
 
 When you read a book about leadership, does it matter if the author was reported to have had an affair?

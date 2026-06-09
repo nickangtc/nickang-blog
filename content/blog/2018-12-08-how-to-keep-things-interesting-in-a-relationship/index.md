@@ -5,6 +5,7 @@ tags: ["Communication"]
 backlinks:
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
+ai_summary: "The post discusses how to keep a marriage interesting and strong over time, using the author’s relationship with his wife as an example. He argues that shared ambition or zest for life, mutual admiration, and caring for a pet together help a couple stay connected by aligning motivations, preventing resentment, and encouraging teamwork and communication. He concludes that these are personal observations rather than expert advice, but they have helped his marriage remain happy so far."
 ---
 
 ![How to keep things interesting in a relationship](images/How-to-keep-things-interesting-in-a-relationship-1024x769.jpg)

@@ -7,6 +7,7 @@ tags: ["Living", "Parenting"]
 fav: false
 creation_duration_minutes: 16
 backlinks:
+ai_summary: "The author reflects on watching Cha Cha Real Smooth and uses it to argue that parents should want for themselves the same joyful, meaningful life they want for their children. The main point is that adults cannot effectively guide children toward fulfillment unless they first pursue it themselves, since teaching works best by example rather than instruction."
 ---
 
 Yesterday my wife and I watched _Cha Cha Real Smooth_ on Apple TV, a movie that shows why growing up is hard.

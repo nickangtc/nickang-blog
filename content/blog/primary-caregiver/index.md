@@ -7,6 +7,7 @@ tags: ["Career", "Living", "Parenting"]
 fav: false
 creation_duration_minutes: 24
 backlinks:
+ai_summary: "The post argues that men should stop casually claiming they could just take over as the primary caregiver, because the role demands patience, emotional flexibility, teaching, cooking, and long-term sacrifice that many men have not been conditioned to handle as well. Its conclusion is that partners should acknowledge the mother’s caregiving as difficult, largely thankless work and recognize the value of what she is already doing."
 ---
 
 I'm tired of hearing men, including myself, occasionally make loose claims to their partners that they could be the primary caregiver of their child/children.

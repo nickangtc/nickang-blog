@@ -8,6 +8,7 @@ excerpt: "Food can be healthy and enjoyable. So should your friends."
 tags: ["Living"]
 fav: true
 backlinks:
+ai_summary: "The post compares choosing friends to choosing foods, arguing that people can be mentally sorted by whether they feel healthy or unhealthy to be around and enjoyable or unenjoyable. The author says this framework helps identify which relationships to keep close, tolerate, or cut off, especially when someone is both harmful and unpleasant. The conclusion is that if someone wants wholesome friends, they should aim to be a wholesome friend themselves."
 ---
 
 I find it helpful to think of friends as I would the foods that I consume regularly. It helps me consider people as friends (or not).

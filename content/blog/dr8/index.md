@@ -7,6 +7,7 @@ tags: ["Career", "Communication", "Parenting", "Daily Reflection"]
 fav: false
 creation_duration_minutes: 50
 backlinks:
+ai_summary: "The post covers three brief lessons from parenting and work: using a capsicum analogy to explain selfishness to a toddler, moving quickly when opportunity arises in a career transition from engineer to technical PM, and asking for context when a senior leader requests data. Its main point is that effective communication depends on finding the right framing, acting quickly on promising opportunities, and clarifying the bigger picture before doing the work. The author concludes that these habits make parenting more effective, work more energizing, and contributions more valuable."
 ---
 
 ## (parenting) The capsicum analogy for illuminating selfishness to a toddler

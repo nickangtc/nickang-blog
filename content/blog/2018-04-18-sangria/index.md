@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Sangria"
 date_published: "2018-04-18"
 backlinks:
+ai_summary: "The post praises sangria as a fruity, refreshing Spanish cocktail the author loves, especially because it gives only a light buzz and is one of the few alcoholic drinks his wife enjoys. He says it has earned a permanent place at home, and recommends trying Royal Sangria in Barcelona or Catalonia, a cava-mixed version that is cheaper than champagne and even tastier."
 ---
 
 ![](images/2018-04-18-095903079209666321785..jpg)

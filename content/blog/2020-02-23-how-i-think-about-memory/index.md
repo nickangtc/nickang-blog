@@ -6,6 +6,7 @@ backlinks:
     title: "What is a Personal Knowledge Management system (PKM)?"
   - slug: "/2021-05-20-how-a-daily-note-fixed-my-note-taking-process/"
     title: "How a Daily Note fixed my note taking process"
+ai_summary: "The post argues that human memory should be augmented by computers, using phones and note-taking apps to store facts, tasks, and even written thinking so the brain can stay focused on more important work. After discussing a disagreement with his wife, the author concludes that relying too heavily on digital storage may weaken his own recall and romantic memory, so technology should serve as a supplementary sidekick rather than a replacement for human memory."
 ---
 
 ![about memory](images/nick-ang-about-memory-1024x683.jpg)

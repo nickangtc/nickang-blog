@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Two healthy ways to look at exercise"
 date_published: "2016-10-02"
 backlinks:
+ai_summary: "The post argues that regular exercise is especially important for people with sedentary, laptop-based work because it helps counteract lethargy, declining mood, and reduced focus. It presents two motivating frames: exercising as a defiant rejection of the normal slide into poor health with age, and as a way to keep the body strong and the mind sharp. The author concludes that because health and attention matter now, exercise should start immediately rather than being postponed."
 ---
 
 ![remote work under the block in singapore](images/20161002-IMG_20161002_083841-1024x715.jpg) 

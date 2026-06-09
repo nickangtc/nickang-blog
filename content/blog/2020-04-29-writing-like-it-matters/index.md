@@ -3,6 +3,7 @@ title: Words matter
 date_published: "2020-04-29"
 excerpt: Inspired by a book and an article, I decided to write!
 backlinks:
+ai_summary: "The post reflects on how writing shapes identity and meaning, using Lee Kuan Yew’s memoir The Singapore Story and the author’s wife’s blog post on clean makeup as examples of clear, purposeful writing. The author argues that strong writing should be direct and expressive, and admires how both writers sound on the page much as they do in speech. The conclusion is that words matter because they are a powerful tool for telling stories and communicating ideas well."
 ---
 
 Among the people I know personally, I am probably the most prone to romanticising writing. I don't like that about myself and hope that I would become much more practical with the words I write. Romanticising wordplay is like Owen Wilson in Midnight in Paris: an insufferable joy ride.

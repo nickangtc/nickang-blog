@@ -3,6 +3,7 @@ title: "How to think about marketing"
 date_published: "2017-01-03"
 tags: ["Business"]
 backlinks:
+ai_summary: "The post argues that marketing strategies should not rely too heavily on narrow customer personas, because real buyers are complex people with overlapping identities, interests, and motivations beyond their job titles or industry labels. Its main point is that both B2B and B2C marketing are ultimately about appealing to humans, so marketers should think in broader, more human terms when shaping messages and stories. The conclusion is that categories are useful for organizing information, but effective marketing requires remembering that there are many ways to connect with a person."
 ---
 
 You find yourself suddenly with the heavy responsibility of coming up with a marketing strategy for a tech company with a product you actually believe is going to be great for e-commerce businesses. What do you do?

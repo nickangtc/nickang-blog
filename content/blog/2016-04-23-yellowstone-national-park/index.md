@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "(US) Yellowstone National Park"
 date_published: "2016-04-23"
 backlinks:
+ai_summary: "The post describes a road trip into Yellowstone National Park, focusing on the drive through its wildlife, geysers, and hot springs, as well as the role of satellite radio in making the long journey more enjoyable. The author’s main point is that while Yellowstone was fascinating and worth visiting, especially with free entry during National Parks Week, the experience was more pleasantly shared than personally overwhelming. The conclusion is that the trip would continue the next day with more driving and some hiking, suggesting Yellowstone was an enjoyable stop even if it was not deeply moving for the writer."
 ---
 
 ![Bisons sharing the road with us](images/DSCF8611_edited-1024x683.jpg) 

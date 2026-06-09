@@ -2,6 +2,7 @@
 title: "Saying the obvious"
 date_published: "2017-11-01"
 backlinks:
+ai_summary: "The post argues that it is important to say what seems obvious because obvious truths are not equally clear to everyone and can be forgotten or obscured over time. It suggests that repeating simple reminders helps people learn, grow, and share clarity with others, especially in areas where expertise makes things seem self-evident."
 ---
 
 ![an arrow carved into the wall pointing a direction saying the obvious ](images/hello-i-m-nik-281498-1024x686.jpg) 

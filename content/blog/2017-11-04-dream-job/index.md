@@ -4,6 +4,7 @@ date_published: "2017-11-04"
 backlinks:
   - slug: "/2018-01-19-get-out-of-your-own-head/"
     title: "Get out of your own head"
+ai_summary: "The post argues that a dream job is most likely to come from work that a person is good at, appropriately challenged by, and able to use to help others. It says that getting better at a skill often increases satisfaction and value at work, and that the right level of challenge can be more rewarding than avoiding stress entirely. The author concludes that people may have several dream jobs over a career, especially as they grow into new stages of skill and responsibility."
 ---
 
 ![dream job depicted by a laptop with a code editor open](images/dream-job-1024x682.jpg) 

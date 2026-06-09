@@ -9,6 +9,7 @@ creation_duration_minutes: 20
 backlinks:
   - slug: "/strictly-30/"
     title: "Strictly 30"
+ai_summary: "The author describes a new 2025 blogging experiment called Strictly 30, in which he will spend exactly 30 minutes each day writing and publishing a post. His main point is that writing quality depends more on the material than on overworking the delivery, and that a strict time limit can encourage consistent output without sacrificing usefulness. He concludes that the experiment will also signal that the blog is intentionally informal and may show others that they can produce something worthwhile in a short daily session."
 ---
 
 ![person holding a pen looking like he has just been struck by an idea](./images/strictly-30.webp)

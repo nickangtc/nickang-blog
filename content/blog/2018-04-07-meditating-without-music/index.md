@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Meditating without music"
 date_published: "2018-04-07"
 backlinks:
+ai_summary: "The author reflects on whether background music helps or hinders daily meditation and concludes that, for their 10-minute morning sessions, they prefer meditating without it. They argue that even instrumental music is distracting rather than grounding, though they leave open the possibility that longer sessions or music aligned with one’s daily rhythms might work differently."
 ---
 
 Having been meditating daily for a while now, I've finally made up my mind about the role of background music in meditation. For me, I prefer going without.

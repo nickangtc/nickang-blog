@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Kinda knowing Ruby on Rails"
 date_published: "2016-10-03"
 backlinks:
+ai_summary: "The post reflects on whether someone learning Ruby on Rails needs to understand every detail or can safely “kind of know” the framework and rely on its conventions. The author weighs the convenience of trusting Rails against the risks of customization and debugging, and concludes that a balanced approach is best: assess each new feature or problem to decide whether it needs deeper study or can be left to Rails’ built-in magic."
 ---
 
 ![laptop with spectacles on it](images/photo-1456996290209-634ae6b8be31-1024x683.jpeg)

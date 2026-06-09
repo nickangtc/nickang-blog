@@ -2,6 +2,7 @@
 title: "Shopify Liquid divided_by giving zero"
 date_published: "2018-10-02"
 backlinks:
+ai_summary: "The post explains a Shopify Liquid bug where a discount calculation unexpectedly returned 0 instead of 39 because `divided_by` on integers truncates to an integer before later operations. The author found that multiplying before dividing fixes the result, and later notes the intended behavior is that integer division in Liquid yields an integer while dividing by a float yields a float."
 ---
 
 Setting up [Liquid](https://shopify.github.io/liquid/) for server-side rendering for an app and for some reason, a simple arithmetic operation is incorrectly yielding the value zero? I recently met with the same problem with Shopify Liquid divided_by giving zero. The solution is trivial, but the problem could take you (like it did for me) about 20 minutes to debug. The problem? Rounding.

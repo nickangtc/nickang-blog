@@ -6,6 +6,7 @@ backlinks:
     title: "What is a Personal Knowledge Management system (PKM)?"
   - slug: "/2021-05-20-how-a-daily-note-fixed-my-note-taking-process/"
     title: "How a Daily Note fixed my note taking process"
+ai_summary: "The post is about the author’s move from Evernote to Bear as a note-taking app, praising Bear’s speed, Markdown support, hashtag-based organization, and syntax highlighting as improvements over Evernote. The main point is that while Bear looks promising, the author is only willing to switch if it proves reliable in real-world use, especially for syncing, search, consistent pasting, and handling growth. The conclusion is a tentative endorsement: Bear is currently ahead, but it must earn full trust before becoming the author’s long-term choice."
 ---
 
 ![bear app screenshot nick ang blog](images/bear-app-screenshot.png)

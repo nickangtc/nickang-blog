@@ -2,6 +2,7 @@
 title: "The generation that sees google as a word, not company"
 date_published: "2016-07-05"
 backlinks:
+ai_summary: "The post describes a hardware meetup focused on single-board computers, where two secondary school students impressed the author by presenting sophisticated drone projects and demonstrating strong practical tech skills. The author argues that their advantage comes from growing up with Google as an everyday learning tool, making search a proactive way to build new skills rather than just a place to bookmark resources. The conclusion is that with disciplined use of online tutorials and time management, the author plans to start several hardware projects, including a drone, security camera, home server, automatic upload system, and electronic door lock."
 ---
 
 I had just left another hardware meet up (called Hackware) and I'm emanating inspiration now, so I thought I'd write it all down while things are fresh.

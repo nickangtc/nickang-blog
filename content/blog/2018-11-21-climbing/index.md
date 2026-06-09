@@ -4,6 +4,7 @@ date_published: "2018-11-21"
 backlinks:
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
+ai_summary: "The post describes the author’s first successful climb of a 12-meter rock wall after two earlier failed attempts, despite a longstanding fear of heights. The main point is that early setbacks do not necessarily mean something is “not for me,” and that being around capable peers can raise one’s sense of what is possible. The author concludes that the climb was a meaningful achievement and that the aftereffects are worth savoring as proof of progress."
 ---
 
 ![Climbing nick ang](images/climbing-nick-ang-blog.png)

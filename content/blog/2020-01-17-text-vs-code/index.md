@@ -3,6 +3,7 @@ title: "Text vs Code"
 date_published: "2020-01-17"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains the difference between text and code, arguing that code is not special but simply text written in a format a computer can understand and act on. It uses file extensions like .txt and .html to show that identical content can be treated differently depending on context, concluding that code is a subset of text and that the file type determines how it is opened and interpreted."
 ---
 
 ![text and code look very different, but code is just a subset of text](images/text-vs-code-nickang-blog-1024x1024.jpg)

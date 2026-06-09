@@ -5,6 +5,7 @@ date_published: "2017-05-27"
 backlinks:
   - slug: "/2018-03-24-create-simple-command-line-program-node/"
     title: "How to create simple Command Line Program with Node"
+ai_summary: "The post reflects on a software engineer’s willingness to admit limited knowledge, especially while still early in his career and learning Python and Django. His main point is that honest self-assessment, paired with making concrete lists of what he does not know, is the best way to identify gaps and keep improving. He concludes that he plans to research those questions further and share what he learns in a later post."
 ---
 
 By you I mean I. I'm ready to admit, I don't know everything.

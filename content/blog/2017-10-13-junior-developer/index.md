@@ -3,6 +3,7 @@ title: "How to know you are a junior developer"
 date_published: "2017-10-13"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post argues that a junior developer can be identified by learning several new things from almost every technical interview, using that as a humorous but revealing sign of inexperience. It then broadens into the claim that real growth in software development takes years of steady learning and practice, and that developers should avoid hubris about being ready for senior roles too quickly. Its conclusion is that becoming genuinely skilled and respected requires humility, time, and sustained effort."
 ---
 
 ![two people in boots standing with sand suspended around their feet](images/gili-benita-2776-1024x682.jpg) 

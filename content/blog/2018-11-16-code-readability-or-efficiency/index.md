@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2018-11-24-destructuring-objects-in-javascript/"
     title: "Destructuring objects in JavaScript"
+ai_summary: "The post discusses a JavaScript choice between using filter().map() or reduce() to clean an array of Person objects that may contain null values. The author argues that readability should usually outweigh minor efficiency gains, since two passes over a modest array are typically negligible compared with the cost of harder-to-understand code. The conclusion is to favor clear, maintainable code unless the performance impact is truly significant."
 ---
 
 ![code readability or efficiency](images/faye-cornish-553425-unsplash-1024x683.jpg)

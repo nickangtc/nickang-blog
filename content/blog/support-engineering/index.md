@@ -7,6 +7,7 @@ tags: ["Tech", "Leadership", "Communication", "Career"]
 fav: false
 creation_duration_minutes:
 backlinks:
+ai_summary: "The post collects essays on support engineering, covering customer support quality, internal tooling, feedback, documentation, incident handling, training, and using code and AI to remove repetitive work. Its main point is that effective support means solving the immediate customer issue while also improving the product, knowledge, tooling, and team systems that created the problem."
 ---
 
 A selection of posts I've written about support engineering!

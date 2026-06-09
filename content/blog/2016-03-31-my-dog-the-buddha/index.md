@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "My Dog Brownie Might Be Buddha"
 date_published: "2016-03-31"
 backlinks:
+ai_summary: "The author reflects on his toy poodle Brownie, whom he sees as Buddha-like because the dog seems to remain calmly present while the author is often lost in thought and daily tasks. The main point is that Brownie’s constant, mindful companionship highlights the value of living in the moment, and the conclusion is that the author needs to slow down, notice his thoughts, and practice mindfulness to “catch up” with his dog."
 ---
 
 Brownie, my toy poodle, might just be Buddha. I seriously think that to myself about once a week.

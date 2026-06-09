@@ -8,6 +8,7 @@ fav: false
 backlinks:
   - slug: "/ig-2026/"
     title: "Instagram growth hacking (2026)"
+ai_summary: "The post describes the author’s series of solo business experiments after leaving a €100k software engineering job, including YouTube, a video tool, an AI language app, and custom websites for local businesses, all of which produced little or no revenue. The author argues that fast, obvious traction is the sign an idea is worth pursuing, and since these attempts did not show that, they are being abandoned in favor of a new experiment focused on building an AI-oriented social media presence. The practical conclusion is to shift from trying to be a product “gold miner” to becoming a “map maker” by growing distribution on Instagram, LinkedIn, and Substack, with a target of 500 Instagram followers by 8 April."
 ---
 
 Alright, time for a no bullshit update on how my "business" is doing.

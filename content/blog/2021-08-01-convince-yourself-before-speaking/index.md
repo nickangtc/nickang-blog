@@ -4,6 +4,7 @@ date_published: "2021-08-01"
 excerpt: "Do it for the sake of better group meetings."
 tags: ["Communication"]
 backlinks:
+ai_summary: "The author argues that in meetings, people should convince themselves their point is clear and worthwhile before speaking, because careless or premature comments create confusion and derail discussion. He contrasts thoughtful speakers with those who interrupt, argue trivial points, or speak without understanding, and recommends a self-check on relevance, importance, audience, and true knowledge before talking. The conclusion is that if more people did this, meetings would be more focused, pleasant, and end on time."
 ---
 
 After years in the "working world," I've learned one of the core tenets of communicating in a group: before speaking, always first convince yourself of what you're about to say. Always remember that you are Audience Number 1.

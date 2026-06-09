@@ -10,6 +10,7 @@ backlinks:
     title: "How to start using the command line (part 2)"
   - slug: "/bite-size-programming/"
     title: "Bite Size Programming"
+ai_summary: "The post explains what a command line interface is and why programmers prefer it over a graphical interface: it offers consistent, reliable commands, faster execution of common tasks, easy automation through shell scripts, and the ability to work remotely on servers via SSH. It also notes that many programmers favor keyboard-driven workflows because they reduce reliance on the mouse and improve efficiency."
 ---
 
 ![why programmers use command line interface banner nickang blog](images/why-programmers-use-command-line-interface-banner-nickang-blog.png) 

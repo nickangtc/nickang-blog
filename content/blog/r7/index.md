@@ -6,6 +6,7 @@ excerpt:
 tags: ["Living"]
 fav: false
 backlinks:
+ai_summary: "The post describes an early-morning attempt to write before the rest of the household wakes, only for the author’s child to start crying and disrupt the plan. The author’s main point is that parenting can make private creative time feel stolen, and the conclusion is that the child is jokingly framed as the real burglar in the house."
 ---
 
 *(This is #7 of 30 raw essays in 30 days.)*

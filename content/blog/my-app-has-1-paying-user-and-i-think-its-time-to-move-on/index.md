@@ -6,6 +6,7 @@ excerpt: "What's the next hare-brained scheme to make money then?"
 tags: ["Substack", "Business"]
 fav: false
 backlinks:
+ai_summary: "The author describes facing a decision after seven months of solo entrepreneurship, noting that the iOS language-learning app Youtionary has only one paying user and very low retention. He concludes that he is no longer motivated by building for language learners, so he plans to stop pursuing market-driven app ideas and instead spend his remaining runway tinkering with AI projects that better match his curiosity."
 ---
 
 I'm at a crossroad and I have to decide. It's been 7 months since I left my job and I keep coming back to that fact. *It's been 7 months, Nick.*

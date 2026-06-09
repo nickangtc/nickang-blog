@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "No idea what to write about"
 date_published: "2017-10-07"
 backlinks:
+ai_summary: "The post describes the author struggling to find a topic to write about, comparing the search for inspiration to trying to look directly at an eye floater and wondering how prolific daily bloggers produce ideas so consistently. Its main point is that inspiration should not be waited on passively; the author wants to build the discipline to show up to a blank page every day even when nothing obvious comes to mind. The conclusion is that writing should become a daily duty, with no exceptions, rather than something dependent on feeling inspired."
 ---
 
 ![hand holding a white washed polaroid](images/markus-spiske-215992-1024x683.jpg) 

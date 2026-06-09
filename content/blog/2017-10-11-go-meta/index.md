@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Go meta"
 date_published: "2017-10-11"
 backlinks:
+ai_summary: "The post reflects on a writer facing an empty screen, mental fatigue, and the pressure to produce a coherent piece, while noting that some thoughts are unsuitable or untimely to publish. Its main point is that writing can stall for ordinary human reasons like exhaustion or stage fright, and when that happens the writer may resort to writing about the difficulty itself rather than forcing a bad post."
 ---
 
 ![desert](images/mark-eder-310600-1024x683.jpg) 

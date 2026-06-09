@@ -6,6 +6,7 @@ excerpt: Will I find my people in this city?
 tags: ["Living"]
 fav: false
 backlinks:
+ai_summary: "The post reflects on a family’s imminent move from Berlin to Düsseldorf, with the author saying the real hope is not for the city itself but for the family to start feeling at home there. The author defines that feeling as having stable friendships, a slower and friendlier pace, and a home that can finally be settled rather than kept in limbo for another move. The conclusion is that if Düsseldorf feels like a place among their people, it will make them willing to invest in building a lasting home there."
 ---
 
 We're moving to Düsseldorf tomorrow.

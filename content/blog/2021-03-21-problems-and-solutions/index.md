@@ -6,6 +6,7 @@ tags: ["Creativity"]
 backlinks:
   - slug: "/2021-10-10-specialist-or-generalist/"
     title: "Specialist or Generalist?"
+ai_summary: "The post argues that most problems have multiple possible solutions, but some are more efficient or elegant than others. Using examples about finding the nearest elevator and measuring body weight after using the bathroom, the author shows that it is worth thinking before choosing an approach so the most practical solution can be selected."
 ---
 
 For every problem, there is almost always multiple solutions.

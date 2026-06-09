@@ -9,6 +9,7 @@ creation_duration_minutes:
 backlinks:
   - slug: "/back-on-max/"
     title: "Back on Max at 100 € per month"
+ai_summary: "The post explains why the author chose “strike” as the word for 2026, after being inspired by a friend’s “word of the year” idea. The author argues that after years of building skills, savings, stability, and family structure, he is finally ready to act aggressively and seize opportunities across work, relationships, finances, and personal branding. The conclusion is that he sees 2026 as a time to move quickly and deliberately, with “strike” serving as a guiding principle for taking decisive action."
 ---
 
 I recently visited a friend in Switzerland over Christmas.

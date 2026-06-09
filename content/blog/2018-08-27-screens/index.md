@@ -2,6 +2,7 @@
 title: "Screens"
 date_published: "2018-08-27"
 backlinks:
+ai_summary: "The post reflects on how multiple screens at home—desktop, laptop, iPad, and phone—trigger anxiety and compulsive use after meditation, leading the author to question how screen-heavy his life has become. He argues that screens are easy to default to, especially when alone, but they can crowd out attention to physical reality and increase constant mental stimulation. He concludes that complete screen-free living is unrealistic, yet a middle ground is needed between anxiety and boredom, and he values the calm of screen-free spaces like a Wi-Fi-free bungalow in Bali."
 ---
 
 ![screens setup on a table nick ang blog](images/nikolay-tarashchenko-748663-unsplash.jpg)

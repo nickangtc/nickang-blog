@@ -5,6 +5,7 @@ excerpt: "What is a cache? What is an example use case? Explained with a video"
 tags: ["Tech"]
 fav: false
 backlinks:
+ai_summary: "The post introduces a technical learning project and presents a video-based, illustrated explanation of what a cache is, along with an example use case. Its main point is simply to share that explanation visually, with the takeaway that the full sketch and demo are available in the embedded video and on Instagram."
 ---
 
 New project. Sharing a new technical learning everyday! Inspired by the tenacious artist [@beeple_crap](https://www.beeple-crap.com/).

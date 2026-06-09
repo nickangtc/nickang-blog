@@ -8,6 +8,7 @@ fav: false
 backlinks:
   - slug: "/you-always-have-a-choice-and-thats-the-hard-part/"
     title: "You always have a choice, and that's the hard part"
+ai_summary: "The post follows the author’s uncertainty about whether to continue building solo after eight months without financial results, or to partner with an old friend on an AI-related B2B project, Anchor, or even return to a company role. The main point is that co-founding feels like a major long-term commitment and recent frustrations with other people have made the author wary of collaboration. The conclusion is that the decision remains unresolved, so the author plans to keep thinking and journaling rather than rush into a partnership."
 ---
 
 Today I was supposed to have a third call with an old friend to talk about Anchor, a codenamed project that we both think could be a viable B2B business related to AI.

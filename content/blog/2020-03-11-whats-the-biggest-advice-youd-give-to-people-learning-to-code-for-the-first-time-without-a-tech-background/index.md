@@ -4,6 +4,7 @@ date_published: "2020-03-11"
 tags: ["Tech", "Career"]
 fav: true
 backlinks:
+ai_summary: "The post argues that people learning to code without a tech background should not fixate on the gap between themselves and CS degree holders, because credentials matter less than they often assume. It says that being kind, receptive to feedback, and able to work well with others can outweigh formal qualifications, and concludes that a decent coding ability combined with strong social traits is often enough to get hired and succeed."
 ---
 
 ![advice to people learning to code for the first time nick ang blog](images/advice-to-people-learning-to-code-for-the-first-time-nick-ang-blog-1024x768.jpg)

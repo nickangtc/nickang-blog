@@ -2,6 +2,7 @@
 title: "Drone delivery"
 date_published: "2016-10-09"
 backlinks:
+ai_summary: "The post argues that drone delivery is on the verge of mainstream adoption, driven by companies like Amazon, Flirtey, DJI, and GoPro, and compares its potential disruption to Uber and Airbnb. It questions some current delivery approaches, notes that regulation, safety, and security remain major hurdles, but concludes that once one workable business model succeeds, drone delivery could spread rapidly within the next one or two decades."
 ---
 
 ![drone hovering over forest](images/drone-flying-1024x683.jpeg)

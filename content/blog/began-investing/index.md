@@ -6,6 +6,7 @@ excerpt: "It's not just to beat inflation."
 tags: ["Money", "Living"]
 fav: false
 backlinks:
+ai_summary: "The post explains why the author has finally begun investing, starting with a $10,000 purchase of an S&P 500 index ETF after realizing that simply saving cash is not enough for long-term financial security. The main point is that investing is necessary not just to beat inflation, but to build enough wealth to support retirement, time off during a career, and more control over life as a parent and worker. The conclusion is that a simple, long-term investment strategy is the practical solution for making money generate more money over time."
 ---
 
 I just put in $10,000 into buying an exchange-traded fund (ETF) that mirrors the S&P 500 index and it feels like I've just laid put the first foundational stone on my future life.

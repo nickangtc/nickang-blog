@@ -4,6 +4,7 @@ date_published: "2021-03-14"
 excerpt: "It's not you, it's me."
 tags: [Writing]
 backlinks:
+ai_summary: "The post reflects on the anxiety of facing a blank page and the author’s self-judgment when unable to write, rather than any fear of the page itself. It argues that turning thoughts into words can be blocked by tangled thinking, self-censorship, or physical pain, and concludes that the blank page is patient while the responsibility lies with the writer to work through those blocks."
 ---
 
 Hello, blank page.

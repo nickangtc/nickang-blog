@@ -3,6 +3,7 @@ title: "Join me in executing my first marketing plan"
 date_published: "2018-11-17"
 tags: ["Business"]
 backlinks:
+ai_summary: "The author describes writing his first marketing plan for his wife’s online wedding veil store, ang veil yú, after previously having little serious attention to marketing. He says the plan focuses on driving initial traffic, improving organic search, and building brand awareness in Singapore, and concludes that the exercise was useful while highlighting how many important marketing questions remain as he starts from scratch."
 ---
 
 ![executing my first marketing plan nick ang blog](images/executing-my-first-marketing-plan-nick-ang-blog.png)

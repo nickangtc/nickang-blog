@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Engineering because we can't be trusted"
 date_published: "2016-08-05"
 backlinks:
+ai_summary: "The post argues that engineering is driven by a recognition that humans cannot reliably regulate their own minds or behavior, so they build external systems to compensate. It uses examples like voting systems, video cameras, and social media to suggest that engineers create structures to manage human flaws, concluding that engineers tend to think ahead of everyone else."
 ---
 
 Sometimes I feel like engineers engineer because they know that humans cannot be trusted to take charge of what's inside their mind and body. So they make things that people can then rely on to induce the adjustments that should've been taken care of by themselves, internally.

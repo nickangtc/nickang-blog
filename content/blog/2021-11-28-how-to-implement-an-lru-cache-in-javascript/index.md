@@ -5,6 +5,7 @@ excerpt:
 tags: ["Tech"]
 fav: false
 backlinks:
+ai_summary: "The post explains how to implement an LRU cache in JavaScript, defining its behavior as evicting the least recently used entry when capacity is exceeded while updating recency on gets and replacements. The author argues that an efficient LRU cache should achieve O(1) set and get operations, and shows a design using a doubly linked list plus a plain object to meet that goal. The conclusion is that this combination provides a practical, testable implementation suitable for common caching use cases such as recent files and frequently accessed media."
 ---
 
 LRU = least recently used.

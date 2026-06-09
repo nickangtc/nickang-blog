@@ -7,6 +7,7 @@ tags: ["Living", "Creativity"]
 fav: false
 creation_duration_minutes: 10
 backlinks:
+ai_summary: "The post describes the author’s three-year-old daughter rescuing a crooked unicorn sticker by deciding it was meant to be “jumping,” turning a mistake into part of the artwork. The author uses this moment to argue that creativity often works by inventing a story to justify or transform an unintended flaw, much like TV writers do when building explanations into a fixed situation."
 ---
 
 My daughter did some pasting handicraft recently and it involved a couple of unicorn stickers.

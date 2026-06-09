@@ -10,6 +10,7 @@ backlinks:
     title: "Why use Binary Search Tree?"
   - slug: "/bite-size-programming/"
     title: "Bite Size Programming"
+ai_summary: "The post explains binary search as a search algorithm that efficiently finds an item in a sorted list by repeatedly checking the midpoint and discarding half the remaining data, illustrated with a phone book example. Its main point is that binary search is very fast, with O(log n) time complexity, but it only works on sorted input, so unsorted data must be sorted first. It concludes by presenting a JavaScript implementation and suggesting that tracing the steps on paper is the best way to understand it."
 ---
 
 ![binary search blog banner nickang](images/BSP-binary-search-2.png)

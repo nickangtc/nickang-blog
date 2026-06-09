@@ -7,6 +7,7 @@ backlinks:
     title: "How to get started with programming (part 1)"
   - slug: "/2019-12-29-the-best-approach-to-start-learning-to-code/"
     title: "The best approach to start learning to code"
+ai_summary: "The post argues that beginners should start programming with JavaScript because it is widely used for web apps, has grown into a full-featured language for front-end, back-end, and native apps, and benefits from a large, well-documented community. It recommends freeCodeCamp as the best learning resource because it emphasizes hands-on coding and offers strong community support, while noting that other tools may be too guided. The conclusion is that aspiring programmers should begin learning by doing and use freeCodeCamp as a practical roadmap into programming."
 ---
 
 ![how to get started with programming banner nickang blog](images/how-to-get-started-with-programming-banner-nickang-blog.png) 

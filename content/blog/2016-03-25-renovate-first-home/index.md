@@ -2,6 +2,7 @@
 title: "Should You Go All-Out to Renovate Your First Home?"
 date_published: "2016-03-25"
 backlinks:
+ai_summary: "The post weighs whether a first home should be renovated all at once or gradually, using the author’s experience of slowly renovating and living in a bare apartment in Singapore. The main point is that bit-by-bit renovation can save substantial money and create a stronger sense of ownership through hands-on effort, but it also means temporary discomfort and inconvenience. The author concludes that the best choice depends on whether the couple is comfortable living through a transitory phase and should be decided together based on finances, stress, and lifestyle."
 ---
 
 _From [Quora](https://www.quora.com/Should-you-renovate-the-whole-house-at-once-or-little-by-little):_ 

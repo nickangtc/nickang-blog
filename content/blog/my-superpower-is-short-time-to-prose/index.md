@@ -6,6 +6,7 @@ excerpt: "Includes a list of examples that illustrate the benefits of this super
 tags: ["Productivity", "Communication"]
 fav: false
 backlinks:
+ai_summary: "The post argues that years of casual blogging have given the author a short thought-to-prose time, which makes workplace communication faster, clearer, and more effective across Slack, email, meeting summaries, feedback, and documentation. The author concludes that this writing speed is a genuine professional advantage and encourages others to develop the same skill."
 ---
 
 Of all the trickle-down benefits that I get from my innate desire to write blogs, the most valuable seems to be the ability to write decent prose in a short time.

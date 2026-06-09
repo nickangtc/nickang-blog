@@ -4,6 +4,7 @@ date_published: "2021-02-07"
 excerpt: "If you are distracted at home, just sitting facing a different direction could fix it."
 tags: 
 backlinks:
+ai_summary: "The post reflects on how being inside rooms and buildings can feel box-like, and how posture and orientation in a room affect concentration. The author describes getting distracted while writing at home and finding that simply turning 90 degrees to face the window instead of a spouse restored focus and even inspiration. The practical conclusion is that changing the direction one faces, without changing location, can help re-establish attention."
 ---
 
 When I'm in a room and I stop to think about that fact, I realise that I'm really in a box. These four walls, they envelop me. When I zoom out and think about the corridor leading to my apartment door and the lift around the corner, I realise the whole building is just a bigger box. A bigger box containing smaller boxes with elongated boxes that provide passage.

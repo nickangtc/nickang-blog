@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-12-25-implementing-queue-javascript/"
     title: "Implementing a Queue in JavaScript?"
+ai_summary: "The post explains what a stack is, using the usual last-in, first-out model and the call stack as a real-world programming example, then asks whether JavaScript needs a separate Stack implementation. The author concludes that it usually does not, because Array already provides the needed push, pop, and length behavior to function as a stack."
 ---
 
 This is the stupidly simple question I asked myself today as I was trying to familiarise myself with data structures. Is there ever a need to implement a stack data structure in JavaScript when the built-in [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) data structure already exists?

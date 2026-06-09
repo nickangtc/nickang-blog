@@ -6,6 +6,7 @@ excerpt: "I had unthinkingly been buying and using mechanical keyboards to signa
 tags: ["Tech"]
 fav: false
 backlinks:
+ai_summary: "The author reflects on trying several mechanical keyboards as a software engineer, motivated partly by community norms and the desire to fit in, but finding that they caused wrist pain and slower typing compared with the standard Apple Magic Keyboard. He concludes that the keyboard trend was a socially influenced choice rather than a personal need, and that he works better and more comfortably without mechanical keyboards."
 ---
 
 

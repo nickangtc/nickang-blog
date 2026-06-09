@@ -11,6 +11,7 @@ backlinks:
     title: "How to create simple Command Line Program with Node"
   - slug: "/2021-05-09-hard-work-is-hard-work/"
     title: "Hard work is hard work"
+ai_summary: "The post reflects on attending a programming bootcamp twice, first as a student and later as a teaching assistant, and argues that bootcamps can be a viable route into software engineering because they align with market demand and teach practical, job-ready skills. It stresses that the experience is intense, success depends heavily on the quality of instructors and the student’s mindset, and the most valuable outcome is learning how to learn rather than simply memorizing tools. The author concludes that bootcamps suit different goals, not only career changers but also people who want to test their fit for programming or gain a useful technical complement to other work."
 ---
 
 ![Programming bootcamps blog image](./images/programming-bootcamps.png)

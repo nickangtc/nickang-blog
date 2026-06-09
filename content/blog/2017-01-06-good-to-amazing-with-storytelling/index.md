@@ -2,6 +2,7 @@
 title: "Go from good to amazing with storytelling"
 date_published: "2017-01-06"
 backlinks:
+ai_summary: "The post reflects on the end of a web development course project and highlights one student’s game about maintaining a cyborg dinosaur, which impressed the author less for its technical complexity than for its storytelling. The main point is that a compelling narrative can make even a fairly simple game feel remarkable by drawing players into an emotional and imaginative experience. The author concludes that good storytelling is what turns a good game into an amazing one."
 ---
 
 Today marks the end of the first project for WDI7, the 7th web development course to run at General Assembly Singapore, and boy is my mind dizzy. These guys are _amazing_.

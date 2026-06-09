@@ -6,6 +6,7 @@ excerpt: "It was when I was learning to code."
 tags: ["Creativity"]
 fav: false
 backlinks:
+ai_summary: "The post reflects on a 2017 coding bootcamp, where the author found daily morning blogging made the intense learning period feel effortless and deeply enjoyable. The main point is that writing notes helped the author process programming ideas, develop as both a programmer and a writer, and capture early thoughts for future grounding. The conclusion is that those blog posts remain a valuable record the author can revisit and share with others without sounding presumptive."
 ---
 
 One of the most amazing periods of my life is something unexpected.

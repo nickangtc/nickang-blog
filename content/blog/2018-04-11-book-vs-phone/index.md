@@ -2,6 +2,7 @@
 title: "Book vs phone"
 date_published: "2018-04-11"
 backlinks:
+ai_summary: "The author contrasts books and phones, arguing that books feel productive, quiet, tactile, and focused, while phones feel disruptive, expansive, and attention-grabbing. The main point is that books invite active contemplation and have lasting value, whereas phones tend to engage the user and become obsolete quickly. The conclusion is that the author tries to prefer holding a book over a phone."
 ---
 
 For me, holding a book elicits a different feeling compared to holding a phone. The former feels productive, quiet, and tactile; the latter feels more potent, disruptive, and distant.

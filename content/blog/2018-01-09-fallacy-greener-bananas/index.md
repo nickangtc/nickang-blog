@@ -4,6 +4,7 @@ date_published: "2018-01-09"
 backlinks:
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
+ai_summary: "The post uses a grocery-store discussion about choosing greener bananas and later-expiry milk to explore how everyday habits can turn into assumptions about the “right” way to decide. The author argues that such rules are not universal, because the best choice depends on a person’s own needs and context, and what has worked before may not suit others or the future. The conclusion is that people should be mindful of their habits and present them as personal experience rather than one-size-fits-all advice."
 ---
 
 ![row of bananas mostly yellow with one green](images/lotte-lohr-766.jpg) 

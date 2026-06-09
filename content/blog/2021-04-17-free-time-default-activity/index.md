@@ -4,6 +4,7 @@ date_published: "2021-04-17"
 excerpt: "My default activity when I have free time is to write."
 tags: ["Living"]
 backlinks:
+ai_summary: "The author argues that noticing how much mental energy is spent deciding what to do with small pockets of free time led them to adopt a single default activity: writing. By making writing the automatic choice, they save cognitive fuel, reduce decision fatigue, and preserve energy for more meaningful work, while noting that others may need trial and error to find their own best default."
 ---
 
 Towards the end of my 20s and the beginning of my 30s, I suddenly gained the remarkable ability to see my cognitive fuel being depleted as a day goes by. At a party I'd probably describe it as, "It's like I can see the amount of brain juice I have left for the day. Each time my brain takes a sip, I can feel it."

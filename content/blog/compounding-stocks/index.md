@@ -6,6 +6,7 @@ excerpt: "Cash in the bank compounds in interest. Stocks in an account compounds
 tags: ["Money"]
 fav: false
 backlinks:
+ai_summary: "The author explains how stock investments compound by focusing on the growing total value of shares owned, not on interest payments, using monthly contributions and assumed long-term price growth in a spreadsheet. He concludes that even modest average returns can produce significant gains over decades, and that the exact share price matters far less than time in the market and consistent investing."
 ---
 
 Cash in the bank compounds in interest. Stocks in an account compound in... what exactly?

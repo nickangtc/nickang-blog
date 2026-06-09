@@ -2,6 +2,7 @@
 title: "Uber feature request: An emergency red button"
 date_published: "2017-08-17"
 backlinks:
+ai_summary: "The post argues that Uber should add an in-app emergency red button for passengers to use when a driver appears dangerously sleepy or otherwise unsafe. The author illustrates the need with a personal ride in which a driver seemed to doze off at 4 a.m., then proposes a system that would flag the trip, alert the driver to stop for a break, and verify compliance using trip data. The conclusion is that such a safety feature could prevent serious accidents and give riders another reason to trust and keep using Uber."
 ---
 
 Hello imaginary Uber product manager, if I may, I have a feature requests as a frequent user of your product. This is related to safety.

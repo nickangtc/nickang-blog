@@ -8,6 +8,7 @@ fav: false
 backlinks:
   - slug: "/2021-11-19-prioritise-regularity-over-quality/"
     title: "Prioritise regularity over quality"
+ai_summary: "The poem contrasts short-lived effort with long-lasting history, arguing that human work has often produced quantity rather than quality. Its main point is that shallow, easy actions remain futile until they become skilled and meaningful, with the final line suggesting that only then can something approaching divinity be reached."
 ---
 
 *(This is #8 of 30 raw essays in 30 days. It's a poem.)*

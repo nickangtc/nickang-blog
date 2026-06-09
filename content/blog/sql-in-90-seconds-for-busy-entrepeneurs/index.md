@@ -6,6 +6,7 @@ excerpt: "Use this as your starting point."
 tags: ["Tech", "Tutorial", "Business"]
 fav: false
 backlinks:
+ai_summary: "The post gives a quick introduction to SQL for entrepreneurs, explaining that it is used to retrieve, manage, and organise data stored in tables with defined types and constraints. It highlights core features such as SELECT, JOIN, INSERT/UPDATE/DELETE, transactions, sorting and aggregation, and indexes, with the main point that SQL is a practical tool for keeping business data accurate and efficiently queryable."
 ---
 
 ## SQL is for managing and querying data

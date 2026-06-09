@@ -6,6 +6,7 @@ excerpt:
 tags: ["Tech"]
 fav: false
 backlinks:
+ai_summary: "The post argues that employees should be willing to buy their own work tools when an employer-provided option is inadequate, even if it feels mentally objectionable to pay for software used on a company laptop. Using a screenshot and screencast app as the example, the author says the $29 purchase greatly improved productivity and quality, making it an easy decision in hindsight. The conclusion is that for relatively small costs, professionals should prioritize getting the job done over debating who should technically pay."
 ---
 
 Your employer should pay for the tools that you need to use to get your job done, right? Right??

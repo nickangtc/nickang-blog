@@ -3,6 +3,7 @@ title: "The better way to approach a new programming language at work"
 date_published: "2017-04-08"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post argues that when learning Python and Django at work, the author initially relied on mimicking existing code in a large codebase rather than studying the language and framework fundamentals. This seemed faster at first, but it became clear during a weekly report revamp that copying patterns slowed problem-solving when no similar example existed, while reading the documentation and understanding the tools would have saved time. The conclusion is that engineers should prioritize deep understanding over imitation because it improves effectiveness and speed in the long run."
 ---
 
 ![](images/jay-wennington-2250-min-1024x683.jpg)

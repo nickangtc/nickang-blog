@@ -4,6 +4,7 @@ date_published: "2021-04-23"
 excerpt: "He appears mad, but I love that he knew what he loved."
 tags: ["Creativity", "Living"]
 backlinks:
+ai_summary: "The post reflects on Werner Herzog’s Grizzly Man and Timothy Treadwell’s fatal obsession with grizzly bears in Alaska, seeing in him both recklessness and a rare clarity about what he loved. The author uses that example to consider their own search for meaningful work and to conclude that, with a child on the way, loving and providing for the baby may be enough, while continuing to write and share personal memories remains important."
 ---
 
 ![Grizzly Man, Timothy Treadwell, in the documentary by Werner Herzog](./images/grizzly-man-werner-herzog-film.png)

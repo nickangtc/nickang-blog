@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Get noticed in tech"
 date_published: "2017-02-23"
 backlinks:
+ai_summary: "The post argues that people entering tech should use accessible content such as YouTube, blogging, or podcasts to increase visibility and make their skills, ideas, and personality known to others. It says this kind of content can help attract programmers, recruiters, and potential employers, especially if someone is looking for a person with exactly those abilities. The conclusion is that if a visitor cannot quickly tell what someone offers, they should build a clearer platform for being understood."
 ---
 
 What platform are you using to get noticed in tech?

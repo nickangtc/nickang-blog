@@ -6,6 +6,7 @@ excerpt: "You are responsible for delivering a project. Prioritise the work in s
 tags: ["Productivity"]
 fav: false
 backlinks:
+ai_summary: "The author reflects on how to prioritise multiple software project work chunks, especially after moving from Big Tech to a startup where many tasks seem simultaneously urgent or important. He argues that prioritisation should consider both the workchunk itself and the organisational context, including customer value, uncertainty, urgency, strategic impact, staffing, and dependencies. He concludes that there may be no single perfect framework, only a set of important questions that help avoid rushed decisions and improve best-guess prioritisation."
 ---
 
 When you have bitten off -- or been assigned -- a project that involves many tasks, how do you group and prioritise the work?

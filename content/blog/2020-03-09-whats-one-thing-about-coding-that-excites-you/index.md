@@ -2,6 +2,7 @@
 title: "What's one thing about coding that excites you?"
 date_published: "2020-03-09"
 backlinks:
+ai_summary: "The author says coding is exciting because it empowers them to automate repetitive tasks, freeing time for more proactive and creative work. They illustrate this with a colleague using Terminal and the `sips` command to bulk resize images, and explain that their role as a Service Operations Engineer shapes this perspective because they often build internal tools and ad hoc scripts to solve practical problems. Their conclusion is that coding’s appeal lies in its ability to create useful, hacky solutions that remove friction and help people get unstuck."
 ---
 
 ![what is one thing about coding that excites you?](images/what-is-one-thing-about-coding-that-excites-you-nick-ang-blog-3.png)

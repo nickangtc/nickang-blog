@@ -4,6 +4,7 @@ date_published: "2021-05-30"
 excerpt: "Disable comments, don't disseminate on social media, and always attribute credit."
 tags: ["Creativity", "Tech"]
 backlinks:
+ai_summary: "The post argues that the web has become too noisy and that a more thoughtful model is needed, using the author’s own site as an example. It proposes three practices: replacing public comments with email-only feedback, sharing new posts by email instead of social media, and always giving clear attribution to make the web kinder and more connected. The conclusion is that a more thoughtful web must be designed intentionally."
 ---
 
 Right now the web is a very noisy place. It's a constant shouting contest, and very few people, even those with good intentions, speak softly and with conviction. The first page results from a google search provide all the evidence of this.

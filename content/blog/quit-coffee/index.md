@@ -7,6 +7,7 @@ tags: ["Living", "Good intentions"]
 fav: false
 creation_duration_minutes: 35
 backlinks:
+ai_summary: "The author describes quitting coffee at the start of 2025 to pursue a clearer, calmer mental state, arguing that caffeine disrupts the “nothingness” they see as necessary for presence and free will. By December 2025, after nine months without regular coffee, they conclude the experiment improved mood stability and energy, but that coffee is too embedded in their life to avoid permanently. They decide to resume one cup a day, reducing intake only when sleep or mood worsen."
 ---
 
 I quit coffee in 2025.

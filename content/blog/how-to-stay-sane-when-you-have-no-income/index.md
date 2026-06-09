@@ -6,6 +6,7 @@ excerpt: "Don't take damage when you're moving through life at a steady clip"
 tags: ["Substack", "Business"]
 fav: false
 backlinks:
+ai_summary: "The post argues that for someone building a business with no current revenue, weekends and rest should not be treated as failures or something to feel guilty about. The author says the real issue is sustainable pacing: by recognizing all sources of cash flow and the actual financial runway available, one can focus on building steadily without sacrificing family time or mental health."
 ---
 
 [![image](./images/image-02.jpg)](./images/image-01.jpg)Working from the car in between shuttling the kid to classes after kindergarten

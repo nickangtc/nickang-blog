@@ -8,6 +8,7 @@ backlinks:
     title: "Not now"
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
+ai_summary: "The post reflects on the author’s experience with meditation, noting that brief unguided sessions sometimes reveal that peace is available from within, even though daily life still involves struggle and mental turmoil. It also describes how regular gym workouts and the companionship of dogs have improved the author’s mental well-being, especially after learning about an old friend’s severe depression and suicide attempts. The conclusion is that simple, sustainable practices like meditation, exercise, and animal companionship can help people feel better and may reduce the tendency to beat themselves down."
 ---
 
 ![boat quay nickang](images/boat-quay-nickang-1024x1024.jpg) 

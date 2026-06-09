@@ -9,6 +9,7 @@ creation_duration_minutes:
 backlinks:
   - slug: "/brain-sprints-without-caffeine/"
     title: "Brain surges without caffeine are possible"
+ai_summary: "The post describes how giving up coffee in early 2025 significantly reduced the author’s anxiety and led him to notice how paying attention to small patterns in daily life helped him identify the cause. He argues that attention is not only useful for solving problems but also deepens awareness, making it easier to connect experiences, observe changes like seasonal light in Germany versus Singapore, and reflect more clearly. The conclusion is that better noticing and better living reinforce each other, with reduced caffeine seeming to improve his ability to sustain attention."
 ---
 
 At the beginning of 2025, after a year-long confusion about why I've been feeling increasingly anxious, I decided to give up coffee. By the end of January, a month after giving up the substance, my anxiety has fallen significantly. I feel about as confident as I was as a university student again (that is, very confident).

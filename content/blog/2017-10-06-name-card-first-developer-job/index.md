@@ -3,6 +3,7 @@ title: "The name card I used to get my first developer job"
 date_published: "2017-10-06"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post describes how the author used a handwritten, reused name card to help land a first developer job, rather than printing new cards for job hunting. The main point is that a simple, unusual card can start conversations, make a candidate memorable, and even work better than polished alternatives because it gives employers a story to remember. The author concludes that this kind of low-cost, personal approach can be an effective job-search tactic, especially when it helps reinforce the applicant’s background and initiative."
 ---
 
 Going for a light-hearted post today. I want to share with you the ridiculously simple name card that I used to get my first developer job.

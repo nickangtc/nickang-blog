@@ -4,6 +4,7 @@ date_published: "2019-02-22"
 backlinks:
   - slug: "/2020-06-03-direct-feedback/"
     title: "Direct feedback"
+ai_summary: "The post describes the author feeling tired, confused, and mildly depressed after a workday that was initially going well, with the main trigger being frustration over workplace politics and indirect communication. The author concludes that the negative mood came partly from allowing that irritation to take hold, and that if radical candour is truly valued, the response should be to give feedback about the lack of direct feedback. Despite the frustration, the author ends by expressing gratitude that this dynamic is the exception at their workplace."
 ---
 
 I'm tired and confused and feeling a little depressed. The day didn't start out like this. I was chirpy this morning having done a workout in the gym before heading to work.

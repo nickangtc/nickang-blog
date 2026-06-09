@@ -8,6 +8,7 @@ fav: false
 backlinks:
   - slug: "/fluid-browser/"
     title: "Fluid browser?"
+ai_summary: "The author describes experimenting with a smaller, safer personal AI agent setup called NanoClaw, using it to manage tasks through Telegram and to build workflows where multiple AI agents research and create demo websites with little to no direct coding. He also explains a shift toward making quick money by building low-cost restaurant websites from Google Maps leads, while acknowledging that app-building and marketing are harder to succeed at right now without more time. The post concludes that AI skills are becoming essential and that 2026 will be a pivotal year for careers, so learning to use AI now is critical to avoid being left behind."
 ---
 
 Hey folks. So, just a quick update on what I've been up to in this Slow Riches phase of my life. The whole thing is actually a talking head video that I've recorded on a whim (10 mins). You can either watch the video or you can read the transcript below:)

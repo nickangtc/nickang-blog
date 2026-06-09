@@ -2,6 +2,7 @@
 title: "Who's responsibility is it when something breaks?"
 date_published: "2018-11-29"
 backlinks:
+ai_summary: "The post examines who is responsible when a software feature breaks, using a Shopify recommendations widget example where a new predictive feature causes poorly cropped product images to appear on a store. The author argues that blame should be shared, but the app maker bears more responsibility because new features should be thoroughly tested and rolled out gradually, while users still owe basic due diligence by checking that their site looks correct."
 ---
 
 ![Who's responsibility is it when something breaks?](images/responsibility-when-something-breaks-1024x683.jpg)

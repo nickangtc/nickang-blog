@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Breaking the coding"
 date_published: "2016-11-09"
 backlinks:
+ai_summary: "The author describes feeling burnt out after three months of coding daily in JavaScript and Ruby, especially while trying to polish old projects before an upcoming meet-and-greet. The main point is that fatigue should be recognized and accepted rather than ignored, because pushing through it lowers productivity and motivation. The author concludes by taking a break from the laptop to read, relax, and return to coding later with fresher energy."
 ---
 
 Coding feels like a chore today.

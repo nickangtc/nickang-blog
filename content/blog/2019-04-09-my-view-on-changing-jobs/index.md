@@ -3,6 +3,7 @@ title: "My view on changing jobs"
 date_published: "2019-04-09"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post argues that changing jobs for a better offer is acceptable, but leaving a company too soon, especially within a year, is unfair to colleagues and to the time spent onboarding the employee. The author believes workers should consider loyalty and give management a chance to respond to a looming offer, yet ultimately prioritize their own growth and family needs. The main conclusion is that companies must regularly work to retain good employees, because employees do not owe long-term staying purely out of gratitude."
 ---
 
 ![my view on changing jobs nick ang blog](images/my-view-on-changing-jobs-nick-ang-blog-1024x683.jpg) 

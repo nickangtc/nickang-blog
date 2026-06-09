@@ -4,6 +4,7 @@ date_published: "2021-01-17"
 excerpt: "The solution is really simple - place your external monitor farther and enlarge the system's font size."
 tags: ["Living"]
 backlinks:
+ai_summary: "The post discusses how a computer worker reduced eyestrain by using an external monitor placed farther from the face and increasing font size. The author says these changes, supported by a research paper, eliminated recurring eye fatigue and slightly improved eyesight by reducing the effort needed for focusing. The conclusion is that people who spend long hours on screens should try these simple adjustments, along with regular breaks and sensible monitor settings."
 ---
 
 ![Illustration of two external monitor setups, one with larger font and farther distance - that is recommended for reducing eyestrain!](./images/reduce-eyestrain-increase-screen-distance-enlarge-font-nick-ang.png)

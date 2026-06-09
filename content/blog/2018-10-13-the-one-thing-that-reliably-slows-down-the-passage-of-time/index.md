@@ -4,6 +4,7 @@ date_published: "2018-10-13"
 backlinks:
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
+ai_summary: "The author argues that reading books makes time feel slower than watching videos or scrolling through social media because books require the mind to actively construct meaning and imagery rather than passively receive it. The conclusion is that, if someone wants to slow the subjective passage of time, reading a book is the most reliable way the author knows."
 ---
 
 ![](images/e15c7669-4500-4c75-8090-6b8cfa3f1fb5-19038-0000056da4327c99.jpg)

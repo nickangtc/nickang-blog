@@ -6,6 +6,7 @@ excerpt: "I have a tendency to evaluate myself too early. So I ask myself, have 
 tags: ["Leadership"]
 fav: true
 backlinks:
+ai_summary: "A new team leader reflects on feeling ineffective while juggling multiple responsibilities and says advice from colleagues helped him separate not being naturally good at something from simply not having spent enough time developing it. He concludes that before assuming weakness, one should ask whether enough time has been invested to gain competence, and suggests “passion trials” as a way to test interests by practicing long enough to improve."
 ---
 
 I've been talking to several colleagues at work to find out what I'm lacking as a new team leader in the organisation. I did that because I was beginning to feel all over the place, doing a little here and there. Something about spreading myself thin feels wrong. It feels like I'm not focusing, and if I'm not focusing, how can the team of people that I lead focus? And if they do focus, how would I know if they're focusing on the right things?

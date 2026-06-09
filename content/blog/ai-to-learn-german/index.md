@@ -7,6 +7,7 @@ tags: ["Living", "Tech"]
 fav: false
 creation_duration_minutes: 27
 backlinks:
+ai_summary: "The author describes using ChatGPT’s voice mode to check and improve German phrases in everyday situations while living in Germany, using a bouldering gym cash-payment mix-up as an example. The main point is that AI can understand mixed-language speech and suggest more natural local expressions, making it a powerful tool for language learning. The conclusion is that the author expects to rely on this method often because it could help accelerate German fluency toward a near-native level."
 ---
 
 I'm in a bouldering gym. The lady over the counter tells me it's 12.90 euros, please.

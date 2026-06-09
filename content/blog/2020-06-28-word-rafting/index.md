@@ -13,6 +13,7 @@ backlinks:
     title: "Stop to think"
   - slug: "/annual-review-2020/"
     title: "My 2020 Annual Review"
+ai_summary: "The post explains the idea of a “word raft,” a small accountability group of up to five people committed to publishing a weekly article, with members removed if they stop contributing. The author says he joined to write regularly, document and retain his learnings, and share clearer advice with others, especially younger people entering tech. He concludes that the arrangement feels right and expresses enthusiasm for the writing journey ahead."
 ---
 
 Once in a while an idea comes along that feels right. I've learned to be biased towards acting on such ideas when they appear, and today I'm taking action on an idea by someone I honestly barely know from twitter. The idea is to join a word raft.

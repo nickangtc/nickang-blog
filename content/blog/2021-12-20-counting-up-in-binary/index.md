@@ -5,6 +5,7 @@ excerpt: "Not knowing how to count up in binary is not a big deal. But it is nic
 tags: ["Tech"]
 fav: false
 backlinks:
+ai_summary: "The post explains how to count in binary, a basic concept of how computers represent data. The author argues that while application developers may not need binary for everyday work, revisiting it helps build confidence about how files and other underlying computer data are actually represented."
 ---
 
 This is one of those things that is very easy to forget when unused. But I find that it's something worth revisiting now and again because it's so fundamental to how computers work. 

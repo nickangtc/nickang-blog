@@ -6,6 +6,7 @@ excerpt: "Can a projector screen help me watch less TV? Conclusion: Yes. Get one
 tags: ["Good intentions", "Living"]
 fav: false
 backlinks:
+ai_summary: "The author describes buying a €123.66 projector screen to move a projector TV out of the bedroom and make habitual viewing less convenient, following the habit-design idea from Atomic Habits. After 10 days, the added setup friction led to more reading, less projector use, and a calmer bedroom environment, so the author concludes the purchase was a good decision despite the cost."
 ---
 
 I just ordered a projector screen from Amazon and wanted to make a note of my good intention with it: I want to watch TV less habitually by moving my projector TV out of my bedroom and into the living room. The missing piece is a backdrop to project onto.

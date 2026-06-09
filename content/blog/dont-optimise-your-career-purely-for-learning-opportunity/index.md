@@ -7,6 +7,7 @@ tags: ["Career", "2025 - Notice"]
 fav: false
 creation_duration_minutes:
 backlinks:
+ai_summary: "The post argues that although a software engineer might think about moving into product management, the two roles differ in important ways that make the transition less straightforward. It emphasizes that PM work typically demands more interpersonal energy and offers less flow and direct craft satisfaction than engineering, leading the author to conclude that changing roles should be weighed carefully rather than treated as an easy upgrade."
 ---
 
 I find myself in a lucky position where I believe my role is malleable. I'm currently a Software Engineer building mostly web applications, but I believe I can pull off a transition to an adjacent role like Product Management if I tried hard enough - a transition that many engineers have done before.

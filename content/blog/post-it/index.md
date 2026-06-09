@@ -7,6 +7,7 @@ tags: ["Career", "Communication", "Good intentions"]
 fav: false
 creation_duration_minutes: 26
 backlinks:
+ai_summary: "On his first week at a startup, the author encountered a toilet door lock he found ambiguous and, after waiting, entered an empty stall before posting a hand-drawn note explaining how the lock indicated occupied versus vacant. When a colleague later mocked the sign as obvious, the author took it as evidence of both poor empathy and poor judgment in the workplace. He concluded that this moment showed him the startup had a culture he would not fit into."
 ---
 
 It was my first week at a startup. I was in the office meeting people and setting up my laptop, doing all that typical week 1 stuff.

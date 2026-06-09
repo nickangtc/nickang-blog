@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-04-08-how-to-learn-new-programming-language-work/"
     title: "The better way to approach a new programming language at work"
+ai_summary: "The author argues that beginner web programmers should learn core HTML, CSS, and JavaScript before relying on tools like jQuery and Bootstrap, because shortcuts can hide fundamental concepts such as grids, event listeners, and vanilla JavaScript. The conclusion is that mastering the basics first makes developers more capable, less dependent on external libraries, and less vulnerable to problems caused by changing or unavailable dependencies."
 ---
 
 ![classroom of students at general assembly singapore learning programming](images/20160819-DSCF8120-1024x683.jpg) 

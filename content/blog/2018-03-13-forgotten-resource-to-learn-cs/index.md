@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "A forgotten resource to learn CS"
 date_published: "2018-03-13"
 backlinks:
+ai_summary: "The post highlights teachyourselfcs.com as a forgotten but valuable resource for learning computer science fundamentals and improving as a software engineer. The author argues that strong CS basics are essential both for building practical software and for preparing for technical interviews at major tech companies. The conclusion is that the site fits well with a planned study path toward becoming a better engineer."
 ---
 
 I heard about [teachyourselfcs.com](https://teachyourselfcs.com/) some months earlier, but I'd forgotten all about it. At that time, I haven't had serious thoughts about moving to San Francisco yet.

@@ -3,6 +3,7 @@ title: "Work and money in harmony"
 date_published: "2016-08-09"
 tags: ["Living"]
 backlinks:
+ai_summary: "The post reflects on the tension between earning money and finding meaningful work, with the author arguing that separating the two may seem simpler but would reduce the time available for meaningful pursuits. It concludes that the search continues for a career that is both purposeful and sufficiently paid to support a comfortable life. It also notes, more lightly, that higher-quality coffee beans noticeably improve the author’s focus and productivity, suggesting better coffee may be worth the cost."
 ---
 
 ![hong kong MTR crowd](images/DSCF8017_nickang_edited-1024x683.jpg)

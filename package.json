@@ -47,6 +47,7 @@
     "images:normalize-orientation:fix": "node scripts/normalize-image-orientation.js --fix",
     "content:audit-image-captions": "node scripts/audit-image-captions.js",
     "content:fix-image-captions": "node scripts/audit-image-captions.js --fix",
+    "content:generate-ai-summaries": "node scripts/generate-ai-summaries.js",
     "internal-links": "node scripts/auto-internal-links.js",
     "setup-hooks": "git config core.hooksPath .githooks"
   },

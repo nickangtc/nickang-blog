@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "(US) Crossing States of Being"
 date_published: "2016-04-14"
 backlinks:
+ai_summary: "The post reflects on a Boston-to-New York bus trip and a farewell dinner at the Barking Crab, using the difficulty of ordering expensive seafood to think about how money, age, and adulthood change how one feels. The author’s main point is that even in the mid-20s, feeling unable to order market-priced dishes without worry can be a sign of still being young, and that these transitions should be noticed and savored. The post ends with anticipation for the next leg of the journey from New York to Chicago and then California."
 ---
 
 ![(Guacamole) man of the hour at Qdoba Mexican restaurant in Boston](images/DSCF7589_edited-1024x683.jpg) 

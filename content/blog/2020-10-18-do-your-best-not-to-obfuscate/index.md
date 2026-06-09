@@ -3,6 +3,7 @@ title: "Do your best not to obfuscate"
 date_published: "2020-10-18"
 tags: ["Living"]
 backlinks:
+ai_summary: "The post argues that many environmental, ethical, and practical problems stem from systems that are deliberately or accidentally made obscure, from insurance and food production to web applications and social media advertising. The author says this obfuscation weakens people’s ability to make ethical choices and increases waste, while transparency and clearer rules can restore user control and reduce harm. The conclusion is that systems should be kept as simple and understandable as possible, because obscurity ultimately costs time, resources, and lives."
 ---
 
 I recently watched *A Life on Our Planet*, a documentary that David Attenborough called his witness statement. He talked as if he was testifying against humanity for the stupid things we've done collectively to degrade our only inhabitable planet. I enjoyed the cinematography, but I enjoyed even more the crew's skilful execution in making it clear that we are screwing up badly, and the biggest victims are animals, including us.

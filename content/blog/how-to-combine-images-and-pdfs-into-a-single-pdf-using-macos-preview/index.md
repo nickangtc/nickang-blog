@@ -6,6 +6,7 @@ excerpt: "Some bureaucratic prick demands you combine all your documents neatly 
 tags: ["Tutorial"]
 fav: false
 backlinks:
+ai_summary: "The post explains that macOS Preview can handle common PDF tasks without extra software, including combining multiple PDFs, adding images to an existing PDF, and deleting pages. The author’s main point is that these actions are done intuitively through the thumbnail sidebar by dragging, dropping, or deleting pages, making paid tools like Acrobat or online PDF services unnecessary for many users. The conclusion is that Preview is likely sufficient for most basic PDF-editing needs on a Mac."
 ---
 
 This post is simply to put a stake on the internet help people with macOS computers that the built-in Preview software is probably good enough to meet your needs. You don't need to use ominous online PDF tools or pay for Adobe Acrobat just to combine images and PDFs into a single PDF.

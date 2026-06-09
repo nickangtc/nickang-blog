@@ -11,6 +11,7 @@ backlinks:
     title: "Back on Max at 100 € per month"
   - slug: "/moved-show/"
     title: "Moved Show"
+ai_summary: "The post is a 2025 annual review covering the author’s family life in Germany, his move from software engineering to solo AI-assisted entrepreneurship, health and fitness routines, language learning, and reflections on parenting. His main point is that the year brought meaningful personal growth and clearer self-knowledge, even though the solo-founder path has not yet produced revenue and some health and work-life balance issues remain unresolved. He concludes that staying in Düsseldorf, prioritizing exercise and family time, and pursuing steady incremental progress are the right foundations for the year ahead."
 ---
 
 This has been a year to remember.

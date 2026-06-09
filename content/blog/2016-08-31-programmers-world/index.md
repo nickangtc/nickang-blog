@@ -2,6 +2,7 @@
 title: "Why programmers are always in their own world"
 date_published: "2016-08-31"
 backlinks:
+ai_summary: "The post argues that programmers often seem absorbed in their own world because programming demands intense, uninterrupted concentration. It explains that coding is mentally demanding and dynamic, requiring careful architecture and constant tracking of values, so programmers may appear like zombies or loners while they work."
 ---
 
 ![programming staring at code](images/photo-1453060113865-968cea1ad53a-1024x683.jpeg)

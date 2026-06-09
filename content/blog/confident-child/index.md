@@ -7,6 +7,7 @@ tags: ["Parenting"]
 fav: false
 creation_duration_minutes: 44
 backlinks:
+ai_summary: "The post argues that raising a confident child comes from combining patience with a willingness to let a child take manageable risks, rather than constantly rushing or overprotecting them. Using examples from the author’s toddler, it suggests that allowing independence and minor scrapes helps children learn, build self-reliance, and become safer in the long run. The conclusion is that confidence and bodily trust matter more than avoiding every injury or staying on schedule."
 ---
 
 My wife Charlane and I have developed our distinct parenting style over 3 years of having Charlotte. The distinguishing trait of our approach seems to be a combination of patience and high risk tolerance, as friends who hang out with us like to point out.

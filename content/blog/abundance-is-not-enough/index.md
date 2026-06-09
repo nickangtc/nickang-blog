@@ -7,6 +7,7 @@ tags: ["Living", "Parenting"]
 fav: false
 creation_duration_minutes:
 backlinks:
+ai_summary: "The post describes a father’s sudden outburst at his young daughter over the placement of a plaster, and his shock at how quickly a minor disagreement escalated into conflict. He uses the incident to argue that material abundance is not enough for a good life, because psychological struggles like rage, anxiety, and humiliation still require attention and care. His conclusion is that societies focused on economic growth leave people to handle these emotional problems largely on their own."
 ---
 
 What the hell happened here?

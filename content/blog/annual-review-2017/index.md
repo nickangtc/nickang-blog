@@ -23,6 +23,7 @@ backlinks:
     title: "My 2023 Annual Review"
   - slug: "/annual-review-2025/"
     title: "My 2025 Annual Review"
+ai_summary: "The post lays out the author’s 2018 New Year’s resolutions: relocating to California with his wife and dog for work, developing a commonplace-book habit, finding a sustainable form of exercise, and publishing five posts a week. The main point is that he wants to use the new year to make deliberate, practical changes that improve his career, thinking, health, and public writing. He concludes that writing the resolutions down gave him clarity and motivation, and that keeping the list short makes them more achievable."
 ---
 
 ![moleskine notebook on a table](images/20171216-notebook-nickang-blog-768x1024.jpg)

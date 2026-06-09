@@ -6,6 +6,7 @@ backlinks:
     title: "Dear email HTML, please get better"
   - slug: "/2017-12-14-prevent-jquery-loading-image-parsehtml/"
     title: "How to prevent jQuery from loading image in parseHTML"
+ai_summary: "The post discusses building a drag-and-drop email editor feature in 2017, using React and open-source libraries such as QuillJS, react-quill, and react-dnd. The author argues that modern open-source tools make it possible for a single developer to ship complex features quickly, though this also creates dependency on maintainers and requires careful work on existing codebases. The conclusion is that the current software ecosystem is highly collaborative and has made feature development faster and more accessible than in the past."
 ---
 
 First of all let me admit, I wasn't there to witness what it was like to build web/mobile app features before 2016, since I only became a web developer last year.

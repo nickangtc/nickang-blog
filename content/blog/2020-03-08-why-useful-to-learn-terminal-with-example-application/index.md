@@ -7,6 +7,7 @@ backlinks:
     title: "What's one thing about coding that excites you?"
   - slug: "/2020-05-07-what-i-learned-teaching-colleagues-how-to-code/"
     title: "What I learned from teaching colleagues how to code"
+ai_summary: "The post argues that learning Terminal is worth the initial friction because basic commands build familiarity with how the command line works and prepare users for more powerful automation. It illustrates this with a colleague who used a Terminal one-liner to batch resize invoice photos for email attachments, replacing a slow manual process. The author concludes that mastering the boring basics first makes it far more likely people will use Terminal for useful, creative tasks later."
 ---
 
 ![why it is useful to learn to use the terminal with example application nick ang](images/why-it-is-usefu-to-learn-to-use-the-terminal-with-example-application-nick-ang.png)

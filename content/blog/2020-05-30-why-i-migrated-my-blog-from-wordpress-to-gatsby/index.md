@@ -11,6 +11,7 @@ backlinks:
     title: "Devin added search on this blog"
   - slug: "/why-i-removed-dates-from-my-blog-post-urls/"
     title: "Why I removed dates from my blog post URLs"
+ai_summary: "The author explains that they moved their blog from WordPress on Bluehost to Gatsby on Netlify mainly for faster page loading and because Gatsby uses a modern stack they already know, making maintenance and customization easier. They also note side benefits like writing in Markdown, lower hosting costs, and better backups through Git, while accepting the loss of built-in comments as the main drawback."
 ---
 
 ![blog post banner for post Why I migrated my blog from WordPress to Gatsby](images/wp-to-gatsby-nickang.png)

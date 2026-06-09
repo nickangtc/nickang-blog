@@ -3,6 +3,7 @@ title: "Bite Size Programming - What is programming?"
 date_published: "2017-10-15"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains that programming is the act of writing a computer program: a set of instructions for a computer, typically expressed in English-like text and interpreted by software that executes the meaning of the code. Its main point is that good programming means writing instructions that both the computer and other people can understand, and it concludes by noting that this is only a basic introduction to a broader topic."
 ---
 
 ![what is programming banner nickang blog](images/what-is-programming-banner-nickang-blog.png) 

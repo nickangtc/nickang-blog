@@ -18,6 +18,7 @@ backlinks:
     title: "Adding backlinks to a Gatsby blog without plugins"
   - slug: "/annual-review-2021/"
     title: "My 2021 Annual Review"
+ai_summary: "The post explains types of notes in a personal knowledge management system using a gardening analogy, focusing on atomic notes as the core unit and other notes as supporting tools. The author argues that PKM should shift from simple note-taking to note-making, emphasizing linked, evergreen notes over isolated capture, and describes a single top-of-mind note for inbox and ongoing items as a practical way to process ideas. The conclusion is that a PKM works best when it stays simple, grows connections among atomic notes, and evolves as needed over time."
 ---
 
 *If you're new to PKM, I recommend starting by reading [What is a Personal Knowledge Management system (PKM)?](/2020-07-05-personal-knowledge-management-system/).*

@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "(US) Giant Sequoias and Other Surrealism in Yosemite"
 date_published: "2016-04-22"
 backlinks:
+ai_summary: "The post describes a visit to Yosemite’s Tuolumne Grove to see giant sequoias, which the author finds astonishing in scale and even more surreal when unexpectedly meeting two junior college friends there. The main point is the sense of wonder at both the trees and the improbable coincidence, alongside reflections on how people end up living in remote places. It concludes with a practical note that last-minute hotel booking can save money, as shown by a cheap overnight stay in South Lake Tahoe."
 ---
 
 ![giant redwood tree](images/DSCF8396_edited-1024x683.jpg)

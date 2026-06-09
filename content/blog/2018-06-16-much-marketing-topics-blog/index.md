@@ -7,6 +7,7 @@ backlinks:
     title: "The single most non-obvious thing about advertising on Facebook"
   - slug: "/2018-11-10-lessons-from-launching-a-new-business/"
     title: "Lessons from launching a new business"
+ai_summary: "The post explains that the blog will shift toward more marketing content, especially paid advertising topics like Facebook, Google, Pinterest, automation, Pixels, GDPR, and case studies, because the author has started a new role at Smartly.io. The main point is that building practical knowledge of marketing is necessary to support customers effectively and contribute to the company’s growth, and the author closes by framing this as the start of an exciting learning phase."
 ---
 
 If you've read a few posts on this blog, you'd know that most of them revolve around the topics of technology (technical and non-technical), society and life in general.

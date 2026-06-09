@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "What To Do At 4:55PM"
 date_published: "2016-04-03"
 backlinks:
+ai_summary: "The post reflects on a 4:55 p.m. moment in which the author faces many possible tasks, from writing and reading to preparing for an upcoming U.S. trip, and uses that scene to explore the difficulty of choosing how to spend limited time as an adult. The main point is that, without the structure of school, freelancers and self-directed people often struggle to prioritize among competing responsibilities, and the author has not yet found a reliable system for doing so. The conclusion is tentative but practical: several common time-management habits may be worth trying, even if the process of finding a personal routine feels exhausting."
 ---
 
 ![For me this is as close as it gets to holding onto time](images/time-1024x683.jpeg) 

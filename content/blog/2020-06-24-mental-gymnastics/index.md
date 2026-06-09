@@ -2,6 +2,7 @@
 title: "Mental gymnastics"
 date_published: "2020-06-24"
 backlinks:
+ai_summary: "The author describes following a daily skincare routine organized by a handwritten morning/evening product list that initially improved his skin, but a late swap between two products made the instructions confusing. His main point is that small, messy changes can create ongoing cognitive friction like spaghetti code, so it is better to rewrite instructions clearly than leave people to do repeated mental work."
 ---
 
 My wife recently gave me an elaborate facial procedure to follow daily. She devised a note that consisted of one list for the morning and another for the evening, instructing the order of products to use. It looks like this:

@@ -7,6 +7,7 @@ tags: ["Good intentions", "Announcement", "Business"]
 fav: false
 status: "draft"
 backlinks:
+ai_summary: "The author reflects on how publishing to a newsletter audience leads to clearer, higher-quality writing than posting quietly on a blog, and links this to a growing desire to turn the blog into something more like a media business. To move in that direction, the author plans layout changes such as showing tags, writing custom excerpts, using more images, and pruning weaker posts from the main listing while keeping them accessible elsewhere. The conclusion is that presentation and perceived quality matter to readers, so the blog should be shaped more intentionally to attract attention and build an audience."
 ---
 
 One thing that's been on my mind lately: publishing a post as a newsletter that lands in people's inboxes pushes me to think and write more clearly than publishing a post quietly on a blog like this one.

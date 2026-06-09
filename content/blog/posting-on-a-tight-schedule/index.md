@@ -7,6 +7,7 @@ tags: ["Daily Reflection"]
 fav: false
 creation_duration_minutes: 24
 backlinks:
+ai_summary: "The post is about the challenge of maintaining a regular writing habit while juggling a busy schedule and a perfectionist tendency to finish drafts in one sitting or abandon them. The author argues that the solution is to stop overthinking concerns about voice, audience, platform, or outcome, and simply write and publish even when the work feels incomplete. The conclusion is that publishing regularly is the remedy to these self-imposed loops, and it benefits both the writer and readers."
 ---
 
 Who has a tight schedule, raise your hands!

@@ -17,6 +17,7 @@ backlinks:
     title: "Adding backlinks to a Gatsby blog without plugins"
   - slug: "/annual-review-2020/"
     title: "My 2020 Annual Review"
+ai_summary: "The author argues that a personal knowledge management system is more than note-taking: it is a structured way to capture, connect, and reuse knowledge so it can generate useful new work. Drawing on years of frustration with scattered notes, the author says PKM finally made their information feel organized and actionable, and explains that it requires a chosen tool, clear rules for notes and tags, and repeatable workflows like linking related notes and adding personal reflection."
 ---
 
 ![a visualisation of a neuron firing](images/brain-synapsis.jpg)

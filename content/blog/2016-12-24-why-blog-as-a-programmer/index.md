@@ -4,6 +4,7 @@ date_published: "2016-12-24"
 tags: ["Tech"]
 fav: true
 backlinks:
+ai_summary: "The post argues that programmers should blog about the problems they solve because writing publicly creates a searchable personal knowledge base and makes that knowledge more useful than private notes. The author is persuaded by Sal Farrarello’s idea that blogging helps with recall and plans to publish future programming lessons as posts instead of keeping them in Evernote. The conclusion is that the extra effort is small compared with the long-term value of sharing what one learns, since others will be at the same level tomorrow."
 ---
 
 ![Sal's 4 tips for writing blog posts as a developer](images/Screen-Shot-2016-12-24-at-8.23.04-pm-1024x521.png) 

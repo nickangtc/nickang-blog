@@ -4,6 +4,7 @@ date_published: "2019-12-27"
 tags: ["Tech"]
 fav: true
 backlinks:
+ai_summary: "The post argues that technical skills are not reserved for software developers and can significantly improve performance in roles such as customer success and product management. The author says these skills help people debug problems, automate repetitive work, explain technical issues clearly, and gain trust from colleagues and clients, leading to better outcomes and career prospects. The conclusion is that people should not dismiss technical ability as irrelevant to their jobs, but instead consider how learning it could increase their effectiveness and value."
 ---
 
 ![technical skills are not just for developers, they are useful for a variety of roles like Customer Success Managers and Product Managers](images/technical-skills-are-not-just-for-developers-nick-ang-blog.jpg)

@@ -9,6 +9,7 @@ fav: false
 backlinks:
   - slug: "/tesla-2/"
     title: "Tesla: As good as they are made out to be"
+ai_summary: "The author reflects on choosing a white interior for a new Tesla for a family of three and a dog, weighing it against the more practical black option. The main point is that the white seats are an intentional, aspirational choice meant to make the car feel brighter and more elevated, even though the author expects stains, wear, and extra upkeep. The conclusion is cautiously optimistic: the choice feels like a gamble, but the author leans toward it being a good one."
 ---
 
 We just [bought a Tesla](/tesla). Even though it hasn't arrived, I'm thinking a lot about one aspect of its configuration: the white interior.

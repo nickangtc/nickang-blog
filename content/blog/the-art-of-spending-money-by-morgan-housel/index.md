@@ -7,6 +7,7 @@ tags: ["Money", "Living", "Books"]
 fav: false
 creation_duration_minutes:
 backlinks:
+ai_summary: "The post reflects on Morgan Housel’s The Art of Spending Money, arguing that money is less about accumulation than about using it to buy freedom, time, and independence while avoiding status-seeking and social debt. It highlights ideas like quiet compounding, focusing on major life decisions over trivial ones, and spending in ways that reduce future regret and support a utility-driven rather than performative life. The overall conclusion is that the right amount of wealth is enough to enable a meaningful, low-friction life, but excess money can create new costs and distortions."
 ---
 
 ![The Art of Spending Money book cover by Morgan Housel](./images/the-art-of-spending-money-book-cover.jpg)

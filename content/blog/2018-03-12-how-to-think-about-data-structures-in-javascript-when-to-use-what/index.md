@@ -3,6 +3,7 @@ title: "How to think about data structures in JavaScript (and when to use what)"
 date_published: "2018-03-12"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains how to choose between JavaScript arrays and objects by modeling a quiz game: a single question is best stored as an object because its parts are named and self-contained, while a level of ordered questions is best stored as an array because sequence matters. It also shows that storing answer choices in an array is simpler and less error-prone than separate keys like option1 and option2, especially when iterating with forEach. The main conclusion is that arrays suit ordered lists, objects suit bundled entities with named properties, and good data modeling is usually an iterative process."
 ---
 
 ![how to decide what data structure to use in javascript nickang blog](images/how-to-decide-what-data-structure-to-use-in-javascript-nickang-blog-1024x556.jpg) 

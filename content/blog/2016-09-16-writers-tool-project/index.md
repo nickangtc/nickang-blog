@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "A writer's tool for project two"
 date_published: "2016-09-16"
 backlinks:
+ai_summary: "The post describes a web development school project in which the author plans to build a writer’s dashboard that helps collect external articles and URLs for blog posts. The main point is that the tool would save time and improve credibility by making research, link gathering, and saving favorites easier, while also reducing the distraction of web browsing. The author concludes that the project is realistic for a week’s work and focuses on a practical first version rather than more ambitious automation features."
 ---
 
 ![a young lady in a beautiful office](images/writers-tool-1024x683.jpeg)

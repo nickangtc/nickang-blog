@@ -4,6 +4,7 @@ date_published: "2018-04-25"
 tags: ["Tech", "Interviewing"]
 fav: true
 backlinks:
+ai_summary: "The post argues that job searching should not be treated as a numbers game, but as a jackpot game where only one strong offer matters. Using a carnival ring toss analogy, the author concludes that focusing on a few carefully chosen companies and preparing deeply for them is more effective than spreading effort across dozens of applications."
 ---
 
 ![illustration of a carnival bottle with a ring around its neck](images/Screen-Shot-2018-04-25-at-8.48.50-PM.png)

@@ -7,6 +7,7 @@ tags: ["Daily Reflection"]
 fav: false
 creation_duration_minutes: 20
 backlinks:
+ai_summary: "The author reflects on returning to writing after spending more time making videos, arguing that text feels calmer and more intellectually powerful because it forces clearer thinking and articulation. They contrast this slow, deliberate process with the fast pace of algorithm-driven platforms and conclude that despite writing seeming like a losing game, people may actually prefer and need its slower, more thoughtful rhythm."
 ---
 
 Here goes nothing! I'm currently writing this in a web app that I've just dreamed up in 5 minutes and was built in bolt.new in a mind-boggling 5 minutes. That's 10 minutes to bring my blur vision of an app to life.

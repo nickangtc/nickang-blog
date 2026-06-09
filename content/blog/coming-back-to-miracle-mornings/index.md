@@ -9,6 +9,7 @@ creation_duration_minutes: 30
 backlinks:
   - slug: "/annual-review-2025/"
     title: "My 2025 Annual Review"
+ai_summary: "The post reflects on the author’s experience with Miracle Mornings, initially using early mornings for gym, reading, and writing, then shifting those hours to business coding before noticing lower energy and procrastination. The main point is that the morning routine works best when treated as time for self-development rather than productivity, because it improves mood, energy, and long-term performance. The author concludes that protecting those hours for exercise, reading, and writing primes the rest of the day, even if the routine is sometimes shortened by real-life demands."
 ---
 
 There's a book called Miracle Mornings by Hal Elrod. It's a short little book that touts the life-changing habit of waking up early to do things that contribute to self-development.

@@ -3,6 +3,7 @@ title: "It's not just JavaScript you're learning at that Bootcamp"
 date_published: "2016-12-30"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post argues that a programming bootcamp teaches broader software development skills, not just HTML, CSS, and JavaScript. Its main point is that students should aim to learn how to write software and become versatile across languages and roles, because knowing JavaScript alone is not enough to be employable as a developer."
 ---
 
 Programming bootcamps are everywhere now. Some are up to the mark while others make up for it with good marketing. Whichever the choice you end up making, it'd be a mistake to think that you're going into one, say a web development bootcamp, to learn HTML, CSS and JavaScript.

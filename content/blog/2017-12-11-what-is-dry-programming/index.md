@@ -3,6 +3,7 @@ title: "What is DRY (in programming)?"
 date_published: "2017-12-11"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains the DRY principle in programming, meaning Do not Repeat Yourself, and argues that it improves readability and maintainability by centralizing shared code such as common button styles or reusable functions. It also warns that DRY can be overdone through premature abstraction, which can waste time and make code harder to follow, concluding that code should only be abstracted when it is needed in at least two places right away."
 ---
 
 ![what is dry blog banner nickang showing weed growing on white wall](images/BSP-what-is-dry.png) 

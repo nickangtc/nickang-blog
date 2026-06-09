@@ -3,6 +3,7 @@ title: "Different ways to get better at programming"
 date_published: "2017-01-01"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post argues that programming skill develops like other crafts: by learning theory, practicing exercises, and then applying that knowledge to real work. It says coding challenges are useful for honing isolated problem-solving, but they do not teach the broader skills needed to build maintainable software, which require project work and design decisions. The author concludes that aspiring programmers should deliberately balance challenge sites with actual projects or risk being unprepared for real job demands."
 ---
 
 Painters in training spend most of their time understanding the theory of light, pigmentation, dilution and so on, and put these to practice through painting _exercises_ that allow them to explore the theory and witness it play out on canvas.

@@ -3,6 +3,7 @@ title: "One big difference between CS and non-CS software engineers"
 date_published: "2018-01-02"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post argues that the main difference between CS and non-CS software engineers is not overall ability, but that CS graduates usually have far deeper training in algorithms and data structures from years of formal study. It says non-CS engineers often compensate with more practical app-building experience, but should recognize this knowledge gap and deliberately study and practice to become more effective at writing clean, scalable code."
 ---
 
 ![cs vs non cs software engineers nickang blog post banner](images/BSP-cs-vs-non-cs-software-engineers.png) 

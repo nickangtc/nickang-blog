@@ -5,6 +5,7 @@ date_published: "2018-04-21"
 backlinks:
   - slug: "/annual-review-2018/"
     title: "My favourite posts from 2018"
+ai_summary: "The post reflects on a prolonged job search and the author’s long-held goal of moving to San Francisco, using the experience to argue that he often makes decisions on autopilot rather than deliberately. He concludes that his motivations have changed over time, that clear thinking is essential to intentional living, and that he plans to spend more time exploring the practices he believes support it, including mindfulness, minimalism, and fitness."
 ---
 
 https://www.instagram.com/p/Bh0ieM_nTpU

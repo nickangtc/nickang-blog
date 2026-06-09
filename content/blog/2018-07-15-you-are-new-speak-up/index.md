@@ -5,6 +5,7 @@ tags: ["Business"]
 backlinks:
   - slug: "/2018-09-20-company-rejoin-after-quitting/"
     title: "I work in a company where people rejoin after quitting"
+ai_summary: "The post describes a CEO and founder telling new hires to speak up during their first two to three months because fresh employees can notice broken or outdated processes that longer-tenured staff may no longer see. The author argues this approach signals a company that values team performance over politics, and concludes that a self-aware team open to newcomer feedback is more likely to keep improving and achieve great results."
 ---
 
 ![speak up nick ang blog](images/bruno-cervera-408707-unsplash-1024x684.jpg) 

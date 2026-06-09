@@ -2,6 +2,7 @@
 title: "Rick and Morty, bitch!"
 date_published: "2018-01-25"
 backlinks:
+ai_summary: "The post discusses Rick and Morty, describing it as a bizarre but engaging adult cartoon that combines humor, education, and emotional depth despite simple graphics. The author corrects a couple of science-related misconceptions referenced by the show, then argues that its storytelling and use of parallel universes can be unexpectedly moving. It concludes by praising the creators for their work and expressing appreciation for keeping the series going."
 ---
 
 ![rick and morty](images/rick-and-morty.png) 

@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "(US) 5 Days Before: Survival Mode On"
 date_published: "2016-03-31"
 backlinks:
+ai_summary: "The post describes the author and his wife preparing backpacks for a month-long trip across the United States, with most of the itinerary still unplanned beyond New York, Boston, and a few tours. His main point is that packing and preparing for unfamiliar travel has triggered a stronger survival mindset, so they are taking practical precautions while leaving room for spontaneity. He concludes that even if minor problems arise, they may add to the adventure and create better stories and memories."
 ---
 
 ![2 Travellers, 2 Backpacks, 1 Month in the US!](images/backpacks-edited-1024x782.jpg)

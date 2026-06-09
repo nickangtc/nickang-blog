@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "A Year Later, I'm Still Not On Top of Living On Our Own"
 date_published: "2016-03-16"
 backlinks:
+ai_summary: "The author reflects on the challenges of living independently for a little over a year after moving out with his wife, focusing on the everyday responsibilities of managing a home such as cleaning, shopping, paying bills, and tracking household needs. His main point is that he is still struggling to fully adjust and handle these tasks despite expecting to be more competent by now, though he recognizes he is learning. He concludes that adult independence feels more demanding than anticipated and that he may still be clinging to a childlike wish for his mother to handle everything."
 ---
 
 A year later I'm still getting used to having to do my own… everything.

@@ -6,6 +6,7 @@ excerpt: "Can you see my screen?"
 tags: ["Tech", "Career", "Communication", "Productivity"]
 fav: false
 backlinks:
+ai_summary: "The post argues that recorded demos are preferable to live demos because they reduce presenter nerves, make it easier to balance context with feature walkthroughs, and remain shareable even if a live town hall runs out of time. It also says recordings provide rewatchable, self-contained updates for people who miss the event and avoid the risk of live-demo failures or “demo effect” mishaps, resulting in a higher-quality final presentation."
 ---
 
 ## 1 - Let me find that tab…

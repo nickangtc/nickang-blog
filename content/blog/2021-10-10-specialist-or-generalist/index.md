@@ -7,6 +7,7 @@ fav: false
 backlinks:
   - slug: "/2017-10-03-generalist-vs-specialist/"
     title: "Generalist vs Specialist"
+ai_summary: "The post reflects on the difference between specialists and generalists, using a café example to show that specialists perfect a task while generalists handle broader responsibilities like operations and learning on the fly. The author connects this to a shift from software developer to engineering team lead, noting a move toward more people-focused, less technically deep work and some discomfort about losing fluency in core technical skills. The conclusion is unresolved: the author is still figuring out how much to specialize versus generalize, while recognizing that both require ongoing upkeep."
 ---
 
 ![photo of black coffee in a mug](./images/black-batch-brew-coffee.jpg)

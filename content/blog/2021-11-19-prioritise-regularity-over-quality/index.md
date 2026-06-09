@@ -8,6 +8,7 @@ fav: false
 backlinks:
   - slug: "/annual-review-2021/"
     title: "My 2021 Annual Review"
+ai_summary: "The post argues that when learning anything, regular practice should be prioritized over quality at first, because doing something consistently is what leads to improvement. It uses examples like flossing, blogging, coding, cooking, and baby care to show that repetition builds competence before quality becomes meaningful. The conclusion is that quality should be pursued only after a habit is established and the learner can better understand what good performance actually looks like."
 ---
 
 When it comes to learning, always choose to do what works for you.

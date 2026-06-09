@@ -11,6 +11,7 @@ backlinks:
     title: "RAG (Retrieval Augmented Generation) explained"
   - slug: "/what-i-learned-re-watching-chef-2014/"
     title: "What I learned re-watching Chef (2014)"
+ai_summary: "The post argues that the floor for building apps is rising quickly in 2026, meaning people can now prototype, deploy, secure, and scale meaningful software with plain English and AI coding tools, even without deep traditional coding knowledge. It still says software engineering fundamentals remain important, but the main point is that AI is making the cost of software creation trend sharply toward zero. It concludes by noting that the key difference between an experienced engineer and a non-engineer using these tools remains an open question to be explored later."
 ---
 
 I'm talking to a friend who was a principal PM turned solo entrepreneur and this topic came up.

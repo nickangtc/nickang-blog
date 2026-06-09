@@ -4,6 +4,7 @@ date_published: "2017-11-07"
 backlinks:
   - slug: "/2017-12-11-what-is-dry-programming/"
     title: "What is DRY (in programming)?"
+ai_summary: "The post is about the author learning Sass mixins while refactoring two nearly identical badge styles in CSS. The main point is that mixins, combined with variables, let the author abstract repeated nested styles into a reusable function-like block, making the code easier to maintain and understand. The conclusion is that Sass can make CSS feel more like a programming language and the author plans to use mixins again in future projects."
 ---
 
 ![writing my first sass mixins banner](images/writing-my-first-sass-mixins.png) 

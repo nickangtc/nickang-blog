@@ -3,6 +3,7 @@ title: "Destructuring objects in JavaScript"
 date_published: "2018-11-24"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains JavaScript object destructuring as a cleaner way to extract values from objects into local variables, especially when functions repeatedly use a few properties. It also covers renaming destructured variables, handling nested objects, and setting default values when data is missing. The author concludes that destructuring improves readability and is worth using, though very deep nesting can become hard to read."
 ---
 
 ![Destructuring objects in JavaScript nick ang blog](images/Destructuring-objects-in-JavaScript-nick-ang-blog.png)

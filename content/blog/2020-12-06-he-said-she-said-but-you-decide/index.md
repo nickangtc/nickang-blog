@@ -3,6 +3,7 @@ title: "He said, She said, But You Decide"
 date_published: "2020-12-06"
 tags: ["Communication"]
 backlinks:
+ai_summary: "The post reflects on how difficult it is to determine truth in a world full of conflicting opinions, imprecise language, and even facts that can be framed differently depending on context. The author argues that most everyday claims are not hard facts and that each person must decide for themselves whether to dismiss, test, or accept ideas individually."
 ---
 
 I try to be serious with what I write and publish on this blog. My fuzzy goal is to write to help people, regardless of who they are, to live well. Be it through greater purpose, meaning, safety, love, or whatever else comprises a well-lived life, I am there searching for answers, for you and for me.

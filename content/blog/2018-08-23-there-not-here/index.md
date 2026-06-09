@@ -2,6 +2,7 @@
 title: "Wanting to be there and not here"
 date_published: "2018-08-23"
 backlinks:
+ai_summary: "The author reflects on a desire to leave Singapore, where he was born and raised, for a place like San Francisco in order to better understand himself, the world, and how geography changes people and places. He says the impulse is driven less by altruism than curiosity, and believes living elsewhere for a time would eventually make him more prepared to contribute when he returns home."
 ---
 
 ![there and not here nick ang blog](images/emma-frances-logan-142162-unsplash.jpg)

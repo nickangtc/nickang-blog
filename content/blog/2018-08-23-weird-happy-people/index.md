@@ -2,6 +2,7 @@
 title: "Weird happy people"
 date_published: "2018-08-23"
 backlinks:
+ai_summary: "The post is about the author’s admiration for “weird happy people” who seem foolish or eccentric but are fully comfortable enjoying themselves. The main point is that their lack of inhibition and willingness to go all-in is beautiful and something worth learning from, because it reflects self-acceptance and a fuller way of living."
 ---
 
 ![really weird picture of guy standing on float in a pool doing hitler salute](images/neko-tai-604234-unsplash.jpg) 

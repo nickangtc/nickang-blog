@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-12-03-binary-search-tree-explained/"
     title: "Binary Search Tree explained"
+ai_summary: "The post explains that binary search trees are useful because they keep sortable data in order while allowing faster insertion, deletion, and searching than arrays, typically in O(log n) time. It also notes that BSTs are slower than arrays for direct access and can become imbalanced, which harms performance and makes self-balancing mechanisms important."
 ---
 
 ![why use binary search tree banner with peace hand sign](images/BSP-why-use-binary-search-tree.png)

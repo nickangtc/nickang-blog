@@ -2,6 +2,7 @@
 title: "Programming is an exercise of freedom"
 date_published: "2016-08-26"
 backlinks:
+ai_summary: "The post argues that programming offers a rare degree of freedom compared with other projects, because software can be built and shared with little overhead and without fully obeying established frameworks or institutions. The author contrasts this with more constrained work like campaign organizing, where external rules and gatekeepers limit expression, and concludes that programming is exciting because it lets people create something useful, even artistic, from almost nothing."
 ---
 
 Projects that I'm used to working on are entrenched in structures (as in structure versus agency) that inevitably hold me back from full expression.

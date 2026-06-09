@@ -4,6 +4,7 @@ date_published: "2021-05-09"
 excerpt: "It's not the sweat and blood. Hard work is often hardest in terms of sacrifices."
 tags: ["Living"]
 backlinks:
+ai_summary: "The post reflects on the trade-offs behind pursuing high-paying software engineering jobs, arguing that “hard work” includes not only difficult tasks but also sacrifices of time, money, energy, and family life. The author notes that while big tech roles may pay more, they also demand more preparation and stress, which helps explain why he has not pursued them despite believing he could succeed. The conclusion is that people should balance ambition with the value of personal time and accept that higher rewards usually come with greater sacrifices."
 ---
 
 Most people want to live in a nice house, eat good food, go to the theatre, drive a nice car (or a few). But most people also want to not work too hard at the same time. If I could, I certainly want both at the same time.

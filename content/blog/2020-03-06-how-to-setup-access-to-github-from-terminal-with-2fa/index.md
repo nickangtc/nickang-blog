@@ -3,6 +3,7 @@ title: "How to setup access to GitHub from Terminal with 2FA"
 date_published: "2020-03-06"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains how to access GitHub from Terminal when two-factor authentication is enforced, especially during actions like cloning a repository. It says that the user should enter their GitHub email as the username and use a GitHub personal access token, generated from the developer settings, as the password instead of their normal GitHub login. It concludes that if repository access fails, the issue is usually either lacking permission to the repo or using the wrong credentials, and that the token only needs to be created once and can be regenerated later if needed."
 ---
 
 ![github terminal 2fa nick ang](images/github-terminal-2fa-nick-ang.png)

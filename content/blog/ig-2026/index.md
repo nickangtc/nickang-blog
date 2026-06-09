@@ -5,6 +5,7 @@ excerpt: "Learning to ride the algorithm through consistent copy-pasted content.
 tags: ["Project", "Business"]
 cover: "/project-covers/ig-2026-cover.jpg"
 backlinks:
+ai_summary: "The post describes an experiment to grow an Instagram account from zero to 1,000 followers in a month by posting 2–3 reels a day, inspired by a prior successful playbook. The account generated four posts with over 100,000 views, many over 10,000, but finished with 370 followers, and the author’s main takeaway was that the exercise was less about the topic than about learning to work the platform’s algorithm and strengthening marketing skills."
 ---
 
 ## What this is

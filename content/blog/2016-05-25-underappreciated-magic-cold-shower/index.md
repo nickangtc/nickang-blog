@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "The Underappreciated Magic of a Cold Shower"
 date_published: "2016-05-25"
 backlinks:
+ai_summary: "The author reflects on the everyday pleasure of cold showers, especially after returning to hot, humid Singapore, and compares this habit with other small comforts like enjoying weather changes and wearing sunglasses. The main point is that cold showers are an undervalued source of physical and mental refreshment that more people should appreciate, even if the health benefits are not fully proven. The conclusion is that noticing and valuing little things like this is part of becoming more attuned to adult life."
 ---
 
 I'm growing up. Maturing. Definitely considered an adult now at 26.

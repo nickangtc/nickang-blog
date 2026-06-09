@@ -6,6 +6,7 @@ backlinks:
     title: "Are you shopping for the habit?"
   - slug: "/physical-or-ebooks-or-listen-to-audiobooks/"
     title: "Read physical books, ebooks, or listen to audiobooks?"
+ai_summary: "The author argues that books should always be prioritized because they are affordable tools for learning, reflection, and perspective, accessible through purchase or libraries. Drawing on personal examples of reading fiction and nonfiction during a period of career and life transition, the author concludes that different books help at different life stages, and that reading can clarify whether one should lean toward entrepreneurship, employment, or a mix of both."
 ---
 
 ![Why we should always make time for books](images/why-we-should-always-make-time-for-books-nick-ang-blog-2-1024x683.jpg) 

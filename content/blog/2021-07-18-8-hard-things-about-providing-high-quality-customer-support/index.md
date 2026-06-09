@@ -8,6 +8,7 @@ backlinks:
     title: "Reflecting on my career in tech: 5 years in"
   - slug: "/rag-explained/"
     title: "RAG (Retrieval Augmented Generation) explained"
+ai_summary: "The post argues that high-quality customer support is much harder than it seems, using the author’s experience supporting a major ad tech product to show that support must keep up with a constantly changing product, close coordination with engineering, and unevenly distributed knowledge across teams. It also highlights common friction points such as poor communication, complex internal organisation, and the difficulty of staffing support with technically strong people who also enjoy troubleshooting. The conclusion is that customer support is a complex, system-wide effort that requires tight collaboration and ongoing investment to deliver a consistent customer experience."
 ---
 
 Your product probably isn't perfect and that's why you need to provide customer support. This is the imperfect starting point of the whole enterprise of customer support that makes it a challenge from the get go.

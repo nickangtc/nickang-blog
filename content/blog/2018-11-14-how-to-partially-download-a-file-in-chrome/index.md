@@ -3,6 +3,7 @@ title: "How to partially download a file in Chrome"
 date_published: "2018-11-14"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains a Chrome trick for partially downloading very large files, especially CSV or TSV feeds, so developers can inspect them without waiting for a full download. By pausing the download and removing the .crdownload extension, the partial file can be opened normally, which is useful for quickly checking headers or obvious data errors."
 ---
 
 If you're the developer of an app that needs to pull large files from other servers, during testing or development, you may have wanted to partially download a very large file so you don't have to wait for the full, potentially hour-long download to finish.

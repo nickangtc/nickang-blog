@@ -4,6 +4,7 @@ date_published: "2018-04-02"
 backlinks:
   - slug: "/2018-09-22-why-i-wont-be-using-google-blog-compass/"
     title: "Why I won't be using Google Blog Compass"
+ai_summary: "The post reflects on the author’s hesitation to buy a typewriter and, more broadly, on the value of writing about personal, subjective experience in blogging. The author argues that subjective accounts are genuinely meaningful and can be as compelling as objective or scientific writing, as shown by a friend’s daily personal Instagram posts. The conclusion is that both subjective and objective writing can coexist, and personal experience should not be dismissed as unimportant."
 ---
 
 ![Carousell typewriter olympia b12](images/screenshot_20180401-2241166293537043206233660.jpg "Carousell typewriter olympia b12")One of my few struggles today was to reason with myself to buy (or not) this typewriter for $120

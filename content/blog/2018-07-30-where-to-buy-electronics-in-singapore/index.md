@@ -2,6 +2,7 @@
 title: "Where to buy electronics in Singapore"
 date_published: "2018-07-30"
 backlinks:
+ai_summary: "The post explains where to buy different kinds of electronics in Singapore, distinguishing Sim Lim Square for consumer electronics like laptops, cameras, and TVs from Sim Lim Tower for raw parts, hobby kits, and DIY components. It warns that Sim Lim Square can involve tourist overpricing, while Sim Lim Tower is generally a better place for makers; it also notes Peninsula Plaza for photography gear and Funan for a broader, standard-price shopping experience."
 ---
 
 ![sim lim square and sim lim tower google maps screenshot](images/sim-Lim.jpg)

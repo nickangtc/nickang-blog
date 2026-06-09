@@ -4,6 +4,7 @@ date_published: "2021-04-29"
 excerpt: "Am I going to have time to pursue creative work when I become a dad?"
 tags: ["Creativity", "Living"]
 backlinks:
+ai_summary: "The post reflects on the author’s fear that becoming a parent will leave no room to pursue a creative life, using examples of Jarvis Johnson and Jack Conte to question whether he could balance ambition, work, and family. He argues that he should not copy other creators, but instead use writing and experimentation to figure out who he is and what kind of creative work fits him. His conclusion is that he should keep producing a lot of imperfect work and let the process gradually reveal his creative identity."
 ---
 
 [Jarvis Johnson](https://www.youtube.com/user/VSympathyV) is a YouTube content creator who was previously in tech as a software engineering manager at Patreon. In his [interview](https://www.youtube.com/watch?v=0YDAntA-d0k) with [Mayuko](https://www.youtube.com/user/hellomayuko), he revealed how difficult it was to leap to quit his job to become a full-time YouTuber.

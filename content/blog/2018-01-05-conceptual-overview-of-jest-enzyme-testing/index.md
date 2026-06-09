@@ -3,6 +3,7 @@ title: "Conceptual overview of Jest Enzyme testing"
 date_published: "2018-01-05"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains how the author introduced automated frontend testing to a React and Backbone codebase using Jest and Enzyme, with Jest serving as the test runner and snapshot-testing tool and Enzyme providing React component helpers such as shallow rendering. It also outlines setup details, file organization, watch mode, mocks, and a test-first workflow. The main conclusion is that shallow rendering, snapshots, and writing describe/it blocks before implementation make React component testing easier, more isolated, and more maintainable."
 ---
 
 ![jest and enzyme testing blog post banner nickang](images/BSP-jest-do-it.png)

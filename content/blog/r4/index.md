@@ -6,6 +6,7 @@ excerpt: "I no longer wish to write to be understood... I wish to write to under
 tags: ["Creativity", "Raw essays"]
 fav: false
 backlinks:
+ai_summary: "The post reflects on the author’s desire to move away from writing that is rooted in personal identity and life updates, arguing that their presence on the page can obscure the larger idea they want readers to see. The author concludes that using fictional characters and short stories may be a better way to write for understanding rather than for being understood, while also making the process more creative and freeing."
 ---
 
 *(This is #4 of 30 raw essays in 30 days. The topic is my own. #3 was published on my newsletter as a paid subscriber only post and won't be found on this site.)*

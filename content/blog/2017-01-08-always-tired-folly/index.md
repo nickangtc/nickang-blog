@@ -4,6 +4,7 @@ date_published: "2017-01-08"
 backlinks:
   - slug: "/2018-02-01-sleep-is-sacred/"
     title: "Sleep is sacred"
+ai_summary: "The post criticizes people who repeatedly cut social plans short by saying they are tired, arguing that it ruins the limited after-work time friends have together. The author says chronic fatigue is usually caused by poor balance and mindless living rather than genuine busyness, and concludes that people should act more deliberately, spend time more wisely, sleep more, and avoid passive distractions like endless YouTube."
 ---
 
 As an adult, I often hang out with friends after work for drinks or a munch. As an adult, I've also noticed that it takes time for other adults to be vulnerable in a social setting, before we talk about The Real Stuff, and sometimes just when things start to get interesting someone would announce that he is tired and propose to call it a night. It's not just the guys either.

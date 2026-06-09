@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/what-i-learned-re-watching-chef-2014/"
     title: "What I learned re-watching Chef (2014)"
+ai_summary: "The post argues that programmers can become overly absorbed in technical elegance and implementation details, losing sight of the fact that their work is meant to solve real user problems. It uses an anecdote about discussing Jest and snapshot testing with a colleague while a non-technical friend waited nearby to illustrate this point, then concludes that spending more time with people in design, product, and customer-facing roles can help programmers stay focused on building tools for humans."
 ---
 
 ![spectacles sitting in front of a laptop focusing text on screen - remember why you are programming blog post banner](images/kevin-364843-1024x768.jpg) 

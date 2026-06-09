@@ -8,6 +8,7 @@ fav: false
 backlinks:
   - slug: "/selling-yourself/"
     title: "Selling yourself"
+ai_summary: "The post reflects on “idea packaging,” using a conversation with another parent in Germany about racism and the difficulty of leaving because of a child’s stability to explore how ideas should be shaped for different audiences and purposes. The author argues that effective communication requires knowing whether the goal is reflection, storytelling, or persuasion, even if that purpose is only discovered through the act of writing itself. The conclusion is that everyone should practice packaging ideas because clear, concise messaging benefits both the creator and the audience."
 ---
 
 There's an art to packaging ideas for consumption.

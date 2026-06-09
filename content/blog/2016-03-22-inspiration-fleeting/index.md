@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "Oooh, Yeah! And... It's Gone"
 date_published: "2016-03-22"
 backlinks:
+ai_summary: "The post reflects on how reading provocative books, especially Seth Godin’s We Are All Weird, can trigger intense but fleeting bursts of inspiration that fade before the author can fully pin them down. The main point is that insight comes from the reader’s own mental synthesis, so useful ideas and action steps need to be captured immediately rather than saved until the end of a chapter. The author concludes by planning to try a physical box with post-it notes to store these transient ideas."
 ---
 
 I'm trying to understand something…

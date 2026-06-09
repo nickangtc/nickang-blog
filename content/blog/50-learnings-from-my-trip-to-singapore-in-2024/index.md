@@ -6,6 +6,7 @@ excerpt:
 tags: ["Living", "Career"]
 fav: false
 backlinks:
+ai_summary: "The post reflects on five weeks in Singapore and China, covering observations about noisy urban environments, humid versus dry climates, parenting norms, risk aversion, convenience, and working remotely abroad. The author’s main point is that Singapore offers comfort and convenience but can also be physically draining, socially restrictive, and conducive to unhealthy habits, while a quieter, more balanced home base feels more restorative. The conclusion is that the trip should have been shorter, and that the author is now more willing to spend heavily on health fixes and to value quiet, stability, and deliberate living over convenience."
 ---
 
 It's 7am here in Singapore, one day before we leave for Düsseldorf after roughly 5 weeks abroad. We've been to China for a week and spent the remaining days in Singapore. I've learned a bunch! Here's a selection of the ones worth mentioning.

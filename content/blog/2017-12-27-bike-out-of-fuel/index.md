@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "What to do when your bike runs out of fuel"
 date_published: "2017-12-27"
 backlinks:
+ai_summary: "The post describes the author’s experience running out of fuel on a motorcycle with no fuel gauge and then explains how to handle the situation. The main point is that the rider should move the vehicle to safety, get a fuel container and funnel from a nearby petrol station, return with fuel, and refill enough to continue the trip. The conclusion is that the problem is manageable with a calm, practical approach, and about 5L of petrol can usually get a motorcycle back to a station for a full refill."
 ---
 
 ![bike motorcycle](images/les-anderson-207334-1024x683.jpg) 

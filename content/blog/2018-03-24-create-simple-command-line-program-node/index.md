@@ -3,6 +3,7 @@ title: "How to create simple Command Line Program with Node"
 date_published: "2018-03-24"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains how to build a simple command-line program in Node.js using process.argv, showing how Node passes terminal arguments into a JavaScript array and how a script can be run directly from the terminal. Using a Baconian cipher example, the author highlights practical tips such as skipping the first two argv entries, combining remaining arguments with splice and join, and mapping a string input to a function with an object. The main conclusion is that Node makes it straightforward to create useful command-line tools with basic JavaScript."
 ---
 
 ![bsp create command line program with node](images/bsp-create-command-line-program-with-node.png) 

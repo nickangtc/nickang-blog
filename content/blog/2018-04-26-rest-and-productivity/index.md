@@ -2,6 +2,7 @@
 title: "Rest and productivity"
 date_published: "2018-04-26"
 backlinks:
+ai_summary: "The post argues that in a culture obsessed with hustle and productivity, rest should be judged by whether it is enough to maintain high-quality work, not by whether it minimizes downtime. The author concludes that too little rest leads to lower-quality output and more rework, so resting more can actually be the more productive choice."
 ---
 
 ![rest and productivity - nickang sketch](images/rest-and-productivity-nickang-sketch-1024x627.png)

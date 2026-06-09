@@ -2,6 +2,7 @@
 title: "Laptops are not the best for writing"
 date_published: "2019-05-11"
 backlinks:
+ai_summary: "The author argues that laptops are poor tools for writing because they are overloaded with distractions and temptations that make it harder to focus on producing text. He concludes that a more stripped-down, purpose-built writing device would better support a writer’s productivity by reducing friction and improving the odds of starting and staying on task."
 ---
 
 ![best for writing nick ang](images/best-for-writing-nick-ang-1024x683.jpg) 

@@ -8,6 +8,7 @@ backlinks:
     title: "Linked List explained"
   - slug: "/2021-11-28-how-to-implement-an-lru-cache-in-javascript/"
     title: "How to implement an LRU cache in JavaScript"
+ai_summary: "The post explains how to build a doubly linked list in JavaScript using LinkedList and Node constructors, with methods such as addToTail, removeFromTail, and search. Its main point is that understanding how head, tail, and node references change makes linked list behavior clear, and it extends the core implementation with additional methods like addToHead, removeFromHead, and indexOf. It concludes that stitching these pieces together produces a basic linked list implementation and encourages readers to practice the methods themselves."
 ---
 
 ![implement linked list in javascript banner nickang](images/BSP-implement-linked-list-in-javascript.png) 

@@ -3,6 +3,7 @@ tags: ["Personal"]
 title: "(US) Free Upgrades & Hello Brooklyn!"
 date_published: "2016-04-06"
 backlinks:
+ai_summary: "The post describes the author and Mei’s first trip to New York City, including their arrival in Brooklyn, the cold weather, an unexpected free flight upgrade from China Southern to Singapore Airlines, and their long journey from Singapore via Frankfurt to JFK. The main point is that the trip, despite fatigue and discomfort, is full of small surprises that make travel feel like an adventure and shift how problems are perceived. The author concludes feeling settled in Brooklyn and optimistic about exploring downtown Manhattan next."
 ---
 
 And finally, the day is over. Phew, we're beat!

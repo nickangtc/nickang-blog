@@ -3,6 +3,7 @@ title: "Difference between let and var in JavaScript"
 date_published: "2018-03-19"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains the difference between JavaScript `let` and `var`, showing that `var` is function-scoped and can leak outside blocks, while `let` creates block-scoped variables that stay within curly braces. Its main point is that `let` and `const` are preferable for block-level scope control, though browser support may require transpiling ES6 for frontend use."
 ---
 
 Here's a quick and dirty illustration that helps me visualise the difference between `let` (available only in ES6) and `var`.

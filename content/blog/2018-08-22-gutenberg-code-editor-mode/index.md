@@ -2,6 +2,7 @@
 title: "Gutenberg code editor mode"
 date_published: "2018-08-22"
 backlinks:
+ai_summary: "The author revises an earlier criticism of Gutenberg, saying its code editor mode allows comfortable Markdown writing and a simple, block-free editing experience while Jetpack handles formatting on the published page. However, after adding an image block caused the editor to convert Markdown into HTML without warning, the author concludes that the relief was temporary and decides to use the classic editor plugin instead."
 ---
 
 I was wrong. I think I jumped to conclusions a little too quickly about the Gutenberg editor. You can use it while still retaining the charm of a simple code-like editor - they just call it a "code editor", actually.

@@ -7,6 +7,7 @@ backlinks:
     title: "All you need to know about Git and GitHub"
   - slug: "/bite-size-programming/"
     title: "Bite Size Programming"
+ai_summary: "The post explains that Git is free, open-source version control software used to track changes in code, manage versions, create branches, and revert mistakes without duplicating files. It argues that Git is essential for both individual programmers and teams because it simplifies collaboration, conflict resolution, and release management. The author concludes that Git is highly useful and has become the standard tool for handling codebases in the tech industry."
 ---
 
 ![what is git banner showing many lines and nodes intersecting](images/BSP-what-is-git.png) 

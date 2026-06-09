@@ -7,6 +7,7 @@ tags: ["Living"]
 fav: false
 creation_duration_minutes: 30
 backlinks:
+ai_summary: "The author describes maintaining a three-times-a-week gym habit, then reducing it after a month in Spain and adding weekly bouldering with his wife, which left him with a two-day gym routine. He explains that his original reason for getting physically stronger was to feel able to stand up to racism and troublemakers, and concludes that keeping that motivation clear helps sustain the goal even when it competes with limited free time."
 ---
 
 From August to November, I hit the gym three times a week. That's a 12-week streak, the longest I've ever had in my life. Then, in December, I went to Spain with my family for a month and worked out only once at a bouldering gym's workout area.

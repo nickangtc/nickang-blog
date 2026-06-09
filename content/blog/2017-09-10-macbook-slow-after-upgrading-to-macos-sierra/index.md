@@ -2,6 +2,7 @@
 title: "Macbook slow and laggy after upgrading to macOS Sierra / Big Sur"
 date_published: "2021-06-16"
 backlinks:
+ai_summary: "The post describes a MacBook Air becoming slow, hot, and fan-heavy after upgrading to macOS Sierra, later recurring on Big Sur. The author found that high CPU usage from soagent and callservicesd, linked to Internet Accounts and Google email sync, was the main cause and was fixed by removing and re-adding the accounts; a later Big Sur update suggests Spotlight indexing of code projects may also have contributed."
 ---
 
 ![mac os sierra banner](images/macos-sierra.jpg)

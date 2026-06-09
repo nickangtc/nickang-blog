@@ -3,6 +3,7 @@ title: "One last project at GA"
 date_published: "2016-10-29"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post describes the author’s final project for General Assembly’s web development course, a web app for slow reading intended to help users read more deliberately. The main point is that the author chose the most interesting idea and plans to build it pragmatically using only the tools needed, while concluding that the final week should be spent focused on the project before thinking about graduation or job applications."
 ---
 
 Time is almost up! One last week and we'll be official graduates from General Assembly's web development course. But before that, one final project. One final push to build something--anything--for fun (and practice, of course).

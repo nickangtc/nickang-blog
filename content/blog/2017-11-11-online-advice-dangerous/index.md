@@ -4,6 +4,7 @@ date_published: "2017-11-11"
 backlinks:
   - slug: "/2018-12-08-how-to-keep-things-interesting-in-a-relationship/"
     title: "How to keep things interesting in a relationship"
+ai_summary: "The post argues that relying on generic online advice about career, relationships, and personal growth can make people cautious, dependent, and less willing to make original decisions. It says advice is most useful when it comes from people the reader trusts or feels connected to, because that personal connection makes their wisdom more credible and usable."
 ---
 
 ![laptop with screen showing medium website with a lot of online advice](images/why-online-advice-is-dangerous-1024x768.jpg) 

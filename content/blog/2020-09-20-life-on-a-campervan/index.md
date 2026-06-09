@@ -4,6 +4,7 @@ date_published: "2020-09-20"
 backlinks:
   - slug: "/2020-10-04-7-things-i-learned-from-my-first-year-living-in-berlin-away-from-singapore/"
     title: "7 Things I've Learned from my First Year Living in Berlin (away from Singapore)"
+ai_summary: "The post describes a week-long campervan trip with his wife and dog, focusing on what daily life is like in a compact motorhome, from driving and campsite routines to cooking, waste management, sleeping, and resource monitoring. His main point is that campervan travel offers a small but complete, highly flexible way to live and travel close to nature, though it comes with inconveniences such as smells, tank upkeep, and occasional poor sleep. He concludes that despite the hassles, he would do it again because it feels like comfortable camping and a good way to get away from people and reconnect with nature."
 ---
 
 Before you know it, your face is greasy, your feet cold, and you wonder, why are you doing this? Nah, that's not representative of life on a campervan, although I've felt all that in my recent week-long campervan trip with my wife and dog.

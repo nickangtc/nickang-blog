@@ -6,6 +6,7 @@ excerpt: "Using Large Language Models to learn languages makes perfect sense."
 tags: ["Tech"]
 fav: false
 backlinks:
+ai_summary: "The post describes how the author used ChatGPT to reconstruct a partially heard German sentence from a café conversation in Düsseldorf, especially the phrase involving los. The main point is that large language models can be useful for reverse-engineering spoken language from context in a way conventional translation tools cannot. The practical takeaway is that the waiter likely said viel los ist, meaning it is busy or a lot is going on."
 ---
 
 This is a short blog post to share a fantastic use case I've discovered for conversational AI based on large language models (LLMs): making intelligent guesses of what someone said in a spoken sentence.

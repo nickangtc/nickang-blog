@@ -6,6 +6,7 @@ excerpt:
 tags: ["Tech", "Notes"]
 fav: false
 backlinks:
+ai_summary: "The post reflects on a TED talk by David McCandless after the author’s data analytics course led them to explore data visualization. Its main point is that charts should change how people think by comparing data in the right context, since absolute figures can mislead while relative measures reveal a truer picture. The conclusion is that questions like military spending should be examined against GDP, which can change who appears to be the biggest spender and highlight cases such as Singapore and the United States."
 ---
 
 I'm currently doing the Google Data Analytics course on Coursera because of a recent itch to learn how to be more proficient in querying data to answer business questions at work.

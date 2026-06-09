@@ -6,6 +6,7 @@ backlinks:
     title: "Notes from The Courage to Be Disliked by Kishimi and Koga"
   - slug: "/annual-review-2020/"
     title: "My 2020 Annual Review"
+ai_summary: "The post argues that there is a mental space between stimulus and response in which a person can choose how to perceive, feel, and act, rather than reacting on autopilot. Using examples from online criticism, a bad coffee order, and Viktor Frankl’s writings, the author says consciously using that space makes people kinder to themselves and others, helps them learn faster, and cope better with hardship. The conclusion is that simply becoming aware of this space is enough to start responding with more intention and freedom."
 ---
 
 One of my favourite quotes is by the Austrian psychologist and Holocaust survivor, Dr Viktor Frankl:

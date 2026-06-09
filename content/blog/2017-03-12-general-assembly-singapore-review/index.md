@@ -26,6 +26,7 @@ backlinks:
     title: "Reflecting on my career in tech: 5 years in"
   - slug: "/flowriter/"
     title: "Flowriter"
+ai_summary: "The post reviews General Assembly Singapore’s 12-week Web Development Immersive bootcamp, explaining the author’s path from a non-technical startup founder to becoming a junior software engineer. It argues that the course is intense but effective, highlighting strong instructors, peer support, career coaching, and a useful project-based curriculum that can help students enter tech. The author concludes that it is worth the cost for motivated learners, especially with Singapore’s subsidy, but only if they can commit the time, money, and effort required."
 ---
 
 ![general assembly singapore review nick ang](images/general-assembly-singapore-review-nick-ang-1024x576.png)

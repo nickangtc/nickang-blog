@@ -3,6 +3,7 @@ title: "Marketing in Aesop"
 date_published: "2017-08-16"
 tags: ["Business"]
 backlinks:
+ai_summary: "The post examines Aesop’s marketing in its stores and products, focusing on how sensory cues, minimalist brown-bottle packaging, plain uniforms, dim lighting, tea service, and sparse pricing create a calm, wholesome brand image. The author’s main point is that Aesop’s tightly executed marketing strategy successfully shapes customer perception and makes the products feel appealing beyond packaging alone. The conclusion is that this approach can convert a skeptical shopper, as shown by the author’s purchase of Tacit and newfound appreciation for the brand."
 ---
 
 When the first few Aesop stores started appearing in Singapore, being a generally skeptical consumer, I thought they were another gimmicky company that is all about packaging.

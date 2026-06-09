@@ -6,6 +6,7 @@ excerpt: "'Storyworthy' explores the essentials of compelling personal storytell
 tags: ["Communication", "Books"]
 fav: false
 backlinks:
+ai_summary: "The post reviews Matthew Dicks’ Storyworthy and argues that effective personal storytelling depends on identifying a single “5-second moment” of change, then building the story around it with a strong contrastive beginning, clear physical setting, and simple, forward-moving structure. It also highlights his practical “Homework for Life” habit for recording daily moments, along with advice to be authentic, omit unnecessary details, and prioritize vulnerability and entertainment when speaking or writing. The overall conclusion is that good storytelling is less about dramatic events and more about clarity, change, and making the audience feel present in the moment."
 ---
 
 Honesty is attractive.

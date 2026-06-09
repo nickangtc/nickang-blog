@@ -4,6 +4,7 @@ date_published: "2019-12-22"
 backlinks:
   - slug: "/annual-review-2019/"
     title: "Goals for 2020"
+ai_summary: "The post reflects on five lessons from 2019: writing daily clears mental noise and improves focus, enjoyable sports make exercise sustainable, and eliminating commuting can greatly improve quality of life. It also argues that consistently providing value builds bargaining power at work and that major purchases should be judged by the time they save or cost, since everything is ultimately bought with time. The author concludes that these changes made 2019 one of the best years of adult life and hopes to carry that momentum into 2020."
 ---
 
 ![Walking in our neighbourhood in Mitte, Berlin](images/2019-look-back-at-what-ive-done-and-learned-nick-ang-blog-1-1024x768.jpg) 

@@ -6,6 +6,7 @@ excerpt: "I've consciously taken a new approach to learning to do my job, and it
 tags: ["Living", "Tech"]
 fav: true
 backlinks:
+ai_summary: "The post argues that a new team member should make themselves someone others want to teach by consistently sharing what they learn through notes, write-ups, or videos. The author’s main point is that this habit multiplies the value of any help received, because one person’s learning becomes useful to the whole team and future teammates. The conclusion is that adopting this teacher-like approach helps the individual grow faster while also lifting everyone around them."
 ---
 
 I've consciously taken a new approach to learning to do my job, and it's by doing one simple thing very deliberately: to **always teach what I learn**.

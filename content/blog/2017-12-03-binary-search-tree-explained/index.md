@@ -8,6 +8,7 @@ backlinks:
     title: "Why use Binary Search Tree?"
   - slug: "/2021-10-10-specialist-or-generalist/"
     title: "Specialist or Generalist?"
+ai_summary: "The post explains that a binary search tree is a data structure in which each node has at most two children, with smaller or equal values on the left and larger values on the right, and new values are placed by following those rules down the tree. It argues that BST search works the same way as binary search because each comparison lets the search discard half of the remaining tree, keeping the structure sorted and efficient. It also notes that a binary search tree is a type of binary tree, and closes by emphasizing that BSTs are best understood as a node-based structure that preserves ordered access."
 ---
 
 ![binary search tree explained nickang blog banner](images/BSP-binary-search-tree-explained.png) 

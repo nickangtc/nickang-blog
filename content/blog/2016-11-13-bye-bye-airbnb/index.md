@@ -2,6 +2,7 @@
 title: "Bye bye Airbnb"
 date_published: "2016-11-13"
 backlinks:
+ai_summary: "The post describes a Singapore couple forced to stop hosting Airbnb guests after condominium complaints and URA enforcement visits, despite having built a popular home-based rental with strong reviews and personal guest relationships. The author argues that short-term home sharing benefited travelers and the local economy, and that the government should have created clear tax and regulatory rules instead of acting only after complaints. The conclusion is that reactive policy has left the couple with empty rooms and reflects poorly on Singapore’s image as a smart city."
 ---
 
 It's 9:50pm on an otherwise wonderful Sunday night, and two officers from Certis Cisco, under the appointment of URA stood outside my door. They are here to bring us back to square one.

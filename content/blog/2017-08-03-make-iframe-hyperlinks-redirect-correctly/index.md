@@ -3,6 +3,7 @@ title: "Make iframe hyperlinks redirect correctly in main document"
 date_published: "2017-08-03"
 tags: ["Tech"]
 backlinks:
+ai_summary: "The post explains how links inside an embedded iframe can unexpectedly navigate only within the iframe instead of redirecting the main page, which is a problem for widgets or other embedded content. It says the fix is to add a `<base>` element in the iframe’s `<head>` so all URL redirects open in the parent document, and concludes that this is a simple, elegant solution to an otherwise awkward web issue."
 ---
 
 At work recently we had to figure a way to redirect a user to another webpage when she clicks on a URL. This is obviously a trivial task for 99 percent of cases - just use `<a href="http://destination-url.com">Click</a>`. But within an `<iframe>`, URL redirects can act strangely.

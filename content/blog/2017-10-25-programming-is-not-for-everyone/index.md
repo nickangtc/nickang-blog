@@ -5,6 +5,7 @@ tags: ["Tech"]
 backlinks:
   - slug: "/2017-10-28-type-fast-programmer/"
     title: "Do I need to type fast to be a programmer?"
+ai_summary: "The post argues that programming is not uniquely for certain “naturals” and that many common beliefs about programmers being exceptional at math, fast typists, or early prodigies are overstated. The author says the real requirements are broad traits like communication, logical thinking, empathy, quick learning, and above all having a reason to do the work. The conclusion is that people should not be scared off from trying programming, since many of the supposedly essential qualities are unnecessary."
 ---
 
 ![BSP programming is not for everyone nickang blog Jesse Eisenberg in The Social Network](images/BSP-programming-is-not-for-everyone-nickang-blog-3.png) 

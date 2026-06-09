@@ -7,6 +7,7 @@ tags: ["Living"]
 fav: false
 creation_duration_minutes: 65
 backlinks:
+ai_summary: "The post describes how, on a restless morning in Spain, the author used a brief meditation, a reflective book excerpt, and a cleanup of email subscriptions to calm an anxious, overactive mind. The main point is that simple resets like mindfulness, selective reading, and reducing comparison triggers can quickly restore clarity and presence. The conclusion is that letting go of mental clutter made the author feel lighter and ready to enjoy the day with family."
 ---
 
 I woke up with a messy mind this Saturday morning. It's quiet -- I'm the only one awake, sitting in the living room of our rented apartment in Spain. My thoughts, restless as ever, bounce around the walls.

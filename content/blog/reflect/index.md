@@ -5,6 +5,7 @@ excerpt: "A local-first Chrome extension for highlighting, annotating, and remem
 tags: ["Project"]
 cover: "/project-covers/reflect-cover.png"
 backlinks:
+ai_summary: "The post describes Reflect, a Chrome extension built to make reading and watching content more deliberate by letting the user highlight web pages, annotate YouTube videos, save items for later, and review engagement analytics. The author’s main point is that the tool helps combat passive consumption and improve retention, and the useful conclusion is that it proved valuable enough in personal use to be open-sourced and kept in daily use for 40 to 50 days."
 ---
 
 <iframe

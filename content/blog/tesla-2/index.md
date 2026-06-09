@@ -6,6 +6,7 @@ excerpt: "My honest review after 2 weeks of owning a new Tesla Model Y Long Rang
 tags: ["Tech", "Living"]
 fav: false
 backlinks:
+ai_summary: "The post reviews a new Tesla Model Y Long Range in Germany, weighing early ownership frustrations with charging equipment, seat upkeep, and battery drain against the car’s strengths. The author’s main point is that Tesla’s driving experience, storage space, parking benefits, and useful features like Sentry mode are impressive, even if some practical details are fiddly. The conclusion is broadly positive: the car is fun and functional, but not entirely plug-and-play."
 ---
 
 ![our Tesla Model Y Long Range in midnight cherry red, taken delivery in Germany](images/tesla-model-y-midnight-cherry-red.jpg)
