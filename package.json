@@ -49,6 +49,7 @@
     "content:fix-image-captions": "node scripts/audit-image-captions.js --fix",
     "content:generate-ai-summaries": "node scripts/generate-ai-summaries.js",
     "internal-links": "node scripts/auto-internal-links.js",
+    "prepare": "npm run setup-hooks",
     "setup-hooks": "git config core.hooksPath .githooks"
   },
   "engines": {

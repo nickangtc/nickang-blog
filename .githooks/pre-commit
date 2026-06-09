@@ -1,6 +1,7 @@
 #!/bin/bash
-# Lightweight pre-commit hook.
-# Heavy/mutating content tasks are intentionally manual now:
-#   npm run polish
+set -euo pipefail
 
-exit 0
+repo_root="$(git rev-parse --show-toplevel)"
+cd "$repo_root"
+
+node scripts/generate-ai-summaries.js --staged-new

@@ -2,6 +2,7 @@
 
 const fs = require("node:fs/promises")
 const path = require("node:path")
+const { execFileSync } = require("node:child_process")
 
 const PROJECT_ROOT = path.resolve(__dirname, "..")
 const BLOG_ROOT = path.join(PROJECT_ROOT, "content", "blog")
@@ -15,6 +16,7 @@ function parseArgs(argv) {
     dryRun: false,
     force: false,
     limit: Infinity,
+    stagedNew: false,
   }
 
   for (let i = 0; i < argv.length; i += 1) {
@@ -28,6 +30,8 @@ function parseArgs(argv) {
       args.concurrency = Number(argv[++i])
     } else if (arg === "--limit") {
       args.limit = Number(argv[++i])
+    } else if (arg === "--staged-new") {
+      args.stagedNew = true
     } else {
       throw new Error(`Unknown argument: ${arg}`)
     }
@@ -45,6 +49,23 @@ function parseArgs(argv) {
   }
 
   return args
+}
+
+function getStagedNewPostFiles() {
+  const output = execFileSync(
+    "git",
+    ["diff", "--cached", "--name-only", "--diff-filter=A", "-z"],
+    {
+      cwd: PROJECT_ROOT,
+      encoding: "utf8",
+    }
+  )
+
+  return output
+    .split("\0")
+    .filter(filePath => /^content\/blog\/[^/]+\/index\.md$/.test(filePath))
+    .map(filePath => path.join(PROJECT_ROOT, filePath))
+    .sort()
 }
 
 async function findPostFiles() {
@@ -211,14 +232,24 @@ async function writeAtomically(filePath, contents) {
   await fs.rename(temporaryPath, filePath)
 }
 
+function stageFiles(filePaths) {
+  if (filePaths.length === 0) return
+
+  execFileSync(
+    "git",
+    ["add", "--", ...filePaths.map(filePath => path.relative(PROJECT_ROOT, filePath))],
+    {
+      cwd: PROJECT_ROOT,
+      stdio: "inherit",
+    }
+  )
+}
+
 async function main() {
   const args = parseArgs(process.argv.slice(2))
-  const apiKey = process.env.OPENAI_API_KEY
-  if (!apiKey) {
-    throw new Error("OPENAI_API_KEY is not set")
-  }
-
-  const files = await findPostFiles()
+  const files = args.stagedNew
+    ? getStagedNewPostFiles()
+    : await findPostFiles()
   const pending = []
   let skipped = 0
 
@@ -236,18 +267,26 @@ async function main() {
   }
 
   console.log(
-    `Found ${files.length} posts: ${pending.length} to summarise, ${skipped} already complete.`
+    `Found ${files.length} ${args.stagedNew ? "staged new " : ""}posts: ${pending.length} to summarise, ${skipped} already complete.`
   )
 
-  if (args.dryRun) {
+  if (args.dryRun || pending.length === 0) {
     for (const item of pending) {
       console.log(path.relative(PROJECT_ROOT, item.filePath))
     }
     return
   }
 
+  const apiKey = process.env.OPENAI_API_KEY
+  if (!apiKey) {
+    throw new Error(
+      "OPENAI_API_KEY is not set; it is required to summarise staged new blog posts"
+    )
+  }
+
   let cursor = 0
   let completed = 0
+  const completedFiles = []
   const failures = []
 
   async function worker() {
@@ -263,6 +302,7 @@ async function main() {
         })
         const updatedMarkdown = addSummary(item.parsed, summary)
         await writeAtomically(item.filePath, updatedMarkdown)
+        completedFiles.push(item.filePath)
         completed += 1
         console.log(`[${completed}/${pending.length}] ${relativePath}`)
       } catch (error) {
@@ -277,6 +317,8 @@ async function main() {
       worker()
     )
   )
+
+  if (args.stagedNew) stageFiles(completedFiles)
 
   console.log(`Completed ${completed} posts with ${failures.length} failures.`)
   if (failures.length > 0) {
