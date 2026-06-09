@@ -4,8 +4,12 @@ Normalize blog post formatting before commit.
 Converts smart quotes, removes invisible characters.
 """
 
+import argparse
+import subprocess
 import sys
 from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 SMART_CHARACTER_REPLACEMENTS = {
     '\u2018': "'",  # Left single quote
@@ -90,20 +94,82 @@ def normalize_blog_post(file_path):
         print(f"❌ Error normalizing {file_path}: {e}", file=sys.stderr)
         return False
 
+
+def get_staged_new_blog_posts():
+    """Return newly added blog posts currently staged in git."""
+    output = subprocess.run(
+        [
+            "git",
+            "diff",
+            "--cached",
+            "--name-only",
+            "--diff-filter=A",
+            "-z",
+        ],
+        cwd=PROJECT_ROOT,
+        check=True,
+        capture_output=True,
+        text=True,
+    ).stdout
+
+    return [
+        PROJECT_ROOT / file_path
+        for file_path in output.split('\0')
+        if file_path
+        and file_path.startswith("content/blog/")
+        and file_path.endswith("/index.md")
+    ]
+
+
+def stage_files(file_paths):
+    """Stage normalized files so hook-generated changes enter the commit."""
+    if not file_paths:
+        return
+
+    subprocess.run(
+        [
+            "git",
+            "add",
+            "--",
+            *[str(file_path.relative_to(PROJECT_ROOT)) for file_path in file_paths],
+        ],
+        cwd=PROJECT_ROOT,
+        check=True,
+    )
+
+
 def main():
     """Normalize all blog posts in the content/blog directory."""
-    blog_dir = Path("content/blog")
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--staged-new",
+        action="store_true",
+        help="normalize and re-stage only newly added staged blog posts",
+    )
+    args = parser.parse_args()
+
+    blog_dir = PROJECT_ROOT / "content" / "blog"
 
     if not blog_dir.exists():
         return 0
 
     normalized_count = 0
+    normalized_files = []
+    index_files = (
+        get_staged_new_blog_posts()
+        if args.staged_new
+        else blog_dir.glob("*/index.md")
+    )
 
-    # Find all index.md files in blog directories
-    for index_file in blog_dir.glob("*/index.md"):
+    for index_file in index_files:
         if normalize_blog_post(index_file):
-            print(f"✓ Normalized: {index_file}")
+            relative_path = index_file.relative_to(PROJECT_ROOT)
+            print(f"✓ Normalized: {relative_path}")
             normalized_count += 1
+            normalized_files.append(index_file)
+
+    if args.staged_new:
+        stage_files(normalized_files)
 
     if normalized_count > 0:
         print(f"✓ Normalized {normalized_count} blog post(s)")

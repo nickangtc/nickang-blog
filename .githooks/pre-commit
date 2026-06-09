@@ -5,3 +5,4 @@ repo_root="$(git rev-parse --show-toplevel)"
 cd "$repo_root"
 
 node scripts/generate-ai-summaries.js --staged-new
+python3 .githooks/normalize-blog-posts.py --staged-new

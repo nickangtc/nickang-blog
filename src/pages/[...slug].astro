@@ -137,6 +137,7 @@ const datesLine =
       <details class="post-summary">
         <summary>Summary</summary>
         <p>{post.data.ai_summary}</p>
+        <p class="ai-disclaimer">Note: this summary is generated with an LLM.</p>
       </details>
     )}
     <LightboxableContent>
@@ -475,7 +476,15 @@ const datesLine =
     }
 
     p {
+      margin-top: $space-xs;
       margin-bottom: 0;
+    }
+
+    .ai-disclaimer {
+      margin-top: $space-xxs;
+      color: $darkgray;
+      font-family: $sans-serif;
+      font-size: calc($base-size * 0.75);
     }
   }
 
