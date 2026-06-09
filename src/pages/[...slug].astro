@@ -42,6 +42,34 @@ export async function getStaticPaths() {
 
 const { post, previousId, nextId } = Astro.props;
 const { Content } = await render(post);
+const siteUrl = "https://nickang.com";
+const postUrl = `${siteUrl}/${post.id}/`;
+const description = post.data.excerpt || post.data.ai_summary;
+const imageUrl = post.data.cover
+  ? new URL(post.data.cover, siteUrl).href
+  : `${siteUrl}/nickang-twitter-large-card.png`;
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  headline: post.data.title,
+  description,
+  ...(post.data.ai_summary ? { abstract: post.data.ai_summary } : {}),
+  author: {
+    "@type": "Person",
+    name: "Nick Ang",
+    url: siteUrl,
+  },
+  datePublished: post.data.date_published,
+  ...(post.data.date_updated
+    ? { dateModified: post.data.date_updated }
+    : {}),
+  mainEntityOfPage: {
+    "@type": "WebPage",
+    "@id": postUrl,
+  },
+  url: postUrl,
+  image: imageUrl,
+};
 
 const datePublished = new Date(post.data.date_published).toLocaleDateString(
   "en-US",
@@ -63,8 +91,10 @@ const datesLine =
 
 <BaseLayout
   title={post.data.title}
-  description={post.data.excerpt}
+  description={description}
   pathname={`/${post.id}/`}
+  openGraphType="article"
+  structuredData={structuredData}
 >
   <article data-post-scroll-restorable data-pagefind-body>
     <header>
@@ -102,6 +132,12 @@ const datesLine =
           <a href="/strictly-30">Learn more</a>.)
         </strong>
       </p>
+    )}
+    {post.data.ai_summary && (
+      <details class="post-summary">
+        <summary>Summary</summary>
+        <p>{post.data.ai_summary}</p>
+      </details>
     )}
     <LightboxableContent>
       <Content />
@@ -422,6 +458,23 @@ const datesLine =
 
     ul {
       margin-top: 0;
+      margin-bottom: 0;
+    }
+  }
+
+  .post-summary {
+    margin: $space-xl 0;
+    padding: $space-md $space-lg;
+    border-left: 3px solid $blue;
+    background: rgba($blue, 0.06);
+
+    summary {
+      font-family: $sans-serif;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    p {
       margin-bottom: 0;
     }
   }

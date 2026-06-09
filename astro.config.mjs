@@ -1,11 +1,12 @@
 import { defineConfig } from "astro/config";
 import react from "@astrojs/react";
 import netlify from "@astrojs/netlify";
+import sitemap from "@astrojs/sitemap";
 import pagefind from "astro-pagefind";
 
 export default defineConfig({
   site: "https://nickang.com",
-  integrations: [react(), pagefind()],
+  integrations: [react(), sitemap(), pagefind()],
   adapter: netlify(),
   output: "static",
   image: {

@@ -8,15 +8,26 @@ interface Props {
   title: string;
   description?: string;
   pathname?: string;
+  openGraphType?: "website" | "article";
+  structuredData?: Record<string, unknown>;
 }
 
-const { title, description, pathname } = Astro.props;
+const {
+  title,
+  description,
+  pathname,
+  openGraphType = "website",
+  structuredData,
+} = Astro.props;
 
 const siteTitle = "Nick Ang";
 const siteDescription = description || "Notes from lifelong learning";
 const siteUrl = "https://nickang.com";
 const url = `${siteUrl}${pathname || ""}`;
 const imageUrl = `${siteUrl}/nickang-twitter-large-card.png`;
+const structuredDataJson = structuredData
+  ? JSON.stringify(structuredData).replace(/</g, "\\u003c")
+  : null;
 ---
 
 <!doctype html>
@@ -29,9 +40,10 @@ const imageUrl = `${siteUrl}/nickang-twitter-large-card.png`;
     <meta name="title" content={title} />
     <meta data-pagefind-meta="title" content={title} />
     <meta name="description" content={siteDescription} />
+    <link rel="canonical" href={url} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={siteDescription} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={openGraphType} />
     <meta property="og:image" content={imageUrl} />
     <meta property="og:site_name" content="Nick Ang" />
     <meta property="og:url" content={url} />
@@ -42,6 +54,9 @@ const imageUrl = `${siteUrl}/nickang-twitter-large-card.png`;
     <meta name="twitter:image" content={imageUrl} />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={siteDescription} />
+    {structuredDataJson && (
+      <script type="application/ld+json" set:html={structuredDataJson} />
+    )}
     <meta name="msapplication-TileColor" content="#da532c" />
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />

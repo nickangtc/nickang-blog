@@ -10,6 +10,7 @@
   "dependencies": {
     "@astrojs/netlify": "^7.0.8",
     "@astrojs/react": "^5.0.4",
+    "@astrojs/sitemap": "^3.7.3",
     "astro": "^6.3.1",
     "astro-pagefind": "^1.8.6",
     "prismjs": "^1.29.0",
@@ -48,6 +49,7 @@
     "content:audit-image-captions": "node scripts/audit-image-captions.js",
     "content:fix-image-captions": "node scripts/audit-image-captions.js --fix",
     "content:generate-ai-summaries": "node scripts/generate-ai-summaries.js",
+    "content:notify-indexnow": "node scripts/notify-indexnow.js",
     "internal-links": "node scripts/auto-internal-links.js",
     "prepare": "npm run setup-hooks",
     "setup-hooks": "git config core.hooksPath .githooks"
