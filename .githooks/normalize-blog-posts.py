@@ -5,8 +5,71 @@ Converts smart quotes, removes invisible characters.
 """
 
 import sys
-import os
 from pathlib import Path
+
+SMART_CHARACTER_REPLACEMENTS = {
+    '\u2018': "'",  # Left single quote
+    '\u2019': "'",  # Right single quote
+    '\u201C': '"',  # Left double quote
+    '\u201D': '"',  # Right double quote
+    '\u200B': '',   # Zero-width space
+    '\u00A0': ' ',  # Non-breaking space
+}
+
+
+def normalize_text(content):
+    """Normalize typography outside YAML frontmatter."""
+    for character, replacement in SMART_CHARACTER_REPLACEMENTS.items():
+        content = content.replace(character, replacement)
+    return content
+
+
+def normalize_frontmatter(content):
+    """Normalize typography without breaking double-quoted YAML scalars."""
+    normalized = []
+    in_double_quoted_scalar = False
+    escaped = False
+
+    for character in content:
+        if character in ('\u201C', '\u201D') and in_double_quoted_scalar:
+            normalized.append('\\"')
+            escaped = False
+            continue
+
+        replacement = SMART_CHARACTER_REPLACEMENTS.get(character, character)
+        normalized.append(replacement)
+
+        if character == '"' and not escaped:
+            in_double_quoted_scalar = not in_double_quoted_scalar
+
+        if character == '\\' and not escaped:
+            escaped = True
+        else:
+            escaped = False
+
+    return ''.join(normalized)
+
+
+def normalize_content(content):
+    """Normalize a Markdown document, treating YAML frontmatter separately."""
+    lines = content.splitlines(keepends=True)
+
+    if not lines or lines[0].rstrip('\r\n') != '---':
+        return normalize_text(content)
+
+    for index in range(1, len(lines)):
+        if lines[index].rstrip('\r\n') == '---':
+            frontmatter = ''.join(lines[1:index])
+            body = ''.join(lines[index + 1:])
+            return (
+                lines[0]
+                + normalize_frontmatter(frontmatter)
+                + lines[index]
+                + normalize_text(body)
+            )
+
+    return normalize_text(content)
+
 
 def normalize_blog_post(file_path):
     """Normalize typography in a single blog post."""
@@ -15,14 +78,7 @@ def normalize_blog_post(file_path):
             content = f.read()
 
         original = content
-
-        # Replace smart quotes and apostrophes
-        content = content.replace('\u2018', "'")  # Left single quote
-        content = content.replace('\u2019', "'")  # Right single quote
-        content = content.replace('\u201C', '"')  # Left double quote
-        content = content.replace('\u201D', '"')  # Right double quote
-        content = content.replace('\u200B', '')   # Zero-width space
-        content = content.replace('\u00A0', ' ')  # Non-breaking space
+        content = normalize_content(content)
 
         # Only write if changed
         if content != original:
