@@ -60,7 +60,7 @@ title: ""
 date_published: "${date}"
 date_updated: "${date}"
 excerpt:
-tags: ["Tech", "Money", "Interviewing", "Career", "Living", "Creativity", "Leadership", "Communication", "Productivity", "Good intentions", "Parenting", "Daily Reflection"]
+tags: ["AI", "Tech", "Business", "Money", "Interviewing", "Career", "Living", "Creativity", "Leadership", "Communication", "Productivity", "Good intentions", "Parenting", "PKM", "Annual Review", "Books", "Fiction", "Announcement", "Daily Reflection"]
 fav: false
 creation_duration_minutes:
 backlinks:

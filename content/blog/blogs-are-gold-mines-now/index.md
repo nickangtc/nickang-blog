@@ -3,7 +3,7 @@ title: "Blogs are gold mines now"
 date_published: "2026-05-15"
 date_updated: "2026-05-15"
 excerpt:
-tags: ["Tech"]
+tags: ["Tech", "AI"]
 fav: false
 creation_duration_minutes:
 backlinks:

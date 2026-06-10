@@ -3,7 +3,15 @@ export const topicPages = [
     tag: "Tech",
     title: "Tech",
     basePath: "/tech",
-    intro: "Articles about software engineering and AI.",
+    intro: "Articles about software engineering, design, and product.",
+    eyebrow: "Topic",
+  },
+  {
+    tag: "AI",
+    title: "AI",
+    basePath: "/ai",
+    intro:
+      "Articles specifically about artificial intelligence, LLMs, AI agents, and practical AI applications.",
     eyebrow: "Topic",
   },
   {

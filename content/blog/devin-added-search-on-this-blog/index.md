@@ -3,7 +3,7 @@ title: "Devin added search on this blog"
 date_published: "2026-05-25"
 date_updated: "2026-05-25"
 excerpt: "Yet another engineering task that I could completely outsource to an AI coding agent"
-tags: ["Tech"]
+tags: ["Tech", "AI"]
 fav: false
 creation_duration_minutes:
 backlinks:

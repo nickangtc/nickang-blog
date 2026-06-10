@@ -3,7 +3,7 @@ title: "The raising floor of building apps in 2026"
 date_published: "2026-01-09"
 date_updated: "2026-01-09"
 excerpt: "The floor for building apps keeps rising. In 2026, you can build meaningful software with plain English. But what's the difference between an experienced engineer and a newcomer using Claude Code?"
-tags: ["Tech", "Daily Reflection"]
+tags: ["Tech", "Daily Reflection", "AI"]
 fav: false
 creation_duration_minutes: 23
 backlinks:

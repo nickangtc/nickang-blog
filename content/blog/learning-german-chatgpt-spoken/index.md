@@ -3,7 +3,7 @@ title: "Learning German with ChatGPT: Reverse engineering a spoken sentence"
 date_published: "2023-12-12"
 date_updated: "2023-12-12"
 excerpt: "Using Large Language Models to learn languages makes perfect sense."
-tags: ["Tech"]
+tags: ["Tech", "AI"]
 fav: false
 backlinks:
 ai_summary: "The post describes how the author used ChatGPT to reconstruct a partially heard German sentence from a café conversation in Düsseldorf, especially the phrase involving los. The main point is that large language models can be useful for reverse-engineering spoken language from context in a way conventional translation tools cannot. The practical takeaway is that the waiter likely said viel los ist, meaning it is busy or a lot is going on."

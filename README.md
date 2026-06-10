@@ -20,6 +20,7 @@ For everything else in this public repository you may use freely according to th
 
 List of unique topic tags:
 
+- **"AI"** - Posts specifically and substantially about artificial intelligence, including LLMs, AI agents, and concrete AI use cases
 - **"Tech"** - Software Development - Design - Product
 - **"Business"** - Entrepreneurship, marketing, branding, customer service, and growth
 - **"Interviewing"** - self-explanatory

@@ -3,7 +3,7 @@ title: "How I'm using AI to learn German (as a foreigner living in Germany)"
 date_published: "2024-12-04"
 date_updated: "2024-12-04"
 excerpt: "Could this be the beginning of ultra-accelerated language learning?"
-tags: ["Living", "Tech"]
+tags: ["Living", "Tech", "AI"]
 fav: false
 creation_duration_minutes: 27
 backlinks:

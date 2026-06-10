@@ -3,7 +3,7 @@ title: "RAG (Retrieval Augmented Generation) explained"
 date_published: "2026-05-26"
 date_updated: "2026-05-26"
 excerpt: "What retrieval really means, why web search is only one part of it, and why the pipeline matters for useful AI agents."
-tags: ["Tech"]
+tags: ["Tech", "AI"]
 fav: false
 creation_duration_minutes:
 backlinks:

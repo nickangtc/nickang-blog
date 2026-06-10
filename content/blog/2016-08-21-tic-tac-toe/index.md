@@ -1,7 +1,7 @@
 ---
 title: "My first game of Tic Tac Toe!"
 date_published: "2016-08-21"
-tags: ["Tech"]
+tags: ["Tech", "AI"]
 backlinks:
 ai_summary: "The post describes the author's first weekend coding project at General Assembly: building a web-based Tic Tac Toe game in JavaScript, including turn tracking, win detection, resets, and a simple computer opponent. The main point is that the game logic was manageable by breaking it down and working through it on paper, and the author was especially excited to see the basic random-move AI work. The conclusion is that this is only a first step, with plans to make the computer block threats and eventually learn better play."
 ---

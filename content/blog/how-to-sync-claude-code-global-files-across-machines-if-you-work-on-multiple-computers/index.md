@@ -3,7 +3,7 @@ title: "How to sync Claude Code global files across machines (if you work on mul
 date_published: "2026-03-08"
 date_updated: "2026-03-08"
 excerpt:
-tags: ["Tech", "Productivity"]
+tags: ["Tech", "Productivity", "AI"]
 fav: false
 creation_duration_minutes:
 backlinks:
